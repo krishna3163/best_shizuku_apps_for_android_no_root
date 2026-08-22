@@ -1,0 +1,49 @@
+name: Request APK removal
+description: Request removal of a mirrored APK from this repository.
+title: "[Removal request]: "
+labels: [removal-request]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        If you are a developer or rights holder and would like your project's APK removed from this mirror, please fill out this form. We respect all legitimate removal requests.
+
+  - type: input
+    id: project_name
+    attributes:
+      label: Project name
+      description: The name of the app or project
+    validations:
+      required: true
+
+  - type: input
+    id: repository
+    attributes:
+      label: GitHub repository
+      description: "The original repository URL (e.g., owner/repo)"
+    validations:
+      required: true
+
+  - type: textarea
+    id: reason
+    attributes:
+      label: Reason for removal
+      description: Please explain why you want the APK removed
+    validations:
+      required: true
+
+  - type: input
+    id: contact
+    attributes:
+      label: Your role / contact
+      description: "Are you the developer, maintainer, or rights holder?"
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: confirmation
+    attributes:
+      label: Confirmation
+      options:
+        - label: I am the developer, maintainer, or authorized representative of this project
+          required: true

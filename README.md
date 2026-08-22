@@ -92,7 +92,8 @@ Shizuku allows normal Android apps to access powerful system APIs through **ADB 
 
 ---
 
-## 📑 Table of Contents
+<details id="-table-of-contents">
+<summary><h2>📑 Table of Contents</h2></summary>
 
 - [Apps](#apps)
   - [AI agents](#ai-agents)
@@ -137,6 +138,8 @@ Shizuku allows normal Android apps to access powerful system APIs through **ADB 
 - [Join the Community](#-join-the-community)
 - [License](#license)
 
+</details>
+
 ---
 
 <!-- AUTO-DISCOVERED-SHIZUKU-APPS:START -->
@@ -144,6 +147,18 @@ Shizuku allows normal Android apps to access powerful system APIs through **ADB 
 |:---|:---|:---|:---|
 | _No new projects discovered yet._ | The daily scanner will add matching projects here. | — | — |
 <!-- AUTO-DISCOVERED-SHIZUKU-APPS:END -->
+
+<!-- AUTO-GENERATED-APPS-START -->
+
+## 📦 APK Downloads
+
+> Automatically synced from upstream GitHub releases. APKs are unmodified.
+
+| App | Developer | Version | Updated | APK | Source |
+|:---|:---|:---|:---|:---|:---|
+| _No APKs synced yet._ | — | — | — | — | — |
+
+<!-- AUTO-GENERATED-APPS-END -->
 
 ## Apps
 
@@ -661,6 +676,30 @@ Want to help grow this project into a large community resource? You can:
 - Add the correct license and tags such as `Paid`, `IAP`, or `Root`
 - Keep descriptions short, factual, and focused on the Shizuku-powered feature
 - Report abandoned, duplicated, or broken entries through an issue
+
+---
+
+## 🔄 Automatic APK Updates
+
+This repository automatically synchronizes APK releases from upstream GitHub repositories every 6 hours using GitHub Actions. When a new stable release is published by the original developer, the APK is:
+
+1. **Detected** via the GitHub API
+2. **Downloaded** from the official release
+3. **Validated** (ZIP structure, AndroidManifest.xml check)
+4. **Checksummed** (SHA-256)
+5. **Published** as a GitHub Release in this repository
+
+APK files are **never modified** — the SHA-256 of the mirrored APK always matches the source.
+
+---
+
+## ⚠️ Disclaimer
+
+This repository is an automated mirror/index of APK releases from their respective upstream projects. All applications belong to their original developers. APK files are distributed **without modification** whenever possible.
+
+For source code, licenses, changelogs, issues, and official project information, visit the respective upstream repository.
+
+**If you are a developer and want your project removed from this mirror**, please [open a removal request](../../issues/new?template=removal-request.yml) or contact the repository maintainer.
 
 ---
 

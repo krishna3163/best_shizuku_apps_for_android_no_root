@@ -1,0 +1,72 @@
+name: Sync APKs
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+    inputs:
+      app:
+        description: "Application slug (leave empty to sync all)"
+        required: false
+        type: string
+      dry_run:
+        description: "Dry run (check without publishing)"
+        required: false
+        type: boolean
+        default: false
+      force_resync:
+        description: "Force re-evaluation of all apps"
+        required: false
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: apk-sync
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    name: Synchronize APKs
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: "pip"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run APK sync
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          ARGS=""
+          if [ -n "${{ inputs.app }}" ]; then
+            ARGS="$ARGS --app ${{ inputs.app }}"
+          fi
+          if [ "${{ inputs.dry_run }}" = "true" ]; then
+            ARGS="$ARGS --dry-run"
+          fi
+          if [ "${{ inputs.force_resync }}" = "true" ]; then
+            ARGS="$ARGS --force-resync"
+          fi
+          python scripts/sync.py $ARGS
+
+      - name: Commit metadata and README changes
+        if: ${{ inputs.dry_run != 'true' }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/ README.md
+          git diff --cached --quiet || git commit -m "chore: sync APK releases [skip ci]"
+          git push

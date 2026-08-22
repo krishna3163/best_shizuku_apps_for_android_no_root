@@ -1,3 +1,13 @@
 site/
 __pycache__/
 *.pyc
+.venv/
+venv/
+*.egg-info/
+dist/
+build/
+.env
+*.apk
+*.tmp
+.DS_Store
+Thumbs.db
