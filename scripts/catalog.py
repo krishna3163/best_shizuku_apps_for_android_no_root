@@ -129,12 +129,20 @@ def update(entries: list[dict[str, str]]) -> None:
     content = README.read_text(encoding="utf-8")
     start = content.index(START) + len(START)
     end = content.index(END, start)
-    rows = ["| App | Description | License | Links |", "|:---|:---|:---|:---|"]
+    rows = [
+        '<details id="discovered-apps">',
+        "<summary><h2>🔍 Auto-Discovered Shizuku Apps</h2></summary>",
+        "",
+        "| App | Description | License | Links |",
+        "|:---|:---|:---|:---|",
+    ]
     if entries:
         rows.extend(f"| **[{item['name']}]({item['url']})** | {item['description'].replace('|', '\\|')} | See project | [GitHub]({item['url']}) |" for item in entries)
     else:
         rows.append("| _No new projects discovered yet._ | The daily scanner will add matching projects here. | — | — |")
-    README.write_text(content[:start] + "\n" + "\n".join(rows) + "\n" + content[end:], encoding="utf-8")
+    rows.append("")
+    rows.append("</details>")
+    README.write_text(content[:start] + "\n\n" + "\n".join(rows) + "\n\n" + content[end:], encoding="utf-8")
 
 
 def main() -> int:

@@ -143,6 +143,10 @@ Shizuku allows normal Android apps to access powerful system APIs through **ADB 
 ---
 
 <!-- AUTO-DISCOVERED-SHIZUKU-APPS:START -->
+
+<details id="discovered-apps">
+<summary><h2>🔍 Auto-Discovered Shizuku Apps</h2></summary>
+
 | App | Description | License | Links |
 |:---|:---|:---|:---|
 | **[adb-developer-studio](https://github.com/Magraa/adb-developer-studio)** | High-speed desktop suite for Android app developers built with Python & PyWebView. Features 1-click ADB wireless reconnect, dev project build watcher, instant screenshot clipboard copying, live logcat stream, app quick actions, and UI testing tools. | See project | [GitHub](https://github.com/Magraa/adb-developer-studio) |
@@ -203,6 +207,8 @@ Shizuku allows normal Android apps to access powerful system APIs through **ADB 
 | **[uad-shizuku](https://github.com/nikescar/uad-shizuku)** | android debloater, scanner, app installer using adb. | See project | [GitHub](https://github.com/nikescar/uad-shizuku) |
 | **[VInstall](https://github.com/khanCorporation/VInstall)** | Install APK, XAPK, APKS, APKM, APKV, and ZIP files on Android with app manager, backup, and uninstaller support | See project | [GitHub](https://github.com/khanCorporation/VInstall) |
 | **[WatchPush](https://github.com/GPTmadeit/WatchPush)** | Sideload APKs onto a Pixel Watch straight from your phone - an in-app ADB client over Wireless debugging. No computer required. | See project | [GitHub](https://github.com/GPTmadeit/WatchPush) |
+
+</details>
 <!-- AUTO-DISCOVERED-SHIZUKU-APPS:END -->
 
 <!-- AUTO-GENERATED-APPS-START -->
