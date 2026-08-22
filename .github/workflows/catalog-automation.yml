@@ -1,0 +1,27 @@
+name: Shizuku catalog automation
+
+on:
+  push:
+    branches: [main]
+    paths: [README.md, scripts/**, .github/**]
+  pull_request:
+    paths: [README.md, scripts/**, .github/**]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  checks:
+    name: ${{ matrix.task }}
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      matrix:
+        task: [links, duplicates, toc, tables, licenses, labels, shizuku, security, featured, stats, sort, issue-form, workflow, site, discovery]
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+      - run: python scripts/catalog.py --task "${{ matrix.task }}"

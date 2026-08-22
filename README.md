@@ -133,6 +133,12 @@ Shizuku allows normal Android apps to access powerful system APIs through **ADB 
 
 ---
 
+<!-- AUTO-DISCOVERED-SHIZUKU-APPS:START -->
+| App | Description | License | Links |
+|:---|:---|:---|:---|
+| _No new projects discovered yet._ | The daily scanner will add matching projects here. | — | — |
+<!-- AUTO-DISCOVERED-SHIZUKU-APPS:END -->
+
 ## Apps
 
 ### AI agents

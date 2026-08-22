@@ -1,0 +1,30 @@
+name: Suggest a Shizuku app
+description: Suggest a no-root Android app or tool for the catalog.
+title: "[App suggestion]: "
+labels: [app-suggestion]
+body:
+  - type: input
+    id: name
+    attributes:
+      label: App name
+    validations:
+      required: true
+  - type: input
+    id: link
+    attributes:
+      label: Official project or app link
+    validations:
+      required: true
+  - type: input
+    id: license
+    attributes:
+      label: License
+      placeholder: FOSS, GPL-3.0, MIT, Proprietary, or Unknown
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: Description and Shizuku use case
+    validations:
+      required: true
