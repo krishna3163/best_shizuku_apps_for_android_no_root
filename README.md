@@ -449,7 +449,9 @@ Shizuku allows normal Android apps to access powerful system APIs through **ADB 
 | App | Description | License | Links |
 | --- | --- | --- | --- |
 | LSPatch | Non-root Xposed framework extending LSPosed | GPL-3.0 | [Link](https://github.com/JingMatrix/LSPatch) |
-| Morphe | User-friendly YouTube patcher based on Universal-ReVanced-Manager | GPL-3.0 | [Link](https://morphe.software/) |
+| MicroG-RE | MicroG companion app for Morphe and ReVanced | Apache-2.0 | [Link](https://github.com/MorpheApp/MicroG-RE) |
+| Morphe Manager | Management tool and patcher for Morphe apps | GPL-3.0 | [Link](https://github.com/MorpheApp/morphe-manager) |
+| Morphe AutoBuilds | Pre-built automated releases of Morphe-patched applications | GPL-3.0 | [Link](https://github.com/RookieEnough/Morphe-AutoBuilds) |
 | Universal-ReVanced-Manager | ReVanced patcher with extra features beyond the official manager | GPL-3.0 | [Link](https://github.com/Jman-Github/Universal-ReVanced-Manager) |
 
 ### Power management

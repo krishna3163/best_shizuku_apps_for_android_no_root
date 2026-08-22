@@ -137,20 +137,24 @@ class GitHubAPI:
     # ------------------------------------------------------------------
 
     def download_asset(self, url: str, dest_path: str) -> str:
-        """Download a release asset to *dest_path* and return the path.
-
-        Uses the ``Accept: application/octet-stream`` header so GitHub
-        redirects to the binary blob.
-        """
+        """Download a release asset to *dest_path* and return the path."""
         self._wait_for_rate_limit()
-        headers = dict(self.session.headers)
-        headers["Accept"] = "application/octet-stream"
+
+        # If it's a direct browser download url (cdn), we don't need octet-stream accept header
+        is_direct = "github.com/" in url and "/releases/download/" in url
+        headers = {}
+        if not is_direct:
+            headers = dict(self.session.headers)
+            headers["Accept"] = "application/octet-stream"
 
         last_exc: Optional[Exception] = None
         for attempt in range(1, MAX_RETRIES + 1):
             try:
-                with self.session.get(url, headers=headers, stream=True, timeout=120, allow_redirects=True) as resp:
-                    self._update_rate_limit(resp)
+                # Use plain requests for direct CDN downloads if headers could cause S3 issues
+                requester = requests if is_direct else self.session
+                with requester.get(url, headers=headers if headers else None, stream=True, timeout=120, allow_redirects=True) as resp:
+                    if not is_direct:
+                        self._update_rate_limit(resp)
                     if resp.status_code in RETRYABLE_STATUS_CODES:
                         delay = BASE_DELAY ** attempt
                         logger.warning("Download HTTP %d (attempt %d/%d)", resp.status_code, attempt, MAX_RETRIES)
@@ -158,8 +162,9 @@ class GitHubAPI:
                         continue
                     resp.raise_for_status()
                     with open(dest_path, "wb") as fh:
-                        for chunk in resp.iter_content(chunk_size=8192):
-                            fh.write(chunk)
+                        for chunk in resp.iter_content(chunk_size=65536):
+                            if chunk:
+                                fh.write(chunk)
                 return dest_path
             except (requests.ConnectionError, requests.Timeout) as exc:
                 last_exc = exc

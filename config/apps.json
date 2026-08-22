@@ -499,6 +499,36 @@
       "release_strategy": "latest-stable",
       "asset_patterns": [".*\\.apk$"],
       "exclude_patterns": [".*debug.*", ".*unsigned.*", ".*test.*"]
+    },
+    {
+      "name": "Morphe Manager",
+      "slug": "morphe-manager",
+      "repository": "MorpheApp/morphe-manager",
+      "enabled": true,
+      "shizuku": true,
+      "release_strategy": "latest-stable",
+      "asset_patterns": [".*\\.apk$"],
+      "exclude_patterns": [".*debug.*", ".*unsigned.*", ".*test.*"]
+    },
+    {
+      "name": "MicroG-RE",
+      "slug": "microg-re",
+      "repository": "MorpheApp/MicroG-RE",
+      "enabled": true,
+      "shizuku": true,
+      "release_strategy": "latest-stable",
+      "asset_patterns": [".*\\.apk$"],
+      "exclude_patterns": [".*debug.*", ".*unsigned.*", ".*test.*"]
+    },
+    {
+      "name": "Morphe AutoBuilds",
+      "slug": "morphe-autobuilds",
+      "repository": "RookieEnough/Morphe-AutoBuilds",
+      "enabled": true,
+      "shizuku": true,
+      "release_strategy": "latest-stable",
+      "asset_patterns": [".*\\.apk$"],
+      "exclude_patterns": [".*debug.*", ".*unsigned.*", ".*test.*"]
     }
   ],
   "defaults": {

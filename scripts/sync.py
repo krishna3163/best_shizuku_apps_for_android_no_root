@@ -250,8 +250,8 @@ def sync_app(
 
             # Download
             try:
-                # Prefer API URL for authenticated download
-                download_url = asset.get("url", asset.get("browser_download_url", ""))
+                # Prefer browser download URL for fast direct CDN transfer
+                download_url = asset.get("browser_download_url") or asset.get("url", "")
                 api.download_asset(download_url, dest_path)
             except Exception as exc:
                 logger.error("❌ Download failed for %s: %s", asset_name, exc)
