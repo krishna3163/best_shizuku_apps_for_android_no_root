@@ -156,8 +156,51 @@ Shizuku allows normal Android apps to access powerful system APIs through **ADB 
 
 | App | Developer | Version | Updated | APK | Source |
 |:---|:---|:---|:---|:---|:---|
-| _No APKs synced yet._ | — | — | — | — | — |
-
+| **Amarok-Hider** | deltazefiro | `v0.10.1` | 2026-08-22 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/amarok-hider-v0.10.1) | [GitHub](https://github.com/deltazefiro/Amarok-Hider) |
+| **Aniyomi** | aniyomiorg | `v0.18.1.2` | 2026-08-22 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/aniyomi-v0.18.1.2) | [GitHub](https://github.com/aniyomiorg/aniyomi) |
+| **aShell You** | DP-Hridayan | `v7.4.0` | 2026-08-22 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/ashell-you-v7.4.0) | [GitHub](https://github.com/DP-Hridayan/aShellYou) |
+| **AutoJs6** | SuperMonster003 | `v6.7.0` | 2026-08-22 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/autojs6-v6.7.0) | [GitHub](https://github.com/SuperMonster003/AutoJs6) |
+| **Better Internet Tiles** | CasperVerswijvelt | `v3.1.2` | 2026-08-22 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/better-internet-tiles-v3.1.2) | [GitHub](https://github.com/CasperVerswijvelt/Better-Internet-Tiles) |
+| **Blocker** | lihenggui | `v2.0.5839` | 2026-08-22 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/blocker-v2.0.5839) | [GitHub](https://github.com/lihenggui/blocker) |
+| **Canta** | samolego | `v3.2.2` | 2026-08-22 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/canta-v3.2.2) | [GitHub](https://github.com/samolego/Canta) |
+| **ColorBlendr** | Mahmud0808 | `v3.0.1` | 2026-08-22 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/colorblendr-v3.0.1) | [GitHub](https://github.com/Mahmud0808/ColorBlendr) |
+| **Cosmic-IDE** | Cosmic-Ide | `v2.0.3` | 2026-08-22 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/cosmic-ide-v2.0.3) | [GitHub](https://github.com/Cosmic-Ide/Cosmic-IDE) |
+| **de1984** | dorumrr | `v2.6.2` | 2026-08-22 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/de1984-v2.6.2) | [GitHub](https://github.com/dorumrr/de1984) |
+| **DetoxDroid** | flxapps | `v2.6.1` | 2026-08-22 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/detoxdroid-v2.6.1) | [GitHub](https://github.com/flxapps/DetoxDroid) |
+| **Dhizuku** | iamr0s | `v2.12.0` | 2026-08-22 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/dhizuku-v2.12.0) | [GitHub](https://github.com/iamr0s/Dhizuku) |
+| **Dragon-Launcher** | Elnix90 | `4.0.2` | 2026-08-22 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/dragon-launcher-4.0.2) | [GitHub](https://github.com/Elnix90/Dragon-Launcher) |
+| **Droid-ify** | Droid-ify | `v0.7.6` | 2026-08-22 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/droid-ify-v0.7.6) | [GitHub](https://github.com/Droid-ify/client) |
+| **DSU-Sideloader** | VegaBobo | `2.03` | 2026-08-22 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/dsu-sideloader-2.03) | [GitHub](https://github.com/VegaBobo/DSU-Sideloader) |
+| **EnforceDoze** | farfromrefug | `v1.10.2/86` | 2026-08-22 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/enforcedoze-v1.10.2-86) | [GitHub](https://github.com/farfromrefug/EnforceDoze) |
+| **Extendroid** | legendsayantan | `v1.0.5-no-mediaprojection` | 2026-08-22 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/extendroid-v1.0.5-no-mediaprojection) | [GitHub](https://github.com/legendsayantan/Extendroid) |
+| **FireWall Blocks** | shynoiddev | `v1.5.shynoid` | 2026-08-22 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/firewall-blocks-v1.5.shynoid) | [GitHub](https://github.com/shynoiddev/FireWall-Blocks) |
+| **FreezeYou** | FreezeYou | `V11.5(151)` | 2026-08-22 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/freezeyou-V11.5-151) | [GitHub](https://github.com/FreezeYou/FreezeYou) |
+| **Hail** | aistra0528 | `v1.10.0` | 2026-08-22 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/hail-v1.10.0) | [GitHub](https://github.com/aistra0528/Hail) |
+| **InstallerX-Revived** | wxxsfxyzm | `26.05.01` | 2026-08-22 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/installerx-revived-26.05.01) | [GitHub](https://github.com/wxxsfxyzm/InstallerX-Revived) |
+| **InstallWithOptions** | zacharee | `0.9.2` | 2026-08-22 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/installwithoptions-0.9.2) | [GitHub](https://github.com/zacharee/InstallWithOptions) |
+| **KeyMapper** | keymapperorg | `v4.3.1` | 2026-08-22 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/keymapper-v4.3.1) | [GitHub](https://github.com/keymapperorg/KeyMapper) |
+| **LibChecker** | LibChecker | `2.5.4` | 2026-08-22 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/libchecker-2.5.4) | [GitHub](https://github.com/LibChecker/LibChecker) |
+| **LinkSheet** | LinkSheet | `0.0.33` | 2026-08-22 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/linksheet-0.0.33) | [GitHub](https://github.com/LinkSheet/LinkSheet) |
+| **LogFox** | F0x1d | `v2.1.10-79` | 2026-08-22 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/logfox-v2.1.10-79) | [GitHub](https://github.com/F0x1d/LogFox) |
+| **LSPatch** | JingMatrix | `v1.1` | 2026-08-22 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/lspatch-v1.1) | [GitHub](https://github.com/JingMatrix/LSPatch) |
+| **Mihon** | mihonapp | `v0.20.4` | 2026-08-22 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/mihon-v0.20.4) | [GitHub](https://github.com/mihonapp/mihon) |
+| **Neo-Store** | NeoApplications | `1.2.6` | 2026-08-22 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/neo-store-1.2.6) | [GitHub](https://github.com/NeoApplications/Neo-Store) |
+| **Obtainium** | ImranR98 | `v1.6.11` | 2026-08-22 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/obtainium-v1.6.11) | [GitHub](https://github.com/ImranR98/Obtainium) |
+| **OmniPrompt** | mrndstvndv | `v0.18.0` | 2026-08-22 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/omniprompt-v0.18.0) | [GitHub](https://github.com/mrndstvndv/OmniPrompt) |
+| **OwnDroid** | BinTianqi | `v8.2` | 2026-08-22 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/owndroid-v8.2) | [GitHub](https://github.com/BinTianqi/OwnDroid) |
+| **PrivacyFlip** | dorumrr | `v2.1.2` | 2026-08-22 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/privacyflip-v2.1.2) | [GitHub](https://github.com/dorumrr/privacyflip) |
+| **ReTerminal** | RohitKushvaha01 | `v1.2.0` | 2026-08-22 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/reterminal-v1.2.0) | [GitHub](https://github.com/RohitKushvaha01/ReTerminal) |
+| **SAI** | Aefyr | `4.5` | 2026-08-22 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/sai-4.5) | [GitHub](https://github.com/Aefyr/SAI) |
+| **SDMaid-SE** | d4rken-org | `v2.0.3-rc0` | 2026-08-22 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/sdmaid-se-v2.0.3-rc0) | [GitHub](https://github.com/d4rken-org/sdmaid-se) |
+| **Shizuku** | RikkaApps | `v13.6.0` | 2026-08-22 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/shizuku-v13.6.0) | [GitHub](https://github.com/RikkaApps/Shizuku) |
+| **ShizuTools** | legendsayantan | `v1.4.6` | 2026-08-22 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/shizutools-v1.4.6) | [GitHub](https://github.com/legendsayantan/ShizuTools) |
+| **ShizuWall** | AhmetCanArslan | `v4.6.1` | 2026-08-22 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/shizuwall-v4.6.1) | [GitHub](https://github.com/AhmetCanArslan/ShizuWall) |
+| **Smartspacer** | KieronQuinn | `1.11.2` | 2026-08-22 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/smartspacer-1.11.2) | [GitHub](https://github.com/KieronQuinn/Smartspacer) |
+| **System UI Tuner** | zacharee | `362` | 2026-08-22 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/system-ui-tuner-362) | [GitHub](https://github.com/zacharee/Tweaker) |
+| **TapTap** | KieronQuinn | `1.6.2` | 2026-08-22 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/taptap-1.6.2) | [GitHub](https://github.com/KieronQuinn/TapTap) |
+| **Tarnhelm** | lz233 | `20250630` | 2026-08-22 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/tarnhelm-20250630) | [GitHub](https://github.com/lz233/Tarnhelm) |
+| **UpgradeAll** | DUpdateSystem | `0.13-beta.4` | 2026-08-22 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/upgradeall-0.13-beta.4) | [GitHub](https://github.com/DUpdateSystem/UpgradeAll) |
+| **WG Tunnel** | wgtunnel | `5.4.0` | 2026-08-22 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/wg-tunnel-5.4.0) | [GitHub](https://github.com/wgtunnel/wgtunnel) |
 <!-- AUTO-GENERATED-APPS-END -->
 
 ## Apps
