@@ -71,18 +71,18 @@ Shizuku allows normal Android apps to access powerful system APIs through **ADB 
 ## ⭐ My Top Picks
 
 ### 🎯 Essential Apps
-1. **Hail** - Best app freezer, completely FOSS
-2. **TapTap** - Double-tap back gesture on any device
-3. **KeyMapper** - Powerful key remapping tool
-4. **DarQ** - Per-app dark mode without root
-5. **LogFox** - Great logcat reader with clean UI
+1. **[Mythara](https://github.com/ankurCES/project_mythara)** - Local-first Android AI agent with on-device tools
+2. **[OmniPrompt](https://github.com/mrndstvndv/OmniPrompt)** - Keyboard-first command palette for apps and system utilities
+3. **[Neo-Store](https://github.com/NeoApplications/Neo-Store)** - Modern F-Droid client with powerful update tools
+4. **[ShizuTools](https://github.com/legendsayantan/ShizuTools)** - Practical tools for deeper Android system control
+5. **[Mihon](https://github.com/mihonapp/mihon)** - Open-source manga reader with Shizuku-powered extensions
 
 ### 🛡️ Privacy & Utility Picks
-1. **AppLock** - Secure app locking with biometrics
-2. **Canta** - Easy uninstall of system apps
-3. **ShizuWall** - Firewall without VPN overhead
-4. **Pensum** - Windows-style Android task manager
-5. **InstallerX-Revived** - Modern APK installer replacement
+1. **[Amarok-Hider](https://github.com/deltazefiro/Amarok-Hider)** - Hide private files and apps with one tap
+2. **[PrivacyFlip](https://github.com/dorumrr/privacyflip)** - Automate privacy settings around your lock state
+3. **[FireWall Blocks](https://github.com/shynoiddev/FireWall-Blocks)** - Block app internet access without relying only on a VPN
+4. **[Amply](https://github.com/d4rken-org/amply)** - Manage charging limits and protect battery health
+5. **[memhogs](https://github.com/cicerothoma/memhogs-android)** - See which apps and helpers consume your memory
 
 ---
 
