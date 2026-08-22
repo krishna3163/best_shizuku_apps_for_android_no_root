@@ -18,7 +18,8 @@
 
 ---
 
-## 📝 About
+<details id="about">
+<summary><h2>📝 About</h2></summary>
 
 If you are searching for **best Shizuku apps**, **Android apps without root**, **Shizuku root alternative**, **wireless ADB apps**, or **debloat apps for Android**, this repository is built for you.
 
@@ -47,9 +48,12 @@ Shizuku allows normal Android apps to access powerful system APIs through **ADB 
 - Shizuku customization apps
 - Android automation apps without root
 
+</details>
+
 ---
 
-## 📱 What is Shizuku?
+<details id="-what-is-shizuku">
+<summary><h2>📱 What is Shizuku?</h2></summary>
 
 [Shizuku](https://shizuku.rikka.app/) is a framework that allows Android apps to use system APIs with elevated privileges via ADB, without requiring root access.
 
@@ -65,6 +69,8 @@ Shizuku allows normal Android apps to access powerful system APIs through **ADB 
 2. Enable Wireless Debugging in Developer Options
 3. Start Shizuku service
 4. Install your favorite Shizuku-powered apps
+
+</details>
 
 ---
 

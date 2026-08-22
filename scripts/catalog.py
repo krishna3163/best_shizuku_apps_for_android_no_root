@@ -59,6 +59,7 @@ def check(task: str) -> None:
     elif task == "toc":
         anchors = set(re.findall(r"\]\(#([^)]+)\)", content))
         headings = heading_anchors(content)
+        headings.update(re.findall(r'<details id="([^"]+)">', content))
         missing = sorted(anchors - headings)
         if missing:
             raise ValueError(f"Missing TOC anchors: {', '.join(missing)}")
