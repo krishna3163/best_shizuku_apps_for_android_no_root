@@ -49,222 +49,6 @@ Shizuku allows normal Android apps to access powerful system APIs through **ADB 
 
 ---
 
-## 🆕 Update Notes: Missing Sections Added From Awesome-Shizuku Comparison
-
-This README has been expanded to cover the important gaps found while comparing this repo with the larger `awesome-shizuku` style structure.
-
-### 1) New Major Sections Added
-
-- **AI agents**
-- **Patching**
-- **Task manager**
-- **Vendor-specific → Other**
-- **Closed-source apps separate sublist**
-- **Archived / deprecated apps separate file idea**
-- **Command-line utilities**
-- **Daily changelog mention**
-- **Automated crawler / crawl report idea**
-- **Open-source-only main list policy idea**
-
-### 2) Category & Structure Improvements
-
-The structure is now closer to mature Shizuku directories:
-
-- Main list is designed to be **mostly open-source / source-available**
-- Closed-source apps can be kept in a **separate list**
-- Deprecated, abandoned, or unlisted apps can be moved to **archived / unlisted pages**
-- Extra annotations added or planned:
-  - `n-day trial`
-  - `Root`
-  - better license clarity
-- More category depth added:
-  - **AI agents**
-  - **Patching**
-  - **Task manager**
-  - **Other vendors**
-
-### 3) Important Newly Added / Tracked Apps
-
-#### AI agents
-- Mythara
-- Open-AutoGLM-Android
-- Operit AI
-- rish-mcp
-- Ruto-GLM
-
-#### Audio
-- MicUp
-- wecho
-
-#### Communication
-- Aliucord-Manager
-- ShizuCallRecorder
-
-#### Customization
-- Adaptive-Theme
-- CustomAnimator
-- Dragon-Launcher
-- DroidOS
-- essentials
-- gama
-- Jarngreipr
-- OmniPrompt
-- ShizukuShortcuts
-- Smart Dock
-- Smart Edge
-- Smart Island
-- YoukiDEX
-
-#### Development utilities
-- ActivityManager
-- debuggable-app-data-backup
-- FPSViewer
-- FrameX-Android
-
-#### Device Owner
-- MDPC
-
-#### Display management
-- Adaptive-Hz
-- android-display-extend
-- android-display-mirror
-- deskcontrol
-
-#### File management
-- fluffy
-- NFile
-- ZenFile
-
-#### Games
-- Ascent
-- BDroid_X
-- Okkei Patcher
-- pogoplusle
-- ShinGen
-
-#### Input methods
-- andRemote2
-- pastiera
-- TitanPad
-
-#### Installer & app stores
-- florid
-- GitHub-Store
-- Neo-Store
-- Orion Store
-- universal-installer
-
-#### Miscellaneous
-- AppBooster
-- HiddenAlarmRevealer
-- NotiFixer
-- OnStop2FinishAndRemoveTask
-- PoC-Deployer-System
-- telegram-rc
-
-#### Network
-- ADNS
-- Dolphy-App
-- FireWall Blocks
-- NetToggle
-- sing-box
-- Traffic Light
-- wifi-password-manager
-
-#### Patching
-- Morphe
-- Universal-ReVanced-Manager
-
-#### Power management
-- Amply
-- BatStats
-- Battery-Monitor
-- battery-stats-changer
-- EnforceDoze
-- NoMoreBackground
-- sleep-timer
-
-#### Privacy
-- AntiForensic-Tools
-- PrivacyFlip
-
-#### Productivity
-- Blink
-- Curbox
-
-#### Quick settings
-- DataSimTile
-- DNS Toggle
-
-#### Software management
-- AppControlX
-- Buge App Manager
-- DisabledLauncher
-
-#### Task manager
-- memhogs
-- Pensum
-- ReAppzuku
-- Running Services Monitor
-
-#### Terminals
-- Haven
-
-#### Google Pixel
-- Pixel-IMS-5G
-- PixelCarrierSettings
-
-#### Samsung OneUI
-- Fonts
-- Root-My-Galaxy
-- ScamsungFonts
-- ShutterMute
-
-#### MIUI
-- mtbtool-android-app
-
-#### Other vendors
-- ClusterTune
-- Recording-Light-Control
-- RedTrigger
-- ThorVolumeLink
-
-#### Misc content
-- AndroSH
-- Shizuku Keeper Lite
-
-### 4) Metadata Differences To Verify / Sync
-
-Some app metadata appears updated in newer lists and should be verified before final release:
-
-| App | Older / Current Metadata | Updated Metadata To Verify |
-|-----|--------------------------|----------------------------|
-| Shizuku Package Installer | `Proprietary` | `Apache-2.0` |
-| RootActivityLauncher | proprietary / paid style | source-linked `GPL-3.0` |
-| Kettu | `OSL-3.0` | `BSD-3-Clause` |
-| translatefgo | `CC BY-NC-SA` | `MIT` |
-| blocktopograph | `AGPL-3.0` | `Apache-2.0` |
-
-> [!NOTE]
-> These license and metadata changes should be verified from official repositories before relying on them.
-
-### 5) Simple Comparison
-
-#### This repo's strength
-- More visual and beginner-friendly
-- Strong SEO and community angle
-- Mixed list can help casual users discover both open-source and proprietary options
-- Easy for Android users to browse by use case
-
-#### Awesome-shizuku style strength
-- More updated app coverage
-- More categories and deeper structure
-- Better maintenance model
-- Cleaner open-source-first policy
-- Closed-source apps separated for trust and security clarity
-
----
-
 ## 📱 What is Shizuku?
 
 [Shizuku](https://shizuku.rikka.app/) is a framework that allows Android apps to use system APIs with elevated privileges via ADB, without requiring root access.
@@ -353,331 +137,384 @@ Some app metadata appears updated in newer lists and should be verified before f
 
 ### AI agents
 
-* [Mythara](https://github.com/) - Open-source local-first agentic AI OS layer for Android. Runs 65+ on-device tools; uses Shizuku for cosmetic system tweaks `MIT`
-* [Open-AutoGLM-Android](https://github.com/) - Automates actions on your device using the AutoGLM vision language model `GPL-3.0`
-* [Operit AI](https://github.com/) - AI agent and AI chat software on Android. Can run commands using Shizuku `LGPL-3.0`
-* [rish-mcp](https://github.com/) - Exposes an Android device's Shizuku shell to AIs as an MCP run_shell tool over an outbound WebSocket relay `MIT`
-* [Ruto-GLM](https://github.com/) - Automation and multitasking framework using AutoGLM with virtual screens and multi-window `Apache-2.0`
+| App | Description | License | Links |
+| --- | --- | --- | --- |
+| Mythara | Open-source local-first agentic AI OS layer for Android. Runs 65+ on-device tools; uses Shizuku for cosmetic system tweaks | MIT | [GitHub](https://github.com/ankurCES/project_mythara) |
+| Open-AutoGLM-Android | Automates actions on your device using the AutoGLM vision language model | GPL-3.0 | [GitHub](https://github.com/xinzezhu/Open-AutoGLM-Android) |
+| Operit AI | AI agent and AI chat software on Android. Can run commands using Shizuku | LGPL-3.0 | [GitHub](https://github.com/AAswordman/Operit) |
+| rish-mcp | Exposes an Android device's Shizuku shell to AIs as an MCP run_shell tool over an outbound WebSocket relay | MIT | [GitHub](https://github.com/turin-dev/rish-mcp) |
+| Ruto-GLM | Automation and multitasking framework using AutoGLM with virtual screens and multi-window | Apache-2.0 | [GitHub](https://github.com/iamr0s/Ruto-GLM) |
 
 ### Android TV
 
-* [flicky](https://apt.izzysoft.de/packages/app.flicky) - An F-Droid client designed for Android TVs `GPL-3.0` [(Source code)](https://github.com/mlm-games/flicky)
-* [fluffy](https://apt.izzysoft.de/packages/app.fluffy) - A file manager and archive viewer designed for Android TVs `GPL-3.0` [(Source code)](https://github.com/mlm-games/fluffy)
-* RecentAppsTV - Recent Apps overlay for Android TV `Proprietary`
+| App | Description | License | Links |
+| --- | --- | --- | --- |
+| flicky | An F-Droid client designed for Android TVs | GPL-3.0 | [Link](https://apt.izzysoft.de/packages/app.flicky) · [Source code](https://github.com/mlm-games/flicky) |
+| fluffy | A file manager and archive viewer designed for Android TVs | GPL-3.0 | [Link](https://apt.izzysoft.de/packages/app.fluffy) · [Source code](https://github.com/mlm-games/fluffy) |
+| RecentAppsTV | Recent Apps overlay for Android TV | Proprietary | [Link](https://github.com/Qutaiba-Khader/RecentAppsTV) |
 
 ### Audio
 
-* [MicUp](https://github.com/) ✨ - Real-time microphone audio processing for Android `MIT`
-* [RootlessJamesDSP](https://play.google.com/store/apps/details?id=me.timschneeberger.rootlessjamesdsp) - System-wide JamesDSP audio processing for non-rooted Android devices `GPL-3.0` [(Source code)](https://github.com/timschneeb/RootlessJamesDSP)
-* [VolumeManager](https://github.com/yume-chan/VolumeManager) - Control each app's volume independently `GPL-2.0`
-* [wecho](https://github.com/) - Global audio effects processing `MIT`
+| App | Description | License | Links |
+| --- | --- | --- | --- |
+| MicUp | ✨ - Real-time microphone audio processing for Android | MIT | [Link](https://github.com/papergray/MicUp) |
+| RootlessJamesDSP | System-wide JamesDSP audio processing for non-rooted Android devices | GPL-3.0 | [Link](https://play.google.com/store/apps/details?id=me.timschneeberger.rootlessjamesdsp) · [Source code](https://github.com/timschneeb/RootlessJamesDSP) |
+| VolumeManager | Control each app's volume independently | GPL-2.0 | [Link](https://github.com/yume-chan/VolumeManager) |
+| wecho | Global audio effects processing | MIT | [GitHub](https://github.com/qumolangmo/wecho) |
 
 ### Automation
 
-* [AutoJs6](https://github.com/SuperMonster003/AutoJs6) - JavaScript-based automation tool `MPL-2.0`
-* [Geto](https://github.com/JackEblan/Geto) - Automatically change device settings when a specific app is launched `GPL-3.0`
-* [PhoneProfilesPlus](https://github.com/henrichg/PhoneProfilesPlus) - Automatic or one-click configuration for specific life situations `Apache-2.0`
-* Tasker Settings - Helper app for Tasker `Proprietary`
+| App | Description | License | Links |
+| --- | --- | --- | --- |
+| AutoJs6 | JavaScript-based automation tool | MPL-2.0 | [Link](https://github.com/SuperMonster003/AutoJs6) |
+| Geto | Automatically change device settings when a specific app is launched | GPL-3.0 | [Link](https://github.com/JackEblan/Geto) |
+| PhoneProfilesPlus | Automatic or one-click configuration for specific life situations | Apache-2.0 | [Link](https://github.com/henrichg/PhoneProfilesPlus) |
+| Tasker Settings | Helper app for Tasker | Proprietary | [Link](https://github.com/joaomgcd/TaskerSettings) |
 
 ### Communication
 
-* Aliucord-Manager - Discord modding tool `OSL-3.0`
-* [Bluesky Redirect](https://apt.izzysoft.de/fdroid/index/apk/io.github.turtlepaw.blueskyredirect) - Launch Bluesky links in your preferred Bluesky client `MIT` [(Source code)](https://github.com/Turtlepaw/BlueskyRedirect)
-* [CatShare](https://f-droid.org/packages/moe.reimu.catshare/) - Send and receive files over Bluetooth `MIT` [(Source code)](https://github.com/kmod-midori/CatShare)
-* [Kettu](https://github.com/C0C0B01/Kettu) - Discord modding tool, continuation of Bunny-Manager `BSD-3-Clause`
-* [Lemmy Redirect](https://apt.izzysoft.de/fdroid/index/apk/dev.zwander.lemmyredirect) - Launch Lemmy links in your preferred client `MIT` [(Source code)](https://github.com/zacharee/MastodonRedirect)
-* [Mastodon Redirect](https://apt.izzysoft.de/fdroid/index/apk/dev.zwander.mastodonredirect) - Launch fediverse links in your preferred Mastodon client `MIT` [(Source code)](https://github.com/zacharee/MastodonRedirect)
-* [revenge-manager](https://github.com/revenge-mod/revenge-manager) - Discord modding tool `OSL-3.0`
-* ShizuCallRecorder ✨ - Record phone calls on non-rooted devices through ADB via Shizuku `GPL-3.0`
-* [TxtNet-Browser](https://github.com/lukeaschenbrenner/TxtNet-Browser) - Browse the web over SMS `GPL-3.0`
+| App | Description | License | Links |
+| --- | --- | --- | --- |
+| Aliucord-Manager | Discord modding tool | OSL-3.0 | [Link](https://github.com/Aliucord/Manager) |
+| Bluesky Redirect | Launch Bluesky links in your preferred Bluesky client | MIT | [Link](https://apt.izzysoft.de/fdroid/index/apk/io.github.turtlepaw.blueskyredirect) · [Source code](https://github.com/Turtlepaw/BlueskyRedirect) |
+| CatShare | Send and receive files over Bluetooth | MIT | [Link](https://f-droid.org/packages/moe.reimu.catshare/) · [Source code](https://github.com/kmod-midori/CatShare) |
+| Kettu | Discord modding tool, continuation of Bunny-Manager | BSD-3-Clause | [Link](https://github.com/C0C0B01/Kettu) |
+| Lemmy Redirect | Launch Lemmy links in your preferred client | MIT | [Link](https://apt.izzysoft.de/fdroid/index/apk/dev.zwander.lemmyredirect) · [Source code](https://github.com/zacharee/MastodonRedirect) |
+| Mastodon Redirect | Launch fediverse links in your preferred Mastodon client | MIT | [Link](https://apt.izzysoft.de/fdroid/index/apk/dev.zwander.mastodonredirect) · [Source code](https://github.com/zacharee/MastodonRedirect) |
+| revenge-manager | Discord modding tool | OSL-3.0 | [Link](https://github.com/revenge-mod/revenge-manager) |
+| ShizuCallRecorder | Record phone calls on non-rooted devices through ADB via Shizuku | GPL-3.0 | [Link](https://github.com/kitsumed/ShizuCallRecorder) |
+| TxtNet-Browser | Browse the web over SMS | GPL-3.0 | [Link](https://github.com/lukeaschenbrenner/TxtNet-Browser) |
 
 ### Customization
 
-* Adaptive-Theme - Smart dark mode based on ambient light `GPL-3.0` [(Source code)](https://github.com/)
-* [AmbientMusicMod](https://github.com/KieronQuinn/AmbientMusicMod) - Port of Now Playing from Pixels to other Android devices `GPL-3.0`
-* [AutoDark](https://f-droid.org/packages/me.ranko.autodark/) - Schedule dark mode on/off `MIT` [(Source code)](https://github.com/0ranko0P/AutoDark)
-* [AutoDND](https://f-droid.org/packages/moe.dic1911.autodnd/) - Toggle DND automatically for selected apps `AGPL-3.0` [(Source code)](https://github.com/dic1911/android_AutoDND)
-* [AutoRotate](https://github.com/eiyooooo/AutoRotate) - Manage automatic rotation for different screens `GPL-3.0`
-* [CarrierVanityName](https://github.com/nullbytepl/CarrierVanityName) - Change carrier names on unrooted Android devices `GPL-3.0`
-* [ColorBlendr](https://github.com/Mahmud0808/ColorBlendr) - Modify Material You colors `GPL-3.0`
-* CustomAnimator - Customize animation speeds on a more fine-grained level `GPL-3.0` [(Source code)](https://github.com/)
-* [DarQ](https://github.com/KieronQuinn/DarQ) ✨ - Per-app selectable force dark mode for Android 10+ `Apache-2.0`
-* [Dawn-Desktop-Addons](https://github.com/Dawncraft/Dawn-Desktop-Addons) - Widgets and live wallpapers `GPL-3.0`
-* Dragon-Launcher ✨ - Highly customizable, gesture-based launcher focused on speed and efficiency `GPL-3.0` [(Source code)](https://github.com/)
-* DroidOS ✨ - Tiling window manager and Samsung DEX replacement `Proprietary`
-* essentials ✨ - Essential tools, mods, and workarounds for Pixels and other devices `MIT`
-* [Extendroid](https://github.com/legendsayantan/Extendroid) ✨ - Desktop-like multi-window support on Android `GPL-3.0`
-* gama - Switch between OpenGL and Vulkan renderers using debug.hwui.renderer `MIT`
-* Jarngreipr - Launcher for dual-screen gaming devices using Shizuku for touchscreen mapping `MIT`
-* [Language-Selector](https://github.com/VegaBobo/Language-Selector) - Select individual app languages (Android 13+) `Apache-2.0`
-* [LinkSheet](https://github.com/LinkSheet/LinkSheet) - Restore the Android <12 URL app link chooser with Material 3 `Modified MPL-2.0`
-* [Lockscreen Widgets](https://play.google.com/store/apps/details?id=tk.zwander.lockscreenwidgets) `IAP` 💰 - Display widgets on the lockscreen `MIT` [(Source code)](https://github.com/zacharee/LockscreenWidgets/)
-* [MultiLocale](https://github.com/Nightdavisao/MultiLocale) - Add unsupported languages to locale settings `MIT`
-* OmniPrompt - Keyboard-first Android command palette overlay `GPL-3.0`
-* ShizukuShortcuts - Create launcher shortcuts for shell commands `GPL-3.0`
-* [ShizuTools](https://github.com/legendsayantan/ShizuTools) - Easy-to-use tools to go beyond normal Android control `GPL-3.0`
-* Smart Dock - Desktop environment with taskbar, recent apps, and start menu `GPL-3.0` [(Source code)](https://github.com/)
-* Smart Edge - Customizable Android side panel inspired by OriginOS `MIT` [(Source code)](https://github.com/)
-* Smart Island - Lightweight floating island for notifications, calls, and media `GPL-3.0`
-* [SmartspacerPlugins](https://github.com/KieronQuinn/SmartspacerPlugins) - Plugins for Smartspacer `GPL-3.0`
-* [System UI Tuner](https://github.com/zacharee/Tweaker) - View and modify hidden settings on Android devices `MIT`
-* [TapTap](https://github.com/KieronQuinn/TapTap) ✨ - Double tap on the back gesture for Android 7.0+ `GPL-3.0`
-* [Tarnhelm](https://f-droid.org/packages/cn.ac.lz233.tarnhelm/) - Clean tracking from sharing links `GPL-3.0` [(Source code)](https://github.com/lz233/Tarnhelm)
-* [Taskbar](https://f-droid.org/packages/com.farmerbb.taskbar/) - Start menu to access apps with extra Shizuku features `Apache-2.0` [(Source code)](https://github.com/farmerbb/Taskbar)
-* [WidgetsPro](https://github.com/preethamkmr3/WidgetsPro) - CPU and battery widgets `Proprietary`
-* YoukiDEX - Full desktop experience layer for Android `GPL-3.0`
+| App | Description | License | Links |
+| --- | --- | --- | --- |
+| Adaptive-Theme | Smart dark mode based on ambient light | GPL-3.0 | [Link](https://play.google.com/store/apps/details?id=dev.lexip.hecate) · [Source code](https://github.com/xLexip/Adaptive-Theme) |
+| AmbientMusicMod | Port of Now Playing from Pixels to other Android devices | GPL-3.0 | [Link](https://github.com/KieronQuinn/AmbientMusicMod) |
+| AutoDark | Schedule dark mode on/off | MIT | [Link](https://f-droid.org/packages/me.ranko.autodark/) · [Source code](https://github.com/0ranko0P/AutoDark) |
+| AutoDND | Toggle DND automatically for selected apps | AGPL-3.0 | [Link](https://f-droid.org/packages/moe.dic1911.autodnd/) · [Source code](https://github.com/dic1911/android_AutoDND) |
+| AutoRotate | Manage automatic rotation for different screens | GPL-3.0 | [Link](https://github.com/eiyooooo/AutoRotate) |
+| CarrierVanityName | Change carrier names on unrooted Android devices | GPL-3.0 | [Link](https://github.com/nullbytepl/CarrierVanityName) |
+| ColorBlendr | Modify Material You colors | GPL-3.0 | [Link](https://github.com/Mahmud0808/ColorBlendr) |
+| CustomAnimator | Customize animation speeds on a more fine-grained level | GPL-3.0 | [Link](https://play.google.com/store/apps/details?id=com.arslan.customanimator) · [Source code](https://github.com/AhmetCanArslan/CustomAnimator) |
+| DarQ | ✨ - Per-app selectable force dark mode for Android 10+ | Apache-2.0 | [Link](https://github.com/KieronQuinn/DarQ) |
+| Dawn-Desktop-Addons | Widgets and live wallpapers | GPL-3.0 | [Link](https://github.com/Dawncraft/Dawn-Desktop-Addons) |
+| Dragon-Launcher | Highly customizable, gesture-based launcher focused on speed and efficiency | GPL-3.0 | [Link](https://f-droid.org/packages/org.elnix.dragonlauncher/) · [Source code](https://github.com/Elnix90/Dragon-Launcher) |
+| DroidOS | Tiling window manager and Samsung DEX replacement | Proprietary | [Link](https://github.com/Katsuyamaki/DroidOS) |
+| essentials | Essential tools, mods, and workarounds for Pixels and other devices | MIT | [Link](https://github.com/sameerasw/essentials) |
+| Extendroid | ✨ - Desktop-like multi-window support on Android | GPL-3.0 | [Link](https://github.com/legendsayantan/Extendroid) |
+| gama | Switch between OpenGL and Vulkan renderers using debug.hwui.renderer | MIT | [Link](https://github.com/palincat/gama) |
+| Jarngreipr | Launcher for dual-screen gaming devices using Shizuku for touchscreen mapping | MIT | [Link](https://github.com/BrianJr03/Jarngreipr) |
+| Language-Selector | Select individual app languages (Android 13+) | Apache-2.0 | [Link](https://github.com/VegaBobo/Language-Selector) |
+| LinkSheet | Restore the Android <12 URL app link chooser with Material 3 | Modified MPL-2.0 | [Link](https://github.com/LinkSheet/LinkSheet) |
+| Lockscreen Widgets | `IAP` 💰 - Display widgets on the lockscreen | MIT | [Link](https://play.google.com/store/apps/details?id=tk.zwander.lockscreenwidgets) · [Source code](https://github.com/zacharee/LockscreenWidgets/) |
+| MultiLocale | Add unsupported languages to locale settings | MIT | [Link](https://github.com/Nightdavisao/MultiLocale) |
+| OmniPrompt | Keyboard-first Android command palette overlay | GPL-3.0 | [Link](https://github.com/mrndstvndv/OmniPrompt) |
+| ShizukuShortcuts | Create launcher shortcuts for shell commands | GPL-3.0 | [Link](https://github.com/yshalsager/ShizukuShortcuts) |
+| ShizuTools | Easy-to-use tools to go beyond normal Android control | GPL-3.0 | [Link](https://github.com/legendsayantan/ShizuTools) |
+| Smart Dock | Desktop environment with taskbar, recent apps, and start menu | GPL-3.0 | [Link](https://f-droid.org/packages/com.axel358.smartdock/) · [Source code](https://github.com/axel358/smartdock) |
+| Smart Edge | Customizable Android side panel inspired by OriginOS | MIT | [Link](https://f-droid.org/en/packages/com.imi.smartedge.sidebar.panel/) · [Source code](https://github.com/Imtiaz-Official/Smart-Edge) |
+| Smart Island | Lightweight floating island for notifications, calls, and media | GPL-3.0 | [Link](https://github.com/agupta07505/SmartIsland) |
+| SmartspacerPlugins | Plugins for Smartspacer | GPL-3.0 | [Link](https://github.com/KieronQuinn/SmartspacerPlugins) |
+| System UI Tuner | View and modify hidden settings on Android devices | MIT | [Link](https://github.com/zacharee/Tweaker) |
+| TapTap | ✨ - Double tap on the back gesture for Android 7.0+ | GPL-3.0 | [Link](https://github.com/KieronQuinn/TapTap) |
+| Tarnhelm | Clean tracking from sharing links | GPL-3.0 | [Link](https://f-droid.org/packages/cn.ac.lz233.tarnhelm/) · [Source code](https://github.com/lz233/Tarnhelm) |
+| Taskbar | Start menu to access apps with extra Shizuku features | Apache-2.0 | [Link](https://f-droid.org/packages/com.farmerbb.taskbar/) · [Source code](https://github.com/farmerbb/Taskbar) |
+| WidgetsPro | CPU and battery widgets | Proprietary | [Link](https://github.com/preethamkmr3/WidgetsPro) |
+| YoukiDEX | Full desktop experience layer for Android | GPL-3.0 | [Link](https://github.com/mrYouki/YoukiDex-Android-Desktop) |
 
 ### Development utilities
 
-* ActivityManager - Launch hidden and unexported activities directly without root `Apache-2.0`
-* [AndroidAccounts](https://github.com/iamr0s/AndroidAccounts) - Dump package names of apps that have registered an account for a user `Proprietary`
-* [AndroidLowLevelDetector](https://play.google.com/store/apps/details?id=net.imknown.android.forefrontinfo) - Detect Treble, GSI, Mainline, APEX, SAR, A/B, and more `Apache-2.0` [(Source code)](https://github.com/imknown/AndroidLowLevelDetector)
-* [Cosmic-IDE](https://github.com/Cosmic-Ide/Cosmic-IDE) - IDE for JVM development with Shizuku-powered embedded shell `GPL-3.0`
-* [CurrentActivity](https://github.com/Omico/CurrentActivity) - Current activity monitor `GPL-3.0`
-* debuggable-app-data-backup - Backup and restore private app data of debuggable apps using Shizuku `GPL-3.0`
-* [DSU-Sideloader](https://github.com/VegaBobo/DSU-Sideloader) - Easily install GSIs via DSU `Apache-2.0`
-* dualapp-mediastore-compatibility - Fixes MediaStore and file I/O compatibility issues across profiles `Proprietary`
-* FPSViewer - FPS overlay with graph `Proprietary`
-* FrameX-Android - Real-time performance overlay `MIT`
-* get_event - Read /dev/input/event* `Proprietary`
-* [KeyAttestation](https://github.com/vvb2060/KeyAttestation) - Generate, save, load, parse, and verify Android key and ID attestation data `Proprietary`
-* [LibChecker](https://github.com/LibChecker/LibChecker) - View libraries used in apps and determine install sources `Apache-2.0`
-* [LogFox](https://github.com/F0x1d/LogFox) ✨ - Logcat reader for Android `GPL-3.0`
-* ManageSensors - Fine-grained app permission control using AppOps APIs `MIT`
-* [RootActivityLauncher](https://github.com/zacharee/RootActivityLauncher) `Paid` 💰 - Launch and interact with exported and unexported activities, services, and receivers `GPL-3.0`
-* [wireless-adb-switch](https://github.com/Smooth-E/wireless-adb-switch) - Toggle wireless debugging with widgets and QS tile `GPL-3.0`
+| App | Description | License | Links |
+| --- | --- | --- | --- |
+| ActivityManager | Launch hidden and unexported activities directly without root | Apache-2.0 | [Link](https://github.com/sdex/ActivityManager) |
+| AndroidAccounts | Dump package names of apps that have registered an account for a user | Proprietary | [Link](https://github.com/iamr0s/AndroidAccounts) |
+| AndroidLowLevelDetector | Detect Treble, GSI, Mainline, APEX, SAR, A/B, and more | Apache-2.0 | [Link](https://play.google.com/store/apps/details?id=net.imknown.android.forefrontinfo) · [Source code](https://github.com/imknown/AndroidLowLevelDetector) |
+| Cosmic-IDE | IDE for JVM development with Shizuku-powered embedded shell | GPL-3.0 | [Link](https://github.com/Cosmic-Ide/Cosmic-IDE) |
+| CurrentActivity | Current activity monitor | GPL-3.0 | [Link](https://github.com/Omico/CurrentActivity) |
+| debuggable-app-data-backup | Backup and restore private app data of debuggable apps using Shizuku | GPL-3.0 | [Link](https://github.com/timschneeb/debuggable-app-data-backup) |
+| DSU-Sideloader | Easily install GSIs via DSU | Apache-2.0 | [Link](https://github.com/VegaBobo/DSU-Sideloader) |
+| dualapp-mediastore-compatibility | Fixes MediaStore and file I/O compatibility issues across profiles | Proprietary | [Link](https://github.com/kaedea/dualapp-mediastore-compatibility) |
+| FPSViewer | FPS overlay with graph | Proprietary | [Link](https://github.com/binhmod/FPSViewer) |
+| FrameX-Android | Real-time performance overlay | MIT | [Link](https://github.com/MaheshSharan/FrameX-Android) |
+| get_event | Read /dev/input/event* | Proprietary | [Link](https://github.com/lalakii/get_event) |
+| KeyAttestation | Generate, save, load, parse, and verify Android key and ID attestation data | Proprietary | [Link](https://github.com/vvb2060/KeyAttestation) |
+| LibChecker | View libraries used in apps and determine install sources | Apache-2.0 | [Link](https://github.com/LibChecker/LibChecker) |
+| LogFox | ✨ - Logcat reader for Android | GPL-3.0 | [Link](https://github.com/F0x1d/LogFox) |
+| ManageSensors | Fine-grained app permission control using AppOps APIs | MIT | [Link](https://github.com/Carry-rrk/ManageSensors) |
+| RootActivityLauncher | `Paid` 💰 - Launch and interact with exported and unexported activities, services, and receivers | GPL-3.0 | [Link](https://github.com/zacharee/RootActivityLauncher) |
+| wireless-adb-switch | Toggle wireless debugging with widgets and QS tile | GPL-3.0 | [Link](https://github.com/Smooth-E/wireless-adb-switch) |
 
 ### Device owner (DPM)
 
-* [Dhizuku](https://github.com/iamr0s/Dhizuku) - Share DeviceOwner permissions to third-party apps `GPL-3.0`
-* [OwnDroid](https://github.com/BinTianqi/OwnDroid) - Manage your device with Device Owner privileges `GPL-3.0`
-* MDPC - Fork of OwnDroid with added features `GPL-3.0`
+| App | Description | License | Links |
+| --- | --- | --- | --- |
+| Dhizuku | Share DeviceOwner permissions to third-party apps | GPL-3.0 | [Link](https://github.com/iamr0s/Dhizuku) |
+| OwnDroid | Manage your device with Device Owner privileges | GPL-3.0 | [Link](https://github.com/BinTianqi/OwnDroid) |
+| MDPC | Fork of OwnDroid with added features | GPL-3.0 | See project page |
 
 ### Display management
 
-* Adaptive-Hz - Automatically switches between 60Hz and 120Hz on supported Samsung devices `MIT`
-* android-display-extend ✨ - Display manager for physical and virtual displays with built-in touchscreen `GPL-3.0`
-* android-display-mirror ✨ - Screen mirroring hub for AirPlay, Moonlight/Sunshine, and DisplayLink `GPL-3.0`
-* [ConnectScreen](https://connect-screen.com/) - Launch apps fullscreen on external displays with touchpad support `GPL-3.0` [(Source code)](https://gitee.com/connect-screen/connect-screen)
-* deskcontrol - Turns your phone into a touchpad and keyboard for a single app on an external display `GPL-3.0`
-* [Fold_Switcher](https://github.com/eiyooooo/Fold_Switcher) - Switch between display folding states on foldables `Apache-2.0`
-* [Grayscaler](https://github.com/C10udburst/Grayscaler) - Keep phone mostly monochrome while allowing selected apps in color `GPL-3.0`
-* [SecondScreen](https://play.google.com/store/apps/details?id=com.farmerbb.secondscreen.free) - Better screen mirroring for Android devices `Apache-2.0` [(Source code)](https://github.com/farmerbb/SecondScreen)
+| App | Description | License | Links |
+| --- | --- | --- | --- |
+| Adaptive-Hz | Automatically switches between 60Hz and 120Hz on supported Samsung devices | MIT | [Link](https://github.com/mahmutaunal/Adaptive-Hz) |
+| android-display-extend | Display manager for physical and virtual displays with built-in touchscreen | GPL-3.0 | [Link](https://github.com/jqssun/android-display-extend) |
+| android-display-mirror | Screen mirroring hub for AirPlay, Moonlight/Sunshine, and DisplayLink | GPL-3.0 | [Link](https://github.com/jqssun/android-display-mirror) |
+| ConnectScreen | Launch apps fullscreen on external displays with touchpad support | GPL-3.0 | [Link](https://connect-screen.com/) · [Source code](https://gitee.com/connect-screen/connect-screen) |
+| deskcontrol | Turns your phone into a touchpad and keyboard for a single app on an external display | GPL-3.0 | [Link](https://github.com/exiarepairii/deskcontrol) |
+| Fold_Switcher | Switch between display folding states on foldables | Apache-2.0 | [Link](https://github.com/eiyooooo/Fold_Switcher) |
+| Grayscaler | Keep phone mostly monochrome while allowing selected apps in color | GPL-3.0 | [Link](https://github.com/C10udburst/Grayscaler) |
+| SecondScreen | Better screen mirroring for Android devices | Apache-2.0 | [Link](https://play.google.com/store/apps/details?id=com.farmerbb.secondscreen.free) · [Source code](https://github.com/farmerbb/SecondScreen) |
 
 ### Entertainment
 
-* [Aniyomi](https://github.com/aniyomiorg/aniyomi) - Tachiyomi fork with anime support and plugin management using Shizuku `Apache-2.0`
-* [BiliDownOut](https://f-droid.org/en/packages/cn.a10miaomiao.bilidown/) - Export Bilibili downloads to standard video files `GPL-3.0` [(Source code)](https://github.com/10miaomiao/bili-down-out)
-* hlbmerge_flutter - Merge and export Bilibili cache files into MP4 `Apache-2.0`
-* [Mihon](https://github.com/mihonapp/mihon) - Manga reader using Shizuku plugin management `Apache-2.0`
+| App | Description | License | Links |
+| --- | --- | --- | --- |
+| Aniyomi | Tachiyomi fork with anime support and plugin management using Shizuku | Apache-2.0 | [Link](https://github.com/aniyomiorg/aniyomi) |
+| BiliDownOut | Export Bilibili downloads to standard video files | GPL-3.0 | [Link](https://f-droid.org/en/packages/cn.a10miaomiao.bilidown/) · [Source code](https://github.com/10miaomiao/bili-down-out) |
+| hlbmerge_flutter | Merge and export Bilibili cache files into MP4 | Apache-2.0 | [Link](https://github.com/molihuan/hlbmerge_flutter) |
+| Mihon | Manga reader using Shizuku plugin management | Apache-2.0 | [Link](https://github.com/mihonapp/mihon) |
   * Other forks include TachiyomiSY and TachiyomiAZ
 
 ### File management
 
-* [fluffy](https://github.com/mlm-games/fluffy) - File manager and archive viewer with Android TV support and full file access using Shizuku `GPL-3.0`
-* NFile - File manager with Android folder access using Shizuku `GPL-3.0`
-* [SDMaid-SE](https://play.google.com/store/apps/details?id=eu.darken.sdmse) `IAP` 💰 - Android cleaning tool `GPL-3.0` [(Source code)](https://github.com/d4rken-org/sdmaid-se)
-* ZenFile - NFile fork with built-in remote file server support `GPL-3.0`
-
-> [!NOTE]
-> More file managers, especially closed-source ones, can be kept in a separate list.
+| App | Description | License | Links |
+| --- | --- | --- | --- |
+| fluffy | File manager and archive viewer with Android TV support and full file access using Shizuku | GPL-3.0 | [Link](https://github.com/mlm-games/fluffy) |
+| NFile | File manager with Android folder access using Shizuku | GPL-3.0 | [Link](https://github.com/Senzme/NFile) |
+| SDMaid-SE | `IAP` 💰 - Android cleaning tool | GPL-3.0 | [Link](https://play.google.com/store/apps/details?id=eu.darken.sdmse) · [Source code](https://github.com/d4rken-org/sdmaid-se) |
+| ZenFile | NFile fork with built-in remote file server support | GPL-3.0 | [Link](https://github.com/l930203811/ZenFile) |
 
 ### Games
 
-* Ascent - Retrieve gacha history links from Mihoyo games `AGPL-3.0`
-* BDroid_X - Browndust II mod manager `Proprietary`
-* [blocktopograph](https://github.com/NguyenDuck/blocktopograph) - App server for MCBE with world and NBT editor `Apache-2.0`
-* [CloudSync-Mobile](https://github.com/FawazTakahji/CloudSync-Mobile) - Sync Stardew Valley saves across devices `GPL-3.0`
-* [HandheldExp](https://github.com/Teppichseite/HandheldExp) - In-game menu for EmulationStation on Android `MIT`
-* [lac-tool](https://github.com/aliernfrog/lac-tool) - Manage maps, wallpapers, and screenshots for Los Angeles Crimes `GPL-3.0`
-* [LOModInstaller](https://github.com/anyabot/LOModInstaller) - Last Origin mod manager `Proprietary`
-* Okkei Patcher - Companion app for localizing CHAOS;CHILD on Android `GPL-3.0`
-* [pf-tool](https://github.com/aliernfrog/pf-tool) - Import and share Polyfield maps `GPL-3.0`
-* pogoplusle - Skip pairing dialog when connecting a Pokémon GO Plus `Apache-2.0`
-* ShinGen - Genshin Impact auto-conversation clicker `MIT`
-* [stalker](https://github.com/onerdna/stalker) - Save data viewer and editor for Shadow Fight 2 `GPL-3.0`
-* [translatefgo](https://github.com/rayshift/translatefgo) - Fate/Grand Order game translation project `MIT`
+| App | Description | License | Links |
+| --- | --- | --- | --- |
+| Ascent | Retrieve gacha history links from Mihoyo games | AGPL-3.0 | [Link](https://github.com/4o3F/Ascent) |
+| BDroid_X | Browndust II mod manager | Proprietary | [Link](https://github.com/Ark-Repoleved/BDroid_X) |
+| blocktopograph | App server for MCBE with world and NBT editor | Apache-2.0 | [Link](https://github.com/NguyenDuck/blocktopograph) |
+| CloudSync-Mobile | Sync Stardew Valley saves across devices | GPL-3.0 | [Link](https://github.com/FawazTakahji/CloudSync-Mobile) |
+| HandheldExp | In-game menu for EmulationStation on Android | MIT | [Link](https://github.com/Teppichseite/HandheldExp) |
+| lac-tool | Manage maps, wallpapers, and screenshots for Los Angeles Crimes | GPL-3.0 | [Link](https://github.com/aliernfrog/lac-tool) |
+| LOModInstaller | Last Origin mod manager | Proprietary | [Link](https://github.com/anyabot/LOModInstaller) |
+| Okkei Patcher | Companion app for localizing CHAOS;CHILD on Android | GPL-3.0 | [Link](https://github.com/solrudev/OkkeiPatcher) |
+| pf-tool | Import and share Polyfield maps | GPL-3.0 | [Link](https://github.com/aliernfrog/pf-tool) |
+| pogoplusle | Skip pairing dialog when connecting a Pokémon GO Plus | Apache-2.0 | [Link](https://github.com/Mygod/pogoplusle) |
+| ShinGen | Genshin Impact auto-conversation clicker | MIT | [Link](https://github.com/Shio2077/ShinGen#genshin-impact-auto-conversation-clicker-on-android) |
+| stalker | Save data viewer and editor for Shadow Fight 2 | GPL-3.0 | [Link](https://github.com/onerdna/stalker) |
+| translatefgo | Fate/Grand Order game translation project | MIT | [Link](https://github.com/rayshift/translatefgo) |
 
 ### Input methods
 
-* andRemote2 - Emulates the DMD Remote 2 for map apps `Proprietary`
-* [Android-Show-Taps](https://github.com/k3x1n/Android-Show-Taps) - Show customized taps on touches `GPL-3.0`
-* [C9](https://github.com/austinauyeung/C9) - Efficient grid-based cursor with traditional cursor support `Apache-2.0`
-* [KeyMapper](https://play.google.com/store/apps/details?id=io.github.sds100.keymapper) ✨ - Change what hardware buttons do `GPL-3.0` [(Source code)](https://github.com/keymapperorg/KeyMapper)
-* [keysync](https://github.com/aka-munan/keysync) - Mouse and keyboard mapping for Android games `Apache-2.0`
-* pastiera - Keyboard for physical keyboard devices with trackpad gestures using Shizuku `GPL-3.0`
-* TitanPad - Converts Titan2 keyboard capacitive input into mouse and scroll gestures `Apache-2.0`
-* [XtMapper](https://github.com/Xtr126/XtMapper) - Keymapper for Android x86 `GPL-3.0`
+| App | Description | License | Links |
+| --- | --- | --- | --- |
+| andRemote2 | Emulates the DMD Remote 2 for map apps | Proprietary | [Link](https://github.com/c0dev0id/andRemote2) |
+| Android-Show-Taps | Show customized taps on touches | GPL-3.0 | [Link](https://github.com/k3x1n/Android-Show-Taps) |
+| C9 | Efficient grid-based cursor with traditional cursor support | Apache-2.0 | [Link](https://github.com/austinauyeung/C9) |
+| KeyMapper | ✨ - Change what hardware buttons do | GPL-3.0 | [Link](https://play.google.com/store/apps/details?id=io.github.sds100.keymapper) · [Source code](https://github.com/keymapperorg/KeyMapper) |
+| keysync | Mouse and keyboard mapping for Android games | Apache-2.0 | [Link](https://github.com/aka-munan/keysync) |
+| pastiera | Keyboard for physical keyboard devices with trackpad gestures using Shizuku | GPL-3.0 | [Link](https://github.com/palsoftware/pastiera) |
+| TitanPad | Converts Titan2 keyboard capacitive input into mouse and scroll gestures | Apache-2.0 | [Link](https://github.com/sztupy/TitanPad) |
+| XtMapper | Keymapper for Android x86 | GPL-3.0 | [Link](https://github.com/Xtr126/XtMapper) |
 
 ### Installer & app stores
 
-* [AuroraStore](https://f-droid.org/en/packages/com.aurora.store/) - Open-source Google Play alternative `GPL-3.0` [(Source code)](https://gitlab.com/AuroraOSS/AuroraStore)
-* [BHub](https://github.com/B1ays/BHub) - Download, install, and share mods `Proprietary`
-* [Droid-ify](https://f-droid.org/packages/com.looker.droidify/) - Material F-Droid client `GPL-3.0` [(Source code)](https://github.com/Droid-ify/client)
-* [ffupdater](https://f-droid.org/packages/de.marmaro.krt.ffupdater/) - Updater for privacy-friendly browsers `GPL-3.0` [(Source code)](https://github.com/Tobi823/ffupdater)
-* florid - Material 3 F-Droid client `GPL-3.0`
-* GitHub-Store - App store for GitHub releases with discovery features `Apache-2.0`
-* instafel - Updater app for Instafel `MIT`
-* [InstallerX-Revived](https://github.com/wxxsfxyzm/InstallerX-Revived) ✨ - Modern and functional app installer replacement `GPL-3.0`
-* [InstallWithOptions](https://github.com/zacharee/InstallWithOptions) - Install APKs with advanced options `MIT`
-* [IzzyOnDroid](https://gitlab.com/sunilpaulmathew/izzyondroid) - Unofficial client for IzzyOnDroid repository `GPL-3.0`
-* Neo-Store - F-Droid client with modern UI and extra features `GPL-3.0`
-* [Obtainium](https://github.com/ImranR98/Obtainium) - Get Android app updates directly from the source `GPL-3.0`
-* Orion Store - App store for modded apps `GPL-3.0`
-* [PI](https://github.com/SanmerApps/PI) - Package installer with requester/executor override support `MIT`
-* [SAI](https://f-droid.org/packages/com.aefyr.sai.fdroid/) - Android split APK installer `GPL-3.0` [(Source code)](https://github.com/Aefyr/SAI)
-* Shizuku Package Installer - Lightweight app installer replacement with split APK support `Apache-2.0`
-* universal-installer - Install and manage APK packages with split APK support and VirusTotal scanning `GPL-3.0`
+| App | Description | License | Links |
+| --- | --- | --- | --- |
+| AuroraStore | Open-source Google Play alternative | GPL-3.0 | [Link](https://f-droid.org/en/packages/com.aurora.store/) · [Source code](https://gitlab.com/AuroraOSS/AuroraStore) |
+| BHub | Download, install, and share mods | Proprietary | [Link](https://github.com/B1ays/BHub) |
+| Droid-ify | Material F-Droid client | GPL-3.0 | [Link](https://f-droid.org/packages/com.looker.droidify/) · [Source code](https://github.com/Droid-ify/client) |
+| ffupdater | Updater for privacy-friendly browsers | GPL-3.0 | [Link](https://f-droid.org/packages/de.marmaro.krt.ffupdater/) · [Source code](https://github.com/Tobi823/ffupdater) |
+| florid | Material 3 F-Droid client | GPL-3.0 | [Link](https://github.com/Nandanrmenon/florid) |
+| GitHub-Store | App store for GitHub releases with discovery features | Apache-2.0 | [Link](https://f-droid.org/packages/zed.rainxch.githubstore/) |
+| instafel | Updater app for Instafel | MIT | [Link](https://github.com/mamiiblt/instafel) |
+| InstallerX-Revived | ✨ - Modern and functional app installer replacement | GPL-3.0 | [Link](https://github.com/wxxsfxyzm/InstallerX-Revived) |
+| InstallWithOptions | Install APKs with advanced options | MIT | [Link](https://github.com/zacharee/InstallWithOptions) |
+| IzzyOnDroid | Unofficial client for IzzyOnDroid repository | GPL-3.0 | [Link](https://gitlab.com/sunilpaulmathew/izzyondroid) |
+| Neo-Store | F-Droid client with modern UI and extra features | GPL-3.0 | [Link](https://f-droid.org/packages/com.machiav3lli.fdroid/) |
+| Obtainium | Get Android app updates directly from the source | GPL-3.0 | [Link](https://github.com/ImranR98/Obtainium) |
+| Orion Store | App store for modded apps | GPL-3.0 | [Link](https://github.com/RookieEnough/Orion-Store) |
+| PI | Package installer with requester/executor override support | MIT | [Link](https://github.com/SanmerApps/PI) |
+| SAI | Android split APK installer | GPL-3.0 | [Link](https://f-droid.org/packages/com.aefyr.sai.fdroid/) · [Source code](https://github.com/Aefyr/SAI) |
+| Shizuku Package Installer | Lightweight app installer replacement with split APK support | Apache-2.0 | [Link](https://github.com/vvb2060/PackageInstaller) |
+| universal-installer | Install and manage APK packages with split APK support and VirusTotal scanning | GPL-3.0 | [Link](https://github.com/pass-with-high-score/universal-installer) |
 
 ### Miscellaneous
 
-* AppBooster - GUI for Android's built-in dex2oat utility to re-optimize installed apps `Apache-2.0`
-* HiddenAlarmRevealer - Find why the alarm icon is active in the status bar `Proprietary`
-* [krude](https://github.com/KusStar/krude) - All-in-one app and workflow launcher `MIT`
-* NotiFixer - Make notifications persistent or undismissable using Shizuku `MIT`
-* OnStop2FinishAndRemoveTask - Automatically close selected apps when you exit them `Apache-2.0`
-* PoC-Deployer-System - Exploits CVE-2024-31317 for Zygote injection with terminal and file transfer `MIT`
-* [SimpleWear](https://play.google.com/store/apps/details?id=com.thewizrd.simplewear) - Control your Android device from WearOS `Apache-2.0` [(Source code)](https://github.com/SimpleAppProjects/SimpleWear)
-* telegram-rc - Remote-control your device via Telegram messages `BSD-3-Clause`
+| App | Description | License | Links |
+| --- | --- | --- | --- |
+| AppBooster | GUI for Android's built-in dex2oat utility to re-optimize installed apps | Apache-2.0 | [Link](https://github.com/androidexpert35/AppBooster) |
+| HiddenAlarmRevealer | Find why the alarm icon is active in the status bar | Proprietary | [Link](https://github.com/AhmetCanArslan/HiddenAlarmRevealer) |
+| krude | All-in-one app and workflow launcher | MIT | [Link](https://github.com/KusStar/krude) |
+| NotiFixer | Make notifications persistent or undismissable using Shizuku | MIT | [Link](https://github.com/dkajan19/NotiFixer) |
+| OnStop2FinishAndRemoveTask | Automatically close selected apps when you exit them | Apache-2.0 | [Link](https://github.com/takusan23/OnStop2FinishAndRemoveTask) |
+| PoC-Deployer-System | Exploits CVE-2024-31317 for Zygote injection with terminal and file transfer | MIT | [Link](https://github.com/wqry085/PoC-Deployer-System) |
+| SimpleWear | Control your Android device from WearOS | Apache-2.0 | [Link](https://play.google.com/store/apps/details?id=com.thewizrd.simplewear) · [Source code](https://github.com/SimpleAppProjects/SimpleWear) |
+| telegram-rc | Remote-control your device via Telegram messages | BSD-3-Clause | [Link](https://github.com/telegram-sms/telegram-rc) |
 
 ### Network
 
-* ADNS - DNS-based ad blocker for Android `MIT`
-* [CellReader](https://play.google.com/store/apps/details?id=dev.zwander.cellreader) `Paid` 💰 - Read cell tower info on Android `MIT` [(Source code)](https://github.com/zacharee/CellReader)
-* [de1984](https://github.com/dorumrr/de1984) - App firewall without VPN; can also manage packages `MIT`
-* [delta](https://github.com/supershadoe/delta) - Hotspot manager using Shizuku `BSD-3-Clause`
-* Dolphy-App - NFC, BLE, and IR multi-tool for wireless protocol research `GPL-3.0`
-* [EasySpot](https://github.com/GGORG0/EasySpot) - Remotely turn on your hotspot via Bluetooth `GPL-3.0`
-* [FindMyDevice](https://gitlab.com/Nulide/findmydevice) - Secure and open-source alternative to Google's Find My Device `GPL-3.0`
-* FireWall Blocks - Dual-mode firewall using Shizuku or local VPN or both `MIT`
-* [Hostman](https://github.com/LinZong/Hostman) `Root` - Preview and edit the /etc/hosts file `MIT`
-* [NaiveproxyForAndroid](https://github.com/Dobiec/NaiveproxyForAndroid) - Run Naiveproxy on Android `MIT`
-* NetToggle - Quick Settings tile to force 5G only, 4G only, and preferred network modes `GPL-3.0`
-* [NetworkSwitch](https://github.com/aunchagaonkar/NetworkSwitch) - 4G/5G network mode switching `GPL-3.0`
-* [ShizuWall](https://github.com/AhmetCanArslan/ShizuWall) ✨ - Open-source app firewall without VPN or root `GPL-3.0`
-* sing-box - Universal proxy platform with Shizuku for per-app proxying `GPL-3.0`
-* Traffic Light - Persistent network speed tracker in your status bar `GPL-3.0`
-* [WG Tunnel](https://github.com/wgtunnel/wgtunnel) - FOSS WireGuard and AmneziaWG client with auto-tunneling `MIT`
-* wifi-password-manager - Manage and view saved Wi-Fi passwords `MIT`
-* [WiFiList](https://play.google.com/store/apps/details?id=tk.zwander.wifilist) `Paid` 💰 - View saved Wi-Fi passwords on Android 11+ without root `Proprietary` [(Source code)](https://github.com/zacharee/WiFiList)
+| App | Description | License | Links |
+| --- | --- | --- | --- |
+| ADNS | DNS-based ad blocker for Android | MIT | [Link](https://github.com/eyalm2000/adns) |
+| CellReader | `Paid` 💰 - Read cell tower info on Android | MIT | [Link](https://play.google.com/store/apps/details?id=dev.zwander.cellreader) · [Source code](https://github.com/zacharee/CellReader) |
+| de1984 | App firewall without VPN; can also manage packages | MIT | [Link](https://github.com/dorumrr/de1984) |
+| delta | Hotspot manager using Shizuku | BSD-3-Clause | [Link](https://github.com/supershadoe/delta) |
+| Dolphy-App | NFC, BLE, and IR multi-tool for wireless protocol research | GPL-3.0 | [Link](https://github.com/unvoiddd/Dolphy-App) |
+| EasySpot | Remotely turn on your hotspot via Bluetooth | GPL-3.0 | [Link](https://github.com/GGORG0/EasySpot) |
+| FindMyDevice | Secure and open-source alternative to Google's Find My Device | GPL-3.0 | [Link](https://gitlab.com/Nulide/findmydevice) |
+| FireWall Blocks | Dual-mode firewall using Shizuku or local VPN or both | MIT | [Link](https://github.com/shynoiddev/FireWall-Blocks) |
+| Hostman | `Root` - Preview and edit the /etc/hosts file | MIT | [Link](https://github.com/LinZong/Hostman) |
+| NaiveproxyForAndroid | Run Naiveproxy on Android | MIT | [Link](https://github.com/Dobiec/NaiveproxyForAndroid) |
+| NetToggle | Quick Settings tile to force 5G only, 4G only, and preferred network modes | GPL-3.0 | [Link](https://github.com/Dhangofa/NetToggle) |
+| NetworkSwitch | 4G/5G network mode switching | GPL-3.0 | [Link](https://github.com/aunchagaonkar/NetworkSwitch) |
+| ShizuWall | ✨ - Open-source app firewall without VPN or root | GPL-3.0 | [Link](https://github.com/AhmetCanArslan/ShizuWall) |
+| sing-box | Universal proxy platform with Shizuku for per-app proxying | GPL-3.0 | [Link](https://f-droid.org/packages/io.nekohasekai.sfa/) |
+| Traffic Light | Persistent network speed tracker in your status bar | GPL-3.0 | [Link](https://play.google.com/store/apps/details?id=com.leekleak.trafficlight) |
+| WG Tunnel | FOSS WireGuard and AmneziaWG client with auto-tunneling | MIT | [Link](https://github.com/wgtunnel/wgtunnel) |
+| wifi-password-manager | Manage and view saved Wi-Fi passwords | MIT | [Link](https://github.com/Khh-vu/wifi-password-manager) |
+| WiFiList | `Paid` 💰 - View saved Wi-Fi passwords on Android 11+ without root | Proprietary | [Link](https://play.google.com/store/apps/details?id=tk.zwander.wifilist) · [Source code](https://github.com/zacharee/WiFiList) |
 
 ### Patching
 
-* [LSPatch](https://github.com/JingMatrix/LSPatch) - Non-root Xposed framework extending LSPosed `GPL-3.0`
-* Morphe - User-friendly YouTube patcher based on Universal-ReVanced-Manager `GPL-3.0`
-* Universal-ReVanced-Manager - ReVanced patcher with extra features beyond the official manager `GPL-3.0`
+| App | Description | License | Links |
+| --- | --- | --- | --- |
+| LSPatch | Non-root Xposed framework extending LSPosed | GPL-3.0 | [Link](https://github.com/JingMatrix/LSPatch) |
+| Morphe | User-friendly YouTube patcher based on Universal-ReVanced-Manager | GPL-3.0 | [Link](https://morphe.software/) |
+| Universal-ReVanced-Manager | ReVanced patcher with extra features beyond the official manager | GPL-3.0 | [Link](https://github.com/Jman-Github/Universal-ReVanced-Manager) |
 
 ### Power management
 
-* Amply - Easy control of charging limits with automatic restore of protective limit `GPL-3.0`
-* BatStats - Battery monitor with stats via Shizuku `GPL-3.0`
-* [Batt](https://gitlab.com/narektor/batt) - Battery status information on Android 14+ `GPL-3.0`
-* Battery-Monitor - Track and log battery capacity and parameters over time `GPL-3.0`
-* battery-stats-changer - Visually change battery data via Shizuku `GPL-3.0`
-* EnforceDoze - Enable Doze immediately after screen off `GPL-3.0` [(Source code)](https://github.com/)
-* NoMoreBackground - Stop Android apps from running in the background `GPL-3.0` [(Source code)](https://github.com/)
-* [RebootNya](https://github.com/daisukiKaffuChino/RebootNya) - Advanced reboot menu with Shizuku support `Apache-2.0`
-* ScreenOff - Turn off the screen without entering standby mode `Proprietary`
-* sleep-timer - Pause media and turn off Wi-Fi, Bluetooth, or display on timer `GPL-3.0`
-* [zukulock](https://github.com/tiendnm/zukulock) - Lightweight app that locks the screen when launched `MIT`
+| App | Description | License | Links |
+| --- | --- | --- | --- |
+| Amply | Easy control of charging limits with automatic restore of protective limit | GPL-3.0 | [Link](https://github.com/d4rken-org/amply) |
+| BatStats | Battery monitor with stats via Shizuku | GPL-3.0 | [Link](https://github.com/mlm-games/BatStats) |
+| Batt | Battery status information on Android 14+ | GPL-3.0 | [Link](https://gitlab.com/narektor/batt) |
+| Battery-Monitor | Track and log battery capacity and parameters over time | GPL-3.0 | [Link](https://github.com/tswistak/Battery-Monitor) |
+| battery-stats-changer | Visually change battery data via Shizuku | GPL-3.0 | [Link](https://github.com/superisuer/battery-stats-changer) |
+| EnforceDoze | Enable Doze immediately after screen off | GPL-3.0 | [Link](https://f-droid.org/packages/com.akylas.enforcedoze/) · [Source code](https://github.com/farfromrefug/EnforceDoze) |
+| NoMoreBackground | Stop Android apps from running in the background | GPL-3.0 | [Link](https://f-droid.org/packages/com.adilhanney.no_more_background/) · [Source code](https://github.com/adil192/no_more_background) |
+| RebootNya | Advanced reboot menu with Shizuku support | Apache-2.0 | [Link](https://github.com/daisukiKaffuChino/RebootNya) |
+| ScreenOff | Turn off the screen without entering standby mode | Proprietary | [Link](https://github.com/WuDi-ZhanShen/ScreenOff) |
+| sleep-timer | Pause media and turn off Wi-Fi, Bluetooth, or display on timer | GPL-3.0 | [Link](https://github.com/Xitee1/sleep-timer) |
+| zukulock | Lightweight app that locks the screen when launched | MIT | [Link](https://github.com/tiendnm/zukulock) |
 
 ### Privacy
 
-* [Amarok-Hider](https://apt.izzysoft.de/fdroid/index/apk/deltazero.amarok.foss) - Hide private files and Android apps with one click `Apache-2.0` [(Source code)](https://github.com/deltazefiro/Amarok-Hider)
-* AntiForensic-Tools - Silently protect user data from powerful adversaries `GPL-3.0`
-* [AppLock](https://github.com/PranavPurwar/AppLock) ✨ - Lock sensitive apps with a PIN and optionally biometrics `MIT`
-* PrivacyFlip - Manage privacy based on lock/unlock state `MIT` [(Source code)](https://github.com/)
+| App | Description | License | Links |
+| --- | --- | --- | --- |
+| Amarok-Hider | Hide private files and Android apps with one click | Apache-2.0 | [Link](https://apt.izzysoft.de/fdroid/index/apk/deltazero.amarok.foss) · [Source code](https://github.com/deltazefiro/Amarok-Hider) |
+| AntiForensic-Tools | Silently protect user data from powerful adversaries | GPL-3.0 | [Link](https://github.com/bakad3v/Android-AntiForensic-Tools) |
+| AppLock | ✨ - Lock sensitive apps with a PIN and optionally biometrics | MIT | [Link](https://github.com/PranavPurwar/AppLock) |
+| PrivacyFlip | Manage privacy based on lock/unlock state | MIT | [Link](https://f-droid.org/packages/io.github.dorumrr.privacyflip/) · [Source code](https://github.com/dorumrr/privacyflip) |
 
 ### Productivity
 
-* Blink - Persistent 20-20-20 eye-care timer using Shizuku to whitelist itself from battery optimization `GPL-3.0`
-* [DetoxDroid](https://github.com/flxapps/DetoxDroid) - Digital detoxing app `GPL-3.0`
-* Curbox ✨ - Tool to reduce screen addiction and view usage analytics `GPL-3.0` [(Source code)](https://github.com/)
+| App | Description | License | Links |
+| --- | --- | --- | --- |
+| Blink | Persistent 20-20-20 eye-care timer using Shizuku to whitelist itself from battery optimization | GPL-3.0 | [Link](https://github.com/character-flat/Blink) |
+| DetoxDroid | Digital detoxing app | GPL-3.0 | [Link](https://github.com/flxapps/DetoxDroid) |
+| Curbox | Tool to reduce screen addiction and view usage analytics | GPL-3.0 | [Link](https://f-droid.org/packages/neth.iecal.curbox/) · [Source code](https://github.com/nethical6/curbox) |
 
 ### Quick settings
 
-* [AlwaysOnDisplayToggle](https://f-droid.org/packages/org.alberto97.aodtoggle/) - Toggle Always on Display from quick settings `MIT` [(Source code)](https://github.com/Alberto97/AlwaysOnDisplayToggle)
-* [Better Internet Tiles](https://play.google.com/store/apps/details?id=be.casperverswijvelt.unifiedinternetqs) - Bring back separate Wi-Fi and mobile data tiles `GPL-3.0` [(Source code)](https://github.com/CasperVerswijvelt/Better-Internet-Tiles)
-* DataSimTile - Tile to switch the default mobile data SIM `Apache-2.0`
-* [DisplayToggle](https://f-droid.org/packages/io.github.ulysseszh.displaytoggle) - Turn off display without locking the screen or stopping foreground apps `MIT` [(Source code)](https://github.com/UlyssesZh/DisplayToggle)
-* DNS Toggle - Quick Settings tile for Private DNS toggling and configuration `MIT` [(Source code)](https://github.com/)
-* [Private DNS Quick Setting](https://apt.izzysoft.de/fdroid/index/apk/com.flashsphere.privatednsqs) - QS tile for toggling Private DNS `GPL-3.0` [(Source code)](https://github.com/flashsphere/private-dns-qs)
-* [PrivateDNSAndroid](https://github.com/karasevm/PrivateDNSAndroid) - Quick Settings tile to switch active Private DNS server `MIT`
-* [Quick-Tile Settings](https://f-droid.org/packages/com.rbn.qtsettings/) - QS tiles for USB debugging and Private DNS switching `GPL-3.0` [(Source code)](https://github.com/RBN-Apps/Quick-Tile-Settings)
-* [SensorsOff](https://github.com/LinerSRT/SensorsOff) - Enable or disable sensors via quick settings `Apache-2.0`
+| App | Description | License | Links |
+| --- | --- | --- | --- |
+| AlwaysOnDisplayToggle | Toggle Always on Display from quick settings | MIT | [Link](https://f-droid.org/packages/org.alberto97.aodtoggle/) · [Source code](https://github.com/Alberto97/AlwaysOnDisplayToggle) |
+| Better Internet Tiles | Bring back separate Wi-Fi and mobile data tiles | GPL-3.0 | [Link](https://play.google.com/store/apps/details?id=be.casperverswijvelt.unifiedinternetqs) · [Source code](https://github.com/CasperVerswijvelt/Better-Internet-Tiles) |
+| DataSimTile | Tile to switch the default mobile data SIM | Apache-2.0 | [Link](https://github.com/Mygod/DataSimTile) |
+| DisplayToggle | Turn off display without locking the screen or stopping foreground apps | MIT | [Link](https://f-droid.org/packages/io.github.ulysseszh.displaytoggle) · [Source code](https://github.com/UlyssesZh/DisplayToggle) |
+| DNS Toggle | Quick Settings tile for Private DNS toggling and configuration | MIT | [Link](https://f-droid.org/packages/com.ericlowry.dnstoggle/) · [Source code](https://github.com/ELowry/DNSToggle) |
+| Private DNS Quick Setting | QS tile for toggling Private DNS | GPL-3.0 | [Link](https://apt.izzysoft.de/fdroid/index/apk/com.flashsphere.privatednsqs) · [Source code](https://github.com/flashsphere/private-dns-qs) |
+| PrivateDNSAndroid | Quick Settings tile to switch active Private DNS server | MIT | [Link](https://github.com/karasevm/PrivateDNSAndroid) |
+| Quick-Tile Settings | QS tiles for USB debugging and Private DNS switching | GPL-3.0 | [Link](https://f-droid.org/packages/com.rbn.qtsettings/) · [Source code](https://github.com/RBN-Apps/Quick-Tile-Settings) |
+| SensorsOff | Enable or disable sensors via quick settings | Apache-2.0 | [Link](https://github.com/LinerSRT/SensorsOff) |
 
 ### Software management
 
-* AppControlX - Freeze, force stop, uninstall apps, change battery optimization, and more `GPL-3.0`
-* [Blocker](https://github.com/lihenggui/blocker) - Enable/disable Android components `Apache-2.0`
-* Buge App Manager - App manager focused on permission management `GPL-3.0`
-* [Canta](https://play.google.com/store/apps/details?id=io.github.samolego.canta) - Uninstall any app without root `LGPL-3.0` [(Source code)](https://github.com/samolego/Canta)
-* DisabledLauncher - Disable unused apps while still allowing convenient access `MIT`
-* [FreezeYou](https://f-droid.org/packages/cf.playhi.freezeyou/) - Improve speed and battery life by freezing apps `Apache-2.0` [(Source code)](https://github.com/FreezeYou/FreezeYou)
-* [Hail](https://f-droid.org/packages/com.aistra.hail/) ✨ - Freeze, hide, or disable apps and manage app groups `GPL-3.0` [(Source code)](https://github.com/aistra0528/Hail)
-* [Insular](https://f-droid.org/packages/com.oasisfeng.island.fdroid/) - FLOSS fork of Island `Apache-2.0` [(Source code)](https://gitlab.com/secure-system/Insular)
-* [Inure App Manager](https://play.google.com/store/apps/details?id=app.simple.inure.play) `15-day trial` `IAP` 💰 - App manager for rooted and non-rooted devices `GPL-3.0` [(Source code)](https://github.com/Hamza417/Inure)
-* [Island](https://play.google.com/store/apps/details?id=com.oasisfeng.island) - Isolate and clone apps for privacy and parallel running `Apache-2.0` [(Source code)](https://github.com/oasisfeng/island)
-* [krude](https://github.com/KusStar/krude) - All-in-one app and workflow launcher `MIT`
-* [MMRL](https://github.com/MMRLApp/MMRL) `Root` - Manage Magisk module repository `GPL-3.0`
-* [Package Manager](https://play.google.com/store/apps/details?id=com.smartpack.packagemanager) - Manage system and user apps `GPL-3.0` [(Source code)](https://github.com/SmartPack/PackageManager)
-* [Thor](https://play.google.com/store/apps/details?id=com.valhalla.thor) - App manager with freeze and install capabilities `GPL-3.0` [(Source code)](https://github.com/trinadhthatakula/Thor)
-* [UpgradeAll](https://f-droid.org/packages/net.xzos.upgradeall/) - Check updates for Android apps, Magisk modules, and more `GPL-3.0` [(Source code)](https://github.com/DUpdateSystem/UpgradeAll)
+| App | Description | License | Links |
+| --- | --- | --- | --- |
+| AppControlX | Freeze, force stop, uninstall apps, change battery optimization, and more | GPL-3.0 | [Link](https://github.com/risunCode/AppControl-X) |
+| Blocker | Enable/disable Android components | Apache-2.0 | [Link](https://github.com/lihenggui/blocker) |
+| Buge App Manager | App manager focused on permission management | GPL-3.0 | [Link](https://github.com/BugeStudioTeam/Buge-App-Manager) |
+| Canta | Uninstall any app without root | LGPL-3.0 | [Link](https://play.google.com/store/apps/details?id=io.github.samolego.canta) · [Source code](https://github.com/samolego/Canta) |
+| DisabledLauncher | Disable unused apps while still allowing convenient access | MIT | [Link](https://github.com/voruti/DisabledLauncher) |
+| FreezeYou | Improve speed and battery life by freezing apps | Apache-2.0 | [Link](https://f-droid.org/packages/cf.playhi.freezeyou/) · [Source code](https://github.com/FreezeYou/FreezeYou) |
+| Hail | ✨ - Freeze, hide, or disable apps and manage app groups | GPL-3.0 | [Link](https://f-droid.org/packages/com.aistra.hail/) · [Source code](https://github.com/aistra0528/Hail) |
+| Insular | FLOSS fork of Island | Apache-2.0 | [Link](https://f-droid.org/packages/com.oasisfeng.island.fdroid/) · [Source code](https://gitlab.com/secure-system/Insular) |
+| Inure App Manager | `15-day trial` `IAP` 💰 - App manager for rooted and non-rooted devices | GPL-3.0 | [Link](https://play.google.com/store/apps/details?id=app.simple.inure.play) · [Source code](https://github.com/Hamza417/Inure) |
+| Island | Isolate and clone apps for privacy and parallel running | Apache-2.0 | [Link](https://play.google.com/store/apps/details?id=com.oasisfeng.island) · [Source code](https://github.com/oasisfeng/island) |
+| krude | All-in-one app and workflow launcher | MIT | [Link](https://github.com/KusStar/krude) |
+| MMRL | `Root` - Manage Magisk module repository | GPL-3.0 | [Link](https://github.com/MMRLApp/MMRL) |
+| Package Manager | Manage system and user apps | GPL-3.0 | [Link](https://play.google.com/store/apps/details?id=com.smartpack.packagemanager) · [Source code](https://github.com/SmartPack/PackageManager) |
+| Thor | App manager with freeze and install capabilities | GPL-3.0 | [Link](https://play.google.com/store/apps/details?id=com.valhalla.thor) · [Source code](https://github.com/trinadhthatakula/Thor) |
+| UpgradeAll | Check updates for Android apps, Magisk modules, and more | GPL-3.0 | [Link](https://f-droid.org/packages/net.xzos.upgradeall/) · [Source code](https://github.com/DUpdateSystem/UpgradeAll) |
 
 ### Task manager
 
-* memhogs - See which apps are eating memory with per-app breakdown `MIT`
-* Pensum ✨ - Windows-style Task Manager for Android `GPL-3.0`
-* ReAppzuku - Control and manage background applications, fork of shappky `GPL-3.0`
-* Running Services Monitor - Monitor running services on Android `MIT` [(Source code)](https://github.com/)
-* [shappky](https://github.com/YasserNull/shappky) ✨ - Stop background apps to boost performance `GPL-3.0`
-* [TaskManager](https://github.com/RohitKushvaha01/TaskManager) - Android task manager `Apache-2.0`
+| App | Description | License | Links |
+| --- | --- | --- | --- |
+| memhogs | See which apps are eating memory with per-app breakdown | MIT | [Link](https://github.com/cicerothoma/memhogs-android) |
+| Pensum | Windows-style Task Manager for Android | GPL-3.0 | [Link](https://github.com/troikoss/Pensum) |
+| ReAppzuku | Control and manage background applications, fork of shappky | GPL-3.0 | [Link](https://github.com/gree1d/ReAppzuku) |
+| Running Services Monitor | Monitor running services on Android | MIT | [Link](https://play.google.com/store/apps/details?id=me.biplobsd.rsm) · [Source code](https://github.com/biplobsd/running_services_monitor) |
+| shappky | ✨ - Stop background apps to boost performance | GPL-3.0 | [Link](https://github.com/YasserNull/shappky) |
+| TaskManager | Android task manager | Apache-2.0 | [Link](https://github.com/RohitKushvaha01/TaskManager) |
 
 ### Terminals
 
-* [aShell](https://gitlab.com/sunilpaulmathew/ashell) - Local ADB shell for Shizuku-powered Android devices `GPL-3.0`
-  * [aShell You](https://github.com/DP-Hridayan/aShellYou) - Material You redesign of aShell `GPL-3.0`
-* Haven - Terminal, SSH, VNC, RDP, SFTP, and cloud storage client for Android `AGPL-3.0`
-* [ReTerminal](https://github.com/RohitKushvaha01/ReTerminal) ✨ - Material 3-inspired terminal emulator based on TerminalView `MIT`
-
-> [!NOTE]
-> Using [rish](#rish-shell), you can create a local ADB shell with any terminal emulator, such as Termux.
+| App | Description | License | Links |
+| --- | --- | --- | --- |
+| aShell | Local ADB shell for Shizuku-powered Android devices | GPL-3.0 | [GitLab](https://gitlab.com/sunilpaulmathew/ashell) |
+| aShell You | Material You redesign of aShell | GPL-3.0 | [GitHub](https://github.com/DP-Hridayan/aShellYou) |
+| Haven | Terminal, SSH, VNC, RDP, SFTP, and cloud storage client for Android | AGPL-3.0 | [Link](https://f-droid.org/packages/sh.haven.app/) |
+| ReTerminal | ✨ - Material 3-inspired terminal emulator based on TerminalView | MIT | [Link](https://github.com/RohitKushvaha01/ReTerminal) |
 
 ### Vendor-specific
 
+| App | Description | License | Links |
+| --- | --- | --- | --- |
+
 #### Google Pixel
 
-* [Always On Display](https://f-droid.org/packages/org.alberto97.aodtoggle/) - Toggle Always on Display from quick settings `MIT` [(Source code)](https://github.com/Alberto97/AlwaysOnDisplayToggle)
-* Pixel-IMS-5G - Enable 5G SA and VoNR on Google Pixel devices `GPL-3.0`
-* [pixel-volte-patch](https://github.com/kyujin-cho/pixel-volte-patch/blob/main/README.en.md) - Enable VoLTE on Pixel 6 & 7 with LG U+ `GPL-3.0`
-* PixelCarrierSettings - Enable VoLTE for unsupported regions on Pixel devices `GPL-3.0`
-* [Smartspacer](https://github.com/KieronQuinn/Smartspacer) - Upgrade the Pixel At a Glance widget using Shizuku `GPL-3.0`
-* [TurboIMS](https://github.com/Turbo1123/TurboIMS) - Enhanced IMS configuration tool for Google Pixel devices `Apache-2.0`
+| App | Description | License | Links |
+| --- | --- | --- | --- |
+| Always On Display | Toggle Always on Display from quick settings | MIT | [Link](https://f-droid.org/packages/org.alberto97.aodtoggle/) · [Source code](https://github.com/Alberto97/AlwaysOnDisplayToggle) |
+| Pixel-IMS-5G | Enable 5G SA and VoNR on Google Pixel devices | GPL-3.0 | [Link](https://github.com/barrylk/Pixel-IMS-5G) |
+| pixel-volte-patch | Enable VoLTE on Pixel 6 & 7 with LG U+ | GPL-3.0 | [Link](https://github.com/kyujin-cho/pixel-volte-patch/blob/main/README.en.md) |
+| PixelCarrierSettings | Enable VoLTE for unsupported regions on Pixel devices | GPL-3.0 | [Link](https://github.com/iKirby/PixelCarrierSettings) |
+| Smartspacer | Upgrade the Pixel At a Glance widget using Shizuku | GPL-3.0 | [Link](https://github.com/KieronQuinn/Smartspacer) |
+| TurboIMS | Enhanced IMS configuration tool for Google Pixel devices | Apache-2.0 | [Link](https://github.com/Turbo1123/TurboIMS) |
 
 #### Samsung OneUI
 
-* Fonts - One UI 8 rootless font installer `GPL-3.0`
-* Root-My-Galaxy - KSU installer for supported Samsung Galaxy firmware with CVE-2026-43499 `Apache-2.0`
-* SBatteryTweaks - Disable or enable fast charging on Samsung devices `Proprietary`
-* ScamsungFonts - Font manager for Samsung Galaxy via system shell or root `No license`
-* ShutterMute - Disable forced camera shutter sounds on some Samsung devices `Proprietary`
-* [SMTShell](https://github.com/BLuFeNiX/SMTShell) - Privilege escalation exploit automation for older OneUI versions `LGPL-2.1`
+| App | Description | License | Links |
+| --- | --- | --- | --- |
+| Fonts | One UI 8 rootless font installer | GPL-3.0 | [Link](https://apt.izzysoft.de/fdroid/index/apk/com.je.fontsmanager.samsung) |
+| Root-My-Galaxy | KSU installer for supported Samsung Galaxy firmware with CVE-2026-43499 | Apache-2.0 | [Link](https://github.com/BuSung-dev/Root-My-Galaxy) |
+| SBatteryTweaks | Disable or enable fast charging on Samsung devices | Proprietary | [Link](https://github.com/pascua28/SBatteryTweaks) |
+| ScamsungFonts | Font manager for Samsung Galaxy via system shell or root | No license | [Link](https://github.com/KhunHtetzNaing/ScamsungFonts) |
+| ShutterMute | Disable forced camera shutter sounds on some Samsung devices | Proprietary | [Link](https://github.com/ajebulon/ShutterMute) |
+| SMTShell | Privilege escalation exploit automation for older OneUI versions | LGPL-2.1 | [Link](https://github.com/BLuFeNiX/SMTShell) |
 
 #### MIUI
 
-* [FiveGSwitcher](https://play.google.com/store/apps/details?id=com.ysy.switcherfiveg) - 5G shortcut switch for HyperOS/MIUI `GPL-3.0`
-* [FxxkMIUIAd](https://github.com/qhy040404/FxxkMIUIAd) - Turn off MIUI ads with minimal cost `Apache-2.0`
-* [Mi-FreeForm](https://github.com/sunshine0523/Mi-FreeForm) - Display most apps in freeform on MIUI `GPL-3.0`
-* [MixFlipTool](https://github.com/parallelcc/MixFlipTool) - Configure Mix Flip outer screen apps and styles `GPL-3.0`
-* mtbtool-android-app - Perform bandlock and edit EFS NV items on Qualcomm Xiaomi devices without root `MIT`
-* NavigationSwitcher - Enable 3-button navigation in rhythm games for MIUI / HyperOS `Proprietary`
+| App | Description | License | Links |
+| --- | --- | --- | --- |
+| FiveGSwitcher | 5G shortcut switch for HyperOS/MIUI | GPL-3.0 | [Link](https://play.google.com/store/apps/details?id=com.ysy.switcherfiveg) |
+| FxxkMIUIAd | Turn off MIUI ads with minimal cost | Apache-2.0 | [Link](https://github.com/qhy040404/FxxkMIUIAd) |
+| Mi-FreeForm | Display most apps in freeform on MIUI | GPL-3.0 | [Link](https://github.com/sunshine0523/Mi-FreeForm) |
+| MixFlipTool | Configure Mix Flip outer screen apps and styles | GPL-3.0 | [Link](https://github.com/parallelcc/MixFlipTool) |
+| mtbtool-android-app | Perform bandlock and edit EFS NV items on Qualcomm Xiaomi devices without root | MIT | [Link](https://github.com/h3nnes/mtbtool-android-app) |
+| NavigationSwitcher | Enable 3-button navigation in rhythm games for MIUI / HyperOS | Proprietary | [Link](https://github.com/chiyuki0325/NavigationSwitcher) |
 
 #### Other
 
-* ClusterTune - Tune CPU cluster frequencies on AYN handheld devices `GPL-2.0`
-* Recording-Light-Control - Control the Nothing Phone (3) recording light `Proprietary`
-* RedTrigger - System-wide shoulder triggers for Nubia Red Magic phones `MIT`
-* ThorVolumeLink - Sync volume control for the dual displays of the AYN Thor `MIT`
+| App | Description | License | Links |
+| --- | --- | --- | --- |
+| ClusterTune | Tune CPU cluster frequencies on AYN handheld devices | GPL-2.0 | [Link](https://github.com/AurelioB/ClusterTune) |
+| Recording-Light-Control | Control the Nothing Phone (3) recording light | Proprietary | [Link](https://github.com/Farpathan/Recording-Light-Control) |
+| RedTrigger | System-wide shoulder triggers for Nubia Red Magic phones | MIT | [Link](https://github.com/zampierilucas/RedTrigger) |
+| ThorVolumeLink | Sync volume control for the dual displays of the AYN Thor | MIT | [Link](https://github.com/pth2000/ThorVolumeLink) |
 
 ### Closed-source apps
 
@@ -686,26 +523,31 @@ Closed-source apps can be kept in a separate sublist for users who prefer open-s
 ### Unlisted apps
 
 Deprecated or abandoned apps can be moved to a separate archived page to keep the main list clean.
-
 ---
 
 ## Development libraries
 
 ### Core
 
-* [Shizuku-API](https://github.com/RikkaApps/Shizuku-API) - Developer documentation for Shizuku and Sui, including examples `Apache-2.0`
-* [Shizuku-Plugin (Flutter)](https://github.com/santhosh-D-subramani/Shizuku-Plugin) - Shizuku API bindings for Flutter apps `GPL-3.0`
+| Library | Description | License | Links |
+| --- | --- | --- | --- |
+| Shizuku-API | Developer documentation for Shizuku and Sui, including examples | Apache-2.0 | [GitHub](https://github.com/RikkaApps/Shizuku-API) |
+| Shizuku-Plugin (Flutter) | Shizuku API bindings for Flutter apps | GPL-3.0 | [GitHub](https://github.com/santhosh-D-subramani/Shizuku-Plugin) |
 
 ### Filesystem
 
-* [Ackpine](https://github.com/solrudev/Ackpine) - Kotlin-first package installer extensions with Shizuku support `Apache-2.0`
-* [LintFile](https://github.com/lumkit/LintFile) - File operation library with Shizuku, root, and regular filesystem backends `LGPL-2.1`
-* [nextgenfs](https://github.com/rayshift/nextgenfs) - Shizuku-compatible android/data access from Xamarin `MIT`
-* [shizuku_apk_installer](https://github.com/re7gog/shizuku_apk_installer) - Flutter plugin for installing APKs using the Shizuku API `MIT`
+| Library | Description | License | Links |
+| --- | --- | --- | --- |
+| Ackpine | Kotlin-first package installer extensions with Shizuku support | Apache-2.0 | [GitHub](https://github.com/solrudev/Ackpine) |
+| LintFile | File operation library with Shizuku, root, and regular filesystem backends | LGPL-2.1 | [GitHub](https://github.com/lumkit/LintFile) |
+| nextgenfs | Shizuku-compatible android/data access from Xamarin | MIT | [GitHub](https://github.com/rayshift/nextgenfs) |
+| shizuku_apk_installer | Flutter plugin for installing APKs using the Shizuku API | MIT | [GitHub](https://github.com/re7gog/shizuku_apk_installer) |
 
 ### System
 
-* [ServiceManagerCompat](https://github.com/SanmerApps/ServiceManagerCompat) - ServiceManager bindings `MIT`
+| Library | Description | License | Links |
+| --- | --- | --- | --- |
+| ServiceManagerCompat | ServiceManager bindings | MIT | [GitHub](https://github.com/SanmerApps/ServiceManagerCompat) |
 
 ---
 
@@ -713,13 +555,17 @@ Deprecated or abandoned apps can be moved to a separate archived page to keep th
 
 ### Command-line utilities
 
-* AndroSH - Multi-distribution Linux environments for Android with system integration `GPL-3.0`
+| Tool | Description | License | Links |
+| --- | --- | --- | --- |
+| AndroSH | Multi-distribution Linux environments for Android with system integration | GPL-3.0 | [GitHub](https://github.com/ahmed-alnassif/AndroSH) |
 
 ### Flows for Automate
 
-* [Better Shizuku Starter](https://llamalab.com/automate/community/flows/50863) - Automatically start Shizuku 13.6 on key events via wireless debugging `MIT`
-* [Shizuku Keeper](https://github.com/protonpony/Shizuku-Keeper/tree/main) - Continuously run Shizuku or ADB uninterrupted without root, Wi-Fi, or cables `MIT`
-* Shizuku Keeper Lite - Check Shizuku 13.6 at intervals and auto-restart via wireless debugging `MIT`
+| Flow | Description | License | Links |
+| --- | --- | --- | --- |
+| Better Shizuku Starter | Automatically start Shizuku 13.6 on key events via wireless debugging | MIT | [Automate](https://llamalab.com/automate/community/flows/50863) |
+| Shizuku Keeper | Continuously run Shizuku or ADB uninterrupted without root, Wi-Fi, or cables | MIT | [GitHub](https://github.com/protonpony/Shizuku-Keeper/tree/main) |
+| Shizuku Keeper Lite | Check Shizuku 13.6 at intervals and auto-restart via wireless debugging | MIT | [Automate](https://llamalab.com/automate/community/flows/51012) |
 
 ---
 
@@ -745,14 +591,26 @@ If Shizuku was launched using ADB privileges, then `rish` also provides a shell 
 ## 🔗 Resources
 
 ### Official
+
+- 📚 [Official Documentation](https://shizuku.rikka.app/guide/setup/)
+- 🧩 [Shizuku API](https://github.com/RikkaApps/Shizuku-API)
+- 🗓️ [Awesome-Shizuku Changelog](https://github.com/timschneeb/changelog-awesome-shizuku)
 - 📦 [Shizuku GitHub](https://github.com/RikkaApps/Shizuku)
 - 📥 [Download Shizuku](https://github.com/RikkaApps/Shizuku/releases)
 - 🌐 [Shizuku Website](https://shizuku.rikka.app/)
 
 ### Community & Support
+
+- 💡 [Shizuku GitHub Discussions](https://github.com/RikkaApps/Shizuku/discussions)
 - 💬 [XDA Forums Thread](https://xdaforums.com/t/root-alternative-shizuku-wireless-adb-dhizuku-non-root-apps-thread.4692215/)
 - 🐥 [Telegram Channel](https://t.me/shizuku_zh)
 - 🐛 [Report Issues](https://github.com/RikkaApps/Shizuku/issues)
+
+### App Discovery
+
+- 📱 [Shizuku on Google Play](https://play.google.com/store/apps/details?id=moe.shizuku.privileged.api)
+- 🛍️ [Shizuku on F-Droid](https://f-droid.org/packages/moe.shizuku.privileged.api/)
+- 🔎 [GitHub Shizuku Projects](https://github.com/search?q=Shizuku+Android&type=repositories)
 
 ### Tutorials & Guides
 - 🎬 [Video: Top Shizuku Apps 2025](https://www.youtube.com/watch?v=HpMUdvphiio)
@@ -780,6 +638,17 @@ Want to help grow this project into a large community resource? You can:
 - SEO improvements
 - README visual upgrades
 - Community suggestions for top picks
+- Verified download and source-code links
+- Accurate license and Shizuku support details
+- Device-specific compatibility notes
+
+### Contribution Checklist
+
+- Keep entries alphabetized within their category
+- Include a working download link and source-code link when available
+- Add the correct license and tags such as `Paid`, `IAP`, or `Root`
+- Keep descriptions short, factual, and focused on the Shizuku-powered feature
+- Report abandoned, duplicated, or broken entries through an issue
 
 ---
 
