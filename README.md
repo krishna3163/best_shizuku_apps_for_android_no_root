@@ -150,7 +150,8 @@ Shizuku allows normal Android apps to access powerful system APIs through **ADB 
 
 <!-- AUTO-GENERATED-APPS-START -->
 
-## 📦 APK Downloads
+<details id="apk-downloads">
+<summary><h2>📦 APK Downloads</h2></summary>
 
 > Automatically synced from upstream GitHub releases. APKs are unmodified.
 
@@ -201,6 +202,8 @@ Shizuku allows normal Android apps to access powerful system APIs through **ADB 
 | **Tarnhelm** | lz233 | `20250630` | 2026-08-22 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/tarnhelm-20250630) | [GitHub](https://github.com/lz233/Tarnhelm) |
 | **UpgradeAll** | DUpdateSystem | `0.13-beta.4` | 2026-08-22 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/upgradeall-0.13-beta.4) | [GitHub](https://github.com/DUpdateSystem/UpgradeAll) |
 | **WG Tunnel** | wgtunnel | `5.4.0` | 2026-08-22 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/wg-tunnel-5.4.0) | [GitHub](https://github.com/wgtunnel/wgtunnel) |
+
+</details>
 <!-- AUTO-GENERATED-APPS-END -->
 
 ## Apps

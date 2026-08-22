@@ -53,7 +53,8 @@ def generate_apps_table(
 
     lines = [
         "",
-        "## 📦 APK Downloads",
+        '<details id="apk-downloads">',
+        "<summary><h2>📦 APK Downloads</h2></summary>",
         "",
         "> Automatically synced from upstream GitHub releases. APKs are unmodified.",
         "",
@@ -101,6 +102,8 @@ def generate_apps_table(
     if not has_entries:
         lines.append("| _No APKs synced yet._ | — | — | — | — | — |")
 
+    lines.append("")
+    lines.append("</details>")
     lines.append("")
     return "\n".join(lines)
 
