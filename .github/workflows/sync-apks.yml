@@ -62,11 +62,15 @@ jobs:
           fi
           python scripts/sync.py $ARGS
 
-      - name: Commit metadata and README changes
+      - name: Commit and push metadata and README changes
         if: ${{ inputs.dry_run != 'true' }}
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add data/ README.md
-          git diff --cached --quiet || git commit -m "chore: sync APK releases [skip ci]"
-          git push
+          if ! git diff --cached --quiet; then
+            git commit -m "chore: sync APK releases [skip ci]"
+            for i in {1..5}; do
+              git pull --rebase origin main && git push && break || sleep 3
+            done
+          fi
