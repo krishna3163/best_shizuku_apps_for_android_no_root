@@ -1177,7 +1177,7 @@
     "source_release_id": 328294817,
     "source_tag": "latest",
     "source_published_at": "2026-05-23T11:51:54Z",
-    "synced_at": "2026-08-23T06:25:09.348625+00:00",
+    "synced_at": "2026-08-23T12:20:50.245977+00:00",
     "assets": [
       {
         "source_asset_id": 520498209,
@@ -2074,6 +2074,14 @@
         "sha256": "53fa0e7ca402136a861b38924c40638c2facc410b6f00362a5141a999d850ab3",
         "file_size": 120824337,
         "architecture": "arm64-v8a, armeabi-v7a"
+      },
+      {
+        "source_asset_id": 525927584,
+        "filename": "proton-mail-universal-morphe-patches-v7.11.4.apk",
+        "original_filename": "proton-mail-universal-morphe-patches-v7.11.4.apk",
+        "sha256": "7953e43c9d7570b5d4712e6484203c0b00983df19f5716ed073cd2db0ffe21c3",
+        "file_size": 107986825,
+        "architecture": "arm64-v8a, armeabi, armeabi-v7a, mips, mips64"
       }
     ],
     "mirror_release_tag": "morphe-autobuilds-latest",
