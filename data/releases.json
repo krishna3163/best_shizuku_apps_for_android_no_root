@@ -220,78 +220,78 @@
   },
   "obtainium": {
     "source_repository": "ImranR98/Obtainium",
-    "source_release_id": 375331699,
-    "source_tag": "v1.6.12",
-    "source_published_at": "2026-08-23T21:45:45Z",
-    "synced_at": "2026-08-24T00:43:39.884834+00:00",
+    "source_release_id": 375464907,
+    "source_tag": "v1.6.13",
+    "source_published_at": "2026-08-24T05:33:48Z",
+    "synced_at": "2026-08-24T06:38:39.580933+00:00",
     "assets": [
       {
-        "source_asset_id": 526665312,
+        "source_asset_id": 527138013,
         "filename": "app-arm64-v8a-fdroid-release.apk",
         "original_filename": "app-arm64-v8a-fdroid-release.apk",
-        "sha256": "862d4b1b3d1d7d59f46e882d29835702d700204d5b0bd182da10626a28a4776c",
-        "file_size": 25375417,
+        "sha256": "fae58cba2bd06994cc8b9be6810cd408ff31679f66b9821e940cd29f59b5a222",
+        "file_size": 25379513,
         "architecture": "arm64-v8a"
       },
       {
-        "source_asset_id": 526665369,
+        "source_asset_id": 527138093,
         "filename": "app-arm64-v8a-release.apk",
         "original_filename": "app-arm64-v8a-release.apk",
-        "sha256": "81dfb857f2c58b5b3d5d323ffdc660805dbd38ecd501f9f7c2fe35db7b1c1e48",
-        "file_size": 25375417,
+        "sha256": "c7d1a385635eda9f137db89ad839bbfa63cfdf4ecce92367d15cc4c1d40e1403",
+        "file_size": 25379513,
         "architecture": "arm64-v8a"
       },
       {
-        "source_asset_id": 526665404,
+        "source_asset_id": 527138153,
         "filename": "app-armeabi-v7a-fdroid-release.apk",
         "original_filename": "app-armeabi-v7a-fdroid-release.apk",
-        "sha256": "98f1221db04b449ccb75859931737700446dac39ecf28e11609d671597b29c7b",
-        "file_size": 23470785,
+        "sha256": "5da5838d80c404738f8aba899efc900590d3214d6d0d38129fac24094f57e281",
+        "file_size": 23491265,
         "architecture": "armeabi-v7a"
       },
       {
-        "source_asset_id": 526665438,
+        "source_asset_id": 527138194,
         "filename": "app-armeabi-v7a-release.apk",
         "original_filename": "app-armeabi-v7a-release.apk",
-        "sha256": "244071fdb90351a986ddb014510ae9561c33c0b8e4f3ca0ea63225f2228c24c8",
-        "file_size": 23470785,
+        "sha256": "5d5eb39f9a651b0096f45fba762aa86a6c4a62ec26be4df87c8ba9468fedf7a2",
+        "file_size": 23491265,
         "architecture": "armeabi-v7a"
       },
       {
-        "source_asset_id": 526665481,
+        "source_asset_id": 527138250,
         "filename": "app-fdroid-release.apk",
         "original_filename": "app-fdroid-release.apk",
-        "sha256": "de5d3241d9a16328d9d21cb2105468180eda75bdfa537b805a6f85be5c46f140",
-        "file_size": 69997847,
+        "sha256": "7817c4454daeddce31ee9a9fc1c32606735c67664123b29037c80e35837b216f",
+        "file_size": 70018327,
         "architecture": "arm64-v8a, armeabi-v7a, x86_64"
       },
       {
-        "source_asset_id": 526665574,
+        "source_asset_id": 527138441,
         "filename": "app-release.apk",
         "original_filename": "app-release.apk",
-        "sha256": "19f218fa5302feb71258d527ac10db8e85ca191b8389672dfad9c8a7e1791f44",
-        "file_size": 69997847,
+        "sha256": "f70c46258517bf31e12c734e7afc6e3203c2c83af55019b03991bf910516f9bc",
+        "file_size": 70018327,
         "architecture": "arm64-v8a, armeabi-v7a, x86_64"
       },
       {
-        "source_asset_id": 526665619,
+        "source_asset_id": 527138679,
         "filename": "app-x86_64-fdroid-release.apk",
         "original_filename": "app-x86_64-fdroid-release.apk",
-        "sha256": "b6169494c57885c4874a8e65160052d9ee63ba41b6208d2268d805030169af1c",
-        "file_size": 26923693,
+        "sha256": "b6d3fb75c63ab10fabcb1a75ff1f57a15ae36c1e1c4958b487a9ddf3bc6454ba",
+        "file_size": 26927789,
         "architecture": "x86_64"
       },
       {
-        "source_asset_id": 526665640,
+        "source_asset_id": 527138772,
         "filename": "app-x86_64-release.apk",
         "original_filename": "app-x86_64-release.apk",
-        "sha256": "57edd256c3f300cb617afcc210dc697912506f3cbfb5868366f1bf9b9892bf34",
-        "file_size": 26923693,
+        "sha256": "653a8060af822cf195d0c1780c89367820584b29f6f84ca8f93f9c7b9d1dee3b",
+        "file_size": 26927789,
         "architecture": "x86_64"
       }
     ],
-    "mirror_release_tag": "obtainium-v1.6.12",
-    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/obtainium-v1.6.12"
+    "mirror_release_tag": "obtainium-v1.6.13",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/obtainium-v1.6.13"
   },
   "blocker": {
     "source_repository": "lihenggui/blocker",
@@ -1177,7 +1177,7 @@
     "source_release_id": 328294817,
     "source_tag": "latest",
     "source_published_at": "2026-05-23T11:51:54Z",
-    "synced_at": "2026-08-24T00:44:03.236120+00:00",
+    "synced_at": "2026-08-24T06:38:59.822961+00:00",
     "assets": [
       {
         "source_asset_id": 520498209,
