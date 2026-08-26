@@ -163,22 +163,22 @@
   },
   "hail": {
     "source_repository": "aistra0528/Hail",
-    "source_release_id": 273681700,
-    "source_tag": "v1.10.0",
-    "source_published_at": "2026-01-01T07:30:05Z",
-    "synced_at": "2026-08-22T11:57:38.803503+00:00",
+    "source_release_id": 376945348,
+    "source_tag": "v1.11.0",
+    "source_published_at": "2026-08-26T07:23:01Z",
+    "synced_at": "2026-08-26T12:31:47.845106+00:00",
     "assets": [
       {
-        "source_asset_id": 335123854,
-        "filename": "Hail-v1.10.0.apk",
-        "original_filename": "Hail-v1.10.0.apk",
-        "sha256": "a9103f073eef2480d558f972f3308f7bb1b2b8dcfb81d7be4f918449df06b0de",
-        "file_size": 6158760,
+        "source_asset_id": 530441016,
+        "filename": "Hail-v1.11.0.apk",
+        "original_filename": "Hail-v1.11.0.apk",
+        "sha256": "3be0c4a210b0472198ea3b675fcbd5720fa16288dcff119557644ea947003236",
+        "file_size": 5760575,
         "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
       }
     ],
-    "mirror_release_tag": "hail-v1.10.0",
-    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/hail-v1.10.0"
+    "mirror_release_tag": "hail-v1.11.0",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/hail-v1.11.0"
   },
   "canta": {
     "source_repository": "samolego/Canta",
@@ -763,22 +763,22 @@
   },
   "owndroid": {
     "source_repository": "BinTianqi/OwnDroid",
-    "source_release_id": 335387908,
-    "source_tag": "v8.2",
-    "source_published_at": "2026-06-06T11:02:40Z",
-    "synced_at": "2026-08-22T12:00:44.356646+00:00",
+    "source_release_id": 377044647,
+    "source_tag": "v8.3.1",
+    "source_published_at": "2026-08-26T10:22:24Z",
+    "synced_at": "2026-08-26T12:32:00.141277+00:00",
     "assets": [
       {
-        "source_asset_id": 440137912,
-        "filename": "OwnDroid-v8.2.apk",
-        "original_filename": "OwnDroid-v8.2.apk",
-        "sha256": "e72b8be27e536aa20d8cc905ed031fea0b3ebdda76d05b0e46fcb1586ae10b27",
-        "file_size": 3303352,
+        "source_asset_id": 530636657,
+        "filename": "OwnDroid-v8.3.1.apk",
+        "original_filename": "OwnDroid-v8.3.1.apk",
+        "sha256": "7fc0808a8ee1401cf1f79010efde1d2511be36037725a9e32699595c6e6b8e98",
+        "file_size": 3381555,
         "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
       }
     ],
-    "mirror_release_tag": "owndroid-v8.2",
-    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/owndroid-v8.2"
+    "mirror_release_tag": "owndroid-v8.3.1",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/owndroid-v8.3.1"
   },
   "wg-tunnel": {
     "source_repository": "wgtunnel/wgtunnel",
@@ -1177,7 +1177,7 @@
     "source_release_id": 328294817,
     "source_tag": "latest",
     "source_published_at": "2026-05-23T11:51:54Z",
-    "synced_at": "2026-08-26T06:32:21.188695+00:00",
+    "synced_at": "2026-08-26T12:32:23.715083+00:00",
     "assets": [
       {
         "source_asset_id": 520498209,
@@ -2082,6 +2082,30 @@
         "sha256": "7953e43c9d7570b5d4712e6484203c0b00983df19f5716ed073cd2db0ffe21c3",
         "file_size": 107986825,
         "architecture": "arm64-v8a, armeabi, armeabi-v7a, mips, mips64"
+      },
+      {
+        "source_asset_id": 530403563,
+        "filename": "disney-plus-universal-morphe-patches-v26.14.1-rc2-2026.08.20.apk",
+        "original_filename": "disney-plus-universal-morphe-patches-v26.14.1+rc2-2026.08.20.apk",
+        "sha256": "580dcd830a8d7903435912b3f3dc468bdecc409445b846bf13c7df084ebd3e8f",
+        "file_size": 44711159,
+        "architecture": "armeabi-v7a"
+      },
+      {
+        "source_asset_id": 530404328,
+        "filename": "teuida-universal-morphe-patches-v1.22.8.apk",
+        "original_filename": "teuida-universal-morphe-patches-v1.22.8.apk",
+        "sha256": "a1847b24b6ed46a7034d21761dbafe18bd791310cdfa764d0fb5655ddf77b7e5",
+        "file_size": 99561937,
+        "architecture": "arm64-v8a"
+      },
+      {
+        "source_asset_id": 530404402,
+        "filename": "tumblr-universal-morphe-patches-v46.0.0.107.apk",
+        "original_filename": "tumblr-universal-morphe-patches-v46.0.0.107.apk",
+        "sha256": "7ee919d643de89e848c1fd03a3f3103f747fd9b083f72d0d3ecda9ed7919c514",
+        "file_size": 45697324,
+        "architecture": "arm64-v8a, armeabi-v7a"
       }
     ],
     "mirror_release_tag": "morphe-autobuilds-latest",
