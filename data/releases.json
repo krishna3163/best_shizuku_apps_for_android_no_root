@@ -1177,7 +1177,7 @@
     "source_release_id": 328294817,
     "source_tag": "latest",
     "source_published_at": "2026-05-23T11:51:54Z",
-    "synced_at": "2026-08-27T17:07:53.675150+00:00",
+    "synced_at": "2026-08-28T01:56:07.952551+00:00",
     "assets": [
       {
         "source_asset_id": 520498209,
@@ -2105,6 +2105,22 @@
         "original_filename": "tumblr-universal-morphe-patches-v46.0.0.107.apk",
         "sha256": "7ee919d643de89e848c1fd03a3f3103f747fd9b083f72d0d3ecda9ed7919c514",
         "file_size": 45697324,
+        "architecture": "arm64-v8a, armeabi-v7a"
+      },
+      {
+        "source_asset_id": 532631803,
+        "filename": "kakaotalk-universal-revanced-patches-v26.7.2.apk",
+        "original_filename": "kakaotalk-universal-revanced-patches-v26.7.2.apk",
+        "sha256": "5dc229cec84233acf6712d0b9c76c5e70c6947d2ad4e7223d7d71089c8b0785f",
+        "file_size": 169771241,
+        "architecture": "arm64-v8a"
+      },
+      {
+        "source_asset_id": 532631808,
+        "filename": "smart_launcher-universal-morphe-patches-v6.6.build.016.apk",
+        "original_filename": "smart_launcher-universal-morphe-patches-v6.6.build.016.apk",
+        "sha256": "953c7ab5635982a52ac873ca43060bc6e65286293c987e8b3c950b8dfc27d4a0",
+        "file_size": 21782818,
         "architecture": "arm64-v8a, armeabi-v7a"
       }
     ],
