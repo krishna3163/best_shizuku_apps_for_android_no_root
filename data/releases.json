@@ -1079,22 +1079,22 @@
   },
   "de1984": {
     "source_repository": "dorumrr/de1984",
-    "source_release_id": 377852490,
-    "source_tag": "v2.6.6",
-    "source_published_at": "2026-08-27T13:39:29Z",
-    "synced_at": "2026-08-27T17:07:42.941568+00:00",
+    "source_release_id": 378807073,
+    "source_tag": "v2.6.9",
+    "source_published_at": "2026-08-28T23:07:53Z",
+    "synced_at": "2026-08-29T01:20:08.245585+00:00",
     "assets": [
       {
-        "source_asset_id": 532357927,
-        "filename": "de1984-v2.6.6.apk",
-        "original_filename": "de1984-v2.6.6.apk",
-        "sha256": "a8184d3a046c032510253216248966610bda33d682ba429d1108fac2fc36f186",
-        "file_size": 6447370,
+        "source_asset_id": 534454698,
+        "filename": "de1984-v2.6.9.apk",
+        "original_filename": "de1984-v2.6.9.apk",
+        "sha256": "5ee5b7d923ae006ec729fd90ad8bc1b226ec76874a2a5e6b75ce6255954e3e4e",
+        "file_size": 6473606,
         "architecture": "unknown"
       }
     ],
-    "mirror_release_tag": "de1984-v2.6.6",
-    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/de1984-v2.6.6"
+    "mirror_release_tag": "de1984-v2.6.9",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/de1984-v2.6.9"
   },
   "tarnhelm": {
     "source_repository": "lz233/Tarnhelm",
@@ -1177,7 +1177,7 @@
     "source_release_id": 328294817,
     "source_tag": "latest",
     "source_published_at": "2026-05-23T11:51:54Z",
-    "synced_at": "2026-08-28T17:54:50.281369+00:00",
+    "synced_at": "2026-08-29T01:20:22.451438+00:00",
     "assets": [
       {
         "source_asset_id": 520498209,
@@ -2121,6 +2121,22 @@
         "original_filename": "smart_launcher-universal-morphe-patches-v6.6.build.016.apk",
         "sha256": "953c7ab5635982a52ac873ca43060bc6e65286293c987e8b3c950b8dfc27d4a0",
         "file_size": 21782818,
+        "architecture": "arm64-v8a, armeabi-v7a"
+      },
+      {
+        "source_asset_id": 534177473,
+        "filename": "fotmob-universal-morphe-patches-v236.17398.20260827.apk",
+        "original_filename": "fotmob-universal-morphe-patches-v236.17398.20260827.apk",
+        "sha256": "9365e11e2d2576ad01980ea1d6af9de2ce0bd099ab4734627256eaa850fc2c5e",
+        "file_size": 30749429,
+        "architecture": "arm64-v8a, armeabi-v7a"
+      },
+      {
+        "source_asset_id": 534177478,
+        "filename": "hellochinese-universal-morphe-patches-v7.11.0.apk",
+        "original_filename": "hellochinese-universal-morphe-patches-v7.11.0.apk",
+        "sha256": "bd74969617094b9c6365f02d2802c48241975ea6b5069afa4f1160209e6cf74c",
+        "file_size": 62383653,
         "architecture": "arm64-v8a, armeabi-v7a"
       }
     ],
