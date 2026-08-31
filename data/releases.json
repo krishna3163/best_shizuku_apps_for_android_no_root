@@ -1177,7 +1177,7 @@
     "source_release_id": 328294817,
     "source_tag": "latest",
     "source_published_at": "2026-05-23T11:51:54Z",
-    "synced_at": "2026-08-31T12:13:34.449941+00:00",
+    "synced_at": "2026-08-31T22:14:00.315193+00:00",
     "assets": [
       {
         "source_asset_id": 520498209,
@@ -2258,6 +2258,110 @@
         "sha256": "bef1a20c144ce80244ecf902dc818f510b9aa86fe5bf521f420a88263b7e38c3",
         "file_size": 12682388,
         "architecture": "arm64-v8a, armeabi-v7a"
+      },
+      {
+        "source_asset_id": 538011214,
+        "filename": "crex-universal-paresh-v26.08.06.apk",
+        "original_filename": "crex-universal-paresh-v26.08.06.apk",
+        "sha256": "4c877ffab6f2b9ac9de98e7200ffe1c7a2b046b5155b0c1d815f79cf218c0e68",
+        "file_size": 77136447,
+        "architecture": "arm64-v8a, armeabi-v7a"
+      },
+      {
+        "source_asset_id": 538058951,
+        "filename": "google-photos-arm64-v8a-morphe-patches-v7.89.0.968035987.apk",
+        "original_filename": "google-photos-arm64-v8a-morphe-patches-v7.89.0.968035987.apk",
+        "sha256": "17218ebc6ebfe1b62ae88fca985f38d4dee026f16d956c6c7815d9e94263751b",
+        "file_size": 91757492,
+        "architecture": "arm64-v8a"
+      },
+      {
+        "source_asset_id": 538058953,
+        "filename": "google-photos-armeabi-v7a-morphe-patches-v7.89.0.968035987.apk",
+        "original_filename": "google-photos-armeabi-v7a-morphe-patches-v7.89.0.968035987.apk",
+        "sha256": "3f9744b34872248dd4c091cbe73b7695a8de1524b53bcd01cb96aade9f762fd1",
+        "file_size": 87223236,
+        "architecture": "armeabi-v7a"
+      },
+      {
+        "source_asset_id": 538011212,
+        "filename": "hevy-universal-morphe-patches-v3.1.11.apk",
+        "original_filename": "hevy-universal-morphe-patches-v3.1.11.apk",
+        "sha256": "d03bfdeaf5a90990489f9a4e707971aa05ed02b9f39ff04b6b299e16c4b6f809",
+        "file_size": 133177542,
+        "architecture": "arm64-v8a"
+      },
+      {
+        "source_asset_id": 538224843,
+        "filename": "icon-packer-universal-morphe-patches-v1.21.0.apk",
+        "original_filename": "icon-packer-universal-morphe-patches-v1.21.0.apk",
+        "sha256": "9104af534f3a8cf0e4930bacdccc2dde363b72dcca64f3b5a77ac5535c71a295",
+        "file_size": 16007727,
+        "architecture": "armeabi-v7a"
+      },
+      {
+        "source_asset_id": 538224842,
+        "filename": "nomone-universal-morphe-patches-v1.9.4.apk",
+        "original_filename": "nomone-universal-morphe-patches-v1.9.4.apk",
+        "sha256": "16e9ade6f73d512239f324f3ffad83bcb4342049d22c265c469c91dff447679c",
+        "file_size": 76110070,
+        "architecture": "armeabi-v7a"
+      },
+      {
+        "source_asset_id": 538224874,
+        "filename": "pinterest-universal-morphe-patches-v14.14.0.apk",
+        "original_filename": "pinterest-universal-morphe-patches-v14.14.0.apk",
+        "sha256": "1d8a42508235d2f0690a6714e825e0cb9a585407bc900f63ea503757b30f5c7d",
+        "file_size": 82013449,
+        "architecture": "arm64-v8a, armeabi-v7a"
+      },
+      {
+        "source_asset_id": 537969008,
+        "filename": "proton-mail-universal-morphe-patches-v7.11.5.apk",
+        "original_filename": "proton-mail-universal-morphe-patches-v7.11.5.apk",
+        "sha256": "4783c6d5aa6af5c8142bbe6f546ff483145be50180d51da8f8422f390bc94954",
+        "file_size": 108654986,
+        "architecture": "arm64-v8a, armeabi, armeabi-v7a, mips, mips64"
+      },
+      {
+        "source_asset_id": 538224866,
+        "filename": "strava-universal-morphe-patches-v477.14.apk",
+        "original_filename": "strava-universal-morphe-patches-v477.14.apk",
+        "sha256": "927ed5b8cabfbbf4139845c2c11865e6f170c1fc541cb3e06ab4cf8eaabb9444",
+        "file_size": 172515253,
+        "architecture": "arm64-v8a, armeabi-v7a"
+      },
+      {
+        "source_asset_id": 538011213,
+        "filename": "tasker-universal-dropped-v6.7.3.apk",
+        "original_filename": "tasker-universal-dropped-v6.7.3.apk",
+        "sha256": "9f77839195704d3deee0c233c698f93ae9f4d9fff867a8bd1b6f97a5b9e3f065",
+        "file_size": 41245915,
+        "architecture": "arm64-v8a, armeabi-v7a"
+      },
+      {
+        "source_asset_id": 538011210,
+        "filename": "threads-universal-morphe-patches-v444.0.0.45.85.apk",
+        "original_filename": "threads-universal-morphe-patches-v444.0.0.45.85.apk",
+        "sha256": "b6a9db39ebe365d9ea02d506446b4b2679f1522f4f1ebc066ea4d3e1a72de57b",
+        "file_size": 81523063,
+        "architecture": "arm64-v8a"
+      },
+      {
+        "source_asset_id": 538011211,
+        "filename": "trakt-universal-revanced-patches-v3.19.0.apk",
+        "original_filename": "trakt-universal-revanced-patches-v3.19.0.apk",
+        "sha256": "fc0fae13d18adbf63b040998e1e7fbf2bb65f6f7e77d2c29d9068b7efee9e0a6",
+        "file_size": 14579223,
+        "architecture": "arm64-v8a, armeabi-v7a"
+      },
+      {
+        "source_asset_id": 537969078,
+        "filename": "tumblr-universal-morphe-patches-v11.4.2.14.apk",
+        "original_filename": "tumblr-universal-morphe-patches-v11.4.2.14.apk",
+        "sha256": "76414aba7b0a69bad8847a962461915c5ac9718dbb8d23d1768ba1bae46d4fc7",
+        "file_size": 17034631,
+        "architecture": "armeabi-v7a"
       }
     ],
     "mirror_release_tag": "morphe-autobuilds-latest",
