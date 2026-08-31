@@ -1177,7 +1177,7 @@
     "source_release_id": 328294817,
     "source_tag": "latest",
     "source_published_at": "2026-05-23T11:51:54Z",
-    "synced_at": "2026-08-31T02:27:20.012311+00:00",
+    "synced_at": "2026-08-31T12:13:34.449941+00:00",
     "assets": [
       {
         "source_asset_id": 520498209,
@@ -2137,6 +2137,126 @@
         "original_filename": "hellochinese-universal-morphe-patches-v7.11.0.apk",
         "sha256": "bd74969617094b9c6365f02d2802c48241975ea6b5069afa4f1160209e6cf74c",
         "file_size": 62383653,
+        "architecture": "arm64-v8a, armeabi-v7a"
+      },
+      {
+        "source_asset_id": 537602039,
+        "filename": "crunchyroll-universal-morphe-patches-v2.6.0.apk",
+        "original_filename": "crunchyroll-universal-morphe-patches-v2.6.0.apk",
+        "sha256": "e484f96b73fdbef5701701b5b8f8e5e8563828e7ab44a94c8d205ab0d2feca80",
+        "file_size": 95133364,
+        "architecture": "arm64-v8a, armeabi-v7a"
+      },
+      {
+        "source_asset_id": 537641495,
+        "filename": "dialer-universal-revanced-patches-v236.0.969488611-publicbeta-downloadable.apk",
+        "original_filename": "dialer-universal-revanced-patches-v236.0.969488611-publicbeta-downloadable.apk",
+        "sha256": "e07252f62ed8c8f35023d48260fa9e0e23632849d967bc2ebacde462e9bc8c03",
+        "file_size": 28280553,
+        "architecture": "arm64-v8a"
+      },
+      {
+        "source_asset_id": 537602037,
+        "filename": "fxfile-universal-dropped-v9.1.0.8.apk",
+        "original_filename": "fxfile-universal-dropped-v9.1.0.8.apk",
+        "sha256": "715bf69710584e9df6e6ea5f5a1be5b4a0808ba8f3e70bd9290aa2929cadb7ef",
+        "file_size": 12623117,
+        "architecture": "arm64-v8a, armeabi-v7a"
+      },
+      {
+        "source_asset_id": 537811574,
+        "filename": "geocaching-universal-morphe-patches-v10.18.0.apk",
+        "original_filename": "geocaching-universal-morphe-patches-v10.18.0.apk",
+        "sha256": "32dee777562ce712fbe301775f8a8f5ce48198d88ed7e25c0b6b7efa6f98a791",
+        "file_size": 48033387,
+        "architecture": "arm64-v8a, armeabi-v7a"
+      },
+      {
+        "source_asset_id": 537811577,
+        "filename": "google-photos-armeabi-v7a-morphe-patches-v7.90.0.970693120.apk",
+        "original_filename": "google-photos-armeabi-v7a-morphe-patches-v7.90.0.970693120.apk",
+        "sha256": "7fa16f9dd2a89066ba50c96444eb69d897f38aa23a31ca0e2da11e9930b39b60",
+        "file_size": 125555101,
+        "architecture": "armeabi-v7a"
+      },
+      {
+        "source_asset_id": 537602074,
+        "filename": "ibs_paint-universal-morphe-patches-v14.0.11.apk",
+        "original_filename": "ibs_paint-universal-morphe-patches-v14.0.11.apk",
+        "sha256": "8426c1a370dd7ca70ffd3bb05bc666eca91059620d97c6acb7a360a0ffbe38da",
+        "file_size": 29250216,
+        "architecture": "arm64-v8a"
+      },
+      {
+        "source_asset_id": 537602101,
+        "filename": "kicker-universal-revanced-patches-v6.7.2.apk",
+        "original_filename": "kicker-universal-revanced-patches-v6.7.2.apk",
+        "sha256": "c647a39418bf321dde0dba6b7c15f7d6cc5d4f92ba4ab14e9b64606f8cffaeb5",
+        "file_size": 22113703,
+        "architecture": "universal"
+      },
+      {
+        "source_asset_id": 537602107,
+        "filename": "lightroom-universal-morphe-patches-v11.5.01.apk",
+        "original_filename": "lightroom-universal-morphe-patches-v11.5.01.apk",
+        "sha256": "632a3786b906c222b155771e7d53df0da814fe70d0d8678937eac8142a293efb",
+        "file_size": 95989306,
+        "architecture": "arm64-v8a"
+      },
+      {
+        "source_asset_id": 537602141,
+        "filename": "messenger-universal-morphe-patches-v573.0.0.44.88.apk",
+        "original_filename": "messenger-universal-morphe-patches-v573.0.0.44.88.apk",
+        "sha256": "0812e09a76f9c654f3abd1cf4ea7f09fe6b63f87cddd361820ff9cbbaae30467",
+        "file_size": 189844911,
+        "architecture": "arm64-v8a"
+      },
+      {
+        "source_asset_id": 537602179,
+        "filename": "myfitnesspal-universal-morphe-patches-v26.31.0.apk",
+        "original_filename": "myfitnesspal-universal-morphe-patches-v26.31.0.apk",
+        "sha256": "f7647bc5d4e866565001209af30e05cb18a74a348066f527c70081f1e16aca04",
+        "file_size": 45755451,
+        "architecture": "arm64-v8a, armeabi-v7a"
+      },
+      {
+        "source_asset_id": 537602191,
+        "filename": "niagara-universal-morphe-patches-v1.16.24.apk",
+        "original_filename": "niagara-universal-morphe-patches-v1.16.24.apk",
+        "sha256": "bfe4b946c8a8bbe0084af433d52c277405c861ff2345d94e95acc4c8e062e1b4",
+        "file_size": 14454572,
+        "architecture": "arm64-v8a, armeabi-v7a"
+      },
+      {
+        "source_asset_id": 537602280,
+        "filename": "solid-universal-morphe-patches-v3.5.19.apk",
+        "original_filename": "solid-universal-morphe-patches-v3.5.19.apk",
+        "sha256": "5a088d30a6135ab3242071c4a95b57e45944a28c60a7dff30873f6340aa800c9",
+        "file_size": 19411313,
+        "architecture": "universal"
+      },
+      {
+        "source_asset_id": 537602283,
+        "filename": "soundcloud-universal-morphe-patches-v2026.08.26-release.apk",
+        "original_filename": "soundcloud-universal-morphe-patches-v2026.08.26-release.apk",
+        "sha256": "c0ae37ca4e4f4b6353731fddf6020ab207b58b6162bcc9d46b155170f30a1bf4",
+        "file_size": 60408988,
+        "architecture": "arm64-v8a, armeabi-v7a"
+      },
+      {
+        "source_asset_id": 537602303,
+        "filename": "teuida-universal-morphe-patches-v1.12.8.apk",
+        "original_filename": "teuida-universal-morphe-patches-v1.12.8.apk",
+        "sha256": "3cafbcf75edc4d4af0ea2d19913bf73445bbd489210e2cb653b24d56b98955d5",
+        "file_size": 82040822,
+        "architecture": "universal"
+      },
+      {
+        "source_asset_id": 537602305,
+        "filename": "ticktick-universal-paresh-v8.1.3.3.apk",
+        "original_filename": "ticktick-universal-paresh-v8.1.3.3.apk",
+        "sha256": "bef1a20c144ce80244ecf902dc818f510b9aa86fe5bf521f420a88263b7e38c3",
+        "file_size": 12682388,
         "architecture": "arm64-v8a, armeabi-v7a"
       }
     ],
