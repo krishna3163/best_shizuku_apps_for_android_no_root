@@ -1155,29 +1155,53 @@
   },
   "microg-re": {
     "source_repository": "MorpheApp/MicroG-RE",
-    "source_release_id": 314728907,
-    "source_tag": "6.1.4",
-    "source_published_at": "2026-04-28T17:13:14Z",
-    "synced_at": "2026-08-22T12:35:06.232049+00:00",
+    "source_release_id": 380487160,
+    "source_tag": "7.0.0",
+    "source_published_at": "2026-09-01T12:43:56Z",
+    "synced_at": "2026-09-01T15:47:36.384526+00:00",
     "assets": [
       {
-        "source_asset_id": 407554800,
-        "filename": "microg-6.1.4.apk",
-        "original_filename": "microg-6.1.4.apk",
-        "sha256": "907b0f1d64d4bdf2fc15df596129cdf9f140f5360f557d24ff2e987c9f586f15",
-        "file_size": 13393291,
+        "source_asset_id": 539536009,
+        "filename": "microg-7.0.0-arm64-v8a.apk",
+        "original_filename": "microg-7.0.0-arm64-v8a.apk",
+        "sha256": "968cc8bac47efb80e1cb82e9f9df113300464cdbd5ee9bcb1fd2f8fa8b957cc1",
+        "file_size": 44567249,
+        "architecture": "arm64-v8a"
+      },
+      {
+        "source_asset_id": 539536131,
+        "filename": "microg-7.0.0-noicon-arm64-v8a.apk",
+        "original_filename": "microg-7.0.0-noicon-arm64-v8a.apk",
+        "sha256": "5666edc4d6d5ff020211004d845906e3b2d9b06a0a832f515d2bbe60c58fba19",
+        "file_size": 44567249,
+        "architecture": "arm64-v8a"
+      },
+      {
+        "source_asset_id": 539535709,
+        "filename": "microg-7.0.0-noicon.apk",
+        "original_filename": "microg-7.0.0-noicon.apk",
+        "sha256": "96b540c1a7c165608b709b897ebcad9d7be21afb1bb99484ac7f7c5eb2f2bb3b",
+        "file_size": 112005445,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      },
+      {
+        "source_asset_id": 539535883,
+        "filename": "microg-7.0.0.apk",
+        "original_filename": "microg-7.0.0.apk",
+        "sha256": "ca09fe3306d727af9f8c3bf1eae99759cb1b2741d9c0c243fe8f3bab6938018b",
+        "file_size": 112005445,
         "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
       }
     ],
-    "mirror_release_tag": "microg-re-6.1.4",
-    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/microg-re-6.1.4"
+    "mirror_release_tag": "microg-re-7.0.0",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/microg-re-7.0.0"
   },
   "morphe-autobuilds": {
     "source_repository": "RookieEnough/Morphe-AutoBuilds",
     "source_release_id": 328294817,
     "source_tag": "latest",
     "source_published_at": "2026-05-23T11:51:54Z",
-    "synced_at": "2026-09-01T10:48:45.085824+00:00",
+    "synced_at": "2026-09-01T15:47:58.568148+00:00",
     "assets": [
       {
         "source_asset_id": 520498209,
@@ -2362,6 +2386,30 @@
         "sha256": "76414aba7b0a69bad8847a962461915c5ac9718dbb8d23d1768ba1bae46d4fc7",
         "file_size": 17034631,
         "architecture": "armeabi-v7a"
+      },
+      {
+        "source_asset_id": 539430841,
+        "filename": "google-photos-arm64-v8a-morphe-patches-v7.90.0.971743778.apk",
+        "original_filename": "google-photos-arm64-v8a-morphe-patches-v7.90.0.971743778.apk",
+        "sha256": "e955166a16eecde06562613abe32fefaa78c698d605572cd831fb9583e9d55f6",
+        "file_size": 91559424,
+        "architecture": "arm64-v8a"
+      },
+      {
+        "source_asset_id": 539430839,
+        "filename": "hevy-universal-morphe-patches-v3.1.12.apk",
+        "original_filename": "hevy-universal-morphe-patches-v3.1.12.apk",
+        "sha256": "b6b235f74f145f830e42582820b76d6107bda94b47e0643dd471b9a4bed55797",
+        "file_size": 141881660,
+        "architecture": "arm64-v8a"
+      },
+      {
+        "source_asset_id": 539430975,
+        "filename": "nova-universal-morphe-patches-v8.8.8.apk",
+        "original_filename": "nova-universal-morphe-patches-v8.8.8.apk",
+        "sha256": "fd36878a5de4a6846660e062dcdc77b36983a2aa2f2cbd55023be3bced2b4562",
+        "file_size": 37139515,
+        "architecture": "arm64-v8a, armeabi-v7a"
       }
     ],
     "mirror_release_tag": "morphe-autobuilds-latest",
