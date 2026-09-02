@@ -1201,7 +1201,7 @@
     "source_release_id": 328294817,
     "source_tag": "latest",
     "source_published_at": "2026-05-23T11:51:54Z",
-    "synced_at": "2026-09-02T10:13:42.135427+00:00",
+    "synced_at": "2026-09-02T15:39:47.165259+00:00",
     "assets": [
       {
         "source_asset_id": 520498209,
@@ -2409,6 +2409,22 @@
         "original_filename": "nova-universal-morphe-patches-v8.8.8.apk",
         "sha256": "fd36878a5de4a6846660e062dcdc77b36983a2aa2f2cbd55023be3bced2b4562",
         "file_size": 37139515,
+        "architecture": "arm64-v8a, armeabi-v7a"
+      },
+      {
+        "source_asset_id": 541018787,
+        "filename": "macrodroid-universal-paresh-v5.10.6.20190522.apk",
+        "original_filename": "macrodroid-universal-paresh-v5.10.6.20190522.apk",
+        "sha256": "1ba2efc380968a64ee40007f0bfc642f71ba80badd26501c0865e3afef9bdf79",
+        "file_size": 63705703,
+        "architecture": "armeabi"
+      },
+      {
+        "source_asset_id": 541018866,
+        "filename": "youtube-universal-morphe-v21.07.247.apk",
+        "original_filename": "youtube-universal-morphe-v21.07.247.apk",
+        "sha256": "c72d790d704a8126d5be5c5eec0195843fec2cbf408094f5503275b975807487",
+        "file_size": 122539974,
         "architecture": "arm64-v8a, armeabi-v7a"
       }
     ],
