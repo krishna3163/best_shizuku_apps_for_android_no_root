@@ -1079,22 +1079,22 @@
   },
   "de1984": {
     "source_repository": "dorumrr/de1984",
-    "source_release_id": 382310826,
-    "source_tag": "v2.7.4",
-    "source_published_at": "2026-09-03T20:24:32Z",
-    "synced_at": "2026-09-04T02:05:30.439368+00:00",
+    "source_release_id": 382655673,
+    "source_tag": "v2.7.5",
+    "source_published_at": "2026-09-04T10:53:52Z",
+    "synced_at": "2026-09-04T15:28:17.388455+00:00",
     "assets": [
       {
-        "source_asset_id": 543293553,
-        "filename": "de1984-v2.7.4.apk",
-        "original_filename": "de1984-v2.7.4.apk",
-        "sha256": "ea1b40ec7adaddc81e602bba37aa430689dc5f1ff02ce1fd681002eb52f8dba8",
-        "file_size": 6538659,
+        "source_asset_id": 544197819,
+        "filename": "de1984-v2.7.5.apk",
+        "original_filename": "de1984-v2.7.5.apk",
+        "sha256": "75c52659e9673d8f9c738ace0a7123e3b213930ec81a03be091c9143dacf862b",
+        "file_size": 6538779,
         "architecture": "unknown"
       }
     ],
-    "mirror_release_tag": "de1984-v2.7.4",
-    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/de1984-v2.7.4"
+    "mirror_release_tag": "de1984-v2.7.5",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/de1984-v2.7.5"
   },
   "tarnhelm": {
     "source_repository": "lz233/Tarnhelm",
@@ -1201,7 +1201,7 @@
     "source_release_id": 328294817,
     "source_tag": "latest",
     "source_published_at": "2026-05-23T11:51:54Z",
-    "synced_at": "2026-09-04T10:11:54.308529+00:00",
+    "synced_at": "2026-09-04T15:28:58.842803+00:00",
     "assets": [
       {
         "source_asset_id": 520498209,
@@ -2426,6 +2426,78 @@
         "sha256": "c72d790d704a8126d5be5c5eec0195843fec2cbf408094f5503275b975807487",
         "file_size": 122539974,
         "architecture": "arm64-v8a, armeabi-v7a"
+      },
+      {
+        "source_asset_id": 544187328,
+        "filename": "cake-universal-morphe-patches-v6.8.1.apk",
+        "original_filename": "cake-universal-morphe-patches-v6.8.1.apk",
+        "sha256": "2b93bf21b3c941a4711f18ea4ab5c08235956b479794335ce511f70abaffbfa2",
+        "file_size": 34444187,
+        "architecture": "armeabi-v7a"
+      },
+      {
+        "source_asset_id": 544187359,
+        "filename": "crex-universal-paresh-v26.09.01.apk",
+        "original_filename": "crex-universal-paresh-v26.09.01.apk",
+        "sha256": "2fc9538727ae74e27c836d7be60e77c521f36e365f8d84f007ce59da8078f59c",
+        "file_size": 77132351,
+        "architecture": "arm64-v8a, armeabi-v7a"
+      },
+      {
+        "source_asset_id": 544187454,
+        "filename": "google-photos-arm64-v8a-morphe-patches-v7.91.0.973540846.apk",
+        "original_filename": "google-photos-arm64-v8a-morphe-patches-v7.91.0.973540846.apk",
+        "sha256": "8d3df2d3de1fffe1cc0f3bb8858fe68662048a0047933f917ebbc32eb8a0294d",
+        "file_size": 91648479,
+        "architecture": "arm64-v8a"
+      },
+      {
+        "source_asset_id": 544187522,
+        "filename": "instagram-arm64-v8a-piko-patches-v439.0.0.37.89.apk",
+        "original_filename": "instagram-arm64-v8a-piko-patches-v439.0.0.37.89.apk",
+        "sha256": "058adcc176218722754097026ef8560a34433c3c8b2126e4adc869ba7d834f21",
+        "file_size": 144374816,
+        "architecture": "arm64-v8a"
+      },
+      {
+        "source_asset_id": 544187698,
+        "filename": "mimo-universal-morphe-patches-v9.27.apk",
+        "original_filename": "mimo-universal-morphe-patches-v9.27.apk",
+        "sha256": "aa56dbfe58b8ebb1a803c9247667231597fdae4f1011fde1c4b3dcf8679fcd68",
+        "file_size": 120102998,
+        "architecture": "arm64-v8a, armeabi-v7a"
+      },
+      {
+        "source_asset_id": 544187753,
+        "filename": "pandora-universal-morphe-patches-v2608.1.apk",
+        "original_filename": "pandora-universal-morphe-patches-v2608.1.apk",
+        "sha256": "738fb492cf3ef3cbd2e48175353dd091573992ac2080abe68e05bc78bb541708",
+        "file_size": 62154866,
+        "architecture": "arm64-v8a, armeabi-v7a"
+      },
+      {
+        "source_asset_id": 544187792,
+        "filename": "podcast-universal-morphe-patches-v2.2.apk",
+        "original_filename": "podcast-universal-morphe-patches-v2.2.apk",
+        "sha256": "2dfc6147837448e1fe0e83b7535a1a9f5302f4b955a22740bfc9465cce032b10",
+        "file_size": 3423596,
+        "architecture": "armeabi-v7a"
+      },
+      {
+        "source_asset_id": 544187889,
+        "filename": "snorelab-universal-morphe-patches-v2.24.03.apk",
+        "original_filename": "snorelab-universal-morphe-patches-v2.24.03.apk",
+        "sha256": "ecafd803bd33a0ff33e8e5e8171d18a0be3671fdec7d336fdf7252653b211b45",
+        "file_size": 45452461,
+        "architecture": "arm64-v8a, armeabi-v7a"
+      },
+      {
+        "source_asset_id": 544187972,
+        "filename": "threads-universal-morphe-patches-v445.0.0.46.83.apk",
+        "original_filename": "threads-universal-morphe-patches-v445.0.0.46.83.apk",
+        "sha256": "3587f4a641122bada768bde8c8d09bc8bb3fb07061d5c34a31491d3042269c7a",
+        "file_size": 84069185,
+        "architecture": "arm64-v8a"
       }
     ],
     "mirror_release_tag": "morphe-autobuilds-latest",
