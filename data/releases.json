@@ -782,62 +782,62 @@
   },
   "wg-tunnel": {
     "source_repository": "wgtunnel/wgtunnel",
-    "source_release_id": 377542217,
-    "source_tag": "5.6.0",
-    "source_published_at": "2026-08-27T03:08:44Z",
-    "synced_at": "2026-08-27T05:52:01.380276+00:00",
+    "source_release_id": 383139294,
+    "source_tag": "5.7.0",
+    "source_published_at": "2026-09-05T04:59:39Z",
+    "synced_at": "2026-09-05T09:41:19.841825+00:00",
     "assets": [
       {
-        "source_asset_id": 531669749,
-        "filename": "wgtunnel-fdroid-v5.6.0-arm64.apk",
-        "original_filename": "wgtunnel-fdroid-v5.6.0-arm64.apk",
-        "sha256": "9ac71e4aaae3749fb3be5233803f60bd9f447bbfa569fbbd29f6922500724e69",
-        "file_size": 19709868,
+        "source_asset_id": 545385547,
+        "filename": "wgtunnel-fdroid-v5.7.0-arm64.apk",
+        "original_filename": "wgtunnel-fdroid-v5.7.0-arm64.apk",
+        "sha256": "a93c9b3e8da4f89d4335c1189de4d4bf4e06f7eadc8b318fafddf905ed6bbc24",
+        "file_size": 19753358,
         "architecture": "arm64-v8a"
       },
       {
-        "source_asset_id": 531669753,
-        "filename": "wgtunnel-fdroid-v5.6.0-armv7.apk",
-        "original_filename": "wgtunnel-fdroid-v5.6.0-armv7.apk",
-        "sha256": "96cf40bea36587008fcdbd9945c24ee01d5fe6c4618e2a34a7e40420077ea722",
-        "file_size": 19282464,
+        "source_asset_id": 545385549,
+        "filename": "wgtunnel-fdroid-v5.7.0-armv7.apk",
+        "original_filename": "wgtunnel-fdroid-v5.7.0-armv7.apk",
+        "sha256": "6f29d5cfb2fefa37de32b83d192852188d232724131f324eeeda2e8c62fe31c6",
+        "file_size": 19309570,
         "architecture": "armeabi-v7a"
       },
       {
-        "source_asset_id": 531669750,
-        "filename": "wgtunnel-fdroid-v5.6.0.apk",
-        "original_filename": "wgtunnel-fdroid-v5.6.0.apk",
-        "sha256": "d5b58efba668d13b8bca6d26d2970ba89624c3dd15fce21973fbe8f70d3a7569",
-        "file_size": 56723225,
+        "source_asset_id": 545385548,
+        "filename": "wgtunnel-fdroid-v5.7.0.apk",
+        "original_filename": "wgtunnel-fdroid-v5.7.0.apk",
+        "sha256": "cbac714369f80d25f2fc660442d2b456c74feb986c25fe7d50e68da604d779e5",
+        "file_size": 56783099,
         "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
       },
       {
-        "source_asset_id": 531669752,
-        "filename": "wgtunnel-standalone-v5.6.0-arm64.apk",
-        "original_filename": "wgtunnel-standalone-v5.6.0-arm64.apk",
-        "sha256": "b5b86e4006da527269b6e9b2a6b83d8c2587eedadec1e3cab0524c036981e630",
-        "file_size": 19732768,
+        "source_asset_id": 545385546,
+        "filename": "wgtunnel-standalone-v5.7.0-arm64.apk",
+        "original_filename": "wgtunnel-standalone-v5.7.0-arm64.apk",
+        "sha256": "035f0142933ff4c2b0d2de2607158c3ae87a26dad380c6b0a6951d4ae0a79543",
+        "file_size": 19776254,
         "architecture": "arm64-v8a"
       },
       {
-        "source_asset_id": 531669748,
-        "filename": "wgtunnel-standalone-v5.6.0-armv7.apk",
-        "original_filename": "wgtunnel-standalone-v5.6.0-armv7.apk",
-        "sha256": "5cfeeb4178b34eb903930193174e79e015db043dbfcd9b7c7618b5daeb8bb0a5",
-        "file_size": 19305364,
+        "source_asset_id": 545385550,
+        "filename": "wgtunnel-standalone-v5.7.0-armv7.apk",
+        "original_filename": "wgtunnel-standalone-v5.7.0-armv7.apk",
+        "sha256": "46cbbe13a04e1f568f844f5c63f2e2981e77717145ce19a35decf446e3ce1839",
+        "file_size": 19332466,
         "architecture": "armeabi-v7a"
       },
       {
-        "source_asset_id": 531669751,
-        "filename": "wgtunnel-standalone-v5.6.0.apk",
-        "original_filename": "wgtunnel-standalone-v5.6.0.apk",
-        "sha256": "15387326304edc9ad98d4460ad450c60a1835696bd78a0ab5088bf6e43c2899e",
-        "file_size": 56746125,
+        "source_asset_id": 545385545,
+        "filename": "wgtunnel-standalone-v5.7.0.apk",
+        "original_filename": "wgtunnel-standalone-v5.7.0.apk",
+        "sha256": "bc2c3f4bb620aab9ce4868246391fa20a0e0ab3e22515a4f15196b47b537640d",
+        "file_size": 56805995,
         "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
       }
     ],
-    "mirror_release_tag": "wg-tunnel-5.6.0",
-    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/wg-tunnel-5.6.0"
+    "mirror_release_tag": "wg-tunnel-5.7.0",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/wg-tunnel-5.7.0"
   },
   "libchecker": {
     "source_repository": "LibChecker/LibChecker",
@@ -1201,7 +1201,7 @@
     "source_release_id": 328294817,
     "source_tag": "latest",
     "source_published_at": "2026-05-23T11:51:54Z",
-    "synced_at": "2026-09-05T02:06:09.226175+00:00",
+    "synced_at": "2026-09-05T09:41:33.202154+00:00",
     "assets": [
       {
         "source_asset_id": 520498209,

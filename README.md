@@ -224,7 +224,7 @@ Shizuku allows normal Android apps to access powerful system APIs through **ADB 
 | **TapTap** | KieronQuinn | `1.6.2` | 2026-08-22 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/taptap-1.6.2) | [GitHub](https://github.com/KieronQuinn/TapTap) |
 | **Tarnhelm** | lz233 | `20250630` | 2026-08-22 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/tarnhelm-20250630) | [GitHub](https://github.com/lz233/Tarnhelm) |
 | **UpgradeAll** | DUpdateSystem | `0.13-beta.4` | 2026-08-22 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/upgradeall-0.13-beta.4) | [GitHub](https://github.com/DUpdateSystem/UpgradeAll) |
-| **WG Tunnel** | wgtunnel | `5.6.0` | 2026-08-27 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/wg-tunnel-5.6.0) | [GitHub](https://github.com/wgtunnel/wgtunnel) |
+| **WG Tunnel** | wgtunnel | `5.7.0` | 2026-09-05 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/wg-tunnel-5.7.0) | [GitHub](https://github.com/wgtunnel/wgtunnel) |
 
 </details>
 <!-- AUTO-GENERATED-APPS-END -->
