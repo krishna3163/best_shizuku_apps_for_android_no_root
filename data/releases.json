@@ -1201,7 +1201,7 @@
     "source_release_id": 328294817,
     "source_tag": "latest",
     "source_published_at": "2026-05-23T11:51:54Z",
-    "synced_at": "2026-09-07T11:05:10.948411+00:00",
+    "synced_at": "2026-09-07T16:53:25.807694+00:00",
     "assets": [
       {
         "source_asset_id": 520498209,
@@ -2514,6 +2514,62 @@
         "sha256": "68a7b322955cb1467d5b02637a36effb798a20a5ec025b8c5df1dee0b21ec851",
         "file_size": 90929442,
         "architecture": "arm64-v8a"
+      },
+      {
+        "source_asset_id": 548688354,
+        "filename": "camscanner-universal-morphe-patches-v7.23.5.2608050000.apk",
+        "original_filename": "camscanner-universal-morphe-patches-v7.23.5.2608050000.apk",
+        "sha256": "aeac32e33a8a67ba5801388c4d1d77b6abf0292d9b209ebbc78da328370b795b",
+        "file_size": 225735873,
+        "architecture": "arm64-v8a, armeabi"
+      },
+      {
+        "source_asset_id": 548688394,
+        "filename": "duolingo-universal-morphe-patches-v6.95.4.apk",
+        "original_filename": "duolingo-universal-morphe-patches-v6.95.4.apk",
+        "sha256": "7345169e2b72dadd005dc32d0aad5ca1d66f6e0d3114edffcbd9681945ec263f",
+        "file_size": 166528291,
+        "architecture": "arm64-v8a, armeabi-v7a"
+      },
+      {
+        "source_asset_id": 548688521,
+        "filename": "my-expenses-universal-morphe-patches-v4.1.1.2.apk",
+        "original_filename": "my-expenses-universal-morphe-patches-v4.1.1.2.apk",
+        "sha256": "4f618ba0f93f91544c00c5464da2014e0b6d0507b1cde68c6908574d999ee04d",
+        "file_size": 9265756,
+        "architecture": "universal"
+      },
+      {
+        "source_asset_id": 548688549,
+        "filename": "niagara-universal-morphe-patches-v1.16.7.apk",
+        "original_filename": "niagara-universal-morphe-patches-v1.16.7.apk",
+        "sha256": "84414280f5d056c63ddc0a92271ddb19b913a36f99b10c728468c0c6d205b785",
+        "file_size": 14372537,
+        "architecture": "arm64-v8a, armeabi-v7a"
+      },
+      {
+        "source_asset_id": 548688581,
+        "filename": "podcast-universal-morphe-patches-v2026.10.1.apk",
+        "original_filename": "podcast-universal-morphe-patches-v2026.10.1.apk",
+        "sha256": "f4fdfb65f8bf8131815623cce834158e0a43703ebb108658931d0954dfdcd01f",
+        "file_size": 22591566,
+        "architecture": "arm64-v8a, armeabi, armeabi-v7a"
+      },
+      {
+        "source_asset_id": 548688629,
+        "filename": "sofascore-universal-morphe-patches-v26.08.18.apk",
+        "original_filename": "sofascore-universal-morphe-patches-v26.08.18.apk",
+        "sha256": "547d568095dd2e706a6f8b7b9b3bd288a8afa29a0fc3489b41206f58e1797740",
+        "file_size": 36394279,
+        "architecture": "universal"
+      },
+      {
+        "source_asset_id": 548688633,
+        "filename": "solid-universal-morphe-patches-v3.5.20.apk",
+        "original_filename": "solid-universal-morphe-patches-v3.5.20.apk",
+        "sha256": "b43f3c943936202702ffd64c62559d53dab9f91a4c08b4cda5473e7311d37a18",
+        "file_size": 19411313,
+        "architecture": "universal"
       }
     ],
     "mirror_release_tag": "morphe-autobuilds-latest",
