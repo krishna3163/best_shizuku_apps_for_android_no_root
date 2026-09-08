@@ -1201,7 +1201,7 @@
     "source_release_id": 328294817,
     "source_tag": "latest",
     "source_published_at": "2026-05-23T11:51:54Z",
-    "synced_at": "2026-09-08T10:19:18.124960+00:00",
+    "synced_at": "2026-09-08T15:41:58.994409+00:00",
     "assets": [
       {
         "source_asset_id": 520498209,
@@ -2570,6 +2570,14 @@
         "sha256": "b43f3c943936202702ffd64c62559d53dab9f91a4c08b4cda5473e7311d37a18",
         "file_size": 19411313,
         "architecture": "universal"
+      },
+      {
+        "source_asset_id": 550305456,
+        "filename": "xrecorder-universal-morphe-patches-v2.5.4.4.apk",
+        "original_filename": "xrecorder-universal-morphe-patches-v2.5.4.4.apk",
+        "sha256": "3a5d252dd60515ccbcb3fe3a64467eeb852508fa6a955a299cbff005009a95bd",
+        "file_size": 34953830,
+        "architecture": "arm64-v8a, armeabi-v7a"
       }
     ],
     "mirror_release_tag": "morphe-autobuilds-latest",
