@@ -238,7 +238,7 @@ Shizuku allows normal Android apps to access powerful system APIs through **ADB 
 | **LSPatch** | JingMatrix | `v1.2` | 2026-08-23 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/lspatch-v1.2) | [GitHub](https://github.com/JingMatrix/LSPatch) |
 | **MicroG-RE** | MorpheApp | `7.1.0` | 2026-09-06 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/microg-re-7.1.0) | [GitHub](https://github.com/MorpheApp/MicroG-RE) |
 | **Mihon** | mihonapp | `v0.20.4` | 2026-08-22 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/mihon-v0.20.4) | [GitHub](https://github.com/mihonapp/mihon) |
-| **Morphe AutoBuilds** | RookieEnough | `latest` | 2026-09-07 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/morphe-autobuilds-latest) | [GitHub](https://github.com/RookieEnough/Morphe-AutoBuilds) |
+| **Morphe AutoBuilds** | RookieEnough | `latest` | 2026-09-08 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/morphe-autobuilds-latest) | [GitHub](https://github.com/RookieEnough/Morphe-AutoBuilds) |
 | **Morphe Manager** | MorpheApp | `v1.29.0` | 2026-09-03 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/morphe-manager-v1.29.0) | [GitHub](https://github.com/MorpheApp/morphe-manager) |
 | **Neo-Store** | NeoApplications | `1.2.6` | 2026-08-22 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/neo-store-1.2.6) | [GitHub](https://github.com/NeoApplications/Neo-Store) |
 | **Obtainium** | ImranR98 | `v1.6.15` | 2026-09-07 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/obtainium-v1.6.15) | [GitHub](https://github.com/ImranR98/Obtainium) |
@@ -256,7 +256,7 @@ Shizuku allows normal Android apps to access powerful system APIs through **ADB 
 | **TapTap** | KieronQuinn | `1.6.2` | 2026-08-22 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/taptap-1.6.2) | [GitHub](https://github.com/KieronQuinn/TapTap) |
 | **Tarnhelm** | lz233 | `20250630` | 2026-08-22 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/tarnhelm-20250630) | [GitHub](https://github.com/lz233/Tarnhelm) |
 | **UpgradeAll** | DUpdateSystem | `0.13-beta.4` | 2026-08-22 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/upgradeall-0.13-beta.4) | [GitHub](https://github.com/DUpdateSystem/UpgradeAll) |
-| **WG Tunnel** | wgtunnel | `5.7.1` | 2026-09-06 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/wg-tunnel-5.7.1) | [GitHub](https://github.com/wgtunnel/wgtunnel) |
+| **WG Tunnel** | wgtunnel | `5.7.2` | 2026-09-08 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/wg-tunnel-5.7.2) | [GitHub](https://github.com/wgtunnel/wgtunnel) |
 
 </details>
 <!-- AUTO-GENERATED-APPS-END -->
