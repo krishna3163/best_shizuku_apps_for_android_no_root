@@ -1201,7 +1201,7 @@
     "source_release_id": 328294817,
     "source_tag": "latest",
     "source_published_at": "2026-05-23T11:51:54Z",
-    "synced_at": "2026-09-09T10:26:28.727890+00:00",
+    "synced_at": "2026-09-09T15:36:28.053779+00:00",
     "assets": [
       {
         "source_asset_id": 520498209,
@@ -2578,6 +2578,14 @@
         "sha256": "3a5d252dd60515ccbcb3fe3a64467eeb852508fa6a955a299cbff005009a95bd",
         "file_size": 34953830,
         "architecture": "arm64-v8a, armeabi-v7a"
+      },
+      {
+        "source_asset_id": 552558664,
+        "filename": "calistree-universal-morphe-patches-v5.9.1.apk",
+        "original_filename": "calistree-universal-morphe-patches-v5.9.1.apk",
+        "sha256": "4127df7b517b4e2a516aa1b8374cda9ea944d64843714f4eced836bccee89134",
+        "file_size": 121551309,
+        "architecture": "arm64-v8a"
       }
     ],
     "mirror_release_tag": "morphe-autobuilds-latest",
