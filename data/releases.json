@@ -474,22 +474,22 @@
   },
   "privacyflip": {
     "source_repository": "dorumrr/privacyflip",
-    "source_release_id": 385793392,
-    "source_tag": "v2.1.4",
-    "source_published_at": "2026-09-09T19:36:34Z",
-    "synced_at": "2026-09-09T20:12:46.373366+00:00",
+    "source_release_id": 386288441,
+    "source_tag": "v2.1.6",
+    "source_published_at": "2026-09-10T13:02:24Z",
+    "synced_at": "2026-09-10T15:32:17.318169+00:00",
     "assets": [
       {
-        "source_asset_id": 553437939,
-        "filename": "PrivacyFlip-v2.1.4-release.apk",
-        "original_filename": "PrivacyFlip-v2.1.4-release.apk",
-        "sha256": "1c7992c5ec91972f2298656325c9c6d2ba36fc81ab3dec28ea1eb239510f0833",
-        "file_size": 2107757,
+        "source_asset_id": 555030513,
+        "filename": "PrivacyFlip-v2.1.6-release.apk",
+        "original_filename": "PrivacyFlip-v2.1.6-release.apk",
+        "sha256": "1f5a526b30a4e42afd5a30f2096b741f8108692bc0b06476b1cf6dfab18d54e2",
+        "file_size": 2113465,
         "architecture": "unknown"
       }
     ],
-    "mirror_release_tag": "privacyflip-v2.1.4",
-    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/privacyflip-v2.1.4"
+    "mirror_release_tag": "privacyflip-v2.1.6",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/privacyflip-v2.1.6"
   },
   "firewall-blocks": {
     "source_repository": "shynoiddev/FireWall-Blocks",
@@ -1136,22 +1136,22 @@
   },
   "morphe-manager": {
     "source_repository": "MorpheApp/morphe-manager",
-    "source_release_id": 381980499,
-    "source_tag": "v1.29.0",
-    "source_published_at": "2026-09-03T11:55:48Z",
-    "synced_at": "2026-09-03T15:30:29.747439+00:00",
+    "source_release_id": 386330562,
+    "source_tag": "v1.30.0",
+    "source_published_at": "2026-09-10T13:56:50Z",
+    "synced_at": "2026-09-10T15:32:32.798676+00:00",
     "assets": [
       {
-        "source_asset_id": 542703322,
-        "filename": "morphe-manager-1.29.0.apk",
-        "original_filename": "morphe-manager-1.29.0.apk",
-        "sha256": "6f11edba5991be99b522f9b0e411dc2acaa446cda9cc771c098f97fa1848e199",
-        "file_size": 18425328,
+        "source_asset_id": 555122639,
+        "filename": "morphe-manager-1.30.0.apk",
+        "original_filename": "morphe-manager-1.30.0.apk",
+        "sha256": "37a608c38f9a65ed7296ead2c02f9b411a926227159049ab3b199390e30d603c",
+        "file_size": 18574280,
         "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
       }
     ],
-    "mirror_release_tag": "morphe-manager-v1.29.0",
-    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/morphe-manager-v1.29.0"
+    "mirror_release_tag": "morphe-manager-v1.30.0",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/morphe-manager-v1.30.0"
   },
   "microg-re": {
     "source_repository": "MorpheApp/MicroG-RE",
@@ -1201,7 +1201,7 @@
     "source_release_id": 328294817,
     "source_tag": "latest",
     "source_published_at": "2026-05-23T11:51:54Z",
-    "synced_at": "2026-09-10T10:17:46.853736+00:00",
+    "synced_at": "2026-09-10T15:32:43.685882+00:00",
     "assets": [
       {
         "source_asset_id": 520498209,
@@ -2586,6 +2586,14 @@
         "sha256": "4127df7b517b4e2a516aa1b8374cda9ea944d64843714f4eced836bccee89134",
         "file_size": 121551309,
         "architecture": "arm64-v8a"
+      },
+      {
+        "source_asset_id": 554798432,
+        "filename": "youtube-universal-morphe-v21.13.164.apk",
+        "original_filename": "youtube-universal-morphe-v21.13.164.apk",
+        "sha256": "9ef5e047744c70e60c7c6784fe7892afcf183d7a155b377c1391409602af3a48",
+        "file_size": 128199749,
+        "architecture": "arm64-v8a, armeabi-v7a"
       }
     ],
     "mirror_release_tag": "morphe-autobuilds-latest",
