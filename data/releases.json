@@ -1201,7 +1201,7 @@
     "source_release_id": 328294817,
     "source_tag": "latest",
     "source_published_at": "2026-05-23T11:51:54Z",
-    "synced_at": "2026-09-12T09:49:14.825063+00:00",
+    "synced_at": "2026-09-12T14:40:10.924919+00:00",
     "assets": [
       {
         "source_asset_id": 520498209,
@@ -2706,6 +2706,30 @@
         "sha256": "27197f849a70531552dbea2143d21624c16cdcaa25ef61959f6dc8608c54c644",
         "file_size": 267204922,
         "architecture": "arm64-v8a, armeabi-v7a"
+      },
+      {
+        "source_asset_id": 559045063,
+        "filename": "google-photos-arm64-v8a-morphe-patches-v7.80.0.929302933.apk",
+        "original_filename": "google-photos-arm64-v8a-morphe-patches-v7.80.0.929302933.apk",
+        "sha256": "88a355680b12dfd4d697191f19666dab7e131b74a56514cdd0b20dfca512c317",
+        "file_size": 88777818,
+        "architecture": "arm64-v8a"
+      },
+      {
+        "source_asset_id": 559045060,
+        "filename": "google-photos-armeabi-v7a-morphe-patches-v7.80.0.929302933.apk",
+        "original_filename": "google-photos-armeabi-v7a-morphe-patches-v7.80.0.929302933.apk",
+        "sha256": "b57c9e71783bc1572f060c89efb4f46696013e944523c100bdd33e9cafefe930",
+        "file_size": 84440170,
+        "architecture": "armeabi-v7a"
+      },
+      {
+        "source_asset_id": 559045246,
+        "filename": "threads-universal-morphe-patches-v447.0.0.7.81.apk",
+        "original_filename": "threads-universal-morphe-patches-v447.0.0.7.81.apk",
+        "sha256": "6a83cc3611e2768770c9a1fd7269242644237297298ca812467ab42131b6a11b",
+        "file_size": 116953982,
+        "architecture": "arm64-v8a"
       }
     ],
     "mirror_release_tag": "morphe-autobuilds-latest",
