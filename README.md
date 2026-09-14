@@ -185,7 +185,7 @@ Shizuku allows normal Android apps to access powerful system APIs through **ADB 
 | App | Developer | Version | Updated | APK | Source |
 |:---|:---|:---|:---|:---|:---|
 | **Amarok-Hider** | deltazefiro | `v0.10.1` | 2026-08-22 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/amarok-hider-v0.10.1) | [GitHub](https://github.com/deltazefiro/Amarok-Hider) |
-| **Aniyomi** | aniyomiorg | `v0.18.1.2` | 2026-08-22 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/aniyomi-v0.18.1.2) | [GitHub](https://github.com/aniyomiorg/aniyomi) |
+| **Aniyomi** | aniyomiorg | `v0.18.2.1` | 2026-09-14 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/aniyomi-v0.18.2.1) | [GitHub](https://github.com/aniyomiorg/aniyomi) |
 | **aShell You** | DP-Hridayan | `v7.4.0` | 2026-08-22 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/ashell-you-v7.4.0) | [GitHub](https://github.com/DP-Hridayan/aShellYou) |
 | **AutoJs6** | SuperMonster003 | `v6.7.0` | 2026-08-22 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/autojs6-v6.7.0) | [GitHub](https://github.com/SuperMonster003/AutoJs6) |
 | **Better Internet Tiles** | CasperVerswijvelt | `v3.1.2` | 2026-08-22 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/better-internet-tiles-v3.1.2) | [GitHub](https://github.com/CasperVerswijvelt/Better-Internet-Tiles) |
