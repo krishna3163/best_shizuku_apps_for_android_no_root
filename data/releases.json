@@ -1201,7 +1201,7 @@
     "source_release_id": 328294817,
     "source_tag": "latest",
     "source_published_at": "2026-05-23T11:51:54Z",
-    "synced_at": "2026-09-15T10:43:13.509075+00:00",
+    "synced_at": "2026-09-15T15:57:10.331340+00:00",
     "assets": [
       {
         "source_asset_id": 520498209,
@@ -2738,6 +2738,54 @@
         "sha256": "c36910f5cafbdc0587dd226f9bdf288dd66c34a56acba13d105e6df76a09e690",
         "file_size": 182567645,
         "architecture": "arm64-v8a, armeabi-v7a"
+      },
+      {
+        "source_asset_id": 565542967,
+        "filename": "crex-universal-paresh-v26.09.07.apk",
+        "original_filename": "crex-universal-paresh-v26.09.07.apk",
+        "sha256": "c12205b2afd9aeafa7d25e18a5ca266514d9f01cc855c6b116f3583a5c735a53",
+        "file_size": 77178235,
+        "architecture": "arm64-v8a, armeabi-v7a"
+      },
+      {
+        "source_asset_id": 565543187,
+        "filename": "google-photos-arm64-v8a-morphe-patches-v7.92.0.977185651.apk",
+        "original_filename": "google-photos-arm64-v8a-morphe-patches-v7.92.0.977185651.apk",
+        "sha256": "4237a11d44d144628e06eaf027a2d2b5102c20a621e43071e2348c409153b6e7",
+        "file_size": 90660804,
+        "architecture": "arm64-v8a"
+      },
+      {
+        "source_asset_id": 565543565,
+        "filename": "mimo-universal-morphe-patches-v9.29.apk",
+        "original_filename": "mimo-universal-morphe-patches-v9.29.apk",
+        "sha256": "3f0437c142a1f819d4b3c9b4cd5bc24931387805cc14a10a39f29295a135f1c6",
+        "file_size": 117194510,
+        "architecture": "arm64-v8a, armeabi-v7a"
+      },
+      {
+        "source_asset_id": 565543672,
+        "filename": "pandora-universal-morphe-patches-v2609.1.apk",
+        "original_filename": "pandora-universal-morphe-patches-v2609.1.apk",
+        "sha256": "062180fb0f0858ad43bcf57118464841396d995f06ff4b24999c0b3685cf4dad",
+        "file_size": 63927039,
+        "architecture": "arm64-v8a, armeabi-v7a"
+      },
+      {
+        "source_asset_id": 565543937,
+        "filename": "threads-universal-morphe-patches-v447.0.0.23.81.apk",
+        "original_filename": "threads-universal-morphe-patches-v447.0.0.23.81.apk",
+        "sha256": "14fb2e7e6bbba43600b6dad24292d70aa743cfa7b06fa382fd9bd521f78fcb4f",
+        "file_size": 116810622,
+        "architecture": "arm64-v8a"
+      },
+      {
+        "source_asset_id": 565544319,
+        "filename": "wps-office-universal-morphe-patches-v3.4.1.apk",
+        "original_filename": "wps-office-universal-morphe-patches-v3.4.1.apk",
+        "sha256": "f660459feff5063f6f9f692fa53687cfa1229c232affab10bcb109128f9643a0",
+        "file_size": 849089430,
+        "architecture": "arm64-v8a"
       }
     ],
     "mirror_release_tag": "morphe-autobuilds-latest",
