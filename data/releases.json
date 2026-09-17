@@ -569,22 +569,22 @@
   },
   "detoxdroid": {
     "source_repository": "flxapps/DetoxDroid",
-    "source_release_id": 384551941,
-    "source_tag": "v2.7.0",
-    "source_published_at": "2026-09-08T08:21:01Z",
-    "synced_at": "2026-09-08T10:18:54.373640+00:00",
+    "source_release_id": 390762570,
+    "source_tag": "v2.8.0",
+    "source_published_at": "2026-09-17T13:53:46Z",
+    "synced_at": "2026-09-17T15:54:48.406164+00:00",
     "assets": [
       {
-        "source_asset_id": 550131386,
-        "filename": "app-2.7.0.apk",
-        "original_filename": "app-2.7.0.apk",
-        "sha256": "a8453bbac1c763157210db080c56bf3008bc286031b954a8420769fe79f923ef",
-        "file_size": 15034829,
+        "source_asset_id": 570367503,
+        "filename": "app-2.8.0.apk",
+        "original_filename": "app-2.8.0.apk",
+        "sha256": "bd47add6ed3a72fced2b9127b0dd9036aa68228d2f5b7d17b0971b9cd8d4727e",
+        "file_size": 15203101,
         "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
       }
     ],
-    "mirror_release_tag": "detoxdroid-v2.7.0",
-    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/detoxdroid-v2.7.0"
+    "mirror_release_tag": "detoxdroid-v2.8.0",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/detoxdroid-v2.8.0"
   },
   "ashell-you": {
     "source_repository": "DP-Hridayan/aShellYou",
@@ -1201,7 +1201,7 @@
     "source_release_id": 328294817,
     "source_tag": "latest",
     "source_published_at": "2026-05-23T11:51:54Z",
-    "synced_at": "2026-09-17T10:41:09.837855+00:00",
+    "synced_at": "2026-09-17T15:56:12.186788+00:00",
     "assets": [
       {
         "source_asset_id": 520498209,
@@ -2810,6 +2810,14 @@
         "sha256": "168500dffd8252f69ffdd3bab624b7d80b7ccaf302f3908c9945b0d503472b47",
         "file_size": 174819186,
         "architecture": "arm64-v8a, armeabi-v7a"
+      },
+      {
+        "source_asset_id": 570079811,
+        "filename": "cake-universal-morphe-patches-v6.9.2.apk",
+        "original_filename": "cake-universal-morphe-patches-v6.9.2.apk",
+        "sha256": "a92498084b515b8f6eaed830a84357598b781fc9295b4d8b369736096e2bb421",
+        "file_size": 35566834,
+        "architecture": "armeabi-v7a"
       }
     ],
     "mirror_release_tag": "morphe-autobuilds-latest",
