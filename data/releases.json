@@ -1201,7 +1201,7 @@
     "source_release_id": 328294817,
     "source_tag": "latest",
     "source_published_at": "2026-05-23T11:51:54Z",
-    "synced_at": "2026-09-18T10:16:40.568115+00:00",
+    "synced_at": "2026-09-18T15:29:39.739614+00:00",
     "assets": [
       {
         "source_asset_id": 520498209,
@@ -2818,6 +2818,46 @@
         "sha256": "a92498084b515b8f6eaed830a84357598b781fc9295b4d8b369736096e2bb421",
         "file_size": 35566834,
         "architecture": "armeabi-v7a"
+      },
+      {
+        "source_asset_id": 572403197,
+        "filename": "fotmob-universal-morphe-patches-v237.17536.20260911.apk",
+        "original_filename": "fotmob-universal-morphe-patches-v237.17536.20260911.apk",
+        "sha256": "52c38dae955a215c8c7989bb1096a135523101af9dbb360d60eb1c0ad108d3dd",
+        "file_size": 28952292,
+        "architecture": "arm64-v8a, armeabi-v7a"
+      },
+      {
+        "source_asset_id": 572403243,
+        "filename": "ibs_paint-universal-morphe-patches-v14.1.0.apk",
+        "original_filename": "ibs_paint-universal-morphe-patches-v14.1.0.apk",
+        "sha256": "9e19e828129f4a1a9ed4e1b7393db1dfdffc4374e2779cd787c6b29ff8504fba",
+        "file_size": 29246120,
+        "architecture": "arm64-v8a"
+      },
+      {
+        "source_asset_id": 572403270,
+        "filename": "lightroom-universal-morphe-patches-v11.5.22.apk",
+        "original_filename": "lightroom-universal-morphe-patches-v11.5.22.apk",
+        "sha256": "ed493e0c02baba7b086074d4fc3f25e7f9b8baf49bd9f70713d378a8da0b9683",
+        "file_size": 95989306,
+        "architecture": "arm64-v8a"
+      },
+      {
+        "source_asset_id": 572403365,
+        "filename": "prime-video-universal-morphe-patches-v3.0.471.apk",
+        "original_filename": "prime-video-universal-morphe-patches-v3.0.471.apk",
+        "sha256": "549cac00bb1cf1a7538fa4b03ca07c5f522536329f2482e5493c8c5494f3925e",
+        "file_size": 195606301,
+        "architecture": "arm64-v8a"
+      },
+      {
+        "source_asset_id": 572403477,
+        "filename": "ventusky-universal-morphe-patches-v56.0.apk",
+        "original_filename": "ventusky-universal-morphe-patches-v56.0.apk",
+        "sha256": "fc70f2e780acacadcb87475b7774e2d18dc8765b9632c257934bbb53903a3dc9",
+        "file_size": 59588379,
+        "architecture": "arm64-v8a, armeabi-v7a"
       }
     ],
     "mirror_release_tag": "morphe-autobuilds-latest",
