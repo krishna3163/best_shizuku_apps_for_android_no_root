@@ -1201,7 +1201,7 @@
     "source_release_id": 328294817,
     "source_tag": "latest",
     "source_published_at": "2026-05-23T11:51:54Z",
-    "synced_at": "2026-09-19T09:58:49.410846+00:00",
+    "synced_at": "2026-09-19T15:04:11.605964+00:00",
     "assets": [
       {
         "source_asset_id": 520498209,
@@ -2858,6 +2858,14 @@
         "sha256": "fc70f2e780acacadcb87475b7774e2d18dc8765b9632c257934bbb53903a3dc9",
         "file_size": 59588379,
         "architecture": "arm64-v8a, armeabi-v7a"
+      },
+      {
+        "source_asset_id": 574549255,
+        "filename": "x-new-universal-piko-patches-v12.27.0-prod.01.apk",
+        "original_filename": "x-new-universal-piko-patches-v12.27.0-prod.01.apk",
+        "sha256": "5bb57782d4d9ef338d79a33ed0368ece7c1e1c71e07d2e868007c68df19c5412",
+        "file_size": 105691204,
+        "architecture": "armeabi-v7a"
       }
     ],
     "mirror_release_tag": "morphe-autobuilds-latest",
