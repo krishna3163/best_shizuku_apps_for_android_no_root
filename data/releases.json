@@ -1201,7 +1201,7 @@
     "source_release_id": 328294817,
     "source_tag": "latest",
     "source_published_at": "2026-05-23T11:51:54Z",
-    "synced_at": "2026-09-20T10:19:18.617957+00:00",
+    "synced_at": "2026-09-20T15:08:35.684344+00:00",
     "assets": [
       {
         "source_asset_id": 520498209,
@@ -2866,6 +2866,54 @@
         "sha256": "5bb57782d4d9ef338d79a33ed0368ece7c1e1c71e07d2e868007c68df19c5412",
         "file_size": 105691204,
         "architecture": "armeabi-v7a"
+      },
+      {
+        "source_asset_id": 576640100,
+        "filename": "crex-universal-paresh-v26.09.09.apk",
+        "original_filename": "crex-universal-paresh-v26.09.09.apk",
+        "sha256": "f3d6d47023c86fd7694b3e15ec6c7e51890a37ec5320cae10bdfc8b6ae8cc272",
+        "file_size": 77166285,
+        "architecture": "arm64-v8a, armeabi-v7a"
+      },
+      {
+        "source_asset_id": 576640753,
+        "filename": "proton-mail-universal-morphe-patches-v7.11.7.apk",
+        "original_filename": "proton-mail-universal-morphe-patches-v7.11.7.apk",
+        "sha256": "4de697cdf459ba6b8eb8ab294c6b01240d60a2e3e301cacb807421761217e649",
+        "file_size": 103881281,
+        "architecture": "arm64-v8a, armeabi, armeabi-v7a, mips, mips64"
+      },
+      {
+        "source_asset_id": 576640801,
+        "filename": "reddit-universal-morphe-v2026.04.0.apk",
+        "original_filename": "reddit-universal-morphe-v2026.04.0.apk",
+        "sha256": "866d0d928099f4dfd5922d80324c2469ed6d320d7c1c10e38b8b022f6b10a103",
+        "file_size": 85980134,
+        "architecture": "arm64-v8a, armeabi-v7a"
+      },
+      {
+        "source_asset_id": 576640879,
+        "filename": "telegram-universal-paresh-v12.10.3.apk",
+        "original_filename": "telegram-universal-paresh-v12.10.3.apk",
+        "sha256": "bbde74631d0b85bccd6ea8050a6b2588f2c69c6b048382c58a878efe4234e1ae",
+        "file_size": 66149045,
+        "architecture": "arm64-v8a, armeabi-v7a"
+      },
+      {
+        "source_asset_id": 576640890,
+        "filename": "threads-universal-morphe-patches-v448.0.0.24.85.apk",
+        "original_filename": "threads-universal-morphe-patches-v448.0.0.24.85.apk",
+        "sha256": "956b7ce38fdc443bd48f7e3afea20e38ecc97cdf709c3b8df5b5514b026ea5eb",
+        "file_size": 118237150,
+        "architecture": "arm64-v8a"
+      },
+      {
+        "source_asset_id": 576640931,
+        "filename": "trakt-universal-revanced-patches-v3.20.1.apk",
+        "original_filename": "trakt-universal-revanced-patches-v3.20.1.apk",
+        "sha256": "4be3251ce1936f2e1056dfd3c0504009f1f24a824c5520e2a6017cdbbc343a38",
+        "file_size": 14636803,
+        "architecture": "arm64-v8a, armeabi-v7a"
       }
     ],
     "mirror_release_tag": "morphe-autobuilds-latest",
