@@ -398,22 +398,22 @@
   },
   "keymapper": {
     "source_repository": "keymapperorg/KeyMapper",
-    "source_release_id": 387629327,
-    "source_tag": "v4.4.0",
-    "source_published_at": "2026-09-12T16:22:21Z",
-    "synced_at": "2026-09-12T19:53:51.593129+00:00",
+    "source_release_id": 392905852,
+    "source_tag": "v4.5.0",
+    "source_published_at": "2026-09-21T11:31:27Z",
+    "synced_at": "2026-09-21T17:28:03.691524+00:00",
     "assets": [
       {
-        "source_asset_id": 559561166,
-        "filename": "keymapper-4.4.0-foss.apk",
-        "original_filename": "keymapper-4.4.0-foss.apk",
-        "sha256": "3639631dc753b8f70b104d411242bedc8c683f6f49bf0dc1832a58ecd19c1a8b",
-        "file_size": 14720103,
+        "source_asset_id": 578908512,
+        "filename": "keymapper-4.5.0-foss.apk",
+        "original_filename": "keymapper-4.5.0-foss.apk",
+        "sha256": "8927d7669bd9bd7c605797d7710886768aeb7a376d4cdd587a2b46d55a6be75e",
+        "file_size": 14943400,
         "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
       }
     ],
-    "mirror_release_tag": "keymapper-v4.4.0",
-    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/keymapper-v4.4.0"
+    "mirror_release_tag": "keymapper-v4.5.0",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/keymapper-v4.5.0"
   },
   "sdmaid-se": {
     "source_repository": "d4rken-org/sdmaid-se",
@@ -1201,7 +1201,7 @@
     "source_release_id": 328294817,
     "source_tag": "latest",
     "source_published_at": "2026-05-23T11:51:54Z",
-    "synced_at": "2026-09-21T11:29:45.003618+00:00",
+    "synced_at": "2026-09-21T17:28:43.210901+00:00",
     "assets": [
       {
         "source_asset_id": 520498209,
@@ -2913,6 +2913,14 @@
         "original_filename": "trakt-universal-revanced-patches-v3.20.1.apk",
         "sha256": "4be3251ce1936f2e1056dfd3c0504009f1f24a824c5520e2a6017cdbbc343a38",
         "file_size": 14636803,
+        "architecture": "arm64-v8a, armeabi-v7a"
+      },
+      {
+        "source_asset_id": 578952947,
+        "filename": "kakaotalk-universal-revanced-patches-v26.8.2.apk",
+        "original_filename": "kakaotalk-universal-revanced-patches-v26.8.2.apk",
+        "sha256": "3314a92988a8df9c3282cc024cd89296fa171ae408dd41d8d0f5b84fe79bd220",
+        "file_size": 178971263,
         "architecture": "arm64-v8a, armeabi-v7a"
       }
     ],
