@@ -1201,7 +1201,7 @@
     "source_release_id": 328294817,
     "source_tag": "latest",
     "source_published_at": "2026-05-23T11:51:54Z",
-    "synced_at": "2026-09-24T10:46:35.209831+00:00",
+    "synced_at": "2026-09-24T16:10:57.941532+00:00",
     "assets": [
       {
         "source_asset_id": 520498209,
@@ -2937,6 +2937,54 @@
         "original_filename": "x-new-universal-piko-patches-v12.28.0-prod.01.apk",
         "sha256": "b4924e8783a3635ce3ce3db879d5b5c33c6b0a0e0e577d48271d0ee547485a96",
         "file_size": 172100523,
+        "architecture": "arm64-v8a, armeabi-v7a"
+      },
+      {
+        "source_asset_id": 585796026,
+        "filename": "camscanner-universal-morphe-patches-v7.26.5.2609160000.apk",
+        "original_filename": "camscanner-universal-morphe-patches-v7.26.5.2609160000.apk",
+        "sha256": "1f867ba2626b7a7ed25e963b62f51a0d21d7c05dd9e2ed93e5944936e09a201b",
+        "file_size": 241809621,
+        "architecture": "arm64-v8a, armeabi"
+      },
+      {
+        "source_asset_id": 585796025,
+        "filename": "crex-universal-paresh-v26.09.13.apk",
+        "original_filename": "crex-universal-paresh-v26.09.13.apk",
+        "sha256": "1c9386f89e9f18ef6fc098b5b7a9c9b8b1e69c33d2fcff710b85a59dac2f2ddd",
+        "file_size": 78149704,
+        "architecture": "arm64-v8a, armeabi-v7a"
+      },
+      {
+        "source_asset_id": 585796438,
+        "filename": "mimo-universal-morphe-patches-v9.30.apk",
+        "original_filename": "mimo-universal-morphe-patches-v9.30.apk",
+        "sha256": "a7ed8a8305524119c28eb77f86fed87a3422279f606db54d03b64b3c6e79b941",
+        "file_size": 95437976,
+        "architecture": "arm64-v8a, armeabi-v7a"
+      },
+      {
+        "source_asset_id": 585796633,
+        "filename": "proton-mail-universal-morphe-patches-v7.11.8.apk",
+        "original_filename": "proton-mail-universal-morphe-patches-v7.11.8.apk",
+        "sha256": "1199109aa269b8c0603936fb00eb8ba342654f5076ba23e2ebb59b45643022c2",
+        "file_size": 103848513,
+        "architecture": "arm64-v8a, armeabi, armeabi-v7a, mips, mips64"
+      },
+      {
+        "source_asset_id": 585796771,
+        "filename": "strava-universal-morphe-patches-v482.12.apk",
+        "original_filename": "strava-universal-morphe-patches-v482.12.apk",
+        "sha256": "ef73b8fa2697413c766f29af9363d079325fddc102aa1621f7940bb7e5f4dc89",
+        "file_size": 181562968,
+        "architecture": "arm64-v8a, armeabi-v7a"
+      },
+      {
+        "source_asset_id": 585796783,
+        "filename": "telegram-universal-paresh-v12.10.4.apk",
+        "original_filename": "telegram-universal-paresh-v12.10.4.apk",
+        "sha256": "06ea67990663dbc5b2ca573aeb18c87cde0431506a3076b11de7422de21e445b",
+        "file_size": 65931957,
         "architecture": "arm64-v8a, armeabi-v7a"
       }
     ],
