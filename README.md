@@ -229,7 +229,7 @@ Shizuku allows normal Android apps to access powerful system APIs through **ADB 
 | **Obtainium** | ImranR98 | `v1.6.17` | 2026-09-13 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/obtainium-v1.6.17) | [GitHub](https://github.com/ImranR98/Obtainium) |
 | **OmniPrompt** | mrndstvndv | `v0.19.0` | 2026-09-11 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/omniprompt-v0.19.0) | [GitHub](https://github.com/mrndstvndv/OmniPrompt) |
 | **OwnDroid** | BinTianqi | `v8.3.1` | 2026-08-26 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/owndroid-v8.3.1) | [GitHub](https://github.com/BinTianqi/OwnDroid) |
-| **PrivacyFlip** | dorumrr | `v2.1.8` | 2026-09-16 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/privacyflip-v2.1.8) | [GitHub](https://github.com/dorumrr/privacyflip) |
+| **PrivacyFlip** | dorumrr | `v2.1.9` | 2026-09-26 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/privacyflip-v2.1.9) | [GitHub](https://github.com/dorumrr/privacyflip) |
 | **ReTerminal** | RohitKushvaha01 | `v1.2.0` | 2026-08-22 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/reterminal-v1.2.0) | [GitHub](https://github.com/RohitKushvaha01/ReTerminal) |
 | **SAI** | Aefyr | `4.5` | 2026-08-22 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/sai-4.5) | [GitHub](https://github.com/Aefyr/SAI) |
 | **SDMaid-SE** | d4rken-org | `v2.1.0-rc0` | 2026-09-06 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/sdmaid-se-v2.1.0-rc0) | [GitHub](https://github.com/d4rken-org/sdmaid-se) |
@@ -241,7 +241,7 @@ Shizuku allows normal Android apps to access powerful system APIs through **ADB 
 | **TapTap** | KieronQuinn | `1.6.2` | 2026-08-22 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/taptap-1.6.2) | [GitHub](https://github.com/KieronQuinn/TapTap) |
 | **Tarnhelm** | lz233 | `20250630` | 2026-08-22 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/tarnhelm-20250630) | [GitHub](https://github.com/lz233/Tarnhelm) |
 | **UpgradeAll** | DUpdateSystem | `0.13-beta.4` | 2026-08-22 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/upgradeall-0.13-beta.4) | [GitHub](https://github.com/DUpdateSystem/UpgradeAll) |
-| **WG Tunnel** | wgtunnel | `5.7.4` | 2026-09-23 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/wg-tunnel-5.7.4) | [GitHub](https://github.com/wgtunnel/wgtunnel) |
+| **WG Tunnel** | wgtunnel | `5.7.5` | 2026-09-26 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/wg-tunnel-5.7.5) | [GitHub](https://github.com/wgtunnel/wgtunnel) |
 
 </details>
 <!-- AUTO-GENERATED-APPS-END -->

@@ -474,22 +474,22 @@
   },
   "privacyflip": {
     "source_repository": "dorumrr/privacyflip",
-    "source_release_id": 389969095,
-    "source_tag": "v2.1.8",
-    "source_published_at": "2026-09-16T13:48:23Z",
-    "synced_at": "2026-09-16T15:47:55.673558+00:00",
+    "source_release_id": 397222289,
+    "source_tag": "v2.1.9",
+    "source_published_at": "2026-09-26T12:09:09Z",
+    "synced_at": "2026-09-26T15:24:16.555380+00:00",
     "assets": [
       {
-        "source_asset_id": 568066356,
-        "filename": "PrivacyFlip-v2.1.8-release.apk",
-        "original_filename": "PrivacyFlip-v2.1.8-release.apk",
-        "sha256": "a1177063a34f90e4f4fa20fdcea5b8a567809f5daa7e034ecaea3d747168290e",
-        "file_size": 2123221,
+        "source_asset_id": 590595581,
+        "filename": "PrivacyFlip-v2.1.9-release.apk",
+        "original_filename": "PrivacyFlip-v2.1.9-release.apk",
+        "sha256": "7712f697f07a0129ba157d76e814340428ca782e129225e397fd12a27c764af1",
+        "file_size": 2130273,
         "architecture": "unknown"
       }
     ],
-    "mirror_release_tag": "privacyflip-v2.1.8",
-    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/privacyflip-v2.1.8"
+    "mirror_release_tag": "privacyflip-v2.1.9",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/privacyflip-v2.1.9"
   },
   "firewall-blocks": {
     "source_repository": "shynoiddev/FireWall-Blocks",
@@ -782,62 +782,62 @@
   },
   "wg-tunnel": {
     "source_repository": "wgtunnel/wgtunnel",
-    "source_release_id": 394536787,
-    "source_tag": "5.7.4",
-    "source_published_at": "2026-09-23T10:17:35Z",
-    "synced_at": "2026-09-23T15:48:41.628554+00:00",
+    "source_release_id": 397253581,
+    "source_tag": "5.7.5",
+    "source_published_at": "2026-09-26T13:53:29Z",
+    "synced_at": "2026-09-26T15:24:42.023081+00:00",
     "assets": [
       {
-        "source_asset_id": 583520603,
-        "filename": "wgtunnel-fdroid-v5.7.4-arm64.apk",
-        "original_filename": "wgtunnel-fdroid-v5.7.4-arm64.apk",
-        "sha256": "3d28aab6640edf410c9fa8c5bef3c11436fe5292624614e1c67560eea4d6b481",
-        "file_size": 18542586,
+        "source_asset_id": 590756773,
+        "filename": "wgtunnel-fdroid-v5.7.5-arm64.apk",
+        "original_filename": "wgtunnel-fdroid-v5.7.5-arm64.apk",
+        "sha256": "4ac03ebf173fa8655f71c26205b4bc0beef4618b216507db47ba0d15b432b438",
+        "file_size": 18566786,
         "architecture": "arm64-v8a"
       },
       {
-        "source_asset_id": 583520610,
-        "filename": "wgtunnel-fdroid-v5.7.4-armv7.apk",
-        "original_filename": "wgtunnel-fdroid-v5.7.4-armv7.apk",
-        "sha256": "3088a2fb38f938acfa3a501a2fec12fdfb59bc5c12f37640c108f782d235ad5f",
-        "file_size": 18098798,
+        "source_asset_id": 590756771,
+        "filename": "wgtunnel-fdroid-v5.7.5-armv7.apk",
+        "original_filename": "wgtunnel-fdroid-v5.7.5-armv7.apk",
+        "sha256": "e1d39167b3dbac637834a3ac3eb68c64bd23eed96e84da865b045c54cf6b87d9",
+        "file_size": 18122998,
         "architecture": "armeabi-v7a"
       },
       {
-        "source_asset_id": 583520604,
-        "filename": "wgtunnel-fdroid-v5.7.4.apk",
-        "original_filename": "wgtunnel-fdroid-v5.7.4.apk",
-        "sha256": "47a8473b4f9319cc1e256e8b9459daf911da5b4a61092cbf72f0c0ba53b8f0ba",
-        "file_size": 55621479,
+        "source_asset_id": 590756772,
+        "filename": "wgtunnel-fdroid-v5.7.5.apk",
+        "original_filename": "wgtunnel-fdroid-v5.7.5.apk",
+        "sha256": "ca12c6bb867154b055e33f520a7d4966a1c6fcca2c446b0d518cb4b6e9716970",
+        "file_size": 55629295,
         "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
       },
       {
-        "source_asset_id": 583520607,
-        "filename": "wgtunnel-standalone-v5.7.4-arm64.apk",
-        "original_filename": "wgtunnel-standalone-v5.7.4-arm64.apk",
-        "sha256": "fe8d8bc7ffdd241e54c9eadfd34e6d826c9db02d629d6f63dd746a35b271cc73",
-        "file_size": 18565482,
+        "source_asset_id": 590756769,
+        "filename": "wgtunnel-standalone-v5.7.5-arm64.apk",
+        "original_filename": "wgtunnel-standalone-v5.7.5-arm64.apk",
+        "sha256": "9d1de4164d1ec566969ebc3444120985b15a7f35eb4ae44b92b405d7b6e7bada",
+        "file_size": 18588458,
         "architecture": "arm64-v8a"
       },
       {
-        "source_asset_id": 583520605,
-        "filename": "wgtunnel-standalone-v5.7.4-armv7.apk",
-        "original_filename": "wgtunnel-standalone-v5.7.4-armv7.apk",
-        "sha256": "d364fdc5dd31d9fcd5560a2379701b903dcafc7e687d34dfa73d741e4ce32c03",
-        "file_size": 18121694,
+        "source_asset_id": 590756770,
+        "filename": "wgtunnel-standalone-v5.7.5-armv7.apk",
+        "original_filename": "wgtunnel-standalone-v5.7.5-armv7.apk",
+        "sha256": "98e9c908126a8ca365efe96d0d4ac2cbced9bbc8bff83ea81d443df0fddbf33c",
+        "file_size": 18144670,
         "architecture": "armeabi-v7a"
       },
       {
-        "source_asset_id": 583520602,
-        "filename": "wgtunnel-standalone-v5.7.4.apk",
-        "original_filename": "wgtunnel-standalone-v5.7.4.apk",
-        "sha256": "65ebf5230438bd2337ea5f0f42849d2d066225d97bfedfefbdfb952798abbde9",
-        "file_size": 55644375,
+        "source_asset_id": 590756774,
+        "filename": "wgtunnel-standalone-v5.7.5.apk",
+        "original_filename": "wgtunnel-standalone-v5.7.5.apk",
+        "sha256": "9e26e75820758aa42dfbd033e3a656ef1d94a8a6d788a13991f8eb7e52ae3811",
+        "file_size": 55650967,
         "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
       }
     ],
-    "mirror_release_tag": "wg-tunnel-5.7.4",
-    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/wg-tunnel-5.7.4"
+    "mirror_release_tag": "wg-tunnel-5.7.5",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/wg-tunnel-5.7.5"
   },
   "libchecker": {
     "source_repository": "LibChecker/LibChecker",
@@ -1201,7 +1201,7 @@
     "source_release_id": 328294817,
     "source_tag": "latest",
     "source_published_at": "2026-05-23T11:51:54Z",
-    "synced_at": "2026-09-26T10:31:57.236903+00:00",
+    "synced_at": "2026-09-26T15:24:50.728381+00:00",
     "assets": [
       {
         "source_asset_id": 520498209,
