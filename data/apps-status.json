@@ -1,7 +1,7 @@
 {
   "shizuku": {
     "status": "no-update",
-    "last_checked": "2026-10-01T17:53:14.408433+00:00",
+    "last_checked": "2026-10-02T17:16:55.903428+00:00",
     "latest_version": "v13.6.0",
     "last_synced": "2026-08-22T11:57:04.456608+00:00"
   },
@@ -230,7 +230,7 @@
   },
   "cosmic-ide": {
     "status": "no-update",
-    "last_checked": "2026-10-02T03:39:30.003972+00:00",
+    "last_checked": "2026-10-02T17:16:43.641316+00:00",
     "latest_version": "v2.0.3",
     "last_synced": "2026-08-22T12:01:45.113268+00:00"
   },
@@ -265,7 +265,7 @@
   },
   "enforcedoze": {
     "status": "no-update",
-    "last_checked": "2026-10-01T17:53:29.547927+00:00",
+    "last_checked": "2026-10-02T17:16:32.113317+00:00",
     "latest_version": "v1.10.2/86",
     "last_synced": "2026-08-22T12:02:01.573786+00:00"
   },
@@ -277,7 +277,7 @@
   },
   "applock": {
     "status": "no-apk",
-    "last_checked": "2026-10-01T17:53:25.618631+00:00"
+    "last_checked": "2026-10-02T17:16:16.007834+00:00"
   },
   "tarnhelm": {
     "status": "no-update",
@@ -333,7 +333,7 @@
   },
   "shizako": {
     "status": "no-update",
-    "last_checked": "2026-10-01T17:54:14.936170+00:00",
+    "last_checked": "2026-10-02T17:16:15.712990+00:00",
     "latest_version": "zako3.12",
     "last_synced": "2026-10-01T03:38:20.475631+00:00"
   },
@@ -1341,5 +1341,75 @@
   "anythingmobile": {
     "status": "no-apk",
     "last_checked": "2026-10-02T03:40:00.213539+00:00"
+  },
+  "void-auditor": {
+    "status": "synced",
+    "last_checked": "2026-10-02T17:16:19.622231+00:00",
+    "latest_version": "v1.4.5",
+    "last_synced": "2026-10-02T17:16:19.622231+00:00"
+  },
+  "tailscale-network-watcher": {
+    "status": "synced",
+    "last_checked": "2026-10-02T17:16:22.932050+00:00",
+    "latest_version": "v2.0",
+    "last_synced": "2026-10-02T17:16:22.932050+00:00"
+  },
+  "androidmonitor-preview": {
+    "status": "no-apk",
+    "last_checked": "2026-10-02T17:16:23.433456+00:00"
+  },
+  "mobile-agent": {
+    "status": "synced",
+    "last_checked": "2026-10-02T17:16:27.572320+00:00",
+    "latest_version": "v0.1.16",
+    "last_synced": "2026-10-02T17:16:27.572320+00:00"
+  },
+  "shiroikuma-jiyusagyoban": {
+    "status": "synced",
+    "last_checked": "2026-10-02T17:16:31.458533+00:00",
+    "latest_version": "0.2.94+2026-09-26.12-46.g2cfb01a1+023",
+    "last_synced": "2026-10-02T17:16:31.458533+00:00"
+  },
+  "pulse-battery": {
+    "status": "synced",
+    "last_checked": "2026-10-02T17:16:35.627911+00:00",
+    "latest_version": "v1.0.0",
+    "last_synced": "2026-10-02T17:16:35.627911+00:00"
+  },
+  "drivedeck-releases": {
+    "status": "synced",
+    "last_checked": "2026-10-02T17:16:40.284632+00:00",
+    "latest_version": "v1.1.6",
+    "last_synced": "2026-10-02T17:16:40.284632+00:00"
+  },
+  "scrcpy-manager-companion": {
+    "status": "synced",
+    "last_checked": "2026-10-02T17:16:43.196688+00:00",
+    "latest_version": "v1.1.1",
+    "last_synced": "2026-10-02T17:16:43.196688+00:00"
+  },
+  "vanillify": {
+    "status": "synced",
+    "last_checked": "2026-10-02T17:16:47.297310+00:00",
+    "latest_version": "v0.1.0",
+    "last_synced": "2026-10-02T17:16:47.297310+00:00"
+  },
+  "netcontrol": {
+    "status": "synced",
+    "last_checked": "2026-10-02T17:16:50.368235+00:00",
+    "latest_version": "v1.6",
+    "last_synced": "2026-10-02T17:16:50.368235+00:00"
+  },
+  "folkpatch": {
+    "status": "synced",
+    "last_checked": "2026-10-02T17:16:54.251694+00:00",
+    "latest_version": "115051",
+    "last_synced": "2026-10-02T17:16:54.251694+00:00"
+  },
+  "": {
+    "status": "failed",
+    "last_checked": "2026-10-02T17:16:55.407919+00:00",
+    "latest_version": "v1.0.2",
+    "error": "422 Client Error: Unprocessable Entity for url: https://api.github.com/repos/krishna3163/best_shizuku_apps_for_android_no_root/releases"
   }
 }
