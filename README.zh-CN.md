@@ -202,6 +202,16 @@ Shizuku allows normal Android apps to access powerful system APIs through **ADB 
 
 | 应用名称 | 功能介绍与 Shizuku 用例 | 开源许可 | 相关链接 |
 |:---|:---|:---|:---|
+| **[DSHA-zzy](https://github.com/zzy89216-gif/DSHA-zzy)** | DSHA独立版：在Android上运行完整的DeepSeek Harness，苹果风界面·动态玻璃·自定义背景 | MIT | [GitHub 源码](https://github.com/zzy89216-gif/DSHA-zzy) • [下载发布](https://github.com/zzy89216-gif/DSHA-zzy/releases) |
+| **[readycast](https://github.com/serifpersia/readycast)** | 适用于 moto 设备和 webos 电视的屏幕共享应用程序 | Apache-2.0 | [GitHub 源码](https://github.com/serifpersia/readycast) • [下载发布](https://github.com/serifpersia/readycast/releases) |
+| **[Fullscreen](https://github.com/pixxel-dev/Fullscreen)** | 与 Shizuku 兼容的 Android 工具。 | See project | [GitHub 源码](https://github.com/pixxel-dev/Fullscreen) • [下载发布](https://github.com/pixxel-dev/Fullscreen/releases) |
+| **[Wahari](https://github.com/ajirodesu/Wahari)** | 与 Shizuku 兼容的 Android 工具。 | See project | [GitHub 源码](https://github.com/ajirodesu/Wahari) • [下载发布](https://github.com/ajirodesu/Wahari/releases) |
+| **[TurboSpaceOptimizer.zip](https://github.com/Boungen-Bml/TurboSpaceOptimizer.zip)** | 与 Shizuku 兼容的 Android 工具。 | See project | [GitHub 源码](https://github.com/Boungen-Bml/TurboSpaceOptimizer.zip) • [下载发布](https://github.com/Boungen-Bml/TurboSpaceOptimizer.zip/releases) |
+| **[Lyrics-Companion](https://github.com/zuo-qirun/Lyrics-Companion)** | Android 歌词伴侣，具有叠加、辅助显示渲染、多源歌词和可自定义布局 | GPL-3.0 | [GitHub 源码](https://github.com/zuo-qirun/Lyrics-Companion) • [下载发布](https://github.com/zuo-qirun/Lyrics-Companion/releases) |
+| **[NotificationCleaner](https://github.com/ytdttj/NotificationCleaner)** | 利用本地AI模型，清理你的手机通知栏 | MIT | [GitHub 源码](https://github.com/ytdttj/NotificationCleaner) • [下载发布](https://github.com/ytdttj/NotificationCleaner/releases) |
+| **[pocketpal-localapi](https://github.com/shuytre/pocketpal-localapi)** | 与 Shizuku 兼容的 Android 工具。 | MIT | [GitHub 源码](https://github.com/shuytre/pocketpal-localapi) • [下载发布](https://github.com/shuytre/pocketpal-localapi/releases) |
+| **[ShizElite](https://github.com/TheShadyRainbow4/ShizElite)** | 与 Shizuku 兼容的 Android 工具。 | Apache-2.0 | [GitHub 源码](https://github.com/TheShadyRainbow4/ShizElite) • [下载发布](https://github.com/TheShadyRainbow4/ShizElite/releases) |
+| **[signalscope](https://github.com/davidrhar/signalscope)** | Android 诊断可解释移动数据下降的原因，而不是显示信号栏 | See project | [GitHub 源码](https://github.com/davidrhar/signalscope) • [下载发布](https://github.com/davidrhar/signalscope/releases) |
 | **[Shizuku](https://github.com/thedjchi/Shizuku)** | 通过以 app_process 启动的 Java 进程，直接使用普通应用程序中具有 adb/root 权限的系统 API。 | Apache-2.0 | [GitHub 源码](https://github.com/thedjchi/Shizuku) • [下载发布](https://github.com/thedjchi/Shizuku/releases) |
 | **[-](https://github.com/xiaopi0329/-)** | 小皮清理助手：基于Shizuku授权的Android清理工具，安全识别并清理空文件、空文件夹和常见应用垃圾，支持扫描预览后再执行。 | See project | [GitHub 源码](https://github.com/xiaopi0329/-) • [下载发布](https://github.com/xiaopi0329/-/releases) |
 | **[FolkPatch](https://github.com/LyraVoid/FolkPatch)** | 只需修补引导分区以进行重新刷新即可实现对内核的 root 访问。该解决方案基于 APatch 的非并行扩展分支，主要关注 UI/UX 设计 | GPL-3.0 | [GitHub 源码](https://github.com/LyraVoid/FolkPatch) • [下载发布](https://github.com/LyraVoid/FolkPatch/releases) |
@@ -256,16 +266,16 @@ Shizuku allows normal Android apps to access powerful system APIs through **ADB 
 
 | App | Developer | Version | Released | APK | Upstream |
 |:---|:---|:---|:---|:---|:---|
-| ⚡ **BTSharing** | 比利布布里安 | `v1.0` | 2026-10-01 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/btsharing-v1.0) | [Upstream](https://github.com/biliboobrian/BTSharing/releases) |
-| ⚡ **root-my-s24** | 纳米龟1145 | `v3.5.0` | 2026-10-01 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/root-my-s24-v3.5.0) | [Upstream](https://github.com/NanoTurtle1145/root-my-s24/releases) |
-| ⚡ **DSHHarness** | 深度睡眠520 | `v1.0beta6` | 2026-10-01 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/dshharness-v1.0beta6) | [Upstream](https://github.com/deepsleep520/DSHHarness/releases) |
-| ⚡ **liteflight** | 莱奥巴鲁阿 | `v1.0` | 2026-10-01 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/liteflight-v1.0) | [Upstream](https://github.com/leobarua/liteflight/releases) |
-| ⚡ **Benimaru** | 红丸-x1k | `v2.1` | 2026-10-01 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/benimaru-v2.1) | [Upstream](https://github.com/Benimaru-x1k/Benimaru/releases) |
-| ⚡ **droidtop** | Xtratter | `v1.12.1` | 2026-10-01 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/droidtop-v1.12.1) | [Upstream](https://github.com/Xtratter/droidtop/releases) |
-| ⚡ **AndroMac** | 阿尼美丁0 | `v1.4.0` | 2026-10-01 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/andromac-v1.4.0) | [Upstream](https://github.com/anilmetin0/AndroMac/releases) |
-| ⚡ **dougao** | 葫芦博2014 | `v1.3.2` | 2026-10-01 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/dougao-v1.3.2) | [Upstream](https://github.com/hulubo2014/dougao/releases) |
-| ⚡ **SysReadout-Launcher** | 安德斯尼 | `v0.2.3` | 2026-10-01 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/sysreadout-launcher-v0.2.3) | [Upstream](https://github.com/AndSni/SysReadout-Launcher/releases) |
-| ⚡ **FCM-Helper** | 大巴塔塔 | `v1.0.1` | 2026-10-01 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/fcm-helper-v1.0.1) | [Upstream](https://github.com/largebatata/FCM-Helper/releases) |
+| ⚡ **shiroikuma-jiyusagyoban** | 白熊0 | `0.2.94+2026-09-26.12-46.g2cfb01a1+023` | 2026-10-02 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/shiroikuma-jiyusagyoban-0.2.94-2026-09-26.12-46.g2cfb01a1-023) | [Upstream](https://github.com/ShiroiKuma0/shiroikuma-jiyusagyoban/releases) |
+| ⚡ **NetControl** | 明巴舍尔 | `v1.6` | 2026-10-02 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/netcontrol-v1.6) | [Upstream](https://github.com/mimbasher/NetControl/releases) |
+| ⚡ **scrcpy-manager-companion** | 巴特斯蒂尼亚 | `v1.1.1` | 2026-10-02 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/scrcpy-manager-companion-v1.1.1) | [Upstream](https://github.com/Batestinha/scrcpy-manager-companion/releases) |
+| ⚡ **tailscale-network-watcher** | 巴特斯蒂尼亚 | `v2.0` | 2026-10-02 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/tailscale-network-watcher-v2.0) | [Upstream](https://github.com/Batestinha/tailscale-network-watcher/releases) |
+| ⚡ **vanillify** | 安德斯尼 | `v0.1.0` | 2026-10-02 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/vanillify-v0.1.0) | [Upstream](https://github.com/AndSni/vanillify/releases) |
+| ⚡ **pulse-battery** | kreza6173-像素 | `v1.0.0` | 2026-10-02 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/pulse-battery-v1.0.0) | [Upstream](https://github.com/kreza6173-pixel/pulse-battery/releases) |
+| ⚡ **Yutu-Toolbox** | 关汉01 | `v0.1.5` | 2026-10-02 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/yutu-toolbox-v0.1.5) | [Upstream](https://github.com/guanhan01/Yutu-Toolbox/releases) |
+| ⚡ **HyperOS-Wallet-Shortcut** | 你最喜欢的斯塔夫 | `v1.0.0` | 2026-10-02 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/hyperos-wallet-shortcut-v1.0.0) | [Upstream](https://github.com/YourFavStav/HyperOS-Wallet-Shortcut/releases) |
+| ⚡ **lockperm** | 苏尼尔斯克 | `450-4.5.0` | 2026-10-02 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/lockperm-450-4.5.0) | [Upstream](https://github.com/sunilxsk/lockperm/releases) |
+| ⚡ **ADB-Application-Manager** | 宾布洛普 | `v4.7` | 2026-10-02 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/adb-application-manager-v4.7) | [Upstream](https://github.com/Bingblop/ADB-Application-Manager/releases) |
 
 </details>
 <!-- RECENT-UPDATES-END -->
