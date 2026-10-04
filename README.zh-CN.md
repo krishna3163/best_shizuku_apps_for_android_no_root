@@ -202,6 +202,13 @@ Shizuku allows normal Android apps to access powerful system APIs through **ADB 
 
 | 应用名称 | 功能介绍与 Shizuku 用例 | 开源许可 | 相关链接 |
 |:---|:---|:---|:---|
+| **[WuWa-Mobile-Config-Patcher](https://github.com/Arglax/WuWa-Mobile-Config-Patcher)** | WuWa Mobile Config Patcher 的官方存储库。使用此工具可以轻松管理和编辑呼啸波的配置。 | See project | [GitHub 源码](https://github.com/Arglax/WuWa-Mobile-Config-Patcher) • [下载发布](https://github.com/Arglax/WuWa-Mobile-Config-Patcher/releases) |
+| **[MiniAppContainer](https://github.com/Klein-ops/MiniAppContainer)** | 一个小程序容器，基于HTML编写的小程序，通过JS桥调用本地能力来实现类似原生应用的功能 | GPL-3.0 | [GitHub 源码](https://github.com/Klein-ops/MiniAppContainer) • [下载发布](https://github.com/Klein-ops/MiniAppContainer/releases) |
+| **[Lightspeed](https://github.com/SBFlabs/Lightspeed)** | 适用于 Android 的高级太空主题手势、遥测和系统平台。 | See project | [GitHub 源码](https://github.com/SBFlabs/Lightspeed) • [下载发布](https://github.com/SBFlabs/Lightspeed/releases) |
+| **[MX3ButtonMapper](https://github.com/evilbunny2008/MX3ButtonMapper)** | Android 辅助服务，用于重新映射 MX3 式空中鼠标遥控器上的硬件按钮 | Unlicense | [GitHub 源码](https://github.com/evilbunny2008/MX3ButtonMapper) • [下载发布](https://github.com/evilbunny2008/MX3ButtonMapper/releases) |
+| **[ztrackpad](https://github.com/jan5o7o/ztrackpad)** | So7o Z 触控板：浮动触控板 + 指针、浮动窗口选择器、屏幕按键面板以及您可以看到和驱动的虚拟显示屏 - 适用于 Android，在 Galaxy Z Fold 4 上的 Termux 中内置于设备上。专为可折叠设备设计。需要雫。 | MIT | [GitHub 源码](https://github.com/jan5o7o/ztrackpad) • [下载发布](https://github.com/jan5o7o/ztrackpad/releases) |
+| **[md-helper-adb](https://github.com/chamr94/md-helper-adb)** | 授予 MacroDroid adb 权限并通过无线调试在手机上安装官方 Helper - 无需 PC。 / 무선 디버깅으로 PC 版 MacroDroid adb 권한 주기 | Apache-2.0 | [GitHub 源码](https://github.com/chamr94/md-helper-adb) • [下载发布](https://github.com/chamr94/md-helper-adb/releases) |
+| **[GKD-XA](https://github.com/84593320z/GKD-XA)** | GKD-X融合版：界面全面整车MIUIX的GKD-X与GKD-Plus的AI规则生成App开屏与弹窗广告（Android / Kotlin Compose） | GPL-3.0 | [GitHub 源码](https://github.com/84593320z/GKD-XA) • [下载发布](https://github.com/84593320z/GKD-XA/releases) |
 | **[MaaPocket](https://github.com/Koishi-Marisa/MaaPocket)** | 在 Android 设备上间歇运行 MaaFramework 的多游戏自动化即时（崩坏：星穹铁道 / 绝区零 / 明日方舟：终末地） | AGPL-3.0 | [GitHub 源码](https://github.com/Koishi-Marisa/MaaPocket) • [下载发布](https://github.com/Koishi-Marisa/MaaPocket/releases) |
 | **[AppPerms](https://github.com/xykal/AppPerms)** | AppOps / Display-over-other-apps manager untuk Android via Shizuku — 1.9MB，0 互联网权限，19 个隐藏操作，终端，安全调整 | Apache-2.0 | [GitHub 源码](https://github.com/xykal/AppPerms) • [下载发布](https://github.com/xykal/AppPerms/releases) |
 | **[android-ram-cleaner](https://github.com/ardia-kun/android-ram-cleaner)** | 与 Shizuku 兼容的 Android 工具。 | See project | [GitHub 源码](https://github.com/ardia-kun/android-ram-cleaner) • [下载发布](https://github.com/ardia-kun/android-ram-cleaner/releases) |
@@ -269,16 +276,16 @@ Shizuku allows normal Android apps to access powerful system APIs through **ADB 
 
 | App | Developer | Version | Released | APK | Upstream |
 |:---|:---|:---|:---|:---|:---|
-| ⚡ **shiroikuma-jiyusagyoban** | 白熊0 | `0.2.94+2026-09-26.12-46.g2cfb01a1+023` | 2026-10-02 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/shiroikuma-jiyusagyoban-0.2.94-2026-09-26.12-46.g2cfb01a1-023) | [Upstream](https://github.com/ShiroiKuma0/shiroikuma-jiyusagyoban/releases) |
-| ⚡ **NetControl** | 明巴舍尔 | `v1.6` | 2026-10-02 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/netcontrol-v1.6) | [Upstream](https://github.com/mimbasher/NetControl/releases) |
-| ⚡ **scrcpy-manager-companion** | 巴特斯蒂尼亚 | `v1.1.1` | 2026-10-02 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/scrcpy-manager-companion-v1.1.1) | [Upstream](https://github.com/Batestinha/scrcpy-manager-companion/releases) |
-| ⚡ **tailscale-network-watcher** | 巴特斯蒂尼亚 | `v2.0` | 2026-10-02 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/tailscale-network-watcher-v2.0) | [Upstream](https://github.com/Batestinha/tailscale-network-watcher/releases) |
-| ⚡ **vanillify** | 安德斯尼 | `v0.1.0` | 2026-10-02 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/vanillify-v0.1.0) | [Upstream](https://github.com/AndSni/vanillify/releases) |
-| ⚡ **pulse-battery** | kreza6173-像素 | `v1.0.0` | 2026-10-02 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/pulse-battery-v1.0.0) | [Upstream](https://github.com/kreza6173-pixel/pulse-battery/releases) |
-| ⚡ **Yutu-Toolbox** | 关汉01 | `v0.1.5` | 2026-10-02 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/yutu-toolbox-v0.1.5) | [Upstream](https://github.com/guanhan01/Yutu-Toolbox/releases) |
-| ⚡ **HyperOS-Wallet-Shortcut** | 你最喜欢的斯塔夫 | `v1.0.0` | 2026-10-02 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/hyperos-wallet-shortcut-v1.0.0) | [Upstream](https://github.com/YourFavStav/HyperOS-Wallet-Shortcut/releases) |
-| ⚡ **lockperm** | 苏尼尔斯克 | `450-4.5.0` | 2026-10-02 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/lockperm-450-4.5.0) | [Upstream](https://github.com/sunilxsk/lockperm/releases) |
-| ⚡ **ADB-Application-Manager** | 宾布洛普 | `v4.7` | 2026-10-02 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/adb-application-manager-v4.7) | [Upstream](https://github.com/Bingblop/ADB-Application-Manager/releases) |
+| ⚡ **Catch** | 萨比尔·沙尔玛 | `v0.1.1` | 2026-10-03 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/catch-v0.1.1) | [Upstream](https://github.com/SabeeirSharrma/Catch/releases) |
+| ⚡ **ETS-TOOLS** | KLP-KULIPA-24 | `V0.8.1` | 2026-10-03 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/ets-tools-V0.8.1) | [Upstream](https://github.com/KLP-KULIPA-24/ETS-TOOLS/releases) |
+| ⚡ **LagFix** | FDzaki-dev | `build-86` | 2026-10-03 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/lagfix-build-86) | [Upstream](https://github.com/FDzaki-dev/LagFix/releases) |
+| ⚡ **shuaituzhibin** | 什达辛尼兹 | `v1.0.8` | 2026-10-03 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/shuaituzhibin-v1.0.8) | [Upstream](https://github.com/shidaxinyyds/shuaituzhibin/releases) |
+| ⚡ **android-ram-cleaner** | 阿尔迪亚君 | `v1.2.0` | 2026-10-03 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/android-ram-cleaner-v1.2.0) | [Upstream](https://github.com/ardia-kun/android-ram-cleaner/releases) |
+| ⚡ **Quest-Home-Switcher** | 尼基塔21 | `v2.1.5` | 2026-10-03 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/quest-home-switcher-v2.1.5) | [Upstream](https://github.com/nikitat21/Quest-Home-Switcher/releases) |
+| ⚡ **MaaPocket** | 小石魔理沙 | `v0.1.0` | 2026-10-03 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/maapocket-v0.1.0) | [Upstream](https://github.com/Koishi-Marisa/MaaPocket/releases) |
+| ⚡ **pixelcomfort** | 魏特芬肯-托马斯 | `v1.4` | 2026-10-03 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/pixelcomfort-v1.4) | [Upstream](https://github.com/WEITERFUNKEN-Thomas/pixelcomfort/releases) |
+| ⚡ **DSHA-zzy** | zzy89216-gif | `v0.1.7-rc2-zzy.7` | 2026-10-03 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/dsha-zzy-v0.1.7-rc2-zzy.7) | [Upstream](https://github.com/zzy89216-gif/DSHA-zzy/releases) |
+| ⚡ **NotificationCleaner** | ytdttj | `v2.2.0Dev7` | 2026-10-03 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/notificationcleaner-v2.2.0Dev7) | [Upstream](https://github.com/ytdttj/NotificationCleaner/releases) |
 
 </details>
 <!-- RECENT-UPDATES-END -->
