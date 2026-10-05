@@ -258,16 +258,16 @@ A dedicated zero-dependency terminal companion to search 500+ apps, inspect meta
 
 | App | Developer | Version | Released | APK | Upstream |
 |:---|:---|:---|:---|:---|:---|
-| ⚡ **Catch** | SabeeirSharrma | `v0.1.1` | 2026-10-03 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/catch-v0.1.1) | [Upstream](https://github.com/SabeeirSharrma/Catch/releases) |
-| ⚡ **ETS-TOOLS** | KLP-KULIPA-24 | `V0.8.1` | 2026-10-03 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/ets-tools-V0.8.1) | [Upstream](https://github.com/KLP-KULIPA-24/ETS-TOOLS/releases) |
-| ⚡ **LagFix** | FDzaki-dev | `build-86` | 2026-10-03 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/lagfix-build-86) | [Upstream](https://github.com/FDzaki-dev/LagFix/releases) |
-| ⚡ **shuaituzhibin** | shidaxinyyds | `v1.0.8` | 2026-10-03 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/shuaituzhibin-v1.0.8) | [Upstream](https://github.com/shidaxinyyds/shuaituzhibin/releases) |
-| ⚡ **android-ram-cleaner** | ardia-kun | `v1.2.0` | 2026-10-03 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/android-ram-cleaner-v1.2.0) | [Upstream](https://github.com/ardia-kun/android-ram-cleaner/releases) |
-| ⚡ **Quest-Home-Switcher** | nikitat21 | `v2.1.5` | 2026-10-03 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/quest-home-switcher-v2.1.5) | [Upstream](https://github.com/nikitat21/Quest-Home-Switcher/releases) |
-| ⚡ **MaaPocket** | Koishi-Marisa | `v0.1.0` | 2026-10-03 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/maapocket-v0.1.0) | [Upstream](https://github.com/Koishi-Marisa/MaaPocket/releases) |
-| ⚡ **pixelcomfort** | WEITERFUNKEN-Thomas | `v1.4` | 2026-10-03 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/pixelcomfort-v1.4) | [Upstream](https://github.com/WEITERFUNKEN-Thomas/pixelcomfort/releases) |
-| ⚡ **DSHA-zzy** | zzy89216-gif | `v0.1.7-rc2-zzy.7` | 2026-10-03 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/dsha-zzy-v0.1.7-rc2-zzy.7) | [Upstream](https://github.com/zzy89216-gif/DSHA-zzy/releases) |
-| ⚡ **NotificationCleaner** | ytdttj | `v2.2.0Dev7` | 2026-10-03 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/notificationcleaner-v2.2.0Dev7) | [Upstream](https://github.com/ytdttj/NotificationCleaner/releases) |
+| ⚡ **NovaDesk** | dashen9178 | `v2.7` | 2026-10-04 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/novadesk-v2.7) | [Upstream](https://github.com/dashen9178/NovaDesk/releases) |
+| ⚡ **Bluetooth** | Nomskis | `nightly` | 2026-10-04 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/bluetooth-nightly) | [Upstream](https://github.com/Nomskis/Bluetooth/releases) |
+| ⚡ **nc-media-provider** | keithvassallomt | `v0.1.0` | 2026-10-04 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/nc-media-provider-v0.1.0) | [Upstream](https://github.com/keithvassallomt/nc-media-provider/releases) |
+| ⚡ **exTile** | hrsthrt74 | `1.0.1` | 2026-10-04 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/extile-1.0.1) | [Upstream](https://github.com/hrsthrt74/exTile/releases) |
+| ⚡ **Quest-Terminal** | Banban465-tech | `1.2.6.1` | 2026-10-04 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/quest-terminal-1.2.6.1) | [Upstream](https://github.com/Banban465-tech/Quest-Terminal/releases) |
+| ⚡ **NetPilot** | katiusu | `v1.0.1` | 2026-10-04 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/netpilot-v1.0.1) | [Upstream](https://github.com/katiusu/NetPilot/releases) |
+| ⚡ **ColorOS_Blur_Enhance** | wisely-leo | `v44.1` | 2026-10-04 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/coloros-blur-enhance-v44.1) | [Upstream](https://github.com/wisely-leo/ColorOS_Blur_Enhance/releases) |
+| ⚡ **NeriPlayer** | cwuom | `NeriPlayer-9cd150d1.10041337` | 2026-10-04 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/neriplayer-NeriPlayer-9cd150d1.10041337) | [Upstream](https://github.com/cwuom/NeriPlayer/releases) |
+| ⚡ **GKD-XA** | 84593320z | `v1.3.2` | 2026-10-04 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/gkd-xa-v1.3.2) | [Upstream](https://github.com/84593320z/GKD-XA/releases) |
+| ⚡ **md-helper-adb** | chamr94 | `v1.0.26100419` | 2026-10-04 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/md-helper-adb-v1.0.26100419) | [Upstream](https://github.com/chamr94/md-helper-adb/releases) |
 
 </details>
 <!-- RECENT-UPDATES-END -->
