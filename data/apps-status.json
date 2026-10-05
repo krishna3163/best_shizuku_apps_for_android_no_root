@@ -1,7 +1,7 @@
 {
   "shizuku": {
     "status": "no-update",
-    "last_checked": "2026-10-04T16:19:39.377260+00:00",
+    "last_checked": "2026-10-05T20:12:12.149596+00:00",
     "latest_version": "v13.6.0",
     "last_synced": "2026-08-22T11:57:04.456608+00:00"
   },
@@ -230,7 +230,7 @@
   },
   "cosmic-ide": {
     "status": "no-update",
-    "last_checked": "2026-10-05T03:35:02.327079+00:00",
+    "last_checked": "2026-10-05T20:12:18.156729+00:00",
     "latest_version": "v2.0.3",
     "last_synced": "2026-08-22T12:01:45.113268+00:00"
   },
@@ -265,7 +265,7 @@
   },
   "enforcedoze": {
     "status": "no-update",
-    "last_checked": "2026-10-04T16:18:59.329731+00:00",
+    "last_checked": "2026-10-05T20:11:49.726844+00:00",
     "latest_version": "v1.10.2/86",
     "last_synced": "2026-08-22T12:02:01.573786+00:00"
   },
@@ -277,7 +277,7 @@
   },
   "applock": {
     "status": "no-apk",
-    "last_checked": "2026-10-04T16:19:40.693237+00:00"
+    "last_checked": "2026-10-05T20:11:37.384395+00:00"
   },
   "tarnhelm": {
     "status": "no-update",
@@ -333,7 +333,7 @@
   },
   "shizako": {
     "status": "no-update",
-    "last_checked": "2026-10-04T16:20:32.262333+00:00",
+    "last_checked": "2026-10-05T20:11:04.990706+00:00",
     "latest_version": "zako3.12",
     "last_synced": "2026-10-01T03:38:20.475631+00:00"
   },
@@ -1589,9 +1589,9 @@
   },
   "netpilot": {
     "status": "synced",
-    "last_checked": "2026-10-04T16:19:04.593883+00:00",
-    "latest_version": "v1.0.1",
-    "last_synced": "2026-10-04T16:19:04.593883+00:00"
+    "last_checked": "2026-10-05T20:11:25.757857+00:00",
+    "latest_version": "v1.5.1",
+    "last_synced": "2026-10-05T20:11:25.757857+00:00"
   },
   "bluetooth": {
     "status": "synced",
@@ -1730,5 +1730,80 @@
     "last_checked": "2026-10-05T03:35:23.940320+00:00",
     "latest_version": "v5.09",
     "last_synced": "2026-10-05T03:35:23.940320+00:00"
+  },
+  "fixredirectstorage": {
+    "status": "synced",
+    "last_checked": "2026-10-05T20:11:04.427925+00:00",
+    "latest_version": "v0.19",
+    "last_synced": "2026-10-05T20:11:04.427925+00:00"
+  },
+  "svbooster": {
+    "status": "synced",
+    "last_checked": "2026-10-05T20:11:10.069937+00:00",
+    "latest_version": "build-9",
+    "last_synced": "2026-10-05T20:11:10.069937+00:00"
+  },
+  "messageaihelper": {
+    "status": "synced",
+    "last_checked": "2026-10-05T20:11:13.939303+00:00",
+    "latest_version": "1.1.0",
+    "last_synced": "2026-10-05T20:11:13.939303+00:00"
+  },
+  "autobridge": {
+    "status": "synced",
+    "last_checked": "2026-10-05T20:11:20.302264+00:00",
+    "latest_version": "v0.4.21",
+    "last_synced": "2026-10-05T20:11:20.302264+00:00"
+  },
+  "maa-hotta": {
+    "status": "synced",
+    "last_checked": "2026-10-05T20:11:37.063174+00:00",
+    "latest_version": "v0.2.8",
+    "last_synced": "2026-10-05T20:11:37.063174+00:00"
+  },
+  "pi-android": {
+    "status": "synced",
+    "last_checked": "2026-10-05T20:11:49.041102+00:00",
+    "latest_version": "v0.1.1",
+    "last_synced": "2026-10-05T20:11:49.041102+00:00"
+  },
+  "sticky-tok": {
+    "status": "synced",
+    "last_checked": "2026-10-05T20:11:58.275694+00:00",
+    "latest_version": "v1.0.1",
+    "last_synced": "2026-10-05T20:11:58.275694+00:00"
+  },
+  "keytab": {
+    "status": "synced",
+    "last_checked": "2026-10-05T20:12:01.884017+00:00",
+    "latest_version": "v0.16",
+    "last_synced": "2026-10-05T20:12:01.884017+00:00"
+  },
+  "split-sideloader": {
+    "status": "synced",
+    "last_checked": "2026-10-05T20:12:06.071467+00:00",
+    "latest_version": "v1.5.2",
+    "last_synced": "2026-10-05T20:12:06.071467+00:00"
+  },
+  "phigros-script": {
+    "status": "no-apk",
+    "last_checked": "2026-10-05T20:12:06.452383+00:00"
+  },
+  "audioscope": {
+    "status": "synced",
+    "last_checked": "2026-10-05T20:12:11.715400+00:00",
+    "latest_version": "v0.2.0",
+    "last_synced": "2026-10-05T20:12:11.715400+00:00"
+  },
+  "game-boost": {
+    "status": "no-apk",
+    "last_checked": "2026-10-05T20:12:12.477878+00:00",
+    "latest_version": "v1.0.0"
+  },
+  "simus-updater": {
+    "status": "synced",
+    "last_checked": "2026-10-05T20:12:17.782542+00:00",
+    "latest_version": "v1.0.0",
+    "last_synced": "2026-10-05T20:12:17.782542+00:00"
   }
 }

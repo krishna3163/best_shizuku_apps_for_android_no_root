@@ -7666,22 +7666,22 @@
   },
   "netpilot": {
     "source_repository": "katiusu/NetPilot",
-    "source_release_id": 403010260,
-    "source_tag": "v1.0.1",
-    "source_published_at": "2026-10-04T12:29:01Z",
-    "synced_at": "2026-10-04T16:19:04.593857+00:00",
+    "source_release_id": 403892382,
+    "source_tag": "v1.5.1",
+    "source_published_at": "2026-10-05T15:58:12Z",
+    "synced_at": "2026-10-05T20:11:25.757828+00:00",
     "assets": [
       {
-        "source_asset_id": 609814705,
-        "filename": "NetPilot-1.0.1-2026100401-release.apk",
-        "original_filename": "NetPilot-1.0.1-2026100401-release.apk",
-        "sha256": "a48318c4d33062a63d73a776177f5463dbdf26c495d0b8e30f4f22955e922b7f",
-        "file_size": 33076005,
+        "source_asset_id": 613015594,
+        "filename": "NetPilot-1.5.1-2026100505-release.apk",
+        "original_filename": "NetPilot-1.5.1-2026100505-release.apk",
+        "sha256": "d73b85a98a38bf8c05d2b3b240e62dc567673f9321fe1ed3768d4a8246506d35",
+        "file_size": 33244029,
         "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
       }
     ],
-    "mirror_release_tag": "netpilot-v1.0.1",
-    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/netpilot-v1.0.1"
+    "mirror_release_tag": "netpilot-v1.5.1",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/netpilot-v1.5.1"
   },
   "bluetooth": {
     "source_repository": "Nomskis/Bluetooth",
@@ -8085,5 +8085,230 @@
     ],
     "mirror_release_tag": "ashenflamefoundry-v5.09",
     "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/ashenflamefoundry-v5.09"
+  },
+  "fixredirectstorage": {
+    "source_repository": "xxz3312/FixRedirectStorage",
+    "source_release_id": 403370018,
+    "source_tag": "v0.19",
+    "source_published_at": "2026-10-05T04:37:06Z",
+    "synced_at": "2026-10-05T20:11:04.427899+00:00",
+    "assets": [
+      {
+        "source_asset_id": 611499392,
+        "filename": "FixRedirectStorage-0.19-API102.apk",
+        "original_filename": "FixRedirectStorage-0.19-API102.apk",
+        "sha256": "156acc30524d64aa16e6e17ab1c5ebbfc61515bf3f586bda515832331495df02",
+        "file_size": 11529292,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "fixredirectstorage-v0.19",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/fixredirectstorage-v0.19"
+  },
+  "svbooster": {
+    "source_repository": "x11123213214/SvBooster",
+    "source_release_id": 403927194,
+    "source_tag": "build-9",
+    "source_published_at": "2026-10-05T16:42:21Z",
+    "synced_at": "2026-10-05T20:11:10.069911+00:00",
+    "assets": [
+      {
+        "source_asset_id": 613118307,
+        "filename": "SvBooster.apk",
+        "original_filename": "SvBooster.apk",
+        "sha256": "791597e3da123e249671b6be69a5c1e02a8b6d50ed5daa54308bd12896dbc0a9",
+        "file_size": 28305778,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "svbooster-build-9",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/svbooster-build-9"
+  },
+  "messageaihelper": {
+    "source_repository": "SWSP-Git/messageAIHelper",
+    "source_release_id": 404054350,
+    "source_tag": "1.1.0",
+    "source_published_at": "2026-10-05T19:40:55Z",
+    "synced_at": "2026-10-05T20:11:13.939278+00:00",
+    "assets": [
+      {
+        "source_asset_id": 613496749,
+        "filename": "app-release.apk",
+        "original_filename": "app-release.apk",
+        "sha256": "cbfbd3e8e392072e1e0efc8f33bcffb1f43f081c44c3c61dd80188f7a9ef7ea6",
+        "file_size": 5495527,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "messageaihelper-1.1.0",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/messageaihelper-1.1.0"
+  },
+  "autobridge": {
+    "source_repository": "guitar-dev-io/autobridge",
+    "source_release_id": 403764968,
+    "source_tag": "v0.4.21",
+    "source_published_at": "2026-10-05T16:03:09Z",
+    "synced_at": "2026-10-05T20:11:20.302216+00:00",
+    "assets": [
+      {
+        "source_asset_id": 613027347,
+        "filename": "app-lab-release.apk",
+        "original_filename": "app-lab-release.apk",
+        "sha256": "192404f4e8179a298878cdc623478b1a6172ec94688b2cdd82537f9b0ab1863e",
+        "file_size": 6884722,
+        "architecture": "arm64-v8a, armeabi-v7a"
+      },
+      {
+        "source_asset_id": 613027349,
+        "filename": "app-personal-release.apk",
+        "original_filename": "app-personal-release.apk",
+        "sha256": "387a7a5252bee49dacb9f4225f678aca6a3c612076ce1f1fdc523baa71f8cdca",
+        "file_size": 6884722,
+        "architecture": "arm64-v8a, armeabi-v7a"
+      }
+    ],
+    "mirror_release_tag": "autobridge-v0.4.21",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/autobridge-v0.4.21"
+  },
+  "maa-hotta": {
+    "source_repository": "xychenci182-web/MAA-Hotta",
+    "source_release_id": 402360756,
+    "source_tag": "v0.2.8",
+    "source_published_at": "2026-10-03T06:13:24Z",
+    "synced_at": "2026-10-05T20:11:37.063155+00:00",
+    "assets": [
+      {
+        "source_asset_id": 607271383,
+        "filename": "mah.apk",
+        "original_filename": "mah.apk",
+        "sha256": "c6d95b33238c45b76a42c3c7c3e4fe47cb717fdd8b86a7f3e215b529416bd8b1",
+        "file_size": 91782353,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "maa-hotta-v0.2.8",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/maa-hotta-v0.2.8"
+  },
+  "pi-android": {
+    "source_repository": "heikeyangle-code/pi-android",
+    "source_release_id": 402931643,
+    "source_tag": "v0.1.1",
+    "source_published_at": "2026-10-04T09:00:16Z",
+    "synced_at": "2026-10-05T20:11:49.041085+00:00",
+    "assets": [
+      {
+        "source_asset_id": 609489856,
+        "filename": "pi-android-0.1.1-modern36-arm64.apk",
+        "original_filename": "pi-android-0.1.1-modern36-arm64.apk",
+        "sha256": "8928cf2142f08ef7a7783f8d95f1ea3337e22664cde6686656c35b428e56bed9",
+        "file_size": 142059046,
+        "architecture": "arm64-v8a"
+      }
+    ],
+    "mirror_release_tag": "pi-android-v0.1.1",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/pi-android-v0.1.1"
+  },
+  "sticky-tok": {
+    "source_repository": "agm22profesionalmail-dot/Sticky-Tok",
+    "source_release_id": 372554553,
+    "source_tag": "v1.0.1",
+    "source_published_at": "2026-08-18T18:19:47Z",
+    "synced_at": "2026-10-05T20:11:58.275676+00:00",
+    "assets": [
+      {
+        "source_asset_id": 519808073,
+        "filename": "Sticky-Tok-v1.0.1.apk",
+        "original_filename": "Sticky-Tok-v1.0.1.apk",
+        "sha256": "7d6832ebebb7c755ab5f051bd6d1d99930f31b4570a94d2317a5cdc21363b747",
+        "file_size": 72525444,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "sticky-tok-v1.0.1",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/sticky-tok-v1.0.1"
+  },
+  "keytab": {
+    "source_repository": "piot5/keytab",
+    "source_release_id": 402055378,
+    "source_tag": "v0.16",
+    "source_published_at": "2026-10-02T18:22:59Z",
+    "synced_at": "2026-10-05T20:12:01.883998+00:00",
+    "assets": [
+      {
+        "source_asset_id": 606211635,
+        "filename": "KeyTab-0.16.apk",
+        "original_filename": "KeyTab-0.16.apk",
+        "sha256": "04d0d6eb3ac322aa22a97937b853e6d9352582be9a8c4305360ccff2197921af",
+        "file_size": 2370774,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "keytab-v0.16",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/keytab-v0.16"
+  },
+  "split-sideloader": {
+    "source_repository": "wdchocopie/split-sideloader",
+    "source_release_id": 402331134,
+    "source_tag": "v1.5.2",
+    "source_published_at": "2026-10-03T04:45:16Z",
+    "synced_at": "2026-10-05T20:12:06.071449+00:00",
+    "assets": [
+      {
+        "source_asset_id": 607153765,
+        "filename": "SplitSideloader-1.5.2.apk",
+        "original_filename": "SplitSideloader-1.5.2.apk",
+        "sha256": "30150d1b513cbf6845e0d2817b248f5c8f83400167ce2c8e69d721288870dcee",
+        "file_size": 11421055,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "split-sideloader-v1.5.2",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/split-sideloader-v1.5.2"
+  },
+  "audioscope": {
+    "source_repository": "ibrahim91015/AudioScope",
+    "source_release_id": 403603062,
+    "source_tag": "v0.2.0",
+    "source_published_at": "2026-10-05T10:35:11Z",
+    "synced_at": "2026-10-05T20:12:11.715377+00:00",
+    "assets": [
+      {
+        "source_asset_id": 612252339,
+        "filename": "AudioScope-0.2.0.apk",
+        "original_filename": "AudioScope-0.2.0.apk",
+        "sha256": "eae995af67e7fa8780fe946834d16c4980ed0ad0f4b3318bf3c703ec272449ce",
+        "file_size": 24503814,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "audioscope-v0.2.0",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/audioscope-v0.2.0"
+  },
+  "simus-updater": {
+    "source_repository": "lingxi821/simus-updater",
+    "source_release_id": 403694028,
+    "source_tag": "v1.0.0",
+    "source_published_at": "2026-10-05T12:33:31Z",
+    "synced_at": "2026-10-05T20:12:17.782524+00:00",
+    "assets": [
+      {
+        "source_asset_id": 612529430,
+        "filename": "simspoof-US.apk",
+        "original_filename": "simspoof-US.apk",
+        "sha256": "0ef64e1c972a8e7f8195f4e00099a1a58db6788f0f1f4308d1d69dae21425d52",
+        "file_size": 12749,
+        "architecture": "unknown"
+      },
+      {
+        "source_asset_id": 612529433,
+        "filename": "simusupdater.apk",
+        "original_filename": "simusupdater.apk",
+        "sha256": "f677692b8949544c76e350dbf5f8fa3d71fe3ad3e0a548a81bcfc8def792b981",
+        "file_size": 3655077,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "simus-updater-v1.0.0",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/simus-updater-v1.0.0"
   }
 }
