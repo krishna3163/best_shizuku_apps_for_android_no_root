@@ -7952,5 +7952,138 @@
     ],
     "mirror_release_tag": "uma-android-automation-v5.8.8",
     "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/uma-android-automation-v5.8.8"
+  },
+  "smart-explorer": {
+    "source_repository": "b1ue-man/smart-explorer",
+    "source_release_id": 403190742,
+    "source_tag": "v0.5.171",
+    "source_published_at": "2026-10-04T20:15:35Z",
+    "synced_at": "2026-10-05T03:34:56.626086+00:00",
+    "assets": [
+      {
+        "source_asset_id": 610576294,
+        "filename": "smart-explorer-android.apk",
+        "original_filename": "smart-explorer-android.apk",
+        "sha256": "751c542c377d9c3a3dacdf4079bc6c30930f376930a25e145f8a2aa7e336093d",
+        "file_size": 66353463,
+        "architecture": "arm64-v8a, x86_64"
+      }
+    ],
+    "mirror_release_tag": "smart-explorer-v0.5.171",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/smart-explorer-v0.5.171"
+  },
+  "rootrealm": {
+    "source_repository": "FaroqueTech0/rootrealm",
+    "source_release_id": 400809329,
+    "source_tag": "V1.1.0",
+    "source_published_at": "2026-10-01T09:21:07Z",
+    "synced_at": "2026-10-05T03:34:59.405605+00:00",
+    "assets": [
+      {
+        "source_asset_id": 602875679,
+        "filename": "app-release.apk",
+        "original_filename": "app-release.apk",
+        "sha256": "b9f659ee695edecb7aa2dc1049a24d05a6e42365c87afa44c9913349c7e40af1",
+        "file_size": 5058047,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "rootrealm-V1.1.0",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/rootrealm-V1.1.0"
+  },
+  "android-keymapper": {
+    "source_repository": "kladenets-codes/android-keymapper",
+    "source_release_id": 403230299,
+    "source_tag": "v1.1",
+    "source_published_at": "2026-10-04T22:09:35Z",
+    "synced_at": "2026-10-05T03:35:02.009609+00:00",
+    "assets": [
+      {
+        "source_asset_id": 610789778,
+        "filename": "KlavyeJoystick.apk",
+        "original_filename": "KlavyeJoystick.apk",
+        "sha256": "b149bdccdfedab1a13cc093120b7c0e6e4ca8c2419e6cb355387dda72200f7ca",
+        "file_size": 147232,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "android-keymapper-v1.1",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/android-keymapper-v1.1"
+  },
+  "void-apps": {
+    "source_repository": "kreza6173-pixel/void-apps",
+    "source_release_id": 403274863,
+    "source_tag": "v1.0.0",
+    "source_published_at": "2026-10-05T00:33:35Z",
+    "synced_at": "2026-10-05T03:35:05.346365+00:00",
+    "assets": [
+      {
+        "source_asset_id": 611032035,
+        "filename": "void-apps-1.0.0.apk",
+        "original_filename": "void-apps-1.0.0.apk",
+        "sha256": "4024fa7e054e3156d46e0b7920897eb2826dd20f402047760237e05aa33435f1",
+        "file_size": 8581669,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "void-apps-v1.0.0",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/void-apps-v1.0.0"
+  },
+  "hackmons-controller": {
+    "source_repository": "isleep2late/Hackmons-Controller",
+    "source_release_id": 403334358,
+    "source_tag": "apps",
+    "source_published_at": "2026-10-05T03:15:35Z",
+    "synced_at": "2026-10-05T03:35:08.177818+00:00",
+    "assets": [
+      {
+        "source_asset_id": 611341375,
+        "filename": "GCBridge-0.2.2-fec6d2b.apk",
+        "original_filename": "GCBridge-0.2.2-fec6d2b.apk",
+        "sha256": "2af8cde23130f29c2721cebd55a13a0b1202b97693b4eeb1e1e2e34ea90c7e8a",
+        "file_size": 157170,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "hackmons-controller-apps",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/hackmons-controller-apps"
+  },
+  "sondericons": {
+    "source_repository": "Verisonder/SonderIcons",
+    "source_release_id": 403173720,
+    "source_tag": "v1.2.1",
+    "source_published_at": "2026-10-04T19:28:26Z",
+    "synced_at": "2026-10-05T03:35:12.623046+00:00",
+    "assets": [
+      {
+        "source_asset_id": 610488801,
+        "filename": "SonderIcons-1.2.1.apk",
+        "original_filename": "SonderIcons-1.2.1.apk",
+        "sha256": "1fa71572cb500837cd7e8b14e135c822272a3e2f82e50dc53c1e3ca626812ad8",
+        "file_size": 11950954,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "sondericons-v1.2.1",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/sondericons-v1.2.1"
+  },
+  "ashenflamefoundry": {
+    "source_repository": "151shi23/AshenFlameFoundry",
+    "source_release_id": 403316015,
+    "source_tag": "v5.09",
+    "source_published_at": "2026-10-05T02:29:17Z",
+    "synced_at": "2026-10-05T03:35:23.940295+00:00",
+    "assets": [
+      {
+        "source_asset_id": 611244676,
+        "filename": "AshenFlameFoundry-5.09-arm64.apk",
+        "original_filename": "AshenFlameFoundry-5.09-arm64.apk",
+        "sha256": "242027e925c8145f633eb135936969548e5d9434564b7fdff8dacf49c2e89d53",
+        "file_size": 177963328,
+        "architecture": "arm64-v8a"
+      }
+    ],
+    "mirror_release_tag": "ashenflamefoundry-v5.09",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/ashenflamefoundry-v5.09"
   }
 }
