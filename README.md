@@ -262,16 +262,16 @@ A dedicated zero-dependency terminal companion to search 500+ apps, inspect meta
 
 | App | Developer | Version | Released | APK | Upstream |
 |:---|:---|:---|:---|:---|:---|
-| ⚡ **NovaDesk** | dashen9178 | `v2.7` | 2026-10-04 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/novadesk-v2.7) | [Upstream](https://github.com/dashen9178/NovaDesk/releases) |
-| ⚡ **Bluetooth** | Nomskis | `nightly` | 2026-10-04 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/bluetooth-nightly) | [Upstream](https://github.com/Nomskis/Bluetooth/releases) |
-| ⚡ **nc-media-provider** | keithvassallomt | `v0.1.0` | 2026-10-04 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/nc-media-provider-v0.1.0) | [Upstream](https://github.com/keithvassallomt/nc-media-provider/releases) |
-| ⚡ **exTile** | hrsthrt74 | `1.0.1` | 2026-10-04 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/extile-1.0.1) | [Upstream](https://github.com/hrsthrt74/exTile/releases) |
-| ⚡ **Quest-Terminal** | Banban465-tech | `1.2.6.1` | 2026-10-04 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/quest-terminal-1.2.6.1) | [Upstream](https://github.com/Banban465-tech/Quest-Terminal/releases) |
-| ⚡ **NetPilot** | katiusu | `v1.0.1` | 2026-10-04 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/netpilot-v1.0.1) | [Upstream](https://github.com/katiusu/NetPilot/releases) |
-| ⚡ **ColorOS_Blur_Enhance** | wisely-leo | `v44.1` | 2026-10-04 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/coloros-blur-enhance-v44.1) | [Upstream](https://github.com/wisely-leo/ColorOS_Blur_Enhance/releases) |
-| ⚡ **NeriPlayer** | cwuom | `NeriPlayer-9cd150d1.10041337` | 2026-10-04 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/neriplayer-NeriPlayer-9cd150d1.10041337) | [Upstream](https://github.com/cwuom/NeriPlayer/releases) |
-| ⚡ **GKD-XA** | 84593320z | `v1.3.2` | 2026-10-04 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/gkd-xa-v1.3.2) | [Upstream](https://github.com/84593320z/GKD-XA/releases) |
-| ⚡ **md-helper-adb** | chamr94 | `v1.0.26100419` | 2026-10-04 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/md-helper-adb-v1.0.26100419) | [Upstream](https://github.com/chamr94/md-helper-adb/releases) |
+| ⚡ **messageAIHelper** | SWSP-Git | `1.1.0` | 2026-10-05 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/messageaihelper-1.1.0) | [Upstream](https://github.com/SWSP-Git/messageAIHelper/releases) |
+| ⚡ **SvBooster** | x11123213214 | `build-9` | 2026-10-05 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/svbooster-build-9) | [Upstream](https://github.com/x11123213214/SvBooster/releases) |
+| ⚡ **autobridge** | guitar-dev-io | `v0.4.21` | 2026-10-05 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/autobridge-v0.4.21) | [Upstream](https://github.com/guitar-dev-io/autobridge/releases) |
+| ⚡ **NetPilot** | katiusu | `v1.5.1` | 2026-10-05 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/netpilot-v1.5.1) | [Upstream](https://github.com/katiusu/NetPilot/releases) |
+| ⚡ **simus-updater** | lingxi821 | `v1.0.0` | 2026-10-05 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/simus-updater-v1.0.0) | [Upstream](https://github.com/lingxi821/simus-updater/releases) |
+| ⚡ **AudioScope** | ibrahim91015 | `v0.2.0` | 2026-10-05 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/audioscope-v0.2.0) | [Upstream](https://github.com/ibrahim91015/AudioScope/releases) |
+| ⚡ **FixRedirectStorage** | xxz3312 | `v0.19` | 2026-10-05 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/fixredirectstorage-v0.19) | [Upstream](https://github.com/xxz3312/FixRedirectStorage/releases) |
+| ⚡ **Hackmons-Controller** | isleep2late | `apps` | 2026-10-05 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/hackmons-controller-apps) | [Upstream](https://github.com/isleep2late/Hackmons-Controller/releases) |
+| ⚡ **AshenFlameFoundry** | 151shi23 | `v5.09` | 2026-10-05 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/ashenflamefoundry-v5.09) | [Upstream](https://github.com/151shi23/AshenFlameFoundry/releases) |
+| ⚡ **void-apps** | kreza6173-pixel | `v1.0.0` | 2026-10-05 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/void-apps-v1.0.0) | [Upstream](https://github.com/kreza6173-pixel/void-apps/releases) |
 
 </details>
 <!-- RECENT-UPDATES-END -->
