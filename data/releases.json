@@ -8443,5 +8443,235 @@
     ],
     "mirror_release_tag": "mobile-agent-runtime-v1.1.0",
     "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/mobile-agent-runtime-v1.1.0"
+  },
+  "tunnels": {
+    "source_repository": "StrongHorse44/Tunnels",
+    "source_release_id": 404675447,
+    "source_tag": "v0.1.3",
+    "source_published_at": "2026-10-06T12:22:25Z",
+    "synced_at": "2026-10-06T17:46:32.383734+00:00",
+    "assets": [
+      {
+        "source_asset_id": 615442701,
+        "filename": "tunnels-0.1.3.apk",
+        "original_filename": "tunnels-0.1.3.apk",
+        "sha256": "2f5e9db8b094ed437624bb324653a0bbaeb061ee4b26d9def7b3bb7e6716476e",
+        "file_size": 54614747,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "tunnels-v0.1.3",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/tunnels-v0.1.3"
+  },
+  "termux-ultra": {
+    "source_repository": "TiG-Kira/Termux-Ultra",
+    "source_release_id": 404564423,
+    "source_tag": "3.3.5.R7",
+    "source_published_at": "2026-10-06T10:08:16Z",
+    "synced_at": "2026-10-06T17:47:14.963583+00:00",
+    "assets": [
+      {
+        "source_asset_id": 615166363,
+        "filename": "app-arm64-v8a-release.apk",
+        "original_filename": "app-arm64-v8a-release.apk",
+        "sha256": "176b4599aec62987df11e6df739cccd1450252e81a30d2746f4c77acead40449",
+        "file_size": 85504086,
+        "architecture": "arm64-v8a"
+      },
+      {
+        "source_asset_id": 615166504,
+        "filename": "app-armeabi-v7a-release.apk",
+        "original_filename": "app-armeabi-v7a-release.apk",
+        "sha256": "f3c45301c25a78eb343987fb80eb54e16e62e78f125a419ed86b5702edc82e69",
+        "file_size": 84876944,
+        "architecture": "armeabi-v7a"
+      },
+      {
+        "source_asset_id": 615166629,
+        "filename": "app-release.apk",
+        "original_filename": "app-release.apk",
+        "sha256": "f3e2a11468493bb09d07da477d34f58e3436426e2a25025d122bb56819024012",
+        "file_size": 91452133,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      },
+      {
+        "source_asset_id": 615166761,
+        "filename": "app-x86-release.apk",
+        "original_filename": "app-x86-release.apk",
+        "sha256": "64281c379be79610415ad5348c741ab217dbbc5ab8f10ffee09d65c466feb2a2",
+        "file_size": 85747316,
+        "architecture": "x86"
+      },
+      {
+        "source_asset_id": 615166880,
+        "filename": "app-x86_64-release.apk",
+        "original_filename": "app-x86_64-release.apk",
+        "sha256": "91113f2a00b46dee7d10db9d4fe85b5e1b20efa1b92ef2e2c9e1f6d972d21c5c",
+        "file_size": 85880877,
+        "architecture": "x86_64"
+      }
+    ],
+    "mirror_release_tag": "termux-ultra-3.3.5.R7",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/termux-ultra-3.3.5.R7"
+  },
+  "lynk": {
+    "source_repository": "pixxel-dev/Lynk",
+    "source_release_id": 404989812,
+    "source_tag": "v0.0.1.39",
+    "source_published_at": "2026-10-06T17:41:41Z",
+    "synced_at": "2026-10-06T17:47:19.964765+00:00",
+    "assets": [
+      {
+        "source_asset_id": 616208452,
+        "filename": "Lynk_0.0.1.39.apk",
+        "original_filename": "Lynk_0.0.1.39.apk",
+        "sha256": "8778ada652c584eb68a072c73453fba1e02477d089abc51cd076c252de8a1001",
+        "file_size": 28155696,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "lynk-v0.0.1.39",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/lynk-v0.0.1.39"
+  },
+  "open-android-dex": {
+    "source_repository": "dotnetdreamer/open-android-dex",
+    "source_release_id": 384668947,
+    "source_tag": "v0.3.21",
+    "source_published_at": "2026-09-08T11:23:57Z",
+    "synced_at": "2026-10-06T17:47:27.441750+00:00",
+    "assets": [
+      {
+        "source_asset_id": 550366476,
+        "filename": "LinuxOnDroid-v0.3.21.apk",
+        "original_filename": "LinuxOnDroid-v0.3.21.apk",
+        "sha256": "2dc81b182173cc06178385b4dba6f09e4c1cafb1375334bf9e1a6158edd9edac",
+        "file_size": 1167758,
+        "architecture": "arm64-v8a, x86_64"
+      },
+      {
+        "source_asset_id": 550366567,
+        "filename": "OpenAndroidDeX-Launcher-v0.3.21.apk",
+        "original_filename": "OpenAndroidDeX-Launcher-v0.3.21.apk",
+        "sha256": "69851ca22aa39e05cbd4c11203c8497038672c8b3bfa89119195787832a083e9",
+        "file_size": 25768272,
+        "architecture": "arm64-v8a, x86_64"
+      }
+    ],
+    "mirror_release_tag": "open-android-dex-v0.3.21",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/open-android-dex-v0.3.21"
+  },
+  "notiguard": {
+    "source_repository": "Liuchijang/NotiGuard",
+    "source_release_id": 404485855,
+    "source_tag": "v2.1",
+    "source_published_at": "2026-10-06T08:35:06Z",
+    "synced_at": "2026-10-06T17:47:31.862108+00:00",
+    "assets": [
+      {
+        "source_asset_id": 614962887,
+        "filename": "NotiGuard-v2.1.apk",
+        "original_filename": "NotiGuard-v2.1.apk",
+        "sha256": "f2f1968719beec07eceb7eb61aa53a5af59a4c22c3d975040cfb260176124072",
+        "file_size": 10849167,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "notiguard-v2.1",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/notiguard-v2.1"
+  },
+  "essentialkeytools": {
+    "source_repository": "KoukeNeko/EssentialKeyTools",
+    "source_release_id": 403720085,
+    "source_tag": "v1.0.18",
+    "source_published_at": "2026-10-05T13:03:30Z",
+    "synced_at": "2026-10-06T17:47:35.803289+00:00",
+    "assets": [
+      {
+        "source_asset_id": 612599015,
+        "filename": "EssentialKeyTools-v1.0.18.apk",
+        "original_filename": "EssentialKeyTools-v1.0.18.apk",
+        "sha256": "76825306409229d66f92de19373036cb83b5680d5016a1d2ea899b44959c4d70",
+        "file_size": 2701908,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "essentialkeytools-v1.0.18",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/essentialkeytools-v1.0.18"
+  },
+  "mkm": {
+    "source_repository": "zenithblue-oss/mkm",
+    "source_release_id": 346375225,
+    "source_tag": "v1.7",
+    "source_published_at": "2026-06-29T16:11:09Z",
+    "synced_at": "2026-10-06T17:47:42.856636+00:00",
+    "assets": [
+      {
+        "source_asset_id": 461283526,
+        "filename": "app-release.apk",
+        "original_filename": "app-release.apk",
+        "sha256": "ce354899850c83f11f7062d184072e47037d3ac9091c1b4ef3fc1411173284b5",
+        "file_size": 15475720,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "mkm-v1.7",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/mkm-v1.7"
+  },
+  "activitylauncher": {
+    "source_repository": "ActivityLauncher/ActivityLauncher",
+    "source_release_id": 351119699,
+    "source_tag": "2.4.1",
+    "source_published_at": "2026-07-08T18:47:32Z",
+    "synced_at": "2026-10-06T17:47:47.176663+00:00",
+    "assets": [
+      {
+        "source_asset_id": 470555745,
+        "filename": "app-oss-noads-release.apk",
+        "original_filename": "app-oss-noads-release.apk",
+        "sha256": "f93c4e1a21f37f3ae5713ec94897907d12c292e62f57c6720c404c7e1d0f22ca",
+        "file_size": 3407233,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "activitylauncher-2.4.1",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/activitylauncher-2.4.1"
+  },
+  "kcode": {
+    "source_repository": "meteor149/kcode",
+    "source_release_id": 402931240,
+    "source_tag": "v0.2.0",
+    "source_published_at": "2026-10-04T09:01:28Z",
+    "synced_at": "2026-10-06T17:47:59.812566+00:00",
+    "assets": [
+      {
+        "source_asset_id": 609490004,
+        "filename": "kcode-v0.2.0-android.apk",
+        "original_filename": "kcode-v0.2.0-android.apk",
+        "sha256": "74db974101509cdff6ec7f0cadc247c982c6855ab8207c779b93ef11ef127733",
+        "file_size": 111927359,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "kcode-v0.2.0",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/kcode-v0.2.0"
+  },
+  "hilight-custom": {
+    "source_repository": "filcorti/hilight-custom",
+    "source_release_id": 404689152,
+    "source_tag": "v1.0.16",
+    "source_published_at": "2026-10-06T12:37:57Z",
+    "synced_at": "2026-10-06T17:48:07.832658+00:00",
+    "assets": [
+      {
+        "source_asset_id": 615480490,
+        "filename": "app-release.apk",
+        "original_filename": "app-release.apk",
+        "sha256": "da7be8eec3907e0b9c9bd269e730f6c321ea727bb7651a46279d1d54ec1806fd",
+        "file_size": 46887872,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "hilight-custom-v1.0.16",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/hilight-custom-v1.0.16"
   }
 }
