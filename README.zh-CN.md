@@ -202,6 +202,16 @@ Shizuku allows normal Android apps to access powerful system APIs through **ADB 
 
 | 应用名称 | 功能介绍与 Shizuku 用例 | 开源许可 | 相关链接 |
 |:---|:---|:---|:---|
+| **[Youki-Users](https://github.com/mrYouki/Youki-Users)** | 一个独立的 Android 多用户管理器，从 YoukiDex 中分离出来。 | GPL-3.0 | [GitHub 源码](https://github.com/mrYouki/Youki-Users) • [下载发布](https://github.com/mrYouki/Youki-Users/releases) |
+| **[mobile-agent-runtime](https://github.com/hedanbaomi/mobile-agent-runtime)** | 与 Shizuku 兼容的 Android 工具。 | AGPL-3.0 | [GitHub 源码](https://github.com/hedanbaomi/mobile-agent-runtime) • [下载发布](https://github.com/hedanbaomi/mobile-agent-runtime/releases) |
+| **[QQShortVideo](https://github.com/joestataka/QQShortVideo)** | 浏览QQ短视频缓存目录：封面网格 + 播放 + 多选管理（Jetpack Compose，Shizuku/root） | See project | [GitHub 源码](https://github.com/joestataka/QQShortVideo) • [下载发布](https://github.com/joestataka/QQShortVideo/releases) |
+| **[Painle-Santos](https://github.com/bloxfruitstutoriais-boop/Painle-Santos)** | Android 的 Painel De Otimização（Precisa Da Key Pra Funcionar） | See project | [GitHub 源码](https://github.com/bloxfruitstutoriais-boop/Painle-Santos) • [下载发布](https://github.com/bloxfruitstutoriais-boop/Painle-Santos/releases) |
+| **[DroidPerf](https://github.com/fortifying/DroidPerf)** | 适用于 Android 的开源 FPS 计 | See project | [GitHub 源码](https://github.com/fortifying/DroidPerf) • [下载发布](https://github.com/fortifying/DroidPerf/releases) |
+| **[parallel-root](https://github.com/aadarwal/parallel-root)** | 让编码代理在自己的虚拟显示器上同时驱动一部 Android 手机，无需 root。 | MIT | [GitHub 源码](https://github.com/aadarwal/parallel-root) • [下载发布](https://github.com/aadarwal/parallel-root/releases) |
+| **[VADOS-BUBBLE](https://github.com/VADITIM/VADOS-BUBBLE)** | 与 Shizuku 兼容的 Android 工具。 | See project | [GitHub 源码](https://github.com/VADITIM/VADOS-BUBBLE) • [下载发布](https://github.com/VADITIM/VADOS-BUBBLE/releases) |
+| **[Device-Watch](https://github.com/jrs8205/Device-Watch)** | Android 设备监视器，带有主屏幕小部件、每个应用程序的使用情况洞察和充电屏幕保护程序。完全离线 - 没有互联网许可。 GPL-3.0 或更高版本。 | GPL-3.0 | [GitHub 源码](https://github.com/jrs8205/Device-Watch) • [下载发布](https://github.com/jrs8205/Device-Watch/releases) |
+| **[shitu-android](https://github.com/Landslide3154/shitu-android)** | 拾图Shitu——借Shizuku把Android/data里的图片自动搬到目标目录的Android App（设计阶段） | See project | [GitHub 源码](https://github.com/Landslide3154/shitu-android) • [下载发布](https://github.com/Landslide3154/shitu-android/releases) |
+| **[adb-cloner](https://github.com/udmodz0/adb-cloner)** | 由 Shizuku IPC 和本机包管理器虚拟化提供支持的无根 Android 应用程序克隆器和独立的多用户工作区。零 APK 重复，无需 root 或 PC。 | See project | [GitHub 源码](https://github.com/udmodz0/adb-cloner) • [下载发布](https://github.com/udmodz0/adb-cloner/releases) |
 | **[simus-updater](https://github.com/lingxi821/simus-updater)** | 端上给TikTok打补丁并安装的小工具：LSPatch集成模式+内嵌Xposed模块（美区SIM伪装），保留数据。由灵曦以茗制作 | GPL-3.0 | [GitHub 源码](https://github.com/lingxi821/simus-updater) • [下载发布](https://github.com/lingxi821/simus-updater/releases) |
 | **[game-boost](https://github.com/bkrohit940-hub/game-boost)** | 与 Shizuku 兼容的 Android 工具。 | See project | [GitHub 源码](https://github.com/bkrohit940-hub/game-boost) • [下载发布](https://github.com/bkrohit940-hub/game-boost/releases) |
 | **[Shizuku](https://github.com/thedjchi/Shizuku)** | 通过以 app_process 启动的 Java 进程，直接使用普通应用程序中具有 adb/root 权限的系统 API。 | Apache-2.0 | [GitHub 源码](https://github.com/thedjchi/Shizuku) • [下载发布](https://github.com/thedjchi/Shizuku/releases) |
@@ -265,16 +275,16 @@ Shizuku allows normal Android apps to access powerful system APIs through **ADB 
 
 | App | Developer | Version | Released | APK | Upstream |
 |:---|:---|:---|:---|:---|:---|
-| ⚡ **NovaDesk** | 大神9178 | `v2.7` | 2026-10-04 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/novadesk-v2.7) | [Upstream](https://github.com/dashen9178/NovaDesk/releases) |
-| ⚡ **Bluetooth** | 诺姆斯基斯 | `nightly` | 2026-10-04 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/bluetooth-nightly) | [Upstream](https://github.com/Nomskis/Bluetooth/releases) |
-| ⚡ **nc-media-provider** | 基思瓦萨洛姆特 | `v0.1.0` | 2026-10-04 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/nc-media-provider-v0.1.0) | [Upstream](https://github.com/keithvassallomt/nc-media-provider/releases) |
-| ⚡ **exTile** | hrsthrt74 | `1.0.1` | 2026-10-04 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/extile-1.0.1) | [Upstream](https://github.com/hrsthrt74/exTile/releases) |
-| ⚡ **Quest-Terminal** | 斑斑465科技 | `1.2.6.1` | 2026-10-04 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/quest-terminal-1.2.6.1) | [Upstream](https://github.com/Banban465-tech/Quest-Terminal/releases) |
-| ⚡ **NetPilot** | 卡蒂乌苏 | `v1.0.1` | 2026-10-04 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/netpilot-v1.0.1) | [Upstream](https://github.com/katiusu/NetPilot/releases) |
-| ⚡ **ColorOS_Blur_Enhance** | 明智的狮子座 | `v44.1` | 2026-10-04 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/coloros-blur-enhance-v44.1) | [Upstream](https://github.com/wisely-leo/ColorOS_Blur_Enhance/releases) |
-| ⚡ **NeriPlayer** | 库姆 | `NeriPlayer-9cd150d1.10041337` | 2026-10-04 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/neriplayer-NeriPlayer-9cd150d1.10041337) | [Upstream](https://github.com/cwuom/NeriPlayer/releases) |
-| ⚡ **GKD-XA** | 84593320z | `v1.3.2` | 2026-10-04 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/gkd-xa-v1.3.2) | [Upstream](https://github.com/84593320z/GKD-XA/releases) |
-| ⚡ **md-helper-adb** | 查姆尔94 | `v1.0.26100419` | 2026-10-04 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/md-helper-adb-v1.0.26100419) | [Upstream](https://github.com/chamr94/md-helper-adb/releases) |
+| ⚡ **messageAIHelper** | SWSP-Git | `1.1.0` | 2026-10-05 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/messageaihelper-1.1.0) | [Upstream](https://github.com/SWSP-Git/messageAIHelper/releases) |
+| ⚡ **SvBooster** | x11123213214 | `build-9` | 2026-10-05 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/svbooster-build-9) | [Upstream](https://github.com/x11123213214/SvBooster/releases) |
+| ⚡ **autobridge** | 吉他开发io | `v0.4.21` | 2026-10-05 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/autobridge-v0.4.21) | [Upstream](https://github.com/guitar-dev-io/autobridge/releases) |
+| ⚡ **NetPilot** | 卡蒂乌苏 | `v1.5.1` | 2026-10-05 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/netpilot-v1.5.1) | [Upstream](https://github.com/katiusu/NetPilot/releases) |
+| ⚡ **simus-updater** | 灵溪821 | `v1.0.0` | 2026-10-05 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/simus-updater-v1.0.0) | [Upstream](https://github.com/lingxi821/simus-updater/releases) |
+| ⚡ **AudioScope** | 易卜拉欣91015 | `v0.2.0` | 2026-10-05 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/audioscope-v0.2.0) | [Upstream](https://github.com/ibrahim91015/AudioScope/releases) |
+| ⚡ **FixRedirectStorage** | xxz3312 | `v0.19` | 2026-10-05 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/fixredirectstorage-v0.19) | [Upstream](https://github.com/xxz3312/FixRedirectStorage/releases) |
+| ⚡ **Hackmons-Controller** | 睡得晚了 | `apps` | 2026-10-05 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/hackmons-controller-apps) | [Upstream](https://github.com/isleep2late/Hackmons-Controller/releases) |
+| ⚡ **AshenFlameFoundry** | 151shi23 | `v5.09` | 2026-10-05 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/ashenflamefoundry-v5.09) | [Upstream](https://github.com/151shi23/AshenFlameFoundry/releases) |
+| ⚡ **void-apps** | kreza6173-像素 | `v1.0.0` | 2026-10-05 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/void-apps-v1.0.0) | [Upstream](https://github.com/kreza6173-pixel/void-apps/releases) |
 
 </details>
 <!-- RECENT-UPDATES-END -->
