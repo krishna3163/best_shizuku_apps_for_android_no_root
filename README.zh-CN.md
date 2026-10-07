@@ -202,6 +202,14 @@ Shizuku allows normal Android apps to access powerful system APIs through **ADB 
 
 | 应用名称 | 功能介绍与 Shizuku 用例 | 开源许可 | 相关链接 |
 |:---|:---|:---|:---|
+| **[ExtraDimToggle](https://github.com/Apihplays/ExtraDimToggle)** | Rooted-Android Extra Dim（减少亮色）切换：应用程序、QS 磁贴、小部件 + 可闪存 KernelSU/Magisk 模块 | See project | [GitHub 源码](https://github.com/Apihplays/ExtraDimToggle) • [下载发布](https://github.com/Apihplays/ExtraDimToggle/releases) |
+| **[Bocongcu_Limi](https://github.com/dun04/Bocongcu_Limi)** | 与 Shizuku 兼容的 Android 工具。 | See project | [GitHub 源码](https://github.com/dun04/Bocongcu_Limi) • [下载发布](https://github.com/dun04/Bocongcu_Limi/releases) |
+| **[pi-web-mobile](https://github.com/XiaoLrrr/pi-web-mobile)** | 在Android手机上本地运行pi编码代理的Web UI（@agegr/pi-web），并让pi控制设备硬件（相机/通知/截屏/无障碍…）。基于DSHM架构，GPL-3.0。 | GPL-3.0 | [GitHub 源码](https://github.com/XiaoLrrr/pi-web-mobile) • [下载发布](https://github.com/XiaoLrrr/pi-web-mobile/releases) |
+| **[AdminTest](https://github.com/TeaPieyyds/AdminTest)** | 无害的设备管理员安全测试APK——验证adb能否卸载受保护的App | See project | [GitHub 源码](https://github.com/TeaPieyyds/AdminTest) • [下载发布](https://github.com/TeaPieyyds/AdminTest/releases) |
+| **[OhMyPi-Mobile](https://github.com/zr987459/OhMyPi-Mobile)** | Oh My Pi 移动端 —— 基于 Android 原生与本地容器的移动端 Pi Agent 工作台 | GPL-3.0 | [GitHub 源码](https://github.com/zr987459/OhMyPi-Mobile) • [下载发布](https://github.com/zr987459/OhMyPi-Mobile/releases) |
+| **[hciscope](https://github.com/kellyiscute/hciscope)** | 适用于已 root 的 Android 的实时蓝牙 HCI 数据包查看器：通过探听日志和 Shizuku 解码设备上的 HCI、L2CAP、ATT 和 SMP，为 Wireshark 导出 btsnoop。 | GPL-3.0 | [GitHub 源码](https://github.com/kellyiscute/hciscope) • [下载发布](https://github.com/kellyiscute/hciscope/releases) |
+| **[TCL-Android-TV-HDMI-R851T02](https://github.com/ian20040409/TCL-Android-TV-HDMI-R851T02)** | 适用于 TCL C715 / R851T02 的零膨胀 Android TV 启动器。自动启动至首选 HDMI 1/2/3 或应用程序，具有可定制的倒计时、内置应用程序管理 | MIT | [GitHub 源码](https://github.com/ian20040409/TCL-Android-TV-HDMI-R851T02) • [下载发布](https://github.com/ian20040409/TCL-Android-TV-HDMI-R851T02/releases) |
+| **[ShizukuX](https://github.com/qianyumeng0228/ShizukuX)** | ShizukuX 是 Shizuku 的增强分支：让普通应用借助 ADB / Root 进程直接调用系统级 API，并内置 Dhizuku、Extra API、Root 兼容桥等高级能力。继承自 ShizukuPlus（Apache 2.0）。 | Apache-2.0 | [GitHub 源码](https://github.com/qianyumeng0228/ShizukuX) • [下载发布](https://github.com/qianyumeng0228/ShizukuX/releases) |
 | **[ghostlock-a53](https://github.com/Viole403/ghostlock-a53)** | 适用于三星 Galaxy A53 5G (SM-A536E) 的 GhostLock — Exynos 1280，内核 5.10.237 A536EXXSMGZE2 | Apache-2.0 | [GitHub 源码](https://github.com/Viole403/ghostlock-a53) • [下载发布](https://github.com/Viole403/ghostlock-a53/releases) |
 | **[hilight-custom](https://github.com/filcorti/hilight-custom)** | 与 Shizuku 兼容的 Android 工具。 | MIT | [GitHub 源码](https://github.com/filcorti/hilight-custom) • [下载发布](https://github.com/filcorti/hilight-custom/releases) |
 | **[Service-Keeper](https://github.com/sklndev/Service-Keeper)** | Android 应用程序可监控并自动重新启动被系统杀死的后台服务、辅助服务和通知侦听器，使用 Shizuku 进行特权访问。 | GPL-3.0 | [GitHub 源码](https://github.com/sklndev/Service-Keeper) • [下载发布](https://github.com/sklndev/Service-Keeper/releases) |
@@ -260,16 +268,16 @@ Shizuku allows normal Android apps to access powerful system APIs through **ADB 
 
 | App | Developer | Version | Released | APK | Upstream |
 |:---|:---|:---|:---|:---|:---|
+| ⚡ **Lynk** | 像素开发 | `v0.0.1.39` | 2026-10-06 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/lynk-v0.0.1.39) | [Upstream](https://github.com/pixxel-dev/Lynk/releases) |
+| ⚡ **hilight-custom** | 菲尔科尔蒂 | `v1.0.16` | 2026-10-06 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/hilight-custom-v1.0.16) | [Upstream](https://github.com/filcorti/hilight-custom/releases) |
+| ⚡ **Tunnels** | 强马44 | `v0.1.3` | 2026-10-06 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/tunnels-v0.1.3) | [Upstream](https://github.com/StrongHorse44/Tunnels/releases) |
+| ⚡ **Termux-Ultra** | TiG基拉 | `3.3.5.R7` | 2026-10-06 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/termux-ultra-3.3.5.R7) | [Upstream](https://github.com/TiG-Kira/Termux-Ultra/releases) |
+| ⚡ **NotiGuard** | 六池江 | `v2.1` | 2026-10-06 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/notiguard-v2.1) | [Upstream](https://github.com/Liuchijang/NotiGuard/releases) |
+| ⚡ **QQShortVideo** | 乔斯塔塔卡 | `v1.0.2` | 2026-10-06 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/qqshortvideo-v1.0.2) | [Upstream](https://github.com/joestataka/QQShortVideo/releases) |
+| ⚡ **mobile-agent-runtime** | 荷丹宝米 | `v1.1.0` | 2026-10-06 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/mobile-agent-runtime-v1.1.0) | [Upstream](https://github.com/hedanbaomi/mobile-agent-runtime/releases) |
+| ⚡ **parallel-root** | 阿达瓦尔 | `v0.1.0` | 2026-10-06 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/parallel-root-v0.1.0) | [Upstream](https://github.com/aadarwal/parallel-root/releases) |
 | ⚡ **messageAIHelper** | SWSP-Git | `1.1.0` | 2026-10-05 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/messageaihelper-1.1.0) | [Upstream](https://github.com/SWSP-Git/messageAIHelper/releases) |
-| ⚡ **SvBooster** | x11123213214 | `build-9` | 2026-10-05 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/svbooster-build-9) | [Upstream](https://github.com/x11123213214/SvBooster/releases) |
-| ⚡ **autobridge** | 吉他开发io | `v0.4.21` | 2026-10-05 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/autobridge-v0.4.21) | [Upstream](https://github.com/guitar-dev-io/autobridge/releases) |
-| ⚡ **NetPilot** | 卡蒂乌苏 | `v1.5.1` | 2026-10-05 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/netpilot-v1.5.1) | [Upstream](https://github.com/katiusu/NetPilot/releases) |
-| ⚡ **simus-updater** | 灵溪821 | `v1.0.0` | 2026-10-05 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/simus-updater-v1.0.0) | [Upstream](https://github.com/lingxi821/simus-updater/releases) |
-| ⚡ **AudioScope** | 易卜拉欣91015 | `v0.2.0` | 2026-10-05 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/audioscope-v0.2.0) | [Upstream](https://github.com/ibrahim91015/AudioScope/releases) |
-| ⚡ **FixRedirectStorage** | xxz3312 | `v0.19` | 2026-10-05 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/fixredirectstorage-v0.19) | [Upstream](https://github.com/xxz3312/FixRedirectStorage/releases) |
-| ⚡ **Hackmons-Controller** | 睡得晚了 | `apps` | 2026-10-05 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/hackmons-controller-apps) | [Upstream](https://github.com/isleep2late/Hackmons-Controller/releases) |
-| ⚡ **AshenFlameFoundry** | 151shi23 | `v5.09` | 2026-10-05 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/ashenflamefoundry-v5.09) | [Upstream](https://github.com/151shi23/AshenFlameFoundry/releases) |
-| ⚡ **void-apps** | kreza6173-像素 | `v1.0.0` | 2026-10-05 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/void-apps-v1.0.0) | [Upstream](https://github.com/kreza6173-pixel/void-apps/releases) |
+| ⚡ **shitu-android** | 山体滑坡3154 | `v0.12.2` | 2026-10-05 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/shitu-android-v0.12.2) | [Upstream](https://github.com/Landslide3154/shitu-android/releases) |
 
 </details>
 <!-- RECENT-UPDATES-END -->

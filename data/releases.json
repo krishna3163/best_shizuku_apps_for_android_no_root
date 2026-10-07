@@ -8673,5 +8673,151 @@
     ],
     "mirror_release_tag": "hilight-custom-v1.0.16",
     "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/hilight-custom-v1.0.16"
+  },
+  "shizukux": {
+    "source_repository": "qianyumeng0228/ShizukuX",
+    "source_release_id": 393709772,
+    "source_tag": "v13.7.0.r2002",
+    "source_published_at": "2026-09-22T12:21:28Z",
+    "synced_at": "2026-10-07T03:48:57.773864+00:00",
+    "assets": [
+      {
+        "source_asset_id": 581341575,
+        "filename": "ShizukuX-Compat-Hub-v13.7.0.r2002.apk",
+        "original_filename": "ShizukuX-Compat-Hub-v13.7.0.r2002.apk",
+        "sha256": "32107fed9a1bf9f630f2b2220dd2a0ff4df9f9c431cd7c5a7a9ebe63cc061dbf",
+        "file_size": 650903,
+        "architecture": "unknown"
+      },
+      {
+        "source_asset_id": 581341576,
+        "filename": "ShizukuX-Drop-In-v13.7.0.r2002.apk",
+        "original_filename": "ShizukuX-Drop-In-v13.7.0.r2002.apk",
+        "sha256": "054674413d566a008136a4820f68e1d204e8f0de016d322a995f3b369ac36a58",
+        "file_size": 12155126,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      },
+      {
+        "source_asset_id": 581341577,
+        "filename": "ShizukuX-v13.7.0.r2002.apk",
+        "original_filename": "ShizukuX-v13.7.0.r2002.apk",
+        "sha256": "5e14405d447202b404c7b7db57e6f9e28176d1abd8cfe4ab04cc8d52e2f4ae96",
+        "file_size": 12155368,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "shizukux-v13.7.0.r2002",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/shizukux-v13.7.0.r2002"
+  },
+  "hciscope": {
+    "source_repository": "kellyiscute/hciscope",
+    "source_release_id": 405059111,
+    "source_tag": "v1.0.0",
+    "source_published_at": "2026-10-06T19:12:47Z",
+    "synced_at": "2026-10-07T03:49:01.000517+00:00",
+    "assets": [
+      {
+        "source_asset_id": 616416365,
+        "filename": "hciscope-1.0.0.apk",
+        "original_filename": "hciscope-1.0.0.apk",
+        "sha256": "e5dc239b497f5389768a6e27cb66774c692adb9a0b3a0c9d872c0cc16eef8ff3",
+        "file_size": 6554468,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "hciscope-v1.0.0",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/hciscope-v1.0.0"
+  },
+  "ohmypi-mobile": {
+    "source_repository": "zr987459/OhMyPi-Mobile",
+    "source_release_id": 405353342,
+    "source_tag": "v0.1.23",
+    "source_published_at": "2026-10-07T03:42:46Z",
+    "synced_at": "2026-10-07T03:49:06.571611+00:00",
+    "assets": [
+      {
+        "source_asset_id": 617471779,
+        "filename": "OhMyPi-0.1.23-arm64-v8a.apk",
+        "original_filename": "OhMyPi-0.1.23-arm64-v8a.apk",
+        "sha256": "dbbe15c5b15916e66fbd21526d39c81b99494cf0946b1d443ec0b5c927a39574",
+        "file_size": 18834794,
+        "architecture": "arm64-v8a"
+      },
+      {
+        "source_asset_id": 617471782,
+        "filename": "OhMyPi-0.1.23-x86_64.apk",
+        "original_filename": "OhMyPi-0.1.23-x86_64.apk",
+        "sha256": "466db2d55e90569a88b966ed5439ce7679ed7ff614f45aa79c023d08230061ce",
+        "file_size": 18613698,
+        "architecture": "x86_64"
+      }
+    ],
+    "mirror_release_tag": "ohmypi-mobile-v0.1.23",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/ohmypi-mobile-v0.1.23"
+  },
+  "pi-web-mobile": {
+    "source_repository": "XiaoLrrr/pi-web-mobile",
+    "source_release_id": 405101780,
+    "source_tag": "v0.1.3",
+    "source_published_at": "2026-10-06T20:09:36Z",
+    "synced_at": "2026-10-07T03:49:16.936292+00:00",
+    "assets": [
+      {
+        "source_asset_id": 616537923,
+        "filename": "app-release.apk",
+        "original_filename": "app-release.apk",
+        "sha256": "098334360f7ec204d7bda1862a1efedb685e29b68877033be6e850e79066a0de",
+        "file_size": 79189524,
+        "architecture": "arm64-v8a"
+      },
+      {
+        "source_asset_id": 616537925,
+        "filename": "pi-web-mobile-v0.1.3.apk",
+        "original_filename": "pi-web-mobile-v0.1.3.apk",
+        "sha256": "098334360f7ec204d7bda1862a1efedb685e29b68877033be6e850e79066a0de",
+        "file_size": 79189524,
+        "architecture": "arm64-v8a"
+      }
+    ],
+    "mirror_release_tag": "pi-web-mobile-v0.1.3",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/pi-web-mobile-v0.1.3"
+  },
+  "bocongcu-limi": {
+    "source_repository": "dun04/Bocongcu_Limi",
+    "source_release_id": 403520625,
+    "source_tag": "v1.3.2.1.ntd",
+    "source_published_at": "2026-10-05T08:41:03Z",
+    "synced_at": "2026-10-07T03:49:20.344630+00:00",
+    "assets": [
+      {
+        "source_asset_id": 616742827,
+        "filename": "Limi-v1.3.2.1.ntd.apk",
+        "original_filename": "Limi-v1.3.2.1.ntd.apk",
+        "sha256": "076633063d6e63b45991ca9b4ee14b6bb6fdbe55f21c106792358723bfd8c928",
+        "file_size": 17403203,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "bocongcu-limi-v1.3.2.1.ntd",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/bocongcu-limi-v1.3.2.1.ntd"
+  },
+  "extradimtoggle": {
+    "source_repository": "Apihplays/ExtraDimToggle",
+    "source_release_id": 405339146,
+    "source_tag": "v1.3.0",
+    "source_published_at": "2026-10-07T03:15:46Z",
+    "synced_at": "2026-10-07T03:49:23.147269+00:00",
+    "assets": [
+      {
+        "source_asset_id": 617422418,
+        "filename": "app-release.apk",
+        "original_filename": "app-release.apk",
+        "sha256": "063b7cc94a722b6635385d3716c892319dcbf22b11ec7d58ad806ca207d08965",
+        "file_size": 827554,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "extradimtoggle-v1.3.0",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/extradimtoggle-v1.3.0"
   }
 }
