@@ -257,16 +257,16 @@ A dedicated zero-dependency terminal companion to search 500+ apps, inspect meta
 
 | App | Developer | Version | Released | APK | Upstream |
 |:---|:---|:---|:---|:---|:---|
+| ⚡ **Lynk** | pixxel-dev | `v0.0.1.39` | 2026-10-06 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/lynk-v0.0.1.39) | [Upstream](https://github.com/pixxel-dev/Lynk/releases) |
+| ⚡ **hilight-custom** | filcorti | `v1.0.16` | 2026-10-06 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/hilight-custom-v1.0.16) | [Upstream](https://github.com/filcorti/hilight-custom/releases) |
+| ⚡ **Tunnels** | StrongHorse44 | `v0.1.3` | 2026-10-06 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/tunnels-v0.1.3) | [Upstream](https://github.com/StrongHorse44/Tunnels/releases) |
+| ⚡ **Termux-Ultra** | TiG-Kira | `3.3.5.R7` | 2026-10-06 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/termux-ultra-3.3.5.R7) | [Upstream](https://github.com/TiG-Kira/Termux-Ultra/releases) |
+| ⚡ **NotiGuard** | Liuchijang | `v2.1` | 2026-10-06 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/notiguard-v2.1) | [Upstream](https://github.com/Liuchijang/NotiGuard/releases) |
+| ⚡ **QQShortVideo** | joestataka | `v1.0.2` | 2026-10-06 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/qqshortvideo-v1.0.2) | [Upstream](https://github.com/joestataka/QQShortVideo/releases) |
+| ⚡ **mobile-agent-runtime** | hedanbaomi | `v1.1.0` | 2026-10-06 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/mobile-agent-runtime-v1.1.0) | [Upstream](https://github.com/hedanbaomi/mobile-agent-runtime/releases) |
+| ⚡ **parallel-root** | aadarwal | `v0.1.0` | 2026-10-06 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/parallel-root-v0.1.0) | [Upstream](https://github.com/aadarwal/parallel-root/releases) |
 | ⚡ **messageAIHelper** | SWSP-Git | `1.1.0` | 2026-10-05 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/messageaihelper-1.1.0) | [Upstream](https://github.com/SWSP-Git/messageAIHelper/releases) |
-| ⚡ **SvBooster** | x11123213214 | `build-9` | 2026-10-05 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/svbooster-build-9) | [Upstream](https://github.com/x11123213214/SvBooster/releases) |
-| ⚡ **autobridge** | guitar-dev-io | `v0.4.21` | 2026-10-05 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/autobridge-v0.4.21) | [Upstream](https://github.com/guitar-dev-io/autobridge/releases) |
-| ⚡ **NetPilot** | katiusu | `v1.5.1` | 2026-10-05 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/netpilot-v1.5.1) | [Upstream](https://github.com/katiusu/NetPilot/releases) |
-| ⚡ **simus-updater** | lingxi821 | `v1.0.0` | 2026-10-05 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/simus-updater-v1.0.0) | [Upstream](https://github.com/lingxi821/simus-updater/releases) |
-| ⚡ **AudioScope** | ibrahim91015 | `v0.2.0` | 2026-10-05 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/audioscope-v0.2.0) | [Upstream](https://github.com/ibrahim91015/AudioScope/releases) |
-| ⚡ **FixRedirectStorage** | xxz3312 | `v0.19` | 2026-10-05 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/fixredirectstorage-v0.19) | [Upstream](https://github.com/xxz3312/FixRedirectStorage/releases) |
-| ⚡ **Hackmons-Controller** | isleep2late | `apps` | 2026-10-05 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/hackmons-controller-apps) | [Upstream](https://github.com/isleep2late/Hackmons-Controller/releases) |
-| ⚡ **AshenFlameFoundry** | 151shi23 | `v5.09` | 2026-10-05 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/ashenflamefoundry-v5.09) | [Upstream](https://github.com/151shi23/AshenFlameFoundry/releases) |
-| ⚡ **void-apps** | kreza6173-pixel | `v1.0.0` | 2026-10-05 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/void-apps-v1.0.0) | [Upstream](https://github.com/kreza6173-pixel/void-apps/releases) |
+| ⚡ **shitu-android** | Landslide3154 | `v0.12.2` | 2026-10-05 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/shitu-android-v0.12.2) | [Upstream](https://github.com/Landslide3154/shitu-android/releases) |
 
 </details>
 <!-- RECENT-UPDATES-END -->
