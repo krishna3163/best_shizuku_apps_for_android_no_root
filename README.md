@@ -264,16 +264,16 @@ A dedicated zero-dependency terminal companion to search 500+ apps, inspect meta
 
 | App | Developer | Version | Released | APK | Upstream |
 |:---|:---|:---|:---|:---|:---|
-| ⚡ **Lynk** | pixxel-dev | `v0.0.1.39` | 2026-10-06 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/lynk-v0.0.1.39) | [Upstream](https://github.com/pixxel-dev/Lynk/releases) |
-| ⚡ **hilight-custom** | filcorti | `v1.0.16` | 2026-10-06 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/hilight-custom-v1.0.16) | [Upstream](https://github.com/filcorti/hilight-custom/releases) |
-| ⚡ **Tunnels** | StrongHorse44 | `v0.1.3` | 2026-10-06 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/tunnels-v0.1.3) | [Upstream](https://github.com/StrongHorse44/Tunnels/releases) |
-| ⚡ **Termux-Ultra** | TiG-Kira | `3.3.5.R7` | 2026-10-06 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/termux-ultra-3.3.5.R7) | [Upstream](https://github.com/TiG-Kira/Termux-Ultra/releases) |
-| ⚡ **NotiGuard** | Liuchijang | `v2.1` | 2026-10-06 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/notiguard-v2.1) | [Upstream](https://github.com/Liuchijang/NotiGuard/releases) |
-| ⚡ **QQShortVideo** | joestataka | `v1.0.2` | 2026-10-06 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/qqshortvideo-v1.0.2) | [Upstream](https://github.com/joestataka/QQShortVideo/releases) |
-| ⚡ **mobile-agent-runtime** | hedanbaomi | `v1.1.0` | 2026-10-06 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/mobile-agent-runtime-v1.1.0) | [Upstream](https://github.com/hedanbaomi/mobile-agent-runtime/releases) |
-| ⚡ **parallel-root** | aadarwal | `v0.1.0` | 2026-10-06 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/parallel-root-v0.1.0) | [Upstream](https://github.com/aadarwal/parallel-root/releases) |
-| ⚡ **messageAIHelper** | SWSP-Git | `1.1.0` | 2026-10-05 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/messageaihelper-1.1.0) | [Upstream](https://github.com/SWSP-Git/messageAIHelper/releases) |
-| ⚡ **shitu-android** | Landslide3154 | `v0.12.2` | 2026-10-05 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/shitu-android-v0.12.2) | [Upstream](https://github.com/Landslide3154/shitu-android/releases) |
+| ⚡ **FlymeFreeform** | m-secret | `v1.0.5` | 2026-10-07 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/flymefreeform-v1.0.5) | [Upstream](https://github.com/m-secret/FlymeFreeform/releases) |
+| ⚡ **Dollhouse** | Farewell-coder | `v0.0.4` | 2026-10-07 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/dollhouse-v0.0.4) | [Upstream](https://github.com/Farewell-coder/Dollhouse/releases) |
+| ⚡ **samsung_s24_battery_life** | mich-de | `v2.6` | 2026-10-07 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/samsung-s24-battery-life-v2.6) | [Upstream](https://github.com/mich-de/samsung_s24_battery_life/releases) |
+| ⚡ **s25edge_battery** | mich-de | `v1.0.0` | 2026-10-07 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/s25edge-battery-v1.0.0) | [Upstream](https://github.com/mich-de/s25edge_battery/releases) |
+| ⚡ **flip-ctl** | RakinRkz | `v1.0` | 2026-10-07 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/flip-ctl-v1.0) | [Upstream](https://github.com/RakinRkz/flip-ctl/releases) |
+| ⚡ **Mod-Loader** | Kohlrabenschwarz | `v1.1.0` | 2026-10-07 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/mod-loader-v1.1.0) | [Upstream](https://github.com/Kohlrabenschwarz/Mod-Loader/releases) |
+| ⚡ **antigravity-android** | werdio325-png | `v2.0.0` | 2026-10-07 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/antigravity-android-v2.0.0) | [Upstream](https://github.com/werdio325-png/antigravity-android/releases) |
+| ⚡ **OhMyPi-Mobile** | zr987459 | `v0.1.23` | 2026-10-07 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/ohmypi-mobile-v0.1.23) | [Upstream](https://github.com/zr987459/OhMyPi-Mobile/releases) |
+| ⚡ **ExtraDimToggle** | Apihplays | `v1.3.0` | 2026-10-07 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/extradimtoggle-v1.3.0) | [Upstream](https://github.com/Apihplays/ExtraDimToggle/releases) |
+| ⚡ **Veyra** | ctrl-mietze | `v1.0.0` | 2026-10-06 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/veyra-v1.0.0) | [Upstream](https://github.com/ctrl-mietze/Veyra/releases) |
 
 </details>
 <!-- RECENT-UPDATES-END -->
