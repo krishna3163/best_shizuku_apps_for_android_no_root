@@ -260,16 +260,16 @@ A dedicated zero-dependency terminal companion to search 500+ apps, inspect meta
 
 | App | Developer | Version | Released | APK | Upstream |
 |:---|:---|:---|:---|:---|:---|
-| ⚡ **FlymeFreeform** | m-secret | `v1.0.5` | 2026-10-07 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/flymefreeform-v1.0.5) | [Upstream](https://github.com/m-secret/FlymeFreeform/releases) |
-| ⚡ **Dollhouse** | Farewell-coder | `v0.0.4` | 2026-10-07 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/dollhouse-v0.0.4) | [Upstream](https://github.com/Farewell-coder/Dollhouse/releases) |
-| ⚡ **samsung_s24_battery_life** | mich-de | `v2.6` | 2026-10-07 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/samsung-s24-battery-life-v2.6) | [Upstream](https://github.com/mich-de/samsung_s24_battery_life/releases) |
-| ⚡ **s25edge_battery** | mich-de | `v1.0.0` | 2026-10-07 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/s25edge-battery-v1.0.0) | [Upstream](https://github.com/mich-de/s25edge_battery/releases) |
-| ⚡ **flip-ctl** | RakinRkz | `v1.0` | 2026-10-07 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/flip-ctl-v1.0) | [Upstream](https://github.com/RakinRkz/flip-ctl/releases) |
-| ⚡ **Mod-Loader** | Kohlrabenschwarz | `v1.1.0` | 2026-10-07 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/mod-loader-v1.1.0) | [Upstream](https://github.com/Kohlrabenschwarz/Mod-Loader/releases) |
-| ⚡ **antigravity-android** | werdio325-png | `v2.0.0` | 2026-10-07 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/antigravity-android-v2.0.0) | [Upstream](https://github.com/werdio325-png/antigravity-android/releases) |
-| ⚡ **OhMyPi-Mobile** | zr987459 | `v0.1.23` | 2026-10-07 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/ohmypi-mobile-v0.1.23) | [Upstream](https://github.com/zr987459/OhMyPi-Mobile/releases) |
-| ⚡ **ExtraDimToggle** | Apihplays | `v1.3.0` | 2026-10-07 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/extradimtoggle-v1.3.0) | [Upstream](https://github.com/Apihplays/ExtraDimToggle/releases) |
-| ⚡ **Veyra** | ctrl-mietze | `v1.0.0` | 2026-10-06 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/veyra-v1.0.0) | [Upstream](https://github.com/ctrl-mietze/Veyra/releases) |
+| ⚡ **nfc-share** | hubble658 | `v2.0.1` | 2026-10-08 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/nfc-share-v2.0.1) | [Upstream](https://github.com/hubble658/nfc-share/releases) |
+| ⚡ **callrex** | RYUK8853 | `v2.4.10` | 2026-10-08 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/callrex-v2.4.10) | [Upstream](https://github.com/RYUK8853/callrex/releases) |
+| ⚡ **DataThrottle** | zaochuan5854 | `v0.2.1` | 2026-10-08 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/datathrottle-v0.2.1) | [Upstream](https://github.com/zaochuan5854/DataThrottle/releases) |
+| ⚡ **android-call-recorder-app** | SanjarbekSaminjonov | `v1.0.5` | 2026-10-08 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/android-call-recorder-app-v1.0.5) | [Upstream](https://github.com/SanjarbekSaminjonov/android-call-recorder-app/releases) |
+| ⚡ **rikkahub-agent-pure** | wuyhong715 | `v2.5.3-pure.3` | 2026-10-08 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/rikkahub-agent-pure-v2.5.3-pure.3) | [Upstream](https://github.com/wuyhong715/rikkahub-agent-pure/releases) |
+| ⚡ **ShutterSoundToggle** | soralis0912 | `v1.2` | 2026-10-08 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/shuttersoundtoggle-v1.2) | [Upstream](https://github.com/soralis0912/ShutterSoundToggle/releases) |
+| ⚡ **adaptive-performance** | langraficagr-collab | `v1.9.3` | 2026-10-08 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/adaptive-performance-v1.9.3) | [Upstream](https://github.com/langraficagr-collab/adaptive-performance/releases) |
+| ⚡ **droynis** | capitan0n | `v0.12.0` | 2026-10-08 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/droynis-v0.12.0) | [Upstream](https://github.com/capitan0n/droynis/releases) |
+| ⚡ **EasyPocketMD** | sunhouy | `v2.10.6` | 2026-10-08 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/easypocketmd-v2.10.6) | [Upstream](https://github.com/sunhouy/EasyPocketMD/releases) |
+| ⚡ **rikkahub-agent** | AAAelina | `v2.3.1-agent-up244.8` | 2026-10-08 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/rikkahub-agent-v2.3.1-agent-up244.8) | [Upstream](https://github.com/AAAelina/rikkahub-agent/releases) |
 
 </details>
 <!-- RECENT-UPDATES-END -->
