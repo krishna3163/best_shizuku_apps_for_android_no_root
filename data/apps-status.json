@@ -1,7 +1,7 @@
 {
   "shizuku": {
     "status": "no-update",
-    "last_checked": "2026-10-08T18:18:46.195311+00:00",
+    "last_checked": "2026-10-09T17:52:17.938063+00:00",
     "latest_version": "v13.6.0",
     "last_synced": "2026-08-22T11:57:04.456608+00:00"
   },
@@ -265,7 +265,7 @@
   },
   "enforcedoze": {
     "status": "no-update",
-    "last_checked": "2026-10-08T18:18:46.697470+00:00",
+    "last_checked": "2026-10-09T17:52:36.094130+00:00",
     "latest_version": "v1.10.2/86",
     "last_synced": "2026-08-22T12:02:01.573786+00:00"
   },
@@ -277,7 +277,7 @@
   },
   "applock": {
     "status": "no-apk",
-    "last_checked": "2026-10-08T18:19:06.846336+00:00"
+    "last_checked": "2026-10-09T17:52:35.554811+00:00"
   },
   "tarnhelm": {
     "status": "no-update",
@@ -333,7 +333,7 @@
   },
   "shizako": {
     "status": "no-update",
-    "last_checked": "2026-10-08T18:19:06.578691+00:00",
+    "last_checked": "2026-10-09T17:52:17.073194+00:00",
     "latest_version": "zako3.12",
     "last_synced": "2026-10-01T03:38:20.475631+00:00"
   },
@@ -477,7 +477,7 @@
   },
   "service-keeper": {
     "status": "no-update",
-    "last_checked": "2026-10-08T18:19:07.273276+00:00",
+    "last_checked": "2026-10-09T17:52:29.689201+00:00",
     "latest_version": "v1.0.5",
     "last_synced": "2026-09-29T11:55:39.631521+00:00"
   },
@@ -685,7 +685,7 @@
   },
   "komi-store": {
     "status": "no-update",
-    "last_checked": "2026-10-08T18:19:00.399653+00:00",
+    "last_checked": "2026-10-09T17:52:04.653043+00:00",
     "latest_version": "v1.9.2",
     "last_synced": "2026-09-29T17:34:42.471330+00:00"
   },
@@ -2249,5 +2249,60 @@
     "last_checked": "2026-10-09T04:08:21.135275+00:00",
     "latest_version": "APK",
     "last_synced": "2026-10-09T04:08:21.135275+00:00"
+  },
+  "aadisplay-duoscreen": {
+    "status": "synced",
+    "last_checked": "2026-10-09T17:52:08.724980+00:00",
+    "latest_version": "v1.0.0",
+    "last_synced": "2026-10-09T17:52:08.724980+00:00"
+  },
+  "fold-fit": {
+    "status": "synced",
+    "last_checked": "2026-10-09T17:52:12.727289+00:00",
+    "latest_version": "1.0",
+    "last_synced": "2026-10-09T17:52:12.727289+00:00"
+  },
+  "atlayaswitch": {
+    "status": "synced",
+    "last_checked": "2026-10-09T17:52:16.274984+00:00",
+    "latest_version": "v1.9.5",
+    "last_synced": "2026-10-09T17:52:16.274984+00:00"
+  },
+  "drawer-clear": {
+    "status": "no-apk",
+    "last_checked": "2026-10-09T17:52:16.613911+00:00"
+  },
+  "proot-distro-nolib": {
+    "status": "no-apk",
+    "last_checked": "2026-10-09T17:52:17.446592+00:00"
+  },
+  "turbouro": {
+    "status": "synced",
+    "last_checked": "2026-10-09T17:52:21.944957+00:00",
+    "latest_version": "v1.0.0",
+    "last_synced": "2026-10-09T17:52:21.944957+00:00"
+  },
+  "nextjs-chat": {
+    "status": "no-apk",
+    "last_checked": "2026-10-09T17:52:22.365562+00:00",
+    "latest_version": "pc-v1.0.8"
+  },
+  "jemrec": {
+    "status": "synced",
+    "last_checked": "2026-10-09T17:52:25.848921+00:00",
+    "latest_version": "0.8",
+    "last_synced": "2026-10-09T17:52:25.848921+00:00"
+  },
+  "shizuposed": {
+    "status": "synced",
+    "last_checked": "2026-10-09T17:52:29.229961+00:00",
+    "latest_version": "1.0.5",
+    "last_synced": "2026-10-09T17:52:29.229961+00:00"
+  },
+  "orpheus": {
+    "status": "synced",
+    "last_checked": "2026-10-09T17:52:35.315264+00:00",
+    "latest_version": "v0.3.1",
+    "last_synced": "2026-10-09T17:52:35.315264+00:00"
   }
 }
