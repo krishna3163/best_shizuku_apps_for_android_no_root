@@ -202,6 +202,11 @@ Shizuku allows normal Android apps to access powerful system APIs through **ADB 
 
 | 应用名称 | 功能介绍与 Shizuku 用例 | 开源许可 | 相关链接 |
 |:---|:---|:---|:---|
+| **[angel-android](https://github.com/CurrenlyDying/angel-android)** | Angel-android：通过 Android shell 访问 (Shizuku)、PRoot Linux 终端和 MCP 工具支持在 Android 上运行 AI 代理。 | Unlicense | [GitHub 源码](https://github.com/CurrenlyDying/angel-android) • [下载发布](https://github.com/CurrenlyDying/angel-android/releases) |
+| **[A-Injector](https://github.com/PetaBYT3/A-Injector)** | 与 Shizuku 兼容的 Android 工具。 | See project | [GitHub 源码](https://github.com/PetaBYT3/A-Injector) • [下载发布](https://github.com/PetaBYT3/A-Injector/releases) |
+| **[Bridge](https://github.com/Bonevane/Bridge)** | 即使手机处于锁定状态，也可以通过任何网络从 Mac（或 Windows）查看和控制您的 Android 手机。 | Apache-2.0 | [GitHub 源码](https://github.com/Bonevane/Bridge) • [下载发布](https://github.com/Bonevane/Bridge/releases) |
+| **[IzukiJS](https://github.com/BUGJI/IzukiJS)** | Android 自动化脚本运行时 · 使用 QuickJS 脚本，支持 / Shizuku / Root / 蓝牙 HID 多驱动设备，内置找图找色、OCR 与 AI Agent 脱困 | GPL-3.0 | [GitHub 源码](https://github.com/BUGJI/IzukiJS) • [下载发布](https://github.com/BUGJI/IzukiJS/releases) |
+| **[android-mcp-server](https://github.com/qazmko72/android-mcp-server)** | 安全的本机 Android MCP 服务器：通过 MCP 使用电话功能，无需计算机、ADB 或云后端。 | MIT | [GitHub 源码](https://github.com/qazmko72/android-mcp-server) • [下载发布](https://github.com/qazmko72/android-mcp-server/releases) |
 | **[android-call-recorder-app](https://github.com/SanjarbekSaminjonov/android-call-recorder-app)** | 与 Shizuku 兼容的 Android 工具。 | See project | [GitHub 源码](https://github.com/SanjarbekSaminjonov/android-call-recorder-app) • [下载发布](https://github.com/SanjarbekSaminjonov/android-call-recorder-app/releases) |
 | **[MoonClicker](https://github.com/kuomartin/MoonClicker)** | MoonClicker 是一款专为 Android 设计的 Lua 控制与后台自动化工具：利用 Shizuku 建立了独立的虚拟显示器（Virtual Display），在不占用萤幕的情况下后台执行目标应用程序、填充/密钥事件，并绕过线性执行的 Lua 脚本流程驱动，支持基于 OpenCV 的本机端高效图像模板与 VS Code 开发调试。 | MIT | [GitHub 源码](https://github.com/kuomartin/MoonClicker) • [下载发布](https://github.com/kuomartin/MoonClicker/releases) |
 | **[nfc-share](https://github.com/hubble658/nfc-share)** | 与 Shizuku 兼容的 Android 工具。 | Apache-2.0 | [GitHub 源码](https://github.com/hubble658/nfc-share) • [下载发布](https://github.com/hubble658/nfc-share/releases) |
@@ -263,16 +268,16 @@ Shizuku allows normal Android apps to access powerful system APIs through **ADB 
 
 | App | Developer | Version | Released | APK | Upstream |
 |:---|:---|:---|:---|:---|:---|
-| ⚡ **FlymeFreeform** | m-秘密 | `v1.0.5` | 2026-10-07 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/flymefreeform-v1.0.5) | [Upstream](https://github.com/m-secret/FlymeFreeform/releases) |
-| ⚡ **Dollhouse** | 告别编码员 | `v0.0.4` | 2026-10-07 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/dollhouse-v0.0.4) | [Upstream](https://github.com/Farewell-coder/Dollhouse/releases) |
-| ⚡ **samsung_s24_battery_life** | 米希德 | `v2.6` | 2026-10-07 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/samsung-s24-battery-life-v2.6) | [Upstream](https://github.com/mich-de/samsung_s24_battery_life/releases) |
-| ⚡ **s25edge_battery** | 米希德 | `v1.0.0` | 2026-10-07 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/s25edge-battery-v1.0.0) | [Upstream](https://github.com/mich-de/s25edge_battery/releases) |
-| ⚡ **flip-ctl** | 拉金·克兹 | `v1.0` | 2026-10-07 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/flip-ctl-v1.0) | [Upstream](https://github.com/RakinRkz/flip-ctl/releases) |
-| ⚡ **Mod-Loader** | 科尔拉本施瓦茨 | `v1.1.0` | 2026-10-07 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/mod-loader-v1.1.0) | [Upstream](https://github.com/Kohlrabenschwarz/Mod-Loader/releases) |
-| ⚡ **antigravity-android** | werdio325-png | `v2.0.0` | 2026-10-07 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/antigravity-android-v2.0.0) | [Upstream](https://github.com/werdio325-png/antigravity-android/releases) |
-| ⚡ **OhMyPi-Mobile** | zr987459 | `v0.1.23` | 2026-10-07 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/ohmypi-mobile-v0.1.23) | [Upstream](https://github.com/zr987459/OhMyPi-Mobile/releases) |
-| ⚡ **ExtraDimToggle** | apihplays | `v1.3.0` | 2026-10-07 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/extradimtoggle-v1.3.0) | [Upstream](https://github.com/Apihplays/ExtraDimToggle/releases) |
-| ⚡ **Veyra** | ctrl-米茨 | `v1.0.0` | 2026-10-06 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/veyra-v1.0.0) | [Upstream](https://github.com/ctrl-mietze/Veyra/releases) |
+| ⚡ **nfc-share** | 哈勃658 | `v2.0.1` | 2026-10-08 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/nfc-share-v2.0.1) | [Upstream](https://github.com/hubble658/nfc-share/releases) |
+| ⚡ **callrex** | RYUK8853 | `v2.4.10` | 2026-10-08 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/callrex-v2.4.10) | [Upstream](https://github.com/RYUK8853/callrex/releases) |
+| ⚡ **DataThrottle** | 枣川5854 | `v0.2.1` | 2026-10-08 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/datathrottle-v0.2.1) | [Upstream](https://github.com/zaochuan5854/DataThrottle/releases) |
+| ⚡ **android-call-recorder-app** | 桑贾贝克·萨明乔诺夫 | `v1.0.5` | 2026-10-08 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/android-call-recorder-app-v1.0.5) | [Upstream](https://github.com/SanjarbekSaminjonov/android-call-recorder-app/releases) |
+| ⚡ **rikkahub-agent-pure** | 五红715 | `v2.5.3-pure.3` | 2026-10-08 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/rikkahub-agent-pure-v2.5.3-pure.3) | [Upstream](https://github.com/wuyhong715/rikkahub-agent-pure/releases) |
+| ⚡ **ShutterSoundToggle** | 索拉力斯0912 | `v1.2` | 2026-10-08 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/shuttersoundtoggle-v1.2) | [Upstream](https://github.com/soralis0912/ShutterSoundToggle/releases) |
+| ⚡ **adaptive-performance** | langraficagr 协作 | `v1.9.3` | 2026-10-08 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/adaptive-performance-v1.9.3) | [Upstream](https://github.com/langraficagr-collab/adaptive-performance/releases) |
+| ⚡ **droynis** | 船长0n | `v0.12.0` | 2026-10-08 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/droynis-v0.12.0) | [Upstream](https://github.com/capitan0n/droynis/releases) |
+| ⚡ **EasyPocketMD** | 孙胡伊 | `v2.10.6` | 2026-10-08 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/easypocketmd-v2.10.6) | [Upstream](https://github.com/sunhouy/EasyPocketMD/releases) |
+| ⚡ **rikkahub-agent** | AA艾琳娜 | `v2.3.1-agent-up244.8` | 2026-10-08 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/rikkahub-agent-v2.3.1-agent-up244.8) | [Upstream](https://github.com/AAAelina/rikkahub-agent/releases) |
 
 </details>
 <!-- RECENT-UPDATES-END -->

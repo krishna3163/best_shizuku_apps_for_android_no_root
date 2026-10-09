@@ -9532,5 +9532,116 @@
     ],
     "mirror_release_tag": "android-call-recorder-app-v1.0.5",
     "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/android-call-recorder-app-v1.0.5"
+  },
+  "android-mcp-server": {
+    "source_repository": "qazmko72/android-mcp-server",
+    "source_release_id": 379554727,
+    "source_tag": "v1.0.0",
+    "source_published_at": "2026-08-31T06:43:01Z",
+    "synced_at": "2026-10-09T04:07:46.493051+00:00",
+    "assets": [
+      {
+        "source_asset_id": 537593448,
+        "filename": "app-release.apk",
+        "original_filename": "app-release.apk",
+        "sha256": "313d0754a94dac7e3b24744a3de82c7548f6daa8d289a16de03b059b627b4030",
+        "file_size": 7939421,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "android-mcp-server-v1.0.0",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/android-mcp-server-v1.0.0"
+  },
+  "izukijs": {
+    "source_repository": "BUGJI/IzukiJS",
+    "source_release_id": 407105368,
+    "source_tag": "v1.1.0",
+    "source_published_at": "2026-10-08T17:43:24Z",
+    "synced_at": "2026-10-09T04:08:06.054214+00:00",
+    "assets": [
+      {
+        "source_asset_id": 622545598,
+        "filename": "app-arm64-v8a-release.apk",
+        "original_filename": "app-arm64-v8a-release.apk",
+        "sha256": "9532fe586afb075e25962a5eeaf3f5f5114b3736623dbc4bf2a01618c274e93c",
+        "file_size": 46921864,
+        "architecture": "arm64-v8a"
+      },
+      {
+        "source_asset_id": 622545597,
+        "filename": "app-armeabi-v7a-release.apk",
+        "original_filename": "app-armeabi-v7a-release.apk",
+        "sha256": "cfe77fb4574d963616ec85c27b9ca888068851567321321de002d7afb0b712a7",
+        "file_size": 32989804,
+        "architecture": "armeabi-v7a"
+      },
+      {
+        "source_asset_id": 622545594,
+        "filename": "app-x86_64-release.apk",
+        "original_filename": "app-x86_64-release.apk",
+        "sha256": "137436e7422582d6ee2b052ed97a6f42a79f5229786d454682d0ccb58227abdf",
+        "file_size": 83397966,
+        "architecture": "x86_64"
+      }
+    ],
+    "mirror_release_tag": "izukijs-v1.1.0",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/izukijs-v1.1.0"
+  },
+  "bridge": {
+    "source_repository": "Bonevane/Bridge",
+    "source_release_id": 407376484,
+    "source_tag": "v0.3.0",
+    "source_published_at": "2026-10-09T00:32:12Z",
+    "synced_at": "2026-10-09T04:08:12.730141+00:00",
+    "assets": [
+      {
+        "source_asset_id": 623410914,
+        "filename": "Bridge-0.3.0.apk",
+        "original_filename": "Bridge-0.3.0.apk",
+        "sha256": "18806f70c974434afb055a1b3f6f63c5a042fc0699e999be3e95def70aee9fb5",
+        "file_size": 45260892,
+        "architecture": "arm64-v8a"
+      }
+    ],
+    "mirror_release_tag": "bridge-v0.3.0",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/bridge-v0.3.0"
+  },
+  "a-injector": {
+    "source_repository": "PetaBYT3/A-Injector",
+    "source_release_id": 407491368,
+    "source_tag": "v1.0.2",
+    "source_published_at": "2026-10-09T03:59:15Z",
+    "synced_at": "2026-10-09T04:08:16.811599+00:00",
+    "assets": [
+      {
+        "source_asset_id": 623831670,
+        "filename": "A.Injector.V1.0.2.apk",
+        "original_filename": "A.Injector.V1.0.2.apk",
+        "sha256": "fa40628e125e236252e89d653f02569812f61213b7201d4959a1e9fb181a1417",
+        "file_size": 6428596,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "a-injector-v1.0.2",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/a-injector-v1.0.2"
+  },
+  "angel-android": {
+    "source_repository": "CurrenlyDying/angel-android",
+    "source_release_id": 407319394,
+    "source_tag": "APK",
+    "source_published_at": "2026-10-08T22:44:07Z",
+    "synced_at": "2026-10-09T04:08:21.135255+00:00",
+    "assets": [
+      {
+        "source_asset_id": 623204361,
+        "filename": "angel-android-1.0-release.apk",
+        "original_filename": "angel-android-1.0-release.apk",
+        "sha256": "34df8193a85f7b6bc6848dd91a15cc64f4ade0fda1a6ce757bd50fb30cf2d40c",
+        "file_size": 16691371,
+        "architecture": "arm64-v8a"
+      }
+    ],
+    "mirror_release_tag": "angel-android-APK",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/angel-android-APK"
   }
 }
