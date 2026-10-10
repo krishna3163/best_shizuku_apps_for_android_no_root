@@ -5333,22 +5333,22 @@
   },
   "deepseek-harness-android": {
     "source_repository": "dphmoblie/deepseek-harness-android",
-    "source_release_id": 389695386,
-    "source_tag": "v0.2.0",
-    "source_published_at": "2026-09-16T06:55:57Z",
-    "synced_at": "2026-09-30T17:28:10.616535+00:00",
+    "source_release_id": 403616181,
+    "source_tag": "v0.2.10",
+    "source_published_at": "2026-10-05T10:53:40Z",
+    "synced_at": "2026-10-10T16:51:12.377063+00:00",
     "assets": [
       {
-        "source_asset_id": 567386912,
+        "source_asset_id": 612294614,
         "filename": "app-release.apk",
         "original_filename": "app-release.apk",
-        "sha256": "2da9ecd285eb7261048ec93c24914f013ccd9d6981df8d35d6c5e8468175ea78",
-        "file_size": 240196247,
+        "sha256": "2bdc835c148045782fe27434b72b683866c412497d578feeb0dc6f3b8e142a00",
+        "file_size": 314620564,
         "architecture": "arm64-v8a"
       }
     ],
-    "mirror_release_tag": "deepseek-harness-android-v0.2.0",
-    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/deepseek-harness-android-v0.2.0"
+    "mirror_release_tag": "deepseek-harness-android-v0.2.10",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/deepseek-harness-android-v0.2.10"
   },
   "equalizer314": {
     "source_repository": "bearinmindcat/Equalizer314",
@@ -9995,5 +9995,425 @@
     ],
     "mirror_release_tag": "palleria-v6.6.0",
     "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/palleria-v6.6.0"
+  },
+  "jev-filter": {
+    "source_repository": "RedVad/jev-filter",
+    "source_release_id": 409069111,
+    "source_tag": "v1.1",
+    "source_published_at": "2026-10-10T16:37:30Z",
+    "synced_at": "2026-10-10T16:48:20.269557+00:00",
+    "assets": [
+      {
+        "source_asset_id": 628452466,
+        "filename": "jevfilter.apk",
+        "original_filename": "jevfilter.apk",
+        "sha256": "7289c80ba533fd85c1394611d2ba6d9c7cdb6b978be0b1d6b10738e821cb2b6b",
+        "file_size": 57986,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "jev-filter-v1.1",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/jev-filter-v1.1"
+  },
+  "ghost-files": {
+    "source_repository": "Ghostpanter/ghost-files",
+    "source_release_id": 409058807,
+    "source_tag": "v0.2.0",
+    "source_published_at": "2026-10-10T16:18:07Z",
+    "synced_at": "2026-10-10T16:48:24.992916+00:00",
+    "assets": [
+      {
+        "source_asset_id": 628411000,
+        "filename": "ghost-files.apk",
+        "original_filename": "ghost-files.apk",
+        "sha256": "e108d325289b58bc1abf8ebfc6832232a46537fa5c54cb23d8b2669279a829dd",
+        "file_size": 15896082,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "ghost-files-v0.2.0",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/ghost-files-v0.2.0"
+  },
+  "hermes-mobile-app": {
+    "source_repository": "omarqaterge/hermes-mobile-app",
+    "source_release_id": 405250433,
+    "source_tag": "v0.8.9",
+    "source_published_at": "2026-10-07T00:34:38Z",
+    "synced_at": "2026-10-10T16:48:27.908345+00:00",
+    "assets": [
+      {
+        "source_asset_id": 617074706,
+        "filename": "hermes-mobile.apk",
+        "original_filename": "hermes-mobile.apk",
+        "sha256": "f12d07f63d08ed450c7e86dddbb5ddfb122c3091249d08fc1fe9725c9ab67140",
+        "file_size": 1725712,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "hermes-mobile-app-v0.8.9",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/hermes-mobile-app-v0.8.9"
+  },
+  "jarvis-robotai": {
+    "source_repository": "ucupalam5/jarvis-robotai",
+    "source_release_id": 387601397,
+    "source_tag": "v2.1.0",
+    "source_published_at": "2026-09-12T14:47:04Z",
+    "synced_at": "2026-10-10T16:48:35.268700+00:00",
+    "assets": [
+      {
+        "source_asset_id": 559421995,
+        "filename": "jarvis-v2.1.0.apk",
+        "original_filename": "jarvis-v2.1.0.apk",
+        "sha256": "c546894e89641d0214eacbebad3113d6cda3871c3bc667bf854f863e7a95db06",
+        "file_size": 48491315,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "jarvis-robotai-v2.1.0",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/jarvis-robotai-v2.1.0"
+  },
+  "activity-plus-android": {
+    "source_repository": "robbyczgw-cla/activity-plus-android",
+    "source_release_id": 408996991,
+    "source_tag": "v0.3.0",
+    "source_published_at": "2026-10-10T14:23:13Z",
+    "synced_at": "2026-10-10T16:48:38.297192+00:00",
+    "assets": [
+      {
+        "source_asset_id": 628162525,
+        "filename": "activityplus-android-0.3.0.apk",
+        "original_filename": "activityplus-android-0.3.0.apk",
+        "sha256": "a1b3c2ad0b033ec947546734c2ad3907813f29011d9416b0acf72aa6a8a9ec6e",
+        "file_size": 3239974,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "activity-plus-android-v0.3.0",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/activity-plus-android-v0.3.0"
+  },
+  "openliquidlauncher": {
+    "source_repository": "LinuxKernel44/OpenLiquidLauncher",
+    "source_release_id": 409062455,
+    "source_tag": "v1.4.4",
+    "source_published_at": "2026-10-10T16:25:01Z",
+    "synced_at": "2026-10-10T16:48:42.092296+00:00",
+    "assets": [
+      {
+        "source_asset_id": 628424705,
+        "filename": "OpenLiquidLauncher-1.4.4.apk",
+        "original_filename": "OpenLiquidLauncher-1.4.4.apk",
+        "sha256": "2bf13912dbd357b3c8334871101a55732d9ebdf146aedfbecdc38b48d15219b9",
+        "file_size": 2231411,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "openliquidlauncher-v1.4.4",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/openliquidlauncher-v1.4.4"
+  },
+  "re-amachiromaker-android": {
+    "source_repository": "ynlp0624/RE-Amachiromaker-Android",
+    "source_release_id": 409059674,
+    "source_tag": "v1.0.0",
+    "source_published_at": "2026-10-10T16:19:44Z",
+    "synced_at": "2026-10-10T16:48:47.886370+00:00",
+    "assets": [
+      {
+        "source_asset_id": 628414384,
+        "filename": "RE-Amachiromaker-v1.0.0-android.apk",
+        "original_filename": "RE-Amachiromaker-v1.0.0-android.apk",
+        "sha256": "cdc7269d4f165e481d6f7fe13290b77f786dce95e7ccf2bcd23b279f8e80940d",
+        "file_size": 41052305,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "re-amachiromaker-android-v1.0.0",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/re-amachiromaker-android-v1.0.0"
+  },
+  "chargemode-quicktile": {
+    "source_repository": "bl3xand/ChargeMode-QuickTile",
+    "source_release_id": 409056539,
+    "source_tag": "v1.0.2",
+    "source_published_at": "2026-10-10T16:13:47Z",
+    "synced_at": "2026-10-10T16:48:50.871889+00:00",
+    "assets": [
+      {
+        "source_asset_id": 628400146,
+        "filename": "ChargeMode-1.0.2.apk",
+        "original_filename": "ChargeMode-1.0.2.apk",
+        "sha256": "7742b558f00696c5f74b6072b5ea69f471c0759035f3593333e1e03c960f9d70",
+        "file_size": 2719345,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "chargemode-quicktile-v1.0.2",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/chargemode-quicktile-v1.0.2"
+  },
+  "lock-escape": {
+    "source_repository": "lilining308-prog/lock-escape",
+    "source_release_id": 408883922,
+    "source_tag": "v2.0",
+    "source_published_at": "2026-10-10T10:54:32Z",
+    "synced_at": "2026-10-10T16:48:56.525068+00:00",
+    "assets": [
+      {
+        "source_asset_id": 627755892,
+        "filename": "lock-escape-current-release.apk",
+        "original_filename": "lock-escape-current-release.apk",
+        "sha256": "b8599d50e059d810d0e5b961974d5fac45b85c01fb70a067d91d6dd1ddc2831f",
+        "file_size": 4842808,
+        "architecture": "unknown"
+      },
+      {
+        "source_asset_id": 627721412,
+        "filename": "lock-escape-v2.0-release.apk",
+        "original_filename": "lock-escape-v2.0-release.apk",
+        "sha256": "3ab9f8bd63a6a936ce513c13f6c648ce866f061659f94f5ddb9e5f045ee86a45",
+        "file_size": 4834413,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "lock-escape-v2.0",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/lock-escape-v2.0"
+  },
+  "adbswitch": {
+    "source_repository": "gaoyilun/adbSwitch",
+    "source_release_id": 409024216,
+    "source_tag": "v1.0.2",
+    "source_published_at": "2026-10-10T15:14:07Z",
+    "synced_at": "2026-10-10T16:48:59.634336+00:00",
+    "assets": [
+      {
+        "source_asset_id": 628269324,
+        "filename": "com.elleng.adbswitch-1.0.2-universal-release.apk",
+        "original_filename": "com.elleng.adbswitch-1.0.2-universal-release.apk",
+        "sha256": "25a9e39b983ac47d71b04fdd5bb1ad2fa7b88eb524f92a6aff79f7d41310de5a",
+        "file_size": 1907098,
+        "architecture": "universal"
+      }
+    ],
+    "mirror_release_tag": "adbswitch-v1.0.2",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/adbswitch-v1.0.2"
+  },
+  "appman": {
+    "source_repository": "utkarsh-naman/AppMan",
+    "source_release_id": 409054016,
+    "source_tag": "Latest",
+    "source_published_at": "2026-10-10T16:10:58Z",
+    "synced_at": "2026-10-10T16:49:04.104545+00:00",
+    "assets": [
+      {
+        "source_asset_id": 628390050,
+        "filename": "appman-release.apk",
+        "original_filename": "appman-release.apk",
+        "sha256": "d49e1cc67096ee6683df8cb29654dd70251ccd93c7ecab0a675cb5e01ec0986c",
+        "file_size": 24144364,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "appman-Latest",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/appman-Latest"
+  },
+  "phone-agent": {
+    "source_repository": "huanghao680/phone-agent",
+    "source_release_id": 405958997,
+    "source_tag": "v0.7.94",
+    "source_published_at": "2026-10-07T16:30:49Z",
+    "synced_at": "2026-10-10T16:49:42.772287+00:00",
+    "assets": [
+      {
+        "source_asset_id": 619209046,
+        "filename": "phone-agent-v0.7.94-arm64.apk",
+        "original_filename": "phone-agent-v0.7.94-arm64.apk",
+        "sha256": "05bc3dc797e1ca1acc410951fc39c5c502d6c7c67f1a6f7c3b523cff7242603e",
+        "file_size": 506197820,
+        "architecture": "arm64-v8a"
+      }
+    ],
+    "mirror_release_tag": "phone-agent-v0.7.94",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/phone-agent-v0.7.94"
+  },
+  "suixing": {
+    "source_repository": "zeng6125-rgb/suixing",
+    "source_release_id": 409063558,
+    "source_tag": "v0.8.75",
+    "source_published_at": "2026-10-10T16:28:50Z",
+    "synced_at": "2026-10-10T16:49:48.002392+00:00",
+    "assets": [
+      {
+        "source_asset_id": 628429676,
+        "filename": "suixing-0.8.75.apk",
+        "original_filename": "suixing-0.8.75.apk",
+        "sha256": "8dab25d66400e886fabb85ab4f5da7aca14533ee880e1c8183027233eaab0f37",
+        "file_size": 13152762,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "suixing-v0.8.75",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/suixing-v0.8.75"
+  },
+  "device-check": {
+    "source_repository": "TeaPieyyds/device-check",
+    "source_release_id": 403412194,
+    "source_tag": "v1.0.0",
+    "source_published_at": "2026-10-05T06:09:09Z",
+    "synced_at": "2026-10-10T16:49:50.967163+00:00",
+    "assets": [
+      {
+        "source_asset_id": 627806544,
+        "filename": "app-release.apk",
+        "original_filename": "app-release.apk",
+        "sha256": "888e225d55d5046d23399a9557d5ee3247c0230885f251f31f9191604f6eca51",
+        "file_size": 678330,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "device-check-v1.0.0",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/device-check-v1.0.0"
+  },
+  "scrcpyoverwebrtc": {
+    "source_repository": "hqw700/ScrcpyOverWebRTC",
+    "source_release_id": 409067518,
+    "source_tag": "v0.4.1",
+    "source_published_at": "2026-10-10T16:36:38Z",
+    "synced_at": "2026-10-10T16:50:01.898769+00:00",
+    "assets": [
+      {
+        "source_asset_id": 628447164,
+        "filename": "ScrcpyOverWebRTC-v0.4.1-release.apk",
+        "original_filename": "ScrcpyOverWebRTC-v0.4.1-release.apk",
+        "sha256": "ef314d9cacb2534bb78e97cef43323aa1ac7e3be09ec149b76cb566760d48f51",
+        "file_size": 108279433,
+        "architecture": "arm64-v8a, armeabi, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "scrcpyoverwebrtc-v0.4.1",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/scrcpyoverwebrtc-v0.4.1"
+  },
+  "adaptivehz": {
+    "source_repository": "shepard639/AdaptiveHz",
+    "source_release_id": 409048115,
+    "source_tag": "v1.1.0",
+    "source_published_at": "2026-10-10T15:57:57Z",
+    "synced_at": "2026-10-10T16:50:05.768878+00:00",
+    "assets": [
+      {
+        "source_asset_id": 628381204,
+        "filename": "AdaptiveHz-release.apk",
+        "original_filename": "AdaptiveHz-release.apk",
+        "sha256": "5ddfcb91a297fe6c68daa2f846de796b47ef389584f6e39b2b17fa62774d69b3",
+        "file_size": 4312765,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "adaptivehz-v1.1.0",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/adaptivehz-v1.1.0"
+  },
+  "appdns": {
+    "source_repository": "Shishir-ip/AppDNS",
+    "source_release_id": 409062853,
+    "source_tag": "v2.0",
+    "source_published_at": "2026-10-10T16:26:33Z",
+    "synced_at": "2026-10-10T16:50:10.723318+00:00",
+    "assets": [
+      {
+        "source_asset_id": 628426399,
+        "filename": "AppDNSv2.apk",
+        "original_filename": "AppDNSv2.apk",
+        "sha256": "b1413b43c4808b5dc7ec5e3ef9951257dc7d2efb8fb02549940910300e28060a",
+        "file_size": 23634169,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "appdns-v2.0",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/appdns-v2.0"
+  },
+  "tachiyomix": {
+    "source_repository": "zhzipu/TachiyomiX",
+    "source_release_id": 405874924,
+    "source_tag": "v1.0.2",
+    "source_published_at": "2026-10-07T14:49:24Z",
+    "synced_at": "2026-10-10T16:50:45.301305+00:00",
+    "assets": [
+      {
+        "source_asset_id": 618991391,
+        "filename": "TachiyomiX-1.0.2-arm64-v8a.apk",
+        "original_filename": "TachiyomiX-1.0.2-arm64-v8a.apk",
+        "sha256": "566b6046483731d7d2266246ad4dd4d816cdd362031972d2b17480942c21ed00",
+        "file_size": 71620602,
+        "architecture": "arm64-v8a"
+      },
+      {
+        "source_asset_id": 618992244,
+        "filename": "TachiyomiX-1.0.2-armeabi-v7a.apk",
+        "original_filename": "TachiyomiX-1.0.2-armeabi-v7a.apk",
+        "sha256": "fd168ca52d70b5b44fed05de6f9e05bcfc9cae6803f8e521bac23506a5f50b2c",
+        "file_size": 42497350,
+        "architecture": "armeabi-v7a"
+      },
+      {
+        "source_asset_id": 618992675,
+        "filename": "TachiyomiX-1.0.2-universal.apk",
+        "original_filename": "TachiyomiX-1.0.2-universal.apk",
+        "sha256": "573e808cc7e2e58ec19ca2f8e1811e3b72e2118b33d0aa70aacbb6c6bd9c5e4c",
+        "file_size": 132630331,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      },
+      {
+        "source_asset_id": 618993687,
+        "filename": "TachiyomiX-1.0.2-x86.apk",
+        "original_filename": "TachiyomiX-1.0.2-x86.apk",
+        "sha256": "32e1a7e13459265eecdb1b8e68e9519c3d9c8bc56d288546cbdc5998e79e795c",
+        "file_size": 33605483,
+        "architecture": "x86"
+      },
+      {
+        "source_asset_id": 618993955,
+        "filename": "TachiyomiX-1.0.2-x86_64.apk",
+        "original_filename": "TachiyomiX-1.0.2-x86_64.apk",
+        "sha256": "2dc8b7802cc1cbb1eee922eeaba71780e31eefc0b349b1f3db6053f9c21813f7",
+        "file_size": 47816179,
+        "architecture": "x86_64"
+      }
+    ],
+    "mirror_release_tag": "tachiyomix-v1.0.2",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/tachiyomix-v1.0.2"
+  },
+  "luwi": {
+    "source_repository": "yuloong07-star/Luwi",
+    "source_release_id": 409068155,
+    "source_tag": "v2.7.5",
+    "source_published_at": "2026-10-10T16:36:06Z",
+    "synced_at": "2026-10-10T16:51:04.074412+00:00",
+    "assets": [
+      {
+        "source_asset_id": 628448679,
+        "filename": "DSH-LW-2.7.5.apk",
+        "original_filename": "DSH-LW-2.7.5.apk",
+        "sha256": "7f12cb286ea120611df2b4bab5ff7c634b5280f1441afa8be5dd3dec70fb000a",
+        "file_size": 226399216,
+        "architecture": "arm64-v8a"
+      }
+    ],
+    "mirror_release_tag": "luwi-v2.7.5",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/luwi-v2.7.5"
+  },
+  "ayn-thor-wifi-recovery": {
+    "source_repository": "empy94/ayn-thor-wifi-recovery",
+    "source_release_id": 409072077,
+    "source_tag": "v2.4",
+    "source_published_at": "2026-10-10T16:43:26Z",
+    "synced_at": "2026-10-10T16:51:15.275770+00:00",
+    "assets": [
+      {
+        "source_asset_id": 628464458,
+        "filename": "Thor-WiFi-v2.4.apk",
+        "original_filename": "Thor-WiFi-v2.4.apk",
+        "sha256": "c895cff58e60bfe3a281ec107f358e530554c2a325a95ae654746d225cad979f",
+        "file_size": 67319,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "ayn-thor-wifi-recovery-v2.4",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/ayn-thor-wifi-recovery-v2.4"
   }
 }
