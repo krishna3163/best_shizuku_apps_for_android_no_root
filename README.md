@@ -256,16 +256,16 @@ A dedicated zero-dependency terminal companion to search 500+ apps, inspect meta
 
 | App | Developer | Version | Released | APK | Upstream |
 |:---|:---|:---|:---|:---|:---|
-| ⚡ **nfc-share** | hubble658 | `v2.0.1` | 2026-10-08 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/nfc-share-v2.0.1) | [Upstream](https://github.com/hubble658/nfc-share/releases) |
-| ⚡ **callrex** | RYUK8853 | `v2.4.10` | 2026-10-08 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/callrex-v2.4.10) | [Upstream](https://github.com/RYUK8853/callrex/releases) |
-| ⚡ **DataThrottle** | zaochuan5854 | `v0.2.1` | 2026-10-08 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/datathrottle-v0.2.1) | [Upstream](https://github.com/zaochuan5854/DataThrottle/releases) |
-| ⚡ **android-call-recorder-app** | SanjarbekSaminjonov | `v1.0.5` | 2026-10-08 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/android-call-recorder-app-v1.0.5) | [Upstream](https://github.com/SanjarbekSaminjonov/android-call-recorder-app/releases) |
-| ⚡ **rikkahub-agent-pure** | wuyhong715 | `v2.5.3-pure.3` | 2026-10-08 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/rikkahub-agent-pure-v2.5.3-pure.3) | [Upstream](https://github.com/wuyhong715/rikkahub-agent-pure/releases) |
-| ⚡ **ShutterSoundToggle** | soralis0912 | `v1.2` | 2026-10-08 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/shuttersoundtoggle-v1.2) | [Upstream](https://github.com/soralis0912/ShutterSoundToggle/releases) |
-| ⚡ **adaptive-performance** | langraficagr-collab | `v1.9.3` | 2026-10-08 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/adaptive-performance-v1.9.3) | [Upstream](https://github.com/langraficagr-collab/adaptive-performance/releases) |
-| ⚡ **droynis** | capitan0n | `v0.12.0` | 2026-10-08 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/droynis-v0.12.0) | [Upstream](https://github.com/capitan0n/droynis/releases) |
-| ⚡ **EasyPocketMD** | sunhouy | `v2.10.6` | 2026-10-08 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/easypocketmd-v2.10.6) | [Upstream](https://github.com/sunhouy/EasyPocketMD/releases) |
-| ⚡ **rikkahub-agent** | AAAelina | `v2.3.1-agent-up244.8` | 2026-10-08 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/rikkahub-agent-v2.3.1-agent-up244.8) | [Upstream](https://github.com/AAAelina/rikkahub-agent/releases) |
+| ⚡ **fold_fit** | lab-ok | `1.0` | 2026-10-09 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/fold-fit-1.0) | [Upstream](https://github.com/lab-ok/fold_fit/releases) |
+| ⚡ **ShizuPosed** | Sharif-bot-cmd | `1.0.5` | 2026-10-09 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/shizuposed-1.0.5) | [Upstream](https://github.com/Sharif-bot-cmd/ShizuPosed/releases) |
+| ⚡ **AtlayaSwitch** | Morfyuum | `v1.9.5` | 2026-10-09 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/atlayaswitch-v1.9.5) | [Upstream](https://github.com/Morfyuum/AtlayaSwitch/releases) |
+| ⚡ **AADisplay-DuoScreen** | leolionart | `v1.0.0` | 2026-10-09 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/aadisplay-duoscreen-v1.0.0) | [Upstream](https://github.com/leolionart/AADisplay-DuoScreen/releases) |
+| ⚡ **TurboUro** | lavenderpoet607 | `v1.0.0` | 2026-10-09 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/turbouro-v1.0.0) | [Upstream](https://github.com/lavenderpoet607/TurboUro/releases) |
+| ⚡ **JemRec** | jemcik | `0.8` | 2026-10-09 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/jemrec-0.8) | [Upstream](https://github.com/jemcik/JemRec/releases) |
+| ⚡ **A-Injector** | PetaBYT3 | `v1.0.2` | 2026-10-09 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/a-injector-v1.0.2) | [Upstream](https://github.com/PetaBYT3/A-Injector/releases) |
+| ⚡ **Bridge** | Bonevane | `v0.3.0` | 2026-10-09 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/bridge-v0.3.0) | [Upstream](https://github.com/Bonevane/Bridge/releases) |
+| ⚡ **orpheus** | right-ward | `v0.3.1` | 2026-10-08 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/orpheus-v0.3.1) | [Upstream](https://github.com/right-ward/orpheus/releases) |
+| ⚡ **angel-android** | CurrenlyDying | `APK` | 2026-10-08 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/angel-android-APK) | [Upstream](https://github.com/CurrenlyDying/angel-android/releases) |
 
 </details>
 <!-- RECENT-UPDATES-END -->
