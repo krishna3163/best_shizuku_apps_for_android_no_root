@@ -268,16 +268,16 @@ A dedicated zero-dependency terminal companion to search 500+ apps, inspect meta
 
 | App | Developer | Version | Released | APK | Upstream |
 |:---|:---|:---|:---|:---|:---|
-| ⚡ **fold_fit** | lab-ok | `1.0` | 2026-10-09 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/fold-fit-1.0) | [Upstream](https://github.com/lab-ok/fold_fit/releases) |
-| ⚡ **ShizuPosed** | Sharif-bot-cmd | `1.0.5` | 2026-10-09 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/shizuposed-1.0.5) | [Upstream](https://github.com/Sharif-bot-cmd/ShizuPosed/releases) |
-| ⚡ **AtlayaSwitch** | Morfyuum | `v1.9.5` | 2026-10-09 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/atlayaswitch-v1.9.5) | [Upstream](https://github.com/Morfyuum/AtlayaSwitch/releases) |
-| ⚡ **AADisplay-DuoScreen** | leolionart | `v1.0.0` | 2026-10-09 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/aadisplay-duoscreen-v1.0.0) | [Upstream](https://github.com/leolionart/AADisplay-DuoScreen/releases) |
-| ⚡ **TurboUro** | lavenderpoet607 | `v1.0.0` | 2026-10-09 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/turbouro-v1.0.0) | [Upstream](https://github.com/lavenderpoet607/TurboUro/releases) |
-| ⚡ **JemRec** | jemcik | `0.8` | 2026-10-09 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/jemrec-0.8) | [Upstream](https://github.com/jemcik/JemRec/releases) |
-| ⚡ **A-Injector** | PetaBYT3 | `v1.0.2` | 2026-10-09 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/a-injector-v1.0.2) | [Upstream](https://github.com/PetaBYT3/A-Injector/releases) |
-| ⚡ **Bridge** | Bonevane | `v0.3.0` | 2026-10-09 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/bridge-v0.3.0) | [Upstream](https://github.com/Bonevane/Bridge/releases) |
-| ⚡ **orpheus** | right-ward | `v0.3.1` | 2026-10-08 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/orpheus-v0.3.1) | [Upstream](https://github.com/right-ward/orpheus/releases) |
-| ⚡ **angel-android** | CurrenlyDying | `APK` | 2026-10-08 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/angel-android-APK) | [Upstream](https://github.com/CurrenlyDying/angel-android/releases) |
+| ⚡ **ayn-thor-wifi-recovery** | empy94 | `v2.4` | 2026-10-10 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/ayn-thor-wifi-recovery-v2.4) | [Upstream](https://github.com/empy94/ayn-thor-wifi-recovery/releases) |
+| ⚡ **jev-filter** | RedVad | `v1.1` | 2026-10-10 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/jev-filter-v1.1) | [Upstream](https://github.com/RedVad/jev-filter/releases) |
+| ⚡ **ScrcpyOverWebRTC** | hqw700 | `v0.4.1` | 2026-10-10 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/scrcpyoverwebrtc-v0.4.1) | [Upstream](https://github.com/hqw700/ScrcpyOverWebRTC/releases) |
+| ⚡ **Luwi** | yuloong07-star | `v2.7.5` | 2026-10-10 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/luwi-v2.7.5) | [Upstream](https://github.com/yuloong07-star/Luwi/releases) |
+| ⚡ **suixing** | zeng6125-rgb | `v0.8.75` | 2026-10-10 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/suixing-v0.8.75) | [Upstream](https://github.com/zeng6125-rgb/suixing/releases) |
+| ⚡ **AppDNS** | Shishir-ip | `v2.0` | 2026-10-10 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/appdns-v2.0) | [Upstream](https://github.com/Shishir-ip/AppDNS/releases) |
+| ⚡ **OpenLiquidLauncher** | LinuxKernel44 | `v1.4.4` | 2026-10-10 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/openliquidlauncher-v1.4.4) | [Upstream](https://github.com/LinuxKernel44/OpenLiquidLauncher/releases) |
+| ⚡ **RE-Amachiromaker-Android** | ynlp0624 | `v1.0.0` | 2026-10-10 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/re-amachiromaker-android-v1.0.0) | [Upstream](https://github.com/ynlp0624/RE-Amachiromaker-Android/releases) |
+| ⚡ **ghost-files** | Ghostpanter | `v0.2.0` | 2026-10-10 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/ghost-files-v0.2.0) | [Upstream](https://github.com/Ghostpanter/ghost-files/releases) |
+| ⚡ **ChargeMode-QuickTile** | bl3xand | `v1.0.2` | 2026-10-10 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/chargemode-quicktile-v1.0.2) | [Upstream](https://github.com/bl3xand/ChargeMode-QuickTile/releases) |
 
 </details>
 <!-- RECENT-UPDATES-END -->
