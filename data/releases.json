@@ -5680,30 +5680,30 @@
   },
   "android-guru-agent": {
     "source_repository": "AceGuru-mjh/Android-Guru-Agent",
-    "source_release_id": 400596817,
-    "source_tag": "v1.4.4.7",
-    "source_published_at": "2026-10-01T02:20:22Z",
-    "synced_at": "2026-10-01T03:39:56.645509+00:00",
+    "source_release_id": 409351925,
+    "source_tag": "v1.4.9.9",
+    "source_published_at": "2026-10-11T02:39:51Z",
+    "synced_at": "2026-10-11T03:26:58.634117+00:00",
     "assets": [
       {
-        "source_asset_id": 602257729,
-        "filename": "ApexAgent-v1.4.4.7-release-arm64-35b981e0.apk",
-        "original_filename": "ApexAgent-v1.4.4.7-release-arm64-35b981e0.apk",
-        "sha256": "6ebd93647ad843b514e57fba964305bcafbc1a0a4a1c99cfd2e43fde7588dd7c",
-        "file_size": 334005068,
+        "source_asset_id": 629581564,
+        "filename": "ApexAgent-v1.4.9.9-release-arm64-e621d534.apk",
+        "original_filename": "ApexAgent-v1.4.9.9-release-arm64-e621d534.apk",
+        "sha256": "f62def9718cf1c7933e1cf28257e8fde527cb91550b54d7d0035af5a76c9a36a",
+        "file_size": 335065635,
         "architecture": "arm64-v8a"
       },
       {
-        "source_asset_id": 602257732,
-        "filename": "ApexAgent-v1.4.4.7-release-universal-35b981e0.apk",
-        "original_filename": "ApexAgent-v1.4.4.7-release-universal-35b981e0.apk",
-        "sha256": "b4e860ca14374523000c6f5a4a1f45a93071e8b2c7d4766c4f96bf54c6475b8e",
-        "file_size": 948891468,
+        "source_asset_id": 629581565,
+        "filename": "ApexAgent-v1.4.9.9-release-universal-e621d534.apk",
+        "original_filename": "ApexAgent-v1.4.9.9-release-universal-e621d534.apk",
+        "sha256": "45565f842114a32a054ab1db64bf37cb5f242f5a7855c2266885520b09e0d564",
+        "file_size": 949988689,
         "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
       }
     ],
-    "mirror_release_tag": "android-guru-agent-v1.4.4.7",
-    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/android-guru-agent-v1.4.4.7"
+    "mirror_release_tag": "android-guru-agent-v1.4.9.9",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/android-guru-agent-v1.4.9.9"
   },
   "azurpilot-for-android": {
     "source_repository": "wess09/AzurPilot-for-Android",
@@ -10415,5 +10415,89 @@
     ],
     "mirror_release_tag": "ayn-thor-wifi-recovery-v2.4",
     "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/ayn-thor-wifi-recovery-v2.4"
+  },
+  "yoke-launcher": {
+    "source_repository": "andreconde21/yoke-launcher",
+    "source_release_id": 409175450,
+    "source_tag": "v0.3.10",
+    "source_published_at": "2026-10-10T20:03:01Z",
+    "synced_at": "2026-10-11T03:27:03.649325+00:00",
+    "assets": [
+      {
+        "source_asset_id": 628876618,
+        "filename": "yoke-0.3.10.apk",
+        "original_filename": "yoke-0.3.10.apk",
+        "sha256": "55cf9a493b9cc7ab94dada87deed8f3c1b8bad5ebc91b3e40f94ca2ad22f57d3",
+        "file_size": 2201423,
+        "architecture": "unknown"
+      },
+      {
+        "source_asset_id": 628876620,
+        "filename": "yoke.apk",
+        "original_filename": "yoke.apk",
+        "sha256": "55cf9a493b9cc7ab94dada87deed8f3c1b8bad5ebc91b3e40f94ca2ad22f57d3",
+        "file_size": 2201423,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "yoke-launcher-v0.3.10",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/yoke-launcher-v0.3.10"
+  },
+  "pocket-flight": {
+    "source_repository": "arusaha/pocket-flight",
+    "source_release_id": 409254074,
+    "source_tag": "v1.2",
+    "source_published_at": "2026-10-10T22:52:46Z",
+    "synced_at": "2026-10-11T03:27:06.257582+00:00",
+    "assets": [
+      {
+        "source_asset_id": 629190783,
+        "filename": "PocketFlight-1.2.apk",
+        "original_filename": "PocketFlight-1.2.apk",
+        "sha256": "d31639e8d34f6bdf63024e3e040ee3f3ea912a0bd54ce5b0c9ee9bbeddb2794b",
+        "file_size": 173959,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "pocket-flight-v1.2",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/pocket-flight-v1.2"
+  },
+  "superboox": {
+    "source_repository": "rn-os/superboox",
+    "source_release_id": 409325321,
+    "source_tag": "0.1.0-build.63",
+    "source_published_at": "2026-10-11T01:38:31Z",
+    "synced_at": "2026-10-11T03:27:09.245034+00:00",
+    "assets": [
+      {
+        "source_asset_id": 629477792,
+        "filename": "superboox-build-63.apk",
+        "original_filename": "superboox-build-63.apk",
+        "sha256": "71d37a33707af44a0f15147228381aa9ac3ccfa74f557adaa02fa4cd9ddfaa55",
+        "file_size": 3313024,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "superboox-0.1.0-build.63",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/superboox-0.1.0-build.63"
+  },
+  "taixu": {
+    "source_repository": "wkbin/taixu",
+    "source_release_id": 407820541,
+    "source_tag": "v0.21.0",
+    "source_published_at": "2026-10-09T10:49:06Z",
+    "synced_at": "2026-10-11T03:27:13.180111+00:00",
+    "assets": [
+      {
+        "source_asset_id": 624684485,
+        "filename": "TaiXu-arm64-v0.21.0.apk",
+        "original_filename": "TaiXu-arm64-v0.21.0.apk",
+        "sha256": "3c36cfc2910949ea1f3c88a31c1a0d7a76c2b37a1ac815b0c68165968c41b207",
+        "file_size": 22256302,
+        "architecture": "arm64-v8a"
+      }
+    ],
+    "mirror_release_tag": "taixu-v0.21.0",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/taixu-v0.21.0"
   }
 }
