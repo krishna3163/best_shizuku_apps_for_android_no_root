@@ -199,6 +199,10 @@ A dedicated zero-dependency terminal companion to search 500+ apps, inspect meta
 
 | App | Description | License | Links |
 |:---|:---|:---|:---|
+| **[omalateral](https://github.com/cbarland/omalateral)** | a Dex-like external window manager for android, incorporating omalauncher widgets and UI. | Apache-2.0 | [GitHub](https://github.com/cbarland/omalateral) • [Releases](https://github.com/cbarland/omalateral/releases) |
+| **[android-voice-sip-agent](https://github.com/sparkcyf/android-voice-sip-agent)** | Shizuku-compatible Android tool. | GPL-2.0 | [GitHub](https://github.com/sparkcyf/android-voice-sip-agent) • [Releases](https://github.com/sparkcyf/android-voice-sip-agent/releases) |
+| **[dsh-android](https://github.com/ylh440104/dsh-android)** | DeepSeek Harness for Android | See project | [GitHub](https://github.com/ylh440104/dsh-android) • [Releases](https://github.com/ylh440104/dsh-android/releases) |
+| **[shizuku-sam](https://github.com/WEIHEWU/shizuku-sam)** | Samsung One UI 8.5 Enhanced Shizuku & System Tuning Suite | Apache-2.0 | [GitHub](https://github.com/WEIHEWU/shizuku-sam) • [Releases](https://github.com/WEIHEWU/shizuku-sam/releases) |
 | **[deepseek-harness-android](https://github.com/guzhou079-arch/deepseek-harness-android)** | 把 DeepSeek Harness 打包成能直接装的安卓 APK：不用 Termux、不用 root、不用配环境。它还能在手机上自己编译、打包、签名、发布。 | MIT | [GitHub](https://github.com/guzhou079-arch/deepseek-harness-android) • [Releases](https://github.com/guzhou079-arch/deepseek-harness-android/releases) |
 | **[AutoJs6-Plugin-MCP-Server](https://github.com/SuperMonster003/AutoJs6-Plugin-MCP-Server)** | MCP Server plugin for AutoJs6: authenticated device automation through Model Context Protocol | MPL-2.0 | [GitHub](https://github.com/SuperMonster003/AutoJs6-Plugin-MCP-Server) • [Releases](https://github.com/SuperMonster003/AutoJs6-Plugin-MCP-Server/releases) |
 | **[Beka](https://github.com/bnjyar/Beka)** | Shizuku-compatible Android tool. | GPL-3.0 | [GitHub](https://github.com/bnjyar/Beka) • [Releases](https://github.com/bnjyar/Beka/releases) |

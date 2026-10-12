@@ -202,6 +202,10 @@ Shizuku allows normal Android apps to access powerful system APIs through **ADB 
 
 | Приложение | Описание и использование Shizuku | Лицензия | Ссылки |
 |:---|:---|:---|:---|
+| **[omalateral](https://github.com/cbarland/omalateral)** | внешний оконный менеджер в стиле Dex для Android, включающий виджеты и пользовательский интерфейс omalauncher. | Apache-2.0 | [Исходники GitHub](https://github.com/cbarland/omalateral) • [Скачать APK](https://github.com/cbarland/omalateral/releases) |
+| **[android-voice-sip-agent](https://github.com/sparkcyf/android-voice-sip-agent)** | Инструмент Android, совместимый с Shizuku. | GPL-2.0 | [Исходники GitHub](https://github.com/sparkcyf/android-voice-sip-agent) • [Скачать APK](https://github.com/sparkcyf/android-voice-sip-agent/releases) |
+| **[dsh-android](https://github.com/ylh440104/dsh-android)** | DeepSeek Harness для Android | See project | [Исходники GitHub](https://github.com/ylh440104/dsh-android) • [Скачать APK](https://github.com/ylh440104/dsh-android/releases) |
+| **[shizuku-sam](https://github.com/WEIHEWU/shizuku-sam)** | Samsung One UI 8.5 Enhanced Shizuku и пакет настройки системы | Apache-2.0 | [Исходники GitHub](https://github.com/WEIHEWU/shizuku-sam) • [Скачать APK](https://github.com/WEIHEWU/shizuku-sam/releases) |
 | **[deepseek-harness-android](https://github.com/guzhou079-arch/deepseek-harness-android)** | Скачать DeepSeek Harness 打包成能直接装的安卓 APK:不用 Termux、不用root、不用配环境。它还能在手机上自己编译、打包、签名、发布。 | MIT | [Исходники GitHub](https://github.com/guzhou079-arch/deepseek-harness-android) • [Скачать APK](https://github.com/guzhou079-arch/deepseek-harness-android/releases) |
 | **[AutoJs6-Plugin-MCP-Server](https://github.com/SuperMonster003/AutoJs6-Plugin-MCP-Server)** | Плагин MCP Server для AutoJs6: автоматизация аутентифицированного устройства с помощью протокола контекста модели | MPL-2.0 | [Исходники GitHub](https://github.com/SuperMonster003/AutoJs6-Plugin-MCP-Server) • [Скачать APK](https://github.com/SuperMonster003/AutoJs6-Plugin-MCP-Server/releases) |
 | **[Beka](https://github.com/bnjyar/Beka)** | Инструмент Android, совместимый с Shizuku. | GPL-3.0 | [Исходники GitHub](https://github.com/bnjyar/Beka) • [Скачать APK](https://github.com/bnjyar/Beka/releases) |
@@ -258,16 +262,16 @@ Shizuku allows normal Android apps to access powerful system APIs through **ADB 
 
 | App | Developer | Version | Released | APK | Upstream |
 |:---|:---|:---|:---|:---|:---|
+| ⚡ **DashDazz** | Оливия-Хе | `v2.0.68` | 2026-10-11 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/dashdazz-v2.0.68) | [Upstream](https://github.com/olivia-hye/DashDazz/releases) |
+| ⚡ **ShadowScreen** | Ли Цзюньлей | `v0.16` | 2026-10-11 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/shadowscreen-v0.16) | [Upstream](https://github.com/li-junlei/ShadowScreen/releases) |
+| ⚡ **Shizako** | xm1437 | `zako3.13` | 2026-10-11 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/shizako-zako3.13) | [Upstream](https://github.com/xm1437/Shizako/releases) |
+| ⚡ **AutoJs6-Plugin-MCP-Server** | SuperMonster003 | `v1.1.0` | 2026-10-11 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/autojs6-plugin-mcp-server-v1.1.0) | [Upstream](https://github.com/SuperMonster003/AutoJs6-Plugin-MCP-Server/releases) |
+| ⚡ **Tetherbug** | xav-ie | `v0.1.0` | 2026-10-11 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/tetherbug-v0.1.0) | [Upstream](https://github.com/xav-ie/Tetherbug/releases) |
+| ⚡ **Android-Guru-Agent** | AceGuru-mjh | `v1.4.9.9` | 2026-10-11 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/android-guru-agent-v1.4.9.9) | [Upstream](https://github.com/AceGuru-mjh/Android-Guru-Agent/releases) |
+| ⚡ **superboox** | рН-ОС | `0.1.0-build.63` | 2026-10-11 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/superboox-0.1.0-build.63) | [Upstream](https://github.com/rn-os/superboox/releases) |
+| ⚡ **pocket-flight** | Арусаха | `v1.2` | 2026-10-10 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/pocket-flight-v1.2) | [Upstream](https://github.com/arusaha/pocket-flight/releases) |
+| ⚡ **yoke-launcher** | andreconde21 | `v0.3.10` | 2026-10-10 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/yoke-launcher-v0.3.10) | [Upstream](https://github.com/andreconde21/yoke-launcher/releases) |
 | ⚡ **ayn-thor-wifi-recovery** | empy94 | `v2.4` | 2026-10-10 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/ayn-thor-wifi-recovery-v2.4) | [Upstream](https://github.com/empy94/ayn-thor-wifi-recovery/releases) |
-| ⚡ **jev-filter** | RedVad | `v1.1` | 2026-10-10 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/jev-filter-v1.1) | [Upstream](https://github.com/RedVad/jev-filter/releases) |
-| ⚡ **ScrcpyOverWebRTC** | hqw700 | `v0.4.1` | 2026-10-10 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/scrcpyoverwebrtc-v0.4.1) | [Upstream](https://github.com/hqw700/ScrcpyOverWebRTC/releases) |
-| ⚡ **Luwi** | yuloong07-star | `v2.7.5` | 2026-10-10 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/luwi-v2.7.5) | [Upstream](https://github.com/yuloong07-star/Luwi/releases) |
-| ⚡ **suixing** | zeng6125-rgb | `v0.8.75` | 2026-10-10 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/suixing-v0.8.75) | [Upstream](https://github.com/zeng6125-rgb/suixing/releases) |
-| ⚡ **AppDNS** | Шишир-ип | `v2.0` | 2026-10-10 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/appdns-v2.0) | [Upstream](https://github.com/Shishir-ip/AppDNS/releases) |
-| ⚡ **OpenLiquidLauncher** | LinuxKernel44 | `v1.4.4` | 2026-10-10 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/openliquidlauncher-v1.4.4) | [Upstream](https://github.com/LinuxKernel44/OpenLiquidLauncher/releases) |
-| ⚡ **RE-Amachiromaker-Android** | ynlp0624 | `v1.0.0` | 2026-10-10 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/re-amachiromaker-android-v1.0.0) | [Upstream](https://github.com/ynlp0624/RE-Amachiromaker-Android/releases) |
-| ⚡ **ghost-files** | Ghostpanter | `v0.2.0` | 2026-10-10 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/ghost-files-v0.2.0) | [Upstream](https://github.com/Ghostpanter/ghost-files/releases) |
-| ⚡ **ChargeMode-QuickTile** | bl3xand | `v1.0.2` | 2026-10-10 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/chargemode-quicktile-v1.0.2) | [Upstream](https://github.com/bl3xand/ChargeMode-QuickTile/releases) |
 
 </details>
 <!-- RECENT-UPDATES-END -->

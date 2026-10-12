@@ -10637,5 +10637,43 @@
     ],
     "mirror_release_tag": "autojs6-plugin-mcp-server-v1.1.0",
     "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/autojs6-plugin-mcp-server-v1.1.0"
+  },
+  "shizuku-sam": {
+    "source_repository": "WEIHEWU/shizuku-sam",
+    "source_release_id": 410046651,
+    "source_tag": "v13.8.0",
+    "source_published_at": "2026-10-12T01:33:05Z",
+    "synced_at": "2026-10-12T03:50:38.806848+00:00",
+    "assets": [
+      {
+        "source_asset_id": 632309592,
+        "filename": "Shizuku-Sam-v13.8.0.apk",
+        "original_filename": "Shizuku-Sam-v13.8.0.apk",
+        "sha256": "e6856518f4917e244fcc797927600dfafb981ebb7bc562709600eebd1aad040d",
+        "file_size": 3574069,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "shizuku-sam-v13.8.0",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/shizuku-sam-v13.8.0"
+  },
+  "android-voice-sip-agent": {
+    "source_repository": "sparkcyf/android-voice-sip-agent",
+    "source_release_id": 409102252,
+    "source_tag": "v0.1.0",
+    "source_published_at": "2026-10-10T17:40:04Z",
+    "synced_at": "2026-10-12T03:50:43.330105+00:00",
+    "assets": [
+      {
+        "source_asset_id": 628585878,
+        "filename": "voice-sip-agent-0.1.0.apk",
+        "original_filename": "voice-sip-agent-0.1.0.apk",
+        "sha256": "730ff2780b0f8a3da87c2fb4025878808d4e9f4d9f2c50ec32ec86b9c91aa9e7",
+        "file_size": 35274582,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "android-voice-sip-agent-v0.1.0",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/android-voice-sip-agent-v0.1.0"
   }
 }
