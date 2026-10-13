@@ -1,7 +1,7 @@
 {
   "shizuku": {
     "status": "no-update",
-    "last_checked": "2026-10-12T20:46:25.245487+00:00",
+    "last_checked": "2026-10-13T18:47:36.647606+00:00",
     "latest_version": "v13.6.0",
     "last_synced": "2026-08-22T11:57:04.456608+00:00"
   },
@@ -265,7 +265,7 @@
   },
   "enforcedoze": {
     "status": "no-update",
-    "last_checked": "2026-10-12T20:47:08.987749+00:00",
+    "last_checked": "2026-10-13T18:47:36.186890+00:00",
     "latest_version": "v1.10.2/86",
     "last_synced": "2026-08-22T12:02:01.573786+00:00"
   },
@@ -277,7 +277,7 @@
   },
   "applock": {
     "status": "no-apk",
-    "last_checked": "2026-10-12T20:47:09.476538+00:00"
+    "last_checked": "2026-10-13T18:47:52.208587+00:00"
   },
   "tarnhelm": {
     "status": "no-update",
@@ -333,7 +333,7 @@
   },
   "shizako": {
     "status": "no-update",
-    "last_checked": "2026-10-12T20:47:19.111982+00:00",
+    "last_checked": "2026-10-13T18:47:16.924210+00:00",
     "latest_version": "zako3.13",
     "last_synced": "2026-10-11T17:13:43.796596+00:00"
   },
@@ -441,7 +441,7 @@
   },
   "autoslide": {
     "status": "no-update",
-    "last_checked": "2026-09-29T17:18:57.298241+00:00",
+    "last_checked": "2026-10-13T18:47:16.325974+00:00",
     "latest_version": "v2.6.1",
     "last_synced": "2026-09-29T11:55:00.413060+00:00"
   },
@@ -477,7 +477,7 @@
   },
   "service-keeper": {
     "status": "no-update",
-    "last_checked": "2026-10-12T20:46:25.741589+00:00",
+    "last_checked": "2026-10-13T18:47:22.843646+00:00",
     "latest_version": "v1.0.5",
     "last_synced": "2026-09-29T11:55:39.631521+00:00"
   },
@@ -685,7 +685,7 @@
   },
   "komi-store": {
     "status": "no-update",
-    "last_checked": "2026-10-12T20:46:40.181399+00:00",
+    "last_checked": "2026-10-13T18:47:23.691237+00:00",
     "latest_version": "v1.9.2",
     "last_synced": "2026-09-29T17:34:42.471330+00:00"
   },
@@ -927,7 +927,7 @@
   },
   "deepseek-harness-android": {
     "status": "no-update",
-    "last_checked": "2026-10-12T20:47:08.038500+00:00",
+    "last_checked": "2026-10-13T18:46:52.675750+00:00",
     "latest_version": "v0.2.10",
     "last_synced": "2026-10-10T16:51:12.377084+00:00"
   },
@@ -2721,5 +2721,70 @@
     "last_checked": "2026-10-13T05:01:53.838123+00:00",
     "latest_version": "v1.0.28",
     "last_synced": "2026-10-13T05:01:53.838123+00:00"
+  },
+  "portrait-guard": {
+    "status": "synced",
+    "last_checked": "2026-10-13T18:46:51.758514+00:00",
+    "latest_version": "v1.0.9",
+    "last_synced": "2026-10-13T18:46:51.758514+00:00"
+  },
+  "sunshine": {
+    "status": "synced",
+    "last_checked": "2026-10-13T18:47:03.432885+00:00",
+    "latest_version": "v2026.10.12.4",
+    "last_synced": "2026-10-13T18:47:03.432885+00:00"
+  },
+  "opencode-pocket": {
+    "status": "synced",
+    "last_checked": "2026-10-13T18:47:11.751010+00:00",
+    "latest_version": "v1.1.1",
+    "last_synced": "2026-10-13T18:47:11.751010+00:00"
+  },
+  "ai-usage-companion": {
+    "status": "synced",
+    "last_checked": "2026-10-13T18:47:15.787532+00:00",
+    "latest_version": "v0.9.8",
+    "last_synced": "2026-10-13T18:47:15.787532+00:00"
+  },
+  "crosstune": {
+    "status": "synced",
+    "last_checked": "2026-10-13T18:47:22.278135+00:00",
+    "latest_version": "v2.8.5",
+    "last_synced": "2026-10-13T18:47:22.278135+00:00"
+  },
+  "dankyeeters-bluetooth-dashboard": {
+    "status": "synced",
+    "last_checked": "2026-10-13T18:47:31.765547+00:00",
+    "latest_version": "v0.2.0",
+    "last_synced": "2026-10-13T18:47:31.765547+00:00"
+  },
+  "jvcprogame-native": {
+    "status": "no-apk",
+    "last_checked": "2026-10-13T18:47:32.171299+00:00",
+    "latest_version": "apk-latest"
+  },
+  "dfroot": {
+    "status": "synced",
+    "last_checked": "2026-10-13T18:47:35.515805+00:00",
+    "latest_version": "v4.3",
+    "last_synced": "2026-10-13T18:47:35.515805+00:00"
+  },
+  "openterminal": {
+    "status": "synced",
+    "last_checked": "2026-10-13T18:47:40.248742+00:00",
+    "latest_version": "v1.0.0",
+    "last_synced": "2026-10-13T18:47:40.248742+00:00"
+  },
+  "pulse": {
+    "status": "synced",
+    "last_checked": "2026-10-13T18:47:44.315562+00:00",
+    "latest_version": "v0.10.16",
+    "last_synced": "2026-10-13T18:47:44.315562+00:00"
+  },
+  "eva": {
+    "status": "synced",
+    "last_checked": "2026-10-13T18:47:51.893621+00:00",
+    "latest_version": "v0.61.1",
+    "last_synced": "2026-10-13T18:47:51.893621+00:00"
   }
 }
