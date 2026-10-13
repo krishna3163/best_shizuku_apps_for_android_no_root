@@ -202,6 +202,12 @@ Shizuku allows normal Android apps to access powerful system APIs through **ADB 
 
 | 应用名称 | 功能介绍与 Shizuku 用例 | 开源许可 | 相关链接 |
 |:---|:---|:---|:---|
+| **[BatteryGuard](https://github.com/vanlinh0392-art/BatteryGuard)** | 与 Shizuku 兼容的 Android 工具。 | Apache-2.0 | [GitHub 源码](https://github.com/vanlinh0392-art/BatteryGuard) • [下载发布](https://github.com/vanlinh0392-art/BatteryGuard/releases) |
+| **[SamsungLockD2-Public](https://github.com/SysopBP/SamsungLockD2-Public)** | Samsung Lock D2 — 实验性 Android 隐私屏幕，具有独立 PIN 码和可选的根信息亭。版权所有。 | See project | [GitHub 源码](https://github.com/SysopBP/SamsungLockD2-Public) • [下载发布](https://github.com/SysopBP/SamsungLockD2-Public/releases) |
+| **[apk-me](https://github.com/arghya339/apk-me)** | 一些流行的Android APK | GPL-3.0 | [GitHub 源码](https://github.com/arghya339/apk-me) • [下载发布](https://github.com/arghya339/apk-me/releases) |
+| **[MurasameRTSS](https://github.com/SakuraMurasame/MurasameRTSS)** | Android游戏性能监控浮窗与多指标曲线记录，支持Shizuku、触摸屏和监控时自动记录。 | See project | [GitHub 源码](https://github.com/SakuraMurasame/MurasameRTSS) • [下载发布](https://github.com/SakuraMurasame/MurasameRTSS/releases) |
+| **[ghost-display](https://github.com/gitWRLD999/ghost-display)** | 代理的第二个 Android 屏幕：真实的应用程序、屏幕截图驱动的输入和独立的 Shizuku 显示屏。 Android 16 预览版。 | See project | [GitHub 源码](https://github.com/gitWRLD999/ghost-display) • [下载发布](https://github.com/gitWRLD999/ghost-display/releases) |
+| **[PixelIMS_ru](https://github.com/taidaru/PixelIMS_ru)** | 与 Shizuku 兼容的 Android 工具。 | See project | [GitHub 源码](https://github.com/taidaru/PixelIMS_ru) • [下载发布](https://github.com/taidaru/PixelIMS_ru/releases) |
 | **[Hexora](https://github.com/ZENINXOP/Hexora)** | Hexora — 一款开源 Android 双窗格文件管理器，带有 ZIP/APK 工具、内置编辑器以及可定制的浅色和深色主题。 | GPL-3.0 | [GitHub 源码](https://github.com/ZENINXOP/Hexora) • [下载发布](https://github.com/ZENINXOP/Hexora/releases) |
 | **[Nightzuku](https://github.com/kerneldroid/Nightzuku)** | Shizuku 叉子带有 Material 3 Expressive 和 Android SDK 37 更新 | Apache-2.0 | [GitHub 源码](https://github.com/kerneldroid/Nightzuku) • [下载发布](https://github.com/kerneldroid/Nightzuku/releases) |
 | **[haneoka-app](https://github.com/haneoka-gakuen/haneoka-app)** | 读取 Android、iOS、Windows、macOS 和 Linux 上保存的“我们的笔记”并显示其中包含的所有内容 | MPL-2.0 | [GitHub 源码](https://github.com/haneoka-gakuen/haneoka-app) • [下载发布](https://github.com/haneoka-gakuen/haneoka-app/releases) |
@@ -271,16 +277,16 @@ Shizuku allows normal Android apps to access powerful system APIs through **ADB 
 
 | App | Developer | Version | Released | APK | Upstream |
 |:---|:---|:---|:---|:---|:---|
-| ⚡ **DashDazz** | 奥利维亚·海伊 | `v2.0.68` | 2026-10-11 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/dashdazz-v2.0.68) | [Upstream](https://github.com/olivia-hye/DashDazz/releases) |
-| ⚡ **ShadowScreen** | 李俊雷 | `v0.16` | 2026-10-11 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/shadowscreen-v0.16) | [Upstream](https://github.com/li-junlei/ShadowScreen/releases) |
-| ⚡ **Shizako** | xm1437 | `zako3.13` | 2026-10-11 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/shizako-zako3.13) | [Upstream](https://github.com/xm1437/Shizako/releases) |
-| ⚡ **AutoJs6-Plugin-MCP-Server** | SuperMonster003 | `v1.1.0` | 2026-10-11 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/autojs6-plugin-mcp-server-v1.1.0) | [Upstream](https://github.com/SuperMonster003/AutoJs6-Plugin-MCP-Server/releases) |
-| ⚡ **Tetherbug** | 哈夫-IE | `v0.1.0` | 2026-10-11 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/tetherbug-v0.1.0) | [Upstream](https://github.com/xav-ie/Tetherbug/releases) |
-| ⚡ **Android-Guru-Agent** | 王牌大师 | `v1.4.9.9` | 2026-10-11 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/android-guru-agent-v1.4.9.9) | [Upstream](https://github.com/AceGuru-mjh/Android-Guru-Agent/releases) |
-| ⚡ **superboox** | 操作系统 | `0.1.0-build.63` | 2026-10-11 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/superboox-0.1.0-build.63) | [Upstream](https://github.com/rn-os/superboox/releases) |
-| ⚡ **pocket-flight** | 阿鲁萨哈 | `v1.2` | 2026-10-10 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/pocket-flight-v1.2) | [Upstream](https://github.com/arusaha/pocket-flight/releases) |
-| ⚡ **yoke-launcher** | 安德雷孔德21 | `v0.3.10` | 2026-10-10 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/yoke-launcher-v0.3.10) | [Upstream](https://github.com/andreconde21/yoke-launcher/releases) |
-| ⚡ **ayn-thor-wifi-recovery** | empy94 | `v2.4` | 2026-10-10 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/ayn-thor-wifi-recovery-v2.4) | [Upstream](https://github.com/empy94/ayn-thor-wifi-recovery/releases) |
+| ⚡ **Hexora** | 泽宁克斯 | `v0.1.2` | 2026-10-12 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/hexora-v0.1.2) | [Upstream](https://github.com/ZENINXOP/Hexora/releases) |
+| ⚡ **PYLPlus** | 强五28 | `v1.7.2` | 2026-10-12 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/pylplus-v1.7.2) | [Upstream](https://github.com/strongfive0528/PYLPlus/releases) |
+| ⚡ **android-use** | 佩格库 | `v0.5.0` | 2026-10-12 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/android-use-v0.5.0) | [Upstream](https://github.com/Pegoku/android-use/releases) |
+| ⚡ **bunnylock** | BT搜索 | `v1.1.1` | 2026-10-12 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/bunnylock-v1.1.1) | [Upstream](https://github.com/btsearch/bunnylock/releases) |
+| ⚡ **android-virtual-screen** | lejw0925 | `v0.0.1` | 2026-10-12 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/android-virtual-screen-v0.0.1) | [Upstream](https://github.com/lejw0925/android-virtual-screen/releases) |
+| ⚡ **VivoWalletToMirPay** | 迪马2220 | `Release` | 2026-10-12 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/vivowallettomirpay-Release) | [Upstream](https://github.com/dima2220/VivoWalletToMirPay/releases) |
+| ⚡ **Koel** | 黾猿 | `v0.5.0` | 2026-10-12 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/koel-v0.5.0) | [Upstream](https://github.com/strider-ape/Koel/releases) |
+| ⚡ **duobeam** | 元正 | `v0.8.3` | 2026-10-12 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/duobeam-v0.8.3) | [Upstream](https://github.com/Gengaroshi/duobeam/releases) |
+| ⚡ **mobilemcp** | Magi实验室 | `v0.6.0` | 2026-10-12 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/mobilemcp-v0.6.0) | [Upstream](https://github.com/Magi-Labs/mobilemcp/releases) |
+| ⚡ **haneoka-app** | 羽冈学园 | `v0.0.1` | 2026-10-12 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/haneoka-app-v0.0.1) | [Upstream](https://github.com/haneoka-gakuen/haneoka-app/releases) |
 
 </details>
 <!-- RECENT-UPDATES-END -->
