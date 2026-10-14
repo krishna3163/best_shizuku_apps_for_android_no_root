@@ -255,16 +255,16 @@ A dedicated zero-dependency terminal companion to search 500+ apps, inspect meta
 
 | App | Developer | Version | Released | APK | Upstream |
 |:---|:---|:---|:---|:---|:---|
+| ⚡ **DFRoot** | diabl0w | `v4.3` | 2026-10-13 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/dfroot-v4.3) | [Upstream](https://github.com/diabl0w/DFRoot/releases) |
+| ⚡ **portrait-guard** | tiger-git2022 | `v1.0.9` | 2026-10-13 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/portrait-guard-v1.0.9) | [Upstream](https://github.com/tiger-git2022/portrait-guard/releases) |
+| ⚡ **opencode-pocket** | evilqin | `v1.1.1` | 2026-10-13 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/opencode-pocket-v1.1.1) | [Upstream](https://github.com/evilqin/opencode-pocket/releases) |
+| ⚡ **OpenTerminal** | LinuxKernel44 | `v1.0.0` | 2026-10-13 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/openterminal-v1.0.0) | [Upstream](https://github.com/LinuxKernel44/OpenTerminal/releases) |
+| ⚡ **ai-usage-companion** | 896kb | `v0.9.8` | 2026-10-13 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/ai-usage-companion-v0.9.8) | [Upstream](https://github.com/896kb/ai-usage-companion/releases) |
+| ⚡ **crosstune** | astrovm | `v2.8.5` | 2026-10-13 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/crosstune-v2.8.5) | [Upstream](https://github.com/astrovm/crosstune/releases) |
+| ⚡ **MurasameRTSS** | SakuraMurasame | `v1.2.1` | 2026-10-13 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/murasamertss-v1.2.1) | [Upstream](https://github.com/SakuraMurasame/MurasameRTSS/releases) |
+| ⚡ **PixelIMS_ru** | taidaru | `v1.0.0-ru` | 2026-10-13 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/pixelims-ru-v1.0.0-ru) | [Upstream](https://github.com/taidaru/PixelIMS_ru/releases) |
 | ⚡ **Hexora** | ZENINXOP | `v0.1.2` | 2026-10-12 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/hexora-v0.1.2) | [Upstream](https://github.com/ZENINXOP/Hexora/releases) |
 | ⚡ **PYLPlus** | strongfive0528 | `v1.7.2` | 2026-10-12 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/pylplus-v1.7.2) | [Upstream](https://github.com/strongfive0528/PYLPlus/releases) |
-| ⚡ **android-use** | Pegoku | `v0.5.0` | 2026-10-12 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/android-use-v0.5.0) | [Upstream](https://github.com/Pegoku/android-use/releases) |
-| ⚡ **bunnylock** | btsearch | `v1.1.1` | 2026-10-12 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/bunnylock-v1.1.1) | [Upstream](https://github.com/btsearch/bunnylock/releases) |
-| ⚡ **android-virtual-screen** | lejw0925 | `v0.0.1` | 2026-10-12 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/android-virtual-screen-v0.0.1) | [Upstream](https://github.com/lejw0925/android-virtual-screen/releases) |
-| ⚡ **VivoWalletToMirPay** | dima2220 | `Release` | 2026-10-12 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/vivowallettomirpay-Release) | [Upstream](https://github.com/dima2220/VivoWalletToMirPay/releases) |
-| ⚡ **Koel** | strider-ape | `v0.5.0` | 2026-10-12 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/koel-v0.5.0) | [Upstream](https://github.com/strider-ape/Koel/releases) |
-| ⚡ **duobeam** | Gengaroshi | `v0.8.3` | 2026-10-12 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/duobeam-v0.8.3) | [Upstream](https://github.com/Gengaroshi/duobeam/releases) |
-| ⚡ **mobilemcp** | Magi-Labs | `v0.6.0` | 2026-10-12 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/mobilemcp-v0.6.0) | [Upstream](https://github.com/Magi-Labs/mobilemcp/releases) |
-| ⚡ **haneoka-app** | haneoka-gakuen | `v0.0.1` | 2026-10-12 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/haneoka-app-v0.0.1) | [Upstream](https://github.com/haneoka-gakuen/haneoka-app/releases) |
 
 </details>
 <!-- RECENT-UPDATES-END -->
