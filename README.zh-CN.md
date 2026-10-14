@@ -202,6 +202,17 @@ Shizuku allows normal Android apps to access powerful system APIs through **ADB 
 
 | 应用名称 | 功能介绍与 Shizuku 用例 | 开源许可 | 相关链接 |
 |:---|:---|:---|:---|
+| **[FolkPatch](https://github.com/Buwrt/FolkPatch)** | 与 Shizuku 兼容的 Android 工具。 | GPL-3.0 | [GitHub 源码](https://github.com/Buwrt/FolkPatch) • [下载发布](https://github.com/Buwrt/FolkPatch/releases) |
+| **[AxManager](https://github.com/fahrez182/AxManager)** | AxManager 是一款 Android 应用程序，旨在提供对应用程序和系统更深入的控制。 | Apache-2.0 | [GitHub 源码](https://github.com/fahrez182/AxManager) • [下载发布](https://github.com/fahrez182/AxManager/releases) |
+| **[BlaqClaw](https://github.com/geniuscr8/BlaqClaw)** | 与 Shizuku 兼容的 Android 工具。 | Apache-2.0 | [GitHub 源码](https://github.com/geniuscr8/BlaqClaw) • [下载发布](https://github.com/geniuscr8/BlaqClaw/releases) |
+| **[debloat](https://github.com/turkdevprodoctions/debloat)** | Android 系统应用程序管理器由 Shizuku 提供支持。开源、无广告、 | MIT | [GitHub 源码](https://github.com/turkdevprodoctions/debloat) • [下载发布](https://github.com/turkdevprodoctions/debloat/releases) |
+| **[MoltenGram](https://github.com/MoltenSt4r/MoltenGram)** | 与 Shizuku 兼容的 Android 工具。 | GPL-3.0 | [GitHub 源码](https://github.com/MoltenSt4r/MoltenGram) • [下载发布](https://github.com/MoltenSt4r/MoltenGram/releases) |
+| **[cccodroid](https://github.com/greyoak111/cccodroid)** | 与 Shizuku 兼容的 Android 工具。 | Apache-2.0 | [GitHub 源码](https://github.com/greyoak111/cccodroid) • [下载发布](https://github.com/greyoak111/cccodroid/releases) |
+| **[HoshimiLocalify-en](https://github.com/tokanada/HoshimiLocalify-en)** | Hoshimi Localify EN — LSPatch 翻译模块（Hoshimi Localify 的修改衍生物，GPL-3.0） | GPL-3.0 | [GitHub 源码](https://github.com/tokanada/HoshimiLocalify-en) • [下载发布](https://github.com/tokanada/HoshimiLocalify-en/releases) |
+| **[Meridian](https://github.com/kukirin-ui/Meridian)** | 适用于 Termux 的开源 Android 命令平台：实时电话读数、shell 配方、本地 llama.cpp AI 代理网格和语音助手。没有帐户，没有服务器。麻省理工学院。 | MIT | [GitHub 源码](https://github.com/kukirin-ui/Meridian) • [下载发布](https://github.com/kukirin-ui/Meridian/releases) |
+| **[Tool-Hubs](https://github.com/firefly-sylestia/Tool-Hubs)** | 与 Shizuku 兼容的 Android 工具。 | See project | [GitHub 源码](https://github.com/firefly-sylestia/Tool-Hubs) • [下载发布](https://github.com/firefly-sylestia/Tool-Hubs/releases) |
+| **[ScreenOnAuto-releases](https://github.com/slzn/ScreenOnAuto-releases)** | ScreenOnAuto 的公共 APK 下载和发行说明 — 将手机屏幕镜像到 Android Auto 主机。 | See project | [GitHub 源码](https://github.com/slzn/ScreenOnAuto-releases) • [下载发布](https://github.com/slzn/ScreenOnAuto-releases/releases) |
+| **[BlackOut](https://github.com/xUmutKx/BlackOut)** | 将应用程序的灰色表面变成纯 AMOLED 黑色：根、可访问层或 LSPod 模块 | See project | [GitHub 源码](https://github.com/xUmutKx/BlackOut) • [下载发布](https://github.com/xUmutKx/BlackOut/releases) |
 | **[AppLock](https://github.com/aload0/AppLock)** | 强大的隐私工具，可锁定应用程序免受入侵者的侵害 | MIT | [GitHub 源码](https://github.com/aload0/AppLock) • [下载发布](https://github.com/aload0/AppLock/releases) |
 | **[eva](https://github.com/colonelpanic8/eva)** | EVA — 适用于 Android 的可扩展语音助手 | Apache-2.0 | [GitHub 源码](https://github.com/colonelpanic8/eva) • [下载发布](https://github.com/colonelpanic8/eva/releases) |
 | **[Pulse](https://github.com/xUmutKx/Pulse)** | 适用于 Android 的任务管理器，类似于 Windows 任务管理器，以及完整的设备浏览器 | See project | [GitHub 源码](https://github.com/xUmutKx/Pulse) • [下载发布](https://github.com/xUmutKx/Pulse/releases) |
@@ -258,16 +269,16 @@ Shizuku allows normal Android apps to access powerful system APIs through **ADB 
 
 | App | Developer | Version | Released | APK | Upstream |
 |:---|:---|:---|:---|:---|:---|
+| ⚡ **DFRoot** | 暗黑破坏神0w | `v4.3` | 2026-10-13 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/dfroot-v4.3) | [Upstream](https://github.com/diabl0w/DFRoot/releases) |
+| ⚡ **portrait-guard** | Tiger-git2022 | `v1.0.9` | 2026-10-13 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/portrait-guard-v1.0.9) | [Upstream](https://github.com/tiger-git2022/portrait-guard/releases) |
+| ⚡ **opencode-pocket** | 恶秦 | `v1.1.1` | 2026-10-13 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/opencode-pocket-v1.1.1) | [Upstream](https://github.com/evilqin/opencode-pocket/releases) |
+| ⚡ **OpenTerminal** | LinuxKernel44 | `v1.0.0` | 2026-10-13 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/openterminal-v1.0.0) | [Upstream](https://github.com/LinuxKernel44/OpenTerminal/releases) |
+| ⚡ **ai-usage-companion** | 896kb | `v0.9.8` | 2026-10-13 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/ai-usage-companion-v0.9.8) | [Upstream](https://github.com/896kb/ai-usage-companion/releases) |
+| ⚡ **crosstune** | 星体 | `v2.8.5` | 2026-10-13 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/crosstune-v2.8.5) | [Upstream](https://github.com/astrovm/crosstune/releases) |
+| ⚡ **MurasameRTSS** | 村雨樱 | `v1.2.1` | 2026-10-13 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/murasamertss-v1.2.1) | [Upstream](https://github.com/SakuraMurasame/MurasameRTSS/releases) |
+| ⚡ **PixelIMS_ru** | 泰达鲁 | `v1.0.0-ru` | 2026-10-13 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/pixelims-ru-v1.0.0-ru) | [Upstream](https://github.com/taidaru/PixelIMS_ru/releases) |
 | ⚡ **Hexora** | 泽宁克斯 | `v0.1.2` | 2026-10-12 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/hexora-v0.1.2) | [Upstream](https://github.com/ZENINXOP/Hexora/releases) |
 | ⚡ **PYLPlus** | 强五28 | `v1.7.2` | 2026-10-12 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/pylplus-v1.7.2) | [Upstream](https://github.com/strongfive0528/PYLPlus/releases) |
-| ⚡ **android-use** | 佩格库 | `v0.5.0` | 2026-10-12 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/android-use-v0.5.0) | [Upstream](https://github.com/Pegoku/android-use/releases) |
-| ⚡ **bunnylock** | BT搜索 | `v1.1.1` | 2026-10-12 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/bunnylock-v1.1.1) | [Upstream](https://github.com/btsearch/bunnylock/releases) |
-| ⚡ **android-virtual-screen** | lejw0925 | `v0.0.1` | 2026-10-12 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/android-virtual-screen-v0.0.1) | [Upstream](https://github.com/lejw0925/android-virtual-screen/releases) |
-| ⚡ **VivoWalletToMirPay** | 迪马2220 | `Release` | 2026-10-12 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/vivowallettomirpay-Release) | [Upstream](https://github.com/dima2220/VivoWalletToMirPay/releases) |
-| ⚡ **Koel** | 黾猿 | `v0.5.0` | 2026-10-12 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/koel-v0.5.0) | [Upstream](https://github.com/strider-ape/Koel/releases) |
-| ⚡ **duobeam** | 元正 | `v0.8.3` | 2026-10-12 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/duobeam-v0.8.3) | [Upstream](https://github.com/Gengaroshi/duobeam/releases) |
-| ⚡ **mobilemcp** | Magi实验室 | `v0.6.0` | 2026-10-12 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/mobilemcp-v0.6.0) | [Upstream](https://github.com/Magi-Labs/mobilemcp/releases) |
-| ⚡ **haneoka-app** | 羽冈学园 | `v0.0.1` | 2026-10-12 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/haneoka-app-v0.0.1) | [Upstream](https://github.com/haneoka-gakuen/haneoka-app/releases) |
 
 </details>
 <!-- RECENT-UPDATES-END -->

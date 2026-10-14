@@ -7119,22 +7119,22 @@
   },
   "folkpatch": {
     "source_repository": "LyraVoid/FolkPatch",
-    "source_release_id": 397017793,
-    "source_tag": "115051",
-    "source_published_at": "2026-09-26T01:22:07Z",
-    "synced_at": "2026-10-02T17:16:54.251676+00:00",
+    "source_release_id": 410559361,
+    "source_tag": "115357",
+    "source_published_at": "2026-10-12T12:03:07Z",
+    "synced_at": "2026-10-14T03:09:40.099040+00:00",
     "assets": [
       {
-        "source_asset_id": 589645937,
-        "filename": "FolkPatch_115051_680a6028_on_main-release.apk",
-        "original_filename": "FolkPatch_115051_680a6028_on_main-release.apk",
-        "sha256": "1c6a4020ad81fc7f3c1c685f7f8b5c5e2e15a9712d57d06f69f5816048f2eb93",
-        "file_size": 11391172,
+        "source_asset_id": 633672084,
+        "filename": "FolkPatch_115357_a843c526_on_main-release.apk",
+        "original_filename": "FolkPatch_115357_a843c526_on_main-release.apk",
+        "sha256": "f73a3cd9438f871e3461954123174aabcf9631e53f465225f729f27a3371cb06",
+        "file_size": 17805181,
         "architecture": "arm64-v8a"
       }
     ],
-    "mirror_release_tag": "folkpatch-115051",
-    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/folkpatch-115051"
+    "mirror_release_tag": "folkpatch-115357",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/folkpatch-115357"
   },
   "shizelite": {
     "source_repository": "TheShadyRainbow4/ShizElite",
@@ -11279,5 +11279,219 @@
     ],
     "mirror_release_tag": "eva-v0.61.1",
     "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/eva-v0.61.1"
+  },
+  "blackout": {
+    "source_repository": "xUmutKx/BlackOut",
+    "source_release_id": 409255097,
+    "source_tag": "v0.38",
+    "source_published_at": "2026-10-10T22:55:25Z",
+    "synced_at": "2026-10-14T03:08:28.750420+00:00",
+    "assets": [
+      {
+        "source_asset_id": 629195771,
+        "filename": "BlackOut-v0.38.apk",
+        "original_filename": "BlackOut-v0.38.apk",
+        "sha256": "7d79b3f71bfe490b71bf44491bd8fa15c9dff77971bdcf1088728ca6fde86108",
+        "file_size": 2384034,
+        "architecture": "arm64-v8a"
+      }
+    ],
+    "mirror_release_tag": "blackout-v0.38",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/blackout-v0.38"
+  },
+  "screenonauto-releases": {
+    "source_repository": "slzn/ScreenOnAuto-releases",
+    "source_release_id": 403505302,
+    "source_tag": "v1.9.5",
+    "source_published_at": "2026-10-05T08:18:25Z",
+    "synced_at": "2026-10-14T03:08:32.747207+00:00",
+    "assets": [
+      {
+        "source_asset_id": 611945156,
+        "filename": "ScreenOnAuto-V1.9.5.apk",
+        "original_filename": "ScreenOnAuto-V1.9.5.apk",
+        "sha256": "dd607fc17169b64fdf9fe511255b6a90937d9eabc6784d21077c030e769b98b6",
+        "file_size": 2287155,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "screenonauto-releases-v1.9.5",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/screenonauto-releases-v1.9.5"
+  },
+  "tool-hubs": {
+    "source_repository": "firefly-sylestia/Tool-Hubs",
+    "source_release_id": 409514720,
+    "source_tag": "v0.11.4",
+    "source_published_at": "2026-10-11T07:50:10Z",
+    "synced_at": "2026-10-14T03:08:45.024281+00:00",
+    "assets": [
+      {
+        "source_asset_id": 630145825,
+        "filename": "release-chime.apk",
+        "original_filename": "release-chime.apk",
+        "sha256": "0fd79ee7a97188813fbaa7b91fdfac9e61c18c0c2e4324d79c614b70e6262e7a",
+        "file_size": 38561978,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      },
+      {
+        "source_asset_id": 630145824,
+        "filename": "release-data-warden.apk",
+        "original_filename": "release-data-warden.apk",
+        "sha256": "3ddac3bf43c14aa4f780786f8a9e0804c9345f8a7b5fbe187a23c1f2d086febe",
+        "file_size": 12547829,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      },
+      {
+        "source_asset_id": 630145827,
+        "filename": "release-network-switcher.apk",
+        "original_filename": "release-network-switcher.apk",
+        "sha256": "6fe7a2401bf097484c6f823f52a59b284a6e58ec90a1f49da55142fb4ec281d2",
+        "file_size": 12778553,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "tool-hubs-v0.11.4",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/tool-hubs-v0.11.4"
+  },
+  "meridian": {
+    "source_repository": "kukirin-ui/Meridian",
+    "source_release_id": 405945517,
+    "source_tag": "v1.8.6",
+    "source_published_at": "2026-10-07T16:18:10Z",
+    "synced_at": "2026-10-14T03:08:48.183584+00:00",
+    "assets": [
+      {
+        "source_asset_id": 619174123,
+        "filename": "Meridian.apk",
+        "original_filename": "Meridian.apk",
+        "sha256": "894811e9d87816cebb242fe4f0900fb2945bcdedb3fd735b3c43bbfba92110d1",
+        "file_size": 139808,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "meridian-v1.8.6",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/meridian-v1.8.6"
+  },
+  "hoshimilocalify-en": {
+    "source_repository": "tokanada/HoshimiLocalify-en",
+    "source_release_id": 412153336,
+    "source_tag": "v1.4.1",
+    "source_published_at": "2026-10-13T22:12:50Z",
+    "synced_at": "2026-10-14T03:09:03.508435+00:00",
+    "assets": [
+      {
+        "source_asset_id": 638768983,
+        "filename": "HoshimiLocalify-en-full-v1.4.1.apk",
+        "original_filename": "HoshimiLocalify-en-full-v1.4.1.apk",
+        "sha256": "5c05525a75312172f498cf32fa0e0a9409f87899b915dbccfe83f9de6be03e50",
+        "file_size": 72349229,
+        "architecture": "arm64-v8a"
+      },
+      {
+        "source_asset_id": 638768984,
+        "filename": "HoshimiLocalify-en-lite-v1.4.1.apk",
+        "original_filename": "HoshimiLocalify-en-lite-v1.4.1.apk",
+        "sha256": "193f71ca153626acbc3dcaec8c61990b79a2bed05eb63be5f8d2dc49a8771d0c",
+        "file_size": 72316461,
+        "architecture": "arm64-v8a"
+      }
+    ],
+    "mirror_release_tag": "hoshimilocalify-en-v1.4.1",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/hoshimilocalify-en-v1.4.1"
+  },
+  "cccodroid": {
+    "source_repository": "greyoak111/cccodroid",
+    "source_release_id": 412137858,
+    "source_tag": "v0.1.6",
+    "source_published_at": "2026-10-13T21:47:27Z",
+    "synced_at": "2026-10-14T03:09:07.252179+00:00",
+    "assets": [
+      {
+        "source_asset_id": 638343565,
+        "filename": "cccodroid.apk",
+        "original_filename": "cccodroid.apk",
+        "sha256": "61a27c9cbbf1c2926b22f55aff8b4c6e1ba7dc2e866b10149b8507ecb012a721",
+        "file_size": 443309,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "cccodroid-v0.1.6",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/cccodroid-v0.1.6"
+  },
+  "moltengram": {
+    "source_repository": "MoltenSt4r/MoltenGram",
+    "source_release_id": 407590959,
+    "source_tag": "v12.10.6",
+    "source_published_at": "2026-10-09T06:27:11Z",
+    "synced_at": "2026-10-14T03:09:16.850724+00:00",
+    "assets": [
+      {
+        "source_asset_id": 638978927,
+        "filename": "MoltenGram-v12.10.6-cef8e2f.1261.apk",
+        "original_filename": "MoltenGram-v12.10.6-cef8e2f.1261.apk",
+        "sha256": "ae73d095c528471ca27ff22f6eb1698e6cb1a2a031cf7eacf65f2a353a94c4c9",
+        "file_size": 95523048,
+        "architecture": "arm64-v8a"
+      }
+    ],
+    "mirror_release_tag": "moltengram-v12.10.6",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/moltengram-v12.10.6"
+  },
+  "debloat": {
+    "source_repository": "turkdevprodoctions/debloat",
+    "source_release_id": 412030054,
+    "source_tag": "1.0.2",
+    "source_published_at": "2026-10-13T19:25:42Z",
+    "synced_at": "2026-10-14T03:09:20.039145+00:00",
+    "assets": [
+      {
+        "source_asset_id": 638021416,
+        "filename": "Debloat.1.0.2.apk",
+        "original_filename": "Debloat.1.0.2.apk",
+        "sha256": "dab224afd91ebfe52f4d23e61d5f15d124288c1284070e45e7b49d7921a6bf7b",
+        "file_size": 793982,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "debloat-1.0.2",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/debloat-1.0.2"
+  },
+  "blaqclaw": {
+    "source_repository": "geniuscr8/BlaqClaw",
+    "source_release_id": 412299309,
+    "source_tag": "universal-latest",
+    "source_published_at": "2026-10-14T03:05:51Z",
+    "synced_at": "2026-10-14T03:09:34.634346+00:00",
+    "assets": [
+      {
+        "source_asset_id": 639038470,
+        "filename": "BlaqClaw_v1.3.4_universal_20261014_025954.apk",
+        "original_filename": "BlaqClaw_v1.3.4_universal_20261014_025954.apk",
+        "sha256": "624a9d32dd95a21caf995b3da00df01f74ed9c8da4cc3942e6f8a56cfe02efca",
+        "file_size": 164230091,
+        "architecture": "arm64-v8a, armeabi, armeabi-v7a, mips, mips64, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "blaqclaw-universal-latest",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/blaqclaw-universal-latest"
+  },
+  "axmanager": {
+    "source_repository": "fahrez182/AxManager",
+    "source_release_id": 328507609,
+    "source_tag": "v1.4.8",
+    "source_published_at": "2026-05-24T13:27:12Z",
+    "synced_at": "2026-10-14T03:09:38.573459+00:00",
+    "assets": [
+      {
+        "source_asset_id": 428568737,
+        "filename": "AxManager_v1.4.8.r349_14800-release_2605242016.apk",
+        "original_filename": "AxManager_v1.4.8.r349_14800-release_2605242016.apk",
+        "sha256": "774ee61850f505aeb61e62fd62d3e9c0f1b14c98853e88753e65943ca6d8efb3",
+        "file_size": 9575056,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "axmanager-v1.4.8",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/axmanager-v1.4.8"
   }
 }
