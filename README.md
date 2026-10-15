@@ -256,16 +256,16 @@ A dedicated zero-dependency terminal companion to search 500+ apps, inspect meta
 
 | App | Developer | Version | Released | APK | Upstream |
 |:---|:---|:---|:---|:---|:---|
+| ⚡ **DNSSwitch** | georgechou0517 | `v26.10.2` | 2026-10-14 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/dnsswitch-v26.10.2) | [Upstream](https://github.com/georgechou0517/DNSSwitch/releases) |
+| ⚡ **background-check** | jordanwoodson | `1.1.1-bgcheck.16` | 2026-10-14 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/background-check-1.1.1-bgcheck.16) | [Upstream](https://github.com/jordanwoodson/background-check/releases) |
+| ⚡ **GoogleTVAirPlay** | mkatadev | `v1.3.5` | 2026-10-14 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/googletvairplay-v1.3.5) | [Upstream](https://github.com/mkatadev/GoogleTVAirPlay/releases) |
+| ⚡ **ETAW-Cleaner** | ETQWFD | `v1.5.1` | 2026-10-14 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/etaw-cleaner-v1.5.1) | [Upstream](https://github.com/ETQWFD/ETAW-Cleaner/releases) |
+| ⚡ **BlaqClaw** | geniuscr8 | `universal-latest` | 2026-10-14 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/blaqclaw-universal-latest) | [Upstream](https://github.com/geniuscr8/BlaqClaw/releases) |
+| ⚡ **HoshimiLocalify-en** | tokanada | `v1.4.1` | 2026-10-13 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/hoshimilocalify-en-v1.4.1) | [Upstream](https://github.com/tokanada/HoshimiLocalify-en/releases) |
+| ⚡ **cccodroid** | greyoak111 | `v0.1.6` | 2026-10-13 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/cccodroid-v0.1.6) | [Upstream](https://github.com/greyoak111/cccodroid/releases) |
+| ⚡ **debloat** | turkdevprodoctions | `1.0.2` | 2026-10-13 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/debloat-1.0.2) | [Upstream](https://github.com/turkdevprodoctions/debloat/releases) |
 | ⚡ **DFRoot** | diabl0w | `v4.3` | 2026-10-13 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/dfroot-v4.3) | [Upstream](https://github.com/diabl0w/DFRoot/releases) |
 | ⚡ **portrait-guard** | tiger-git2022 | `v1.0.9` | 2026-10-13 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/portrait-guard-v1.0.9) | [Upstream](https://github.com/tiger-git2022/portrait-guard/releases) |
-| ⚡ **opencode-pocket** | evilqin | `v1.1.1` | 2026-10-13 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/opencode-pocket-v1.1.1) | [Upstream](https://github.com/evilqin/opencode-pocket/releases) |
-| ⚡ **OpenTerminal** | LinuxKernel44 | `v1.0.0` | 2026-10-13 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/openterminal-v1.0.0) | [Upstream](https://github.com/LinuxKernel44/OpenTerminal/releases) |
-| ⚡ **ai-usage-companion** | 896kb | `v0.9.8` | 2026-10-13 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/ai-usage-companion-v0.9.8) | [Upstream](https://github.com/896kb/ai-usage-companion/releases) |
-| ⚡ **crosstune** | astrovm | `v2.8.5` | 2026-10-13 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/crosstune-v2.8.5) | [Upstream](https://github.com/astrovm/crosstune/releases) |
-| ⚡ **MurasameRTSS** | SakuraMurasame | `v1.2.1` | 2026-10-13 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/murasamertss-v1.2.1) | [Upstream](https://github.com/SakuraMurasame/MurasameRTSS/releases) |
-| ⚡ **PixelIMS_ru** | taidaru | `v1.0.0-ru` | 2026-10-13 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/pixelims-ru-v1.0.0-ru) | [Upstream](https://github.com/taidaru/PixelIMS_ru/releases) |
-| ⚡ **Hexora** | ZENINXOP | `v0.1.2` | 2026-10-12 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/hexora-v0.1.2) | [Upstream](https://github.com/ZENINXOP/Hexora/releases) |
-| ⚡ **PYLPlus** | strongfive0528 | `v1.7.2` | 2026-10-12 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/pylplus-v1.7.2) | [Upstream](https://github.com/strongfive0528/PYLPlus/releases) |
 
 </details>
 <!-- RECENT-UPDATES-END -->
