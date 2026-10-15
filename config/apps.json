@@ -8047,6 +8047,70 @@
         ".*unsigned.*",
         ".*test.*"
       ]
+    },
+    {
+      "name": "WheelReels",
+      "slug": "wheelreels",
+      "repository": "markvoronin354/WheelReels",
+      "enabled": true,
+      "shizuku": true,
+      "release_strategy": "latest-stable",
+      "asset_patterns": [
+        ".*\\.apk$"
+      ],
+      "exclude_patterns": [
+        ".*debug.*",
+        ".*unsigned.*",
+        ".*test.*"
+      ]
+    },
+    {
+      "name": "calisthenics-app",
+      "slug": "calisthenics-app",
+      "repository": "kyirejson/calisthenics-app",
+      "enabled": true,
+      "shizuku": true,
+      "release_strategy": "latest-stable",
+      "asset_patterns": [
+        ".*\\.apk$"
+      ],
+      "exclude_patterns": [
+        ".*debug.*",
+        ".*unsigned.*",
+        ".*test.*"
+      ]
+    },
+    {
+      "name": "KRS-DOCKER-ANDROID",
+      "slug": "krs-docker-android",
+      "repository": "kawincodes/KRS-DOCKER-ANDROID",
+      "enabled": true,
+      "shizuku": true,
+      "release_strategy": "latest-stable",
+      "asset_patterns": [
+        ".*\\.apk$"
+      ],
+      "exclude_patterns": [
+        ".*debug.*",
+        ".*unsigned.*",
+        ".*test.*"
+      ]
+    },
+    {
+      "name": "VoLTEEnabler",
+      "slug": "volteenabler",
+      "repository": "HeshamNoaman/VoLTEEnabler",
+      "enabled": true,
+      "shizuku": true,
+      "release_strategy": "latest-stable",
+      "asset_patterns": [
+        ".*\\.apk$"
+      ],
+      "exclude_patterns": [
+        ".*debug.*",
+        ".*unsigned.*",
+        ".*test.*"
+      ]
     }
   ],
   "defaults": {

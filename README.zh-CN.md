@@ -202,6 +202,11 @@ Shizuku allows normal Android apps to access powerful system APIs through **ADB 
 
 | 应用名称 | 功能介绍与 Shizuku 用例 | 开源许可 | 相关链接 |
 |:---|:---|:---|:---|
+| **[VoLTEEnabler](https://github.com/HeshamNoaman/VoLTEEnabler)** | 无根Android应用程序由Shizuku提供支持，可在三星One UI和Android设备上启用VoLTE、IMS设置和网络工具，无需PC或root。 | MIT | [GitHub 源码](https://github.com/HeshamNoaman/VoLTEEnabler) • [下载发布](https://github.com/HeshamNoaman/VoLTEEnabler/releases) |
+| **[droidtop](https://github.com/Droidtop/droidtop)** | 将Android手持设备转换为共享桌面— Windows通过Wine/Box64 ， Linux通过容器，一个合并的合成器， dom0风格的架构 | GPL-3.0 | [GitHub 源码](https://github.com/Droidtop/droidtop) • [下载发布](https://github.com/Droidtop/droidtop/releases) |
+| **[KRS-DOCKER-ANDROID](https://github.com/kawincodes/KRS-DOCKER-ANDROID)** | 与 Shizuku 兼容的 Android 工具。 | See project | [GitHub 源码](https://github.com/kawincodes/KRS-DOCKER-ANDROID) • [下载发布](https://github.com/kawincodes/KRS-DOCKER-ANDROID/releases) |
+| **[calisthenics-app](https://github.com/kyirejson/calisthenics-app)** | 自重进阶 v1.0.0 ｜安卓自重训练APP ： 188 个动作、训练记录与进阶统计 | MIT | [GitHub 源码](https://github.com/kyirejson/calisthenics-app) • [下载发布](https://github.com/kyirejson/calisthenics-app/releases) |
+| **[WheelReels](https://github.com/markvoronin354/WheelReels)** | 一个应用程序，允许您使用汽车方向盘上的下一个和上一个按钮滚动卷轴 | MIT | [GitHub 源码](https://github.com/markvoronin354/WheelReels) • [下载发布](https://github.com/markvoronin354/WheelReels/releases) |
 | **[GoogleTVAirPlay](https://github.com/mkatadev/GoogleTVAirPlay)** | 适用于 Google TV / Chromecast 的免费开源 AirPlay 接收器 — 镜像、视频、音乐 | GPL-3.0 | [GitHub 源码](https://github.com/mkatadev/GoogleTVAirPlay) • [下载发布](https://github.com/mkatadev/GoogleTVAirPlay/releases) |
 | **[DNSSwitch](https://github.com/georgechou0517/DNSSwitch)** | 一款免费无广告的 Android 加密 DNS 客户端。支持自定义 DNS（端口可选）、DoH、DoT，且三者可同时启用，而非二选一。基于 Kotlin VpnService + WebView 构建，专为绕过 DNS 污染与解析延迟设计。一款免费、无广告的 Android DNS 客户端，具有自定义 DNS（端口可配置）、DoH 和 DoT — 三者可以同时运行，不是非此即彼。使用 Kotlin VpnService + WebView 构建。旨在绕过 DNS 污染和解析延迟。 | MIT-0 | [GitHub 源码](https://github.com/georgechou0517/DNSSwitch) • [下载发布](https://github.com/georgechou0517/DNSSwitch/releases) |
 | **[AmbientMusic-OneUI-LiveNotifications](https://github.com/Jorgeprdz/AmbientMusic-OneUI-LiveNotifications)** | 使用 Android 实时更新在三星的 Now Bar 中进行“正在播放”识别。 | GPL-3.0 | [GitHub 源码](https://github.com/Jorgeprdz/AmbientMusic-OneUI-LiveNotifications) • [下载发布](https://github.com/Jorgeprdz/AmbientMusic-OneUI-LiveNotifications/releases) |
@@ -259,16 +264,16 @@ Shizuku allows normal Android apps to access powerful system APIs through **ADB 
 
 | App | Developer | Version | Released | APK | Upstream |
 |:---|:---|:---|:---|:---|:---|
+| ⚡ **DNSSwitch** | georgechou0517 | `v26.10.2` | 2026-10-14 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/dnsswitch-v26.10.2) | [Upstream](https://github.com/georgechou0517/DNSSwitch/releases) |
+| ⚡ **background-check** | jordanwoodson | `1.1.1-bgcheck.16` | 2026-10-14 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/background-check-1.1.1-bgcheck.16) | [Upstream](https://github.com/jordanwoodson/background-check/releases) |
+| ⚡ **GoogleTVAirPlay** | mkatadev | `v1.3.5` | 2026-10-14 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/googletvairplay-v1.3.5) | [Upstream](https://github.com/mkatadev/GoogleTVAirPlay/releases) |
+| ⚡ **ETAW-Cleaner** | ETQWFD | `v1.5.1` | 2026-10-14 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/etaw-cleaner-v1.5.1) | [Upstream](https://github.com/ETQWFD/ETAW-Cleaner/releases) |
+| ⚡ **BlaqClaw** | geniuscr8 | `universal-latest` | 2026-10-14 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/blaqclaw-universal-latest) | [Upstream](https://github.com/geniuscr8/BlaqClaw/releases) |
+| ⚡ **HoshimiLocalify-en** | 托卡纳达 | `v1.4.1` | 2026-10-13 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/hoshimilocalify-en-v1.4.1) | [Upstream](https://github.com/tokanada/HoshimiLocalify-en/releases) |
+| ⚡ **cccodroid** | greyoak111 | `v0.1.6` | 2026-10-13 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/cccodroid-v0.1.6) | [Upstream](https://github.com/greyoak111/cccodroid/releases) |
+| ⚡ **debloat** | turkdevprodoctions | `1.0.2` | 2026-10-13 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/debloat-1.0.2) | [Upstream](https://github.com/turkdevprodoctions/debloat/releases) |
 | ⚡ **DFRoot** | 暗黑破坏神0w | `v4.3` | 2026-10-13 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/dfroot-v4.3) | [Upstream](https://github.com/diabl0w/DFRoot/releases) |
 | ⚡ **portrait-guard** | Tiger-git2022 | `v1.0.9` | 2026-10-13 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/portrait-guard-v1.0.9) | [Upstream](https://github.com/tiger-git2022/portrait-guard/releases) |
-| ⚡ **opencode-pocket** | 恶秦 | `v1.1.1` | 2026-10-13 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/opencode-pocket-v1.1.1) | [Upstream](https://github.com/evilqin/opencode-pocket/releases) |
-| ⚡ **OpenTerminal** | LinuxKernel44 | `v1.0.0` | 2026-10-13 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/openterminal-v1.0.0) | [Upstream](https://github.com/LinuxKernel44/OpenTerminal/releases) |
-| ⚡ **ai-usage-companion** | 896kb | `v0.9.8` | 2026-10-13 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/ai-usage-companion-v0.9.8) | [Upstream](https://github.com/896kb/ai-usage-companion/releases) |
-| ⚡ **crosstune** | 星体 | `v2.8.5` | 2026-10-13 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/crosstune-v2.8.5) | [Upstream](https://github.com/astrovm/crosstune/releases) |
-| ⚡ **MurasameRTSS** | 村雨樱 | `v1.2.1` | 2026-10-13 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/murasamertss-v1.2.1) | [Upstream](https://github.com/SakuraMurasame/MurasameRTSS/releases) |
-| ⚡ **PixelIMS_ru** | 泰达鲁 | `v1.0.0-ru` | 2026-10-13 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/pixelims-ru-v1.0.0-ru) | [Upstream](https://github.com/taidaru/PixelIMS_ru/releases) |
-| ⚡ **Hexora** | 泽宁克斯 | `v0.1.2` | 2026-10-12 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/hexora-v0.1.2) | [Upstream](https://github.com/ZENINXOP/Hexora/releases) |
-| ⚡ **PYLPlus** | 强五28 | `v1.7.2` | 2026-10-12 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/pylplus-v1.7.2) | [Upstream](https://github.com/strongfive0528/PYLPlus/releases) |
 
 </details>
 <!-- RECENT-UPDATES-END -->
