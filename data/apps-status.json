@@ -1,7 +1,7 @@
 {
   "shizuku": {
     "status": "no-update",
-    "last_checked": "2026-10-14T16:21:40.317278+00:00",
+    "last_checked": "2026-10-15T16:09:56.578681+00:00",
     "latest_version": "v13.6.0",
     "last_synced": "2026-08-22T11:57:04.456608+00:00"
   },
@@ -265,7 +265,7 @@
   },
   "enforcedoze": {
     "status": "no-update",
-    "last_checked": "2026-10-14T16:21:29.701396+00:00",
+    "last_checked": "2026-10-15T16:09:57.512078+00:00",
     "latest_version": "v1.10.2/86",
     "last_synced": "2026-08-22T12:02:01.573786+00:00"
   },
@@ -277,7 +277,7 @@
   },
   "applock": {
     "status": "no-apk",
-    "last_checked": "2026-10-14T16:21:23.044239+00:00"
+    "last_checked": "2026-10-15T16:09:15.367309+00:00"
   },
   "tarnhelm": {
     "status": "no-update",
@@ -333,7 +333,7 @@
   },
   "shizako": {
     "status": "no-update",
-    "last_checked": "2026-10-14T16:21:23.582508+00:00",
+    "last_checked": "2026-10-15T16:09:16.251524+00:00",
     "latest_version": "zako3.13",
     "last_synced": "2026-10-11T17:13:43.796596+00:00"
   },
@@ -477,7 +477,7 @@
   },
   "service-keeper": {
     "status": "no-update",
-    "last_checked": "2026-10-14T16:21:30.221445+00:00",
+    "last_checked": "2026-10-15T16:10:08.427469+00:00",
     "latest_version": "v1.0.5",
     "last_synced": "2026-09-29T11:55:39.631521+00:00"
   },
@@ -685,7 +685,7 @@
   },
   "komi-store": {
     "status": "no-update",
-    "last_checked": "2026-10-14T16:21:24.290451+00:00",
+    "last_checked": "2026-10-15T16:09:44.844586+00:00",
     "latest_version": "v1.9.2",
     "last_synced": "2026-09-29T17:34:42.471330+00:00"
   },
@@ -927,7 +927,7 @@
   },
   "deepseek-harness-android": {
     "status": "no-update",
-    "last_checked": "2026-10-14T16:21:30.867184+00:00",
+    "last_checked": "2026-10-15T16:09:24.630068+00:00",
     "latest_version": "v0.2.10",
     "last_synced": "2026-10-10T16:51:12.377084+00:00"
   },
@@ -1114,7 +1114,7 @@
   },
   "droidtop": {
     "status": "no-update",
-    "last_checked": "2026-10-15T02:48:12.518427+00:00",
+    "last_checked": "2026-10-15T16:09:55.998261+00:00",
     "latest_version": "v1.12.1",
     "last_synced": "2026-10-01T17:53:47.755666+00:00"
   },
@@ -2909,5 +2909,57 @@
     "last_checked": "2026-10-15T02:48:15.682997+00:00",
     "latest_version": "v1.0.0",
     "last_synced": "2026-10-15T02:48:15.682997+00:00"
+  },
+  "kreza6173-pixel": {
+    "status": "synced",
+    "last_checked": "2026-10-15T16:09:14.982410+00:00",
+    "latest_version": "v1.0.1",
+    "last_synced": "2026-10-15T16:09:14.982410+00:00"
+  },
+  "krfr": {
+    "status": "synced",
+    "last_checked": "2026-10-15T16:09:23.802900+00:00",
+    "latest_version": "v1.0.7",
+    "last_synced": "2026-10-15T16:09:23.802900+00:00"
+  },
+  "turtlelauncher": {
+    "status": "synced",
+    "last_checked": "2026-10-15T16:09:43.552353+00:00",
+    "latest_version": "Hotfix-5",
+    "last_synced": "2026-10-15T16:09:43.552353+00:00"
+  },
+  "punk-app": {
+    "status": "synced",
+    "last_checked": "2026-10-15T16:09:51.123368+00:00",
+    "latest_version": "v2.2",
+    "last_synced": "2026-10-15T16:09:51.123368+00:00"
+  },
+  "autojs6-plugin-offline-docs": {
+    "status": "synced",
+    "last_checked": "2026-10-15T16:09:55.482741+00:00",
+    "latest_version": "v6.8.3",
+    "last_synced": "2026-10-15T16:09:55.482741+00:00"
+  },
+  "one-tap-network-reset": {
+    "status": "synced",
+    "last_checked": "2026-10-15T16:10:01.857984+00:00",
+    "latest_version": "v0.1.0",
+    "last_synced": "2026-10-15T16:10:01.857984+00:00"
+  },
+  "gososmed-mobile-agent": {
+    "status": "synced",
+    "last_checked": "2026-10-15T16:10:07.438476+00:00",
+    "latest_version": "v1.2.1",
+    "last_synced": "2026-10-15T16:10:07.438476+00:00"
+  },
+  "phonepilot": {
+    "status": "no-apk",
+    "last_checked": "2026-10-15T16:10:08.859730+00:00"
+  },
+  "t2etoolbox": {
+    "status": "synced",
+    "last_checked": "2026-10-15T16:10:13.029213+00:00",
+    "latest_version": "v0.5.0",
+    "last_synced": "2026-10-15T16:10:13.029213+00:00"
   }
 }
