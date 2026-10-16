@@ -518,8 +518,11 @@ def main() -> int:
     logger.info("Disabled:            %d", results.get("disabled", 0))
     logger.info("=" * 56)
 
-    # Exit with failure if any app failed
-    if results.get("failed", 0) > 0:
+    # Exit with failure only if specific app failed or if all apps failed in batch mode
+    if args.app and results.get("failed", 0) > 0:
+        return 1
+    if total > 0 and results.get("failed", 0) == total:
+        logger.error("All apps failed to sync.")
         return 1
     return 0
 

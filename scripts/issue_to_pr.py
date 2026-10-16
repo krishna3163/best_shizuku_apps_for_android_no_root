@@ -143,6 +143,12 @@ def add_suggestion_to_catalog(data: dict[str, str], token: Optional[str] = None)
 
 
 def main() -> int:
+    if hasattr(sys.stdout, "reconfigure"):
+        try:
+            sys.stdout.reconfigure(encoding="utf-8", errors="replace")
+            sys.stderr.reconfigure(encoding="utf-8", errors="replace")
+        except Exception:
+            pass
     parser = argparse.ArgumentParser(description="Parse app suggestion issue and update catalog.")
     parser.add_argument("--issue-body-file", help="Path to file containing issue body markdown")
     parser.add_argument("--issue-body", help="Issue body string")

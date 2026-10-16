@@ -28,7 +28,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           ISSUE_BODY: ${{ github.event.issue.body }}
         run: |
-          python3 scripts/issue_to_pr.py --issue-body "$ISSUE_BODY"
+          python3 scripts/issue_to_pr.py
 
       - name: Create Pull Request
         uses: peter-evans/create-pull-request@v6
