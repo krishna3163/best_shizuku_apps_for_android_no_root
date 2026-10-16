@@ -3218,22 +3218,22 @@
   },
   "shizako": {
     "source_repository": "xm1437/Shizako",
-    "source_release_id": 409755962,
-    "source_tag": "zako3.13",
-    "source_published_at": "2026-10-11T15:37:03Z",
-    "synced_at": "2026-10-11T17:13:43.796576+00:00",
+    "source_release_id": 414119956,
+    "source_tag": "zako3.15",
+    "source_published_at": "2026-10-15T18:09:18Z",
+    "synced_at": "2026-10-16T15:57:09.231765+00:00",
     "assets": [
       {
-        "source_asset_id": 631115910,
-        "filename": "shizako-vzako3.13-release.apk",
-        "original_filename": "shizako-vzako3.13-release.apk",
-        "sha256": "07748dc283f8341f3eb9ea79e18fd6b6067843fc32bcca78b7092d24a3f8690f",
-        "file_size": 8241233,
+        "source_asset_id": 644725842,
+        "filename": "shizako-vzako3.15-release.apk",
+        "original_filename": "shizako-vzako3.15-release.apk",
+        "sha256": "2c78502808fd3aa612ed87d986aa81460b857974f1a10133ecf0e5da1eec3a7d",
+        "file_size": 8253481,
         "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
       }
     ],
-    "mirror_release_tag": "shizako-zako3.13",
-    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/shizako-zako3.13"
+    "mirror_release_tag": "shizako-zako3.15",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/shizako-zako3.15"
   },
   "aether": {
     "source_repository": "Zhou-Shilin/Aether",
@@ -12027,5 +12027,138 @@
     ],
     "mirror_release_tag": "haiou-apk-38836306520",
     "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/haiou-apk-38836306520"
+  },
+  "shuttersoundzero": {
+    "source_repository": "hoons1994/ShutterSoundZero",
+    "source_release_id": 414383085,
+    "source_tag": "v1.5.14",
+    "source_published_at": "2026-10-15T23:52:26Z",
+    "synced_at": "2026-10-16T15:56:36.930192+00:00",
+    "assets": [
+      {
+        "source_asset_id": 645544811,
+        "filename": "ShutterSoundZero-v1.5.14.apk",
+        "original_filename": "ShutterSoundZero-v1.5.14.apk",
+        "sha256": "a24ca587e53009fdbe20a30607f33fda02e1e938c04c5fdd78b40625e0c12576",
+        "file_size": 42787062,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "shuttersoundzero-v1.5.14",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/shuttersoundzero-v1.5.14"
+  },
+  "phone-mcp": {
+    "source_repository": "Anton7444/Phone-MCP",
+    "source_release_id": 414997800,
+    "source_tag": "v1.2.0",
+    "source_published_at": "2026-10-16T13:31:47Z",
+    "synced_at": "2026-10-16T15:56:43.310025+00:00",
+    "assets": [
+      {
+        "source_asset_id": 647432792,
+        "filename": "phone-mcp-1.2.0.apk",
+        "original_filename": "phone-mcp-1.2.0.apk",
+        "sha256": "7d4a07f5a2f6889da10b7b0ab31b9e37092b1d60af73e6e87fd6884023f1b34d",
+        "file_size": 42354159,
+        "architecture": "arm64-v8a"
+      }
+    ],
+    "mirror_release_tag": "phone-mcp-v1.2.0",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/phone-mcp-v1.2.0"
+  },
+  "kengen": {
+    "source_repository": "tim1540/kengen",
+    "source_release_id": 415126346,
+    "source_tag": "v14.3.0",
+    "source_published_at": "2026-10-16T15:46:41Z",
+    "synced_at": "2026-10-16T15:56:48.107096+00:00",
+    "assets": [
+      {
+        "source_asset_id": 647797487,
+        "filename": "kengen-v14.3.0.apk",
+        "original_filename": "kengen-v14.3.0.apk",
+        "sha256": "5483be61288d38036be11c3a49f34e4cad2aa99244dedcf003fc563760a8d975",
+        "file_size": 16011029,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "kengen-v14.3.0",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/kengen-v14.3.0"
+  },
+  "latch": {
+    "source_repository": "wized2/Latch",
+    "source_release_id": 414894879,
+    "source_tag": "v0.6.2",
+    "source_published_at": "2026-10-16T11:36:08Z",
+    "synced_at": "2026-10-16T15:56:53.794619+00:00",
+    "assets": [
+      {
+        "source_asset_id": 647586139,
+        "filename": "Latch-release.apk",
+        "original_filename": "Latch-release.apk",
+        "sha256": "927ce44c6887f1eb0afba3ae01c803e8a34b4d9cb33ae8b8035a1f1149336f62",
+        "file_size": 1239059,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "latch-v0.6.2",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/latch-v0.6.2"
+  },
+  "elderguard": {
+    "source_repository": "ak-ing/ElderGuard",
+    "source_release_id": 415117371,
+    "source_tag": "v1.1.0",
+    "source_published_at": "2026-10-16T15:36:38Z",
+    "synced_at": "2026-10-16T15:56:58.214452+00:00",
+    "assets": [
+      {
+        "source_asset_id": 647768181,
+        "filename": "ElderGuard-1.1.0.apk",
+        "original_filename": "ElderGuard-1.1.0.apk",
+        "sha256": "83fb95b40d4024bac635fa0a4c8217a11dff02993726f079cd588b1736e8d7e7",
+        "file_size": 1813292,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "elderguard-v1.1.0",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/elderguard-v1.1.0"
+  },
+  "user-hopper": {
+    "source_repository": "dlawoals2713/User-Hopper",
+    "source_release_id": 413479059,
+    "source_tag": "v2.0",
+    "source_published_at": "2026-10-15T06:25:20Z",
+    "synced_at": "2026-10-16T15:57:02.663133+00:00",
+    "assets": [
+      {
+        "source_asset_id": 642903519,
+        "filename": "app-release.apk",
+        "original_filename": "app-release.apk",
+        "sha256": "b31d8e0e95db7f0469b029732ed9233e4b6ea9610f33016f8269c7b761ed443c",
+        "file_size": 2015657,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "user-hopper-v2.0",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/user-hopper-v2.0"
+  },
+  "schedule-u": {
+    "source_repository": "grdcreate/schedule.u",
+    "source_release_id": 415090957,
+    "source_tag": "v2.5",
+    "source_published_at": "2026-10-16T15:07:30Z",
+    "synced_at": "2026-10-16T15:57:07.766811+00:00",
+    "assets": [
+      {
+        "source_asset_id": 647691450,
+        "filename": "scheduleu-2.5.apk",
+        "original_filename": "scheduleu-2.5.apk",
+        "sha256": "51030d25be4b33b226ecfbea08220e671ef35bd942e21d7982a682303892882c",
+        "file_size": 122914,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "schedule-u-v2.5",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/schedule-u-v2.5"
   }
 }

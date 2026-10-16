@@ -1,7 +1,7 @@
 {
   "shizuku": {
     "status": "no-update",
-    "last_checked": "2026-10-15T16:09:56.578681+00:00",
+    "last_checked": "2026-10-16T15:57:03.120313+00:00",
     "latest_version": "v13.6.0",
     "last_synced": "2026-08-22T11:57:04.456608+00:00"
   },
@@ -265,7 +265,7 @@
   },
   "enforcedoze": {
     "status": "no-update",
-    "last_checked": "2026-10-15T16:09:57.512078+00:00",
+    "last_checked": "2026-10-16T15:56:49.966136+00:00",
     "latest_version": "v1.10.2/86",
     "last_synced": "2026-08-22T12:02:01.573786+00:00"
   },
@@ -332,10 +332,10 @@
     "last_synced": "2026-09-29T11:52:14.226535+00:00"
   },
   "shizako": {
-    "status": "no-update",
-    "last_checked": "2026-10-15T16:09:16.251524+00:00",
-    "latest_version": "zako3.13",
-    "last_synced": "2026-10-11T17:13:43.796596+00:00"
+    "status": "synced",
+    "last_checked": "2026-10-16T15:57:09.231784+00:00",
+    "latest_version": "zako3.15",
+    "last_synced": "2026-10-16T15:57:09.231784+00:00"
   },
   "aether": {
     "status": "no-update",
@@ -477,7 +477,7 @@
   },
   "service-keeper": {
     "status": "no-update",
-    "last_checked": "2026-10-15T16:10:08.427469+00:00",
+    "last_checked": "2026-10-16T15:56:48.651889+00:00",
     "latest_version": "v1.0.5",
     "last_synced": "2026-09-29T11:55:39.631521+00:00"
   },
@@ -685,7 +685,7 @@
   },
   "komi-store": {
     "status": "no-update",
-    "last_checked": "2026-10-15T16:09:44.844586+00:00",
+    "last_checked": "2026-10-16T15:57:04.115216+00:00",
     "latest_version": "v1.9.2",
     "last_synced": "2026-09-29T17:34:42.471330+00:00"
   },
@@ -927,7 +927,7 @@
   },
   "deepseek-harness-android": {
     "status": "no-update",
-    "last_checked": "2026-10-15T16:09:24.630068+00:00",
+    "last_checked": "2026-10-16T15:56:49.322783+00:00",
     "latest_version": "v0.2.10",
     "last_synced": "2026-10-10T16:51:12.377084+00:00"
   },
@@ -1114,7 +1114,7 @@
   },
   "droidtop": {
     "status": "no-update",
-    "last_checked": "2026-10-15T16:09:55.998261+00:00",
+    "last_checked": "2026-10-16T15:56:30.881770+00:00",
     "latest_version": "v1.12.1",
     "last_synced": "2026-10-01T17:53:47.755666+00:00"
   },
@@ -1371,8 +1371,8 @@
     "last_synced": "2026-10-02T17:16:31.458533+00:00"
   },
   "pulse-battery": {
-    "status": "synced",
-    "last_checked": "2026-10-02T17:16:35.627911+00:00",
+    "status": "no-apk",
+    "last_checked": "2026-10-16T15:56:50.093785+00:00",
     "latest_version": "v1.0.0",
     "last_synced": "2026-10-02T17:16:35.627911+00:00"
   },
@@ -3019,5 +3019,47 @@
     "last_checked": "2026-10-16T02:46:08.979497+00:00",
     "latest_version": "apk-38836306520",
     "last_synced": "2026-10-16T02:46:08.979497+00:00"
+  },
+  "shuttersoundzero": {
+    "status": "synced",
+    "last_checked": "2026-10-16T15:56:36.930210+00:00",
+    "latest_version": "v1.5.14",
+    "last_synced": "2026-10-16T15:56:36.930210+00:00"
+  },
+  "phone-mcp": {
+    "status": "synced",
+    "last_checked": "2026-10-16T15:56:43.310043+00:00",
+    "latest_version": "v1.2.0",
+    "last_synced": "2026-10-16T15:56:43.310043+00:00"
+  },
+  "kengen": {
+    "status": "synced",
+    "last_checked": "2026-10-16T15:56:48.107113+00:00",
+    "latest_version": "v14.3.0",
+    "last_synced": "2026-10-16T15:56:48.107113+00:00"
+  },
+  "latch": {
+    "status": "synced",
+    "last_checked": "2026-10-16T15:56:53.794644+00:00",
+    "latest_version": "v0.6.2",
+    "last_synced": "2026-10-16T15:56:53.794644+00:00"
+  },
+  "elderguard": {
+    "status": "synced",
+    "last_checked": "2026-10-16T15:56:58.214471+00:00",
+    "latest_version": "v1.1.0",
+    "last_synced": "2026-10-16T15:56:58.214471+00:00"
+  },
+  "user-hopper": {
+    "status": "synced",
+    "last_checked": "2026-10-16T15:57:02.663152+00:00",
+    "latest_version": "v2.0",
+    "last_synced": "2026-10-16T15:57:02.663152+00:00"
+  },
+  "schedule-u": {
+    "status": "synced",
+    "last_checked": "2026-10-16T15:57:07.766828+00:00",
+    "latest_version": "v2.5",
+    "last_synced": "2026-10-16T15:57:07.766828+00:00"
   }
 }
