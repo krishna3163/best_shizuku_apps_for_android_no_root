@@ -82,6 +82,13 @@ def format_changelog_section(version: str, notes: str) -> str:
 
 
 def main() -> int:
+    if hasattr(sys.stdout, "reconfigure"):
+        try:
+            sys.stdout.reconfigure(encoding="utf-8", errors="replace")
+            sys.stderr.reconfigure(encoding="utf-8", errors="replace")
+        except Exception:
+            pass
+
     parser = argparse.ArgumentParser(description="Fetch and format upstream release notes.")
     parser.add_argument("--repo", required=True, help="Upstream repo (owner/repo)")
     parser.add_argument("--tag", required=True, help="Release tag name")

@@ -91,6 +91,13 @@ def process_readme(content: str) -> str:
 
 
 def main() -> int:
+    if hasattr(sys.stdout, "reconfigure"):
+        try:
+            sys.stdout.reconfigure(encoding="utf-8", errors="replace")
+            sys.stderr.reconfigure(encoding="utf-8", errors="replace")
+        except Exception:
+            pass
+
     parser = argparse.ArgumentParser(description="Alphabetize and format markdown tables in README.")
     parser.add_argument("--file", default=str(README_PATH), help="Target markdown file")
     parser.add_argument("--write", action="store_true", help="Write changes back to file")

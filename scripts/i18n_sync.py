@@ -206,6 +206,12 @@ def translate_text_with_cache(
     if clean in mapping:
         return mapping[clean]
 
+    emoji_prefix_match = re.match(r"^([^\w\s]+\s*)(.+)$", clean)
+    if emoji_prefix_match:
+        sym_prefix, rest_text = emoji_prefix_match.groups()
+        if rest_text in mapping:
+            return f"{sym_prefix}{mapping[rest_text]}"
+
     lang_cache = cache.setdefault(target_lang, {})
     if clean in lang_cache:
         return lang_cache[clean]
@@ -474,6 +480,17 @@ def translate_full_markdown(
     return result_md
 
 
+def translate_content(
+    content: str,
+    target_lang: str,
+    cache: Optional[dict[str, dict[str, str]]] = None,
+) -> str:
+    """Convenience helper to translate markdown content using cached or loaded cache."""
+    if cache is None:
+        cache = load_cache()
+    return translate_full_markdown(content, target_lang, cache)
+
+
 def sync_readme(target_lang: str, cache: dict[str, dict[str, str]]) -> Path:
     """Read English README, translate completely, and write localized file."""
     if not README_EN.exists():
@@ -493,6 +510,13 @@ def sync_readme(target_lang: str, cache: dict[str, dict[str, str]]) -> Path:
 
 
 def main() -> int:
+    if hasattr(sys.stdout, "reconfigure"):
+        try:
+            sys.stdout.reconfigure(encoding="utf-8", errors="replace")
+            sys.stderr.reconfigure(encoding="utf-8", errors="replace")
+        except Exception:
+            pass
+
     parser = argparse.ArgumentParser(description="Full-content multilingual README synchronizer.")
     parser.add_argument("--lang", choices=["zh-CN", "ru", "all"], default="all")
     parser.add_argument("--clear-cache", action="store_true", help="Clear translation cache before run")

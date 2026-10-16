@@ -46,7 +46,7 @@ def load_tracked_repos() -> list[str]:
         try:
             data = json.loads(CONFIG_FILE.read_text(encoding="utf-8"))
             for app in data.get("apps", []):
-                source = app.get("source_repo", "").strip()
+                source = (app.get("repository") or app.get("source_repo") or "").strip()
                 if source and "/" in source:
                     repos.add(source)
         except Exception as exc:
@@ -185,6 +185,13 @@ def generate_markdown_report(report: dict[str, Any]) -> str:
 
 
 def main() -> int:
+    if hasattr(sys.stdout, "reconfigure"):
+        try:
+            sys.stdout.reconfigure(encoding="utf-8", errors="replace")
+            sys.stderr.reconfigure(encoding="utf-8", errors="replace")
+        except Exception:
+            pass
+
     parser = argparse.ArgumentParser(description="Scan tracked repos for archival and abandonment.")
     parser.add_argument("--output-json", help="Path to save output JSON")
     parser.add_argument("--output-md", help="Path to save markdown report")

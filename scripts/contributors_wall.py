@@ -164,6 +164,13 @@ def update_contributors_wall(repo_slug: str, token: Optional[str] = None) -> Pat
 
 
 def main() -> int:
+    if hasattr(sys.stdout, "reconfigure"):
+        try:
+            sys.stdout.reconfigure(encoding="utf-8", errors="replace")
+            sys.stderr.reconfigure(encoding="utf-8", errors="replace")
+        except Exception:
+            pass
+
     parser = argparse.ArgumentParser(description="Generate pure vector contributors wall SVG.")
     parser.add_argument("--repo", default=os.environ.get("GITHUB_REPOSITORY", "krishna3163/best_shizuku_apps_for_android_no_root"))
     parser.add_argument("--token", help="GitHub API Token")

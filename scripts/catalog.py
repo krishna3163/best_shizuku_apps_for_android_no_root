@@ -114,14 +114,21 @@ def search() -> list[dict[str, str]]:
     known = {url.lower().rstrip("/") for url in re.findall(r"https://github\.com/[A-Za-z0-9_.-]+/[A-Za-z0-9_.-]+", content)}
     found = {}
     queries = ("shizuku android app", "shizuku android tool", "android wireless adb app", "android debloat shizuku")
+    token = os.environ.get("GITHUB_TOKEN", "").strip()
+    headers = {"Accept": "application/vnd.github+json", "User-Agent": "shizuku-catalog-discovery/1.0"}
+    if token:
+        headers["Authorization"] = f"Bearer {token}"
     for query in queries:
         params = urlencode({"q": query, "sort": "updated", "order": "desc", "per_page": 20})
-        request = Request(f"https://api.github.com/search/repositories?{params}", headers={"Accept": "application/vnd.github+json", "User-Agent": "shizuku-catalog-discovery/1.0", "Authorization": f"Bearer {os.environ.get('GITHUB_TOKEN', '')}"})
-        with urlopen(request, timeout=20) as response:
-            for item in json.load(response).get("items", []):
-                url = item.get("html_url", "").rstrip("/")
-                if url.lower() not in known and not item.get("fork") and not item.get("archived") and item.get("name"):
-                    found[url.lower()] = {"name": item["name"], "description": item.get("description") or "Shizuku-compatible Android project discovered by the daily scanner.", "url": url}
+        request = Request(f"https://api.github.com/search/repositories?{params}", headers=headers)
+        try:
+            with urlopen(request, timeout=20) as response:
+                for item in json.load(response).get("items", []):
+                    url = item.get("html_url", "").rstrip("/")
+                    if url.lower() not in known and not item.get("fork") and not item.get("archived") and item.get("name"):
+                        found[url.lower()] = {"name": item["name"], "description": item.get("description") or "Shizuku-compatible Android project discovered by the daily scanner.", "url": url}
+        except Exception as exc:
+            print(f"WARN search failed for query '{query}': {exc}", file=sys.stderr)
     return sorted(found.values(), key=lambda item: item["name"].lower())
 
 
@@ -129,6 +136,34 @@ def update(entries: list[dict[str, str]]) -> None:
     content = README.read_text(encoding="utf-8")
     start = content.index(START) + len(START)
     end = content.index(END, start)
+
+    # Preserve already discovered entries so daily scanner doesn't clobber them
+    block = content[start:end]
+    existing_entries: dict[str, dict[str, str]] = {}
+    for line in block.splitlines():
+        match = ROW.match(line)
+        if match and match.group(1).strip() not in {"App", "---", ":---", "_No new projects discovered yet._"}:
+            raw_app = match.group(1).strip()
+            link_match = re.search(r"\((https://github\.com/[^)]+)\)", raw_app)
+            if not link_match:
+                link_match = re.search(r"\((https://github\.com/[^)]+)\)", match.group(4))
+            url = link_match.group(1).rstrip("/") if link_match else ""
+            clean_name = re.sub(r"\[|\]|\*|\([^)]+\)", "", raw_app).strip()
+            if url:
+                existing_entries[url.lower()] = {
+                    "name": clean_name,
+                    "description": match.group(2).strip(),
+                    "license": match.group(3).strip(),
+                    "url": url,
+                }
+
+    for item in entries:
+        url_key = item["url"].lower().rstrip("/")
+        if url_key not in existing_entries:
+            existing_entries[url_key] = item
+
+    all_entries = sorted(existing_entries.values(), key=lambda item: item["name"].lower())
+
     rows = [
         '<details id="discovered-apps">',
         "<summary><h2>🔍 Auto-Discovered Shizuku Apps</h2></summary>",
@@ -136,8 +171,10 @@ def update(entries: list[dict[str, str]]) -> None:
         "| App | Description | License | Links |",
         "|:---|:---|:---|:---|",
     ]
-    if entries:
-        rows.extend(f"| **[{item['name']}]({item['url']})** | {item['description'].replace('|', '\\|')} | See project | [GitHub]({item['url']}) |" for item in entries)
+    if all_entries:
+        for item in all_entries:
+            clean_desc = item["description"].replace("|", "\\|")
+            rows.append(f"| **[{item['name']}]({item['url']})** | {clean_desc} | {item.get('license', 'See project')} | [GitHub]({item['url']}) |")
     else:
         rows.append("| _No new projects discovered yet._ | The daily scanner will add matching projects here. | — | — |")
     rows.append("")

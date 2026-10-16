@@ -119,6 +119,13 @@ def verify_github_repo(repo_slug: str, token: Optional[str] = None) -> dict[str,
 
 
 def main() -> int:
+    if hasattr(sys.stdout, "reconfigure"):
+        try:
+            sys.stdout.reconfigure(encoding="utf-8", errors="replace")
+            sys.stderr.reconfigure(encoding="utf-8", errors="replace")
+        except Exception:
+            pass
+
     parser = argparse.ArgumentParser(description="Verify whether an APK or GitHub repository genuinely integrates Shizuku.")
     group = parser.add_mutually_exclusive_group(required=True)
     group.add_argument("--repo", help="GitHub repo in owner/repo format")

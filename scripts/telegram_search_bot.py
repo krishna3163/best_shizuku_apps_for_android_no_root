@@ -436,6 +436,13 @@ def run_long_polling(token: str) -> None:
 
 
 def main() -> int:
+    if hasattr(sys.stdout, "reconfigure"):
+        try:
+            sys.stdout.reconfigure(encoding="utf-8", errors="replace")
+            sys.stderr.reconfigure(encoding="utf-8", errors="replace")
+        except Exception:
+            pass
+
     parser = argparse.ArgumentParser(description="Telegram App Search Bot for Shizuku.")
     parser.add_argument("--token", default="", help="Telegram bot token")
     parser.add_argument("--query", default="", help="One-shot search query (CLI mode)")

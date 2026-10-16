@@ -9,6 +9,10 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: format-tables-${{ github.ref }}
+  cancel-in-progress: true
+
 jobs:
   format-tables:
     runs-on: ubuntu-latest
@@ -16,7 +20,7 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v4
         with:
-          ref: ${{ github.head_ref }}
+          ref: ${{ github.head_ref || github.ref_name }}
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -30,11 +34,13 @@ jobs:
       - name: Commit formatted tables if changed
         run: |
           git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add README.md
           if git diff --staged --quiet; then
             echo "Tables are already properly alphabetized and formatted."
           else
             git commit -m "style: alphabetize and format markdown tables [skip ci]"
-            git push
+            for i in {1..5}; do
+              git pull --rebase && git push && break || sleep 3
+            done
           fi

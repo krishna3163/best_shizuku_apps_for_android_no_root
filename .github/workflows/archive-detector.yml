@@ -10,6 +10,10 @@ permissions:
   contents: write
   issues: write
 
+concurrency:
+  group: archive-detector
+  cancel-in-progress: false
+
 jobs:
   check-repos:
     runs-on: ubuntu-latest
@@ -23,6 +27,11 @@ jobs:
           python-version: '3.11'
           cache: 'pip'
 
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
       - name: Run Archive Detector
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -32,11 +41,13 @@ jobs:
       - name: Check in generated reports
         run: |
           git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add site/repo_health.json site/repo_health.md || true
           if git diff --staged --quiet; then
             echo "No changes in repository health status."
           else
             git commit -m "chore(health): update upstream repository health report [skip ci]"
-            git push origin main
+            for i in {1..5}; do
+              git pull --rebase origin main && git push origin main && break || sleep 3
+            done
           fi

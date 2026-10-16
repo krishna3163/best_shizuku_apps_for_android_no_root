@@ -245,16 +245,16 @@ A dedicated zero-dependency terminal companion to search 500+ apps, inspect meta
 
 | App | Developer | Version | Released | APK | Upstream |
 |:---|:---|:---|:---|:---|:---|
+| ⚡ **neverhide-empire** | sulimanalhassan123as-code | `v2.12.1` | 2026-10-16 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/neverhide-empire-v2.12.1) | [Upstream](https://github.com/sulimanalhassan123as-code/neverhide-empire/releases) |
+| ⚡ **haiou** | NJS98-UI | `apk-38836306520` | 2026-10-16 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/haiou-apk-38836306520) | [Upstream](https://github.com/NJS98-UI/haiou/releases) |
+| ⚡ **SamsungRootKit** | shangu2003-2 | `v1.0.0` | 2026-10-16 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/samsungrootkit-v1.0.0) | [Upstream](https://github.com/shangu2003-2/SamsungRootKit/releases) |
+| ⚡ **Hermes-CoAgent-Android** | Predator04 | `v76` | 2026-10-16 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/hermes-coagent-android-v76) | [Upstream](https://github.com/Predator04/Hermes-CoAgent-Android/releases) |
+| ⚡ **S25ULTRA-MangaAMTL** | Kirogii | `v1.0.0` | 2026-10-16 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/s25ultra-mangaamtl-v1.0.0) | [Upstream](https://github.com/Kirogii/S25ULTRA-MangaAMTL/releases) |
+| ⚡ **gkme-controller-mouse** | RobertPiers | `controller-mouse-english-debug-2026-10-16` | 2026-10-16 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/gkme-controller-mouse-controller-mouse-english-debug-2026-10-16) | [Upstream](https://github.com/RobertPiers/gkme-controller-mouse/releases) |
+| ⚡ **thai-clock-fix** | justl3as | `v1.0.0` | 2026-10-15 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/thai-clock-fix-v1.0.0) | [Upstream](https://github.com/justl3as/thai-clock-fix/releases) |
 | ⚡ **krfr** | kinsonstudio | `v1.0.7` | 2026-10-15 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/krfr-v1.0.7) | [Upstream](https://github.com/kinsonstudio/krfr/releases) |
 | ⚡ **T2EToolbox** | eqbirvin | `v0.5.0` | 2026-10-15 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/t2etoolbox-v0.5.0) | [Upstream](https://github.com/eqbirvin/T2EToolbox/releases) |
 | ⚡ **punk-app** | felipegatoloko10 | `v2.2` | 2026-10-15 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/punk-app-v2.2) | [Upstream](https://github.com/felipegatoloko10/punk-app/releases) |
-| ⚡ **one-tap-network-reset** | R-Dilipkumar | `v0.1.0` | 2026-10-15 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/one-tap-network-reset-v0.1.0) | [Upstream](https://github.com/R-Dilipkumar/one-tap-network-reset/releases) |
-| ⚡ **kreza6173-pixel** | privshell | `v1.0.1` | 2026-10-15 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/kreza6173-pixel-v1.0.1) | [Upstream](https://github.com/privshell/kreza6173-pixel/releases) |
-| ⚡ **KRS-DOCKER-ANDROID** | kawincodes | `v1.2.0` | 2026-10-15 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/krs-docker-android-v1.2.0) | [Upstream](https://github.com/kawincodes/KRS-DOCKER-ANDROID/releases) |
-| ⚡ **calisthenics-app** | kyirejson | `v1.7.16` | 2026-10-15 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/calisthenics-app-v1.7.16) | [Upstream](https://github.com/kyirejson/calisthenics-app/releases) |
-| ⚡ **VoLTEEnabler** | HeshamNoaman | `v1.0.0` | 2026-10-14 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/volteenabler-v1.0.0) | [Upstream](https://github.com/HeshamNoaman/VoLTEEnabler/releases) |
-| ⚡ **DNSSwitch** | georgechou0517 | `v26.10.2` | 2026-10-14 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/dnsswitch-v26.10.2) | [Upstream](https://github.com/georgechou0517/DNSSwitch/releases) |
-| ⚡ **background-check** | jordanwoodson | `1.1.1-bgcheck.16` | 2026-10-14 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/background-check-1.1.1-bgcheck.16) | [Upstream](https://github.com/jordanwoodson/background-check/releases) |
 
 </details>
 <!-- RECENT-UPDATES-END -->

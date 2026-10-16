@@ -45,7 +45,7 @@ def generate_fdroid_index(
         slug = app.get("slug", "")
         name = app.get("name", slug)
         pkg = app.get("package_name") or f"com.shizuku.{slug.replace('-', '.')}"
-        repo = app.get("source_repo", "")
+        repo = app.get("repository") or app.get("source_repo", "")
         desc = app.get("description", f"Shizuku utility: {name}")
         license_str = app.get("license", "Open Source")
 

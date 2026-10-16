@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 Best Shizuku Apps for Android (No Root)
+# 🚀 最优质的安卓免 Root Shizuku 应用合集
 
 > 🌐 **Language / 语言 / Язык:** [ 🇬🇧 English ](README.md) • [ 🇨🇳 简体中文 (当前) ](README.zh-CN.md) • [ 🇷🇺 Русский ](README.ru.md)
 
@@ -34,7 +34,7 @@
 ---
 
 <details id="about">
-<summary><h2>📝 About</h2></summary>
+<summary><h2>📝 关于本项目</h2></summary>
 
 If you are searching for **best Shizuku apps**, **Android apps without root**, **Shizuku root alternative**, **wireless ADB apps**, or **debloat apps for Android**, this repository is built for you.
 
@@ -43,7 +43,7 @@ Shizuku allows normal Android apps to access powerful system APIs through **ADB 
 > [!TIP]
 > This project is not just a list — it is a growing community resource for Android enthusiasts, power users, privacy fans, developers, and contributors.
 
-### ✨ Why This List?
+### ✨ 为什么整理这个列表？
 
 - 🎯 **Curated Selection** - Useful and relevant Shizuku apps
 - 📱 **No Root Required** - Great for non-rooted Android users
@@ -52,7 +52,7 @@ Shizuku allows normal Android apps to access powerful system APIs through **ADB 
 - 📂 **Well Organized** - Apps grouped by category and use case
 - 🔓 **Open Source Friendly** - FOSS and source-available apps are easy to spot
 
-### 🔥 Popular Search Topics
+### 🔥 热门搜索关键词
 
 - Best Shizuku apps for Android
 - Android root alternative apps
@@ -68,7 +68,7 @@ Shizuku allows normal Android apps to access powerful system APIs through **ADB 
 ---
 
 <details id="-what-is-shizuku">
-<summary><h2>📱 What is Shizuku?</h2></summary>
+<summary><h2>📱 什么是 Shizuku？</h2></summary>
 
 [Shizuku](https://shizuku.rikka.app/) is a framework that allows Android apps to use system APIs with elevated privileges via ADB, without requiring root access.
 
@@ -117,7 +117,7 @@ Shizuku allows normal Android apps to access powerful system APIs through **ADB 
 
 ---
 
-## ⭐ My Top Picks
+## ⭐ 博主精选推荐
 
 ### 🎯 Essential Apps
 1. ** [Mythara](https://github.com/ankurCES/project_mythara) ** - Local-first Android AI agent with on-device tools
@@ -136,7 +136,7 @@ Shizuku allows normal Android apps to access powerful system APIs through **ADB 
 ---
 
 <details id="-table-of-contents">
-<summary><h2>📑 Table of Contents</h2></summary>
+<summary><h2>📑 目录导航</h2></summary>
 
 - [Recently Updated Apps](#recent-updates)
 - [APK Downloads](#apk-downloads)
@@ -202,60 +202,38 @@ Shizuku allows normal Android apps to access powerful system APIs through **ADB 
 
 | 应用名称 | 功能介绍与 Shizuku 用例 | 开源许可 | 相关链接 |
 |:---|:---|:---|:---|
-| **[haiou](https://github.com/NJS98-UI/haiou)** | 与 Shizuku 兼容的 Android 工具。 | MIT | [GitHub 源码](https://github.com/NJS98-UI/haiou) • [下载发布](https://github.com/NJS98-UI/haiou/releases) |
-| **[Hermes-CoAgent-Android](https://github.com/Predator04/Hermes-CoAgent-Android)** | 原生Android远程控制应用程序— Hermes CoAgent的手机伴侣。通过HTTP驱动Android设备（点击/滑动/键入/导航/启动+ UI树视觉）。 | MIT | [GitHub 源码](https://github.com/Predator04/Hermes-CoAgent-Android) • [下载发布](https://github.com/Predator04/Hermes-CoAgent-Android/releases) |
-| **[airplane-scheduler-app](https://github.com/probecat/airplane-scheduler-app)** | 可按计划开启和关闭飞行模式的应用 | GPL-3.0 | [GitHub 源码](https://github.com/probecat/airplane-scheduler-app) • [下载发布](https://github.com/probecat/airplane-scheduler-app/releases) |
-| **[SamsungRootKit](https://github.com/shangu2003-2/SamsungRootKit)** | 适用于三星Galaxy的离线Android根工具包。首先是DF链（ DirtyFrag ） ，自动回退到SRK链（ CVE-2026-43499 ） ，然后是DFReroot持久性。KernelSU和KernelSU-Next。仅用于安全研究。 | See project | [GitHub 源码](https://github.com/shangu2003-2/SamsungRootKit) • [下载发布](https://github.com/shangu2003-2/SamsungRootKit/releases) |
-| **[lava_connect](https://github.com/lava-crafter/lava_connect)** | 与 Shizuku 兼容的 Android 工具。 | GPL-3.0 | [GitHub 源码](https://github.com/lava-crafter/lava_connect) • [下载发布](https://github.com/lava-crafter/lava_connect/releases) |
-| **[neverhide-empire](https://github.com/sulimanalhassan123as-code/neverhide-empire)** | Neverhide Empire — 4合1 Android电源套件（屏幕截图、3D启动器、实时壁纸、APK更新程序） + Adrenaline Lock Guardian | See project | [GitHub 源码](https://github.com/sulimanalhassan123as-code/neverhide-empire) • [下载发布](https://github.com/sulimanalhassan123as-code/neverhide-empire/releases) |
-| **[thai-clock-fix](https://github.com/justl3as/thai-clock-fix)** | 通过Shizuku配置泰国SystemUI时钟区域的Android实用程序 | See project | [GitHub 源码](https://github.com/justl3as/thai-clock-fix) • [下载发布](https://github.com/justl3as/thai-clock-fix/releases) |
-| **[JEXFYZ-App](https://github.com/TenzoNkz/JEXFYZ-App)** | 与 Shizuku 兼容的 Android 工具。 | See project | [GitHub 源码](https://github.com/TenzoNkz/JEXFYZ-App) • [下载发布](https://github.com/TenzoNkz/JEXFYZ-App/releases) |
-| **[S25ULTRA-MangaAMTL](https://github.com/Kirogii/S25ULTRA-MangaAMTL)** | 适用于三星Galaxy S25 Ultra的漫画和实时屏幕翻译，支持Google Lens、三星Interpreter、Shizuku和高通NPU | See project | [GitHub 源码](https://github.com/Kirogii/S25ULTRA-MangaAMTL) • [下载发布](https://github.com/Kirogii/S25ULTRA-MangaAMTL/releases) |
-| **[gkme-controller-mouse](https://github.com/RobertPiers/gkme-controller-mouse)** | GKME本地控制器、鼠标、陀螺仪和Shizuku输入模式 | See project | [GitHub 源码](https://github.com/RobertPiers/gkme-controller-mouse) • [下载发布](https://github.com/RobertPiers/gkme-controller-mouse/releases) |
-| **[T2EToolbox](https://github.com/eqbirvin/T2EToolbox)** | Unihertz Titan 2 Elite的实用程序工具箱（显示修复、统一下拉、音量模式切换器和手电筒指示灯） | See project | [GitHub 源码](https://github.com/eqbirvin/T2EToolbox) • [下载发布](https://github.com/eqbirvin/T2EToolbox/releases) |
-| **[phonepilot](https://github.com/ehoeve786/phonepilot)** | 与 Shizuku 兼容的 Android 工具。 | Apache-2.0 | [GitHub 源码](https://github.com/ehoeve786/phonepilot) • [下载发布](https://github.com/ehoeve786/phonepilot/releases) |
-| **[Service-Keeper](https://github.com/sklndev/Service-Keeper)** | Android 应用程序可监控并自动重新启动被系统杀死的后台服务、辅助服务和通知侦听器，使用 Shizuku 进行特权访问。 | GPL-3.0 | [GitHub 源码](https://github.com/sklndev/Service-Keeper) • [下载发布](https://github.com/sklndev/Service-Keeper/releases) |
-| **[gososmed-mobile-agent](https://github.com/dedy45/gososmed-mobile-agent)** | 代理GoSosmed BYOD移动代理： APK Android （ AccessibilityService ）连接出站ke GoSosmed agenthub untuk kontrol HP real tanpa adb/PC | Apache-2.0 | [GitHub 源码](https://github.com/dedy45/gososmed-mobile-agent) • [下载发布](https://github.com/dedy45/gososmed-mobile-agent/releases) |
-| **[one-tap-network-reset](https://github.com/R-Dilipkumar/one-tap-network-reset)** | 只需轻触一下，即可在没有飞行模式的情况下重置您的Android移动网络，并为每个SIM卡发送5G状态通知。Kotlin, Shizuku/root. | MIT | [GitHub 源码](https://github.com/R-Dilipkumar/one-tap-network-reset) • [下载发布](https://github.com/R-Dilipkumar/one-tap-network-reset/releases) |
-| **[EnforceDoze](https://github.com/Akylas/EnforceDoze)** | 屏幕关闭后立即启用打瞌睡模式并关闭运动感应以获得最佳电池寿命 | GPL-3.0 | [GitHub 源码](https://github.com/Akylas/EnforceDoze) • [下载发布](https://github.com/Akylas/EnforceDoze/releases) |
-| **[Shizuku](https://github.com/thedjchi/Shizuku)** | 通过以 app_process 启动的 Java 进程，直接使用普通应用程序中具有 adb/root 权限的系统 API。 | Apache-2.0 | [GitHub 源码](https://github.com/thedjchi/Shizuku) • [下载发布](https://github.com/thedjchi/Shizuku/releases) |
-| **[droidtop](https://github.com/Droidtop/droidtop)** | 将Android手持设备转换为共享桌面— Windows通过Wine/Box64 ， Linux通过容器，一个合并的合成器， dom0风格的架构 | GPL-3.0 | [GitHub 源码](https://github.com/Droidtop/droidtop) • [下载发布](https://github.com/Droidtop/droidtop/releases) |
-| **[AutoJs6-Plugin-Offline-Docs](https://github.com/SuperMonster003/AutoJs6-Plugin-Offline-Docs)** | AutoJs6的离线文档插件 | MPL-2.0 | [GitHub 源码](https://github.com/SuperMonster003/AutoJs6-Plugin-Offline-Docs) • [下载发布](https://github.com/SuperMonster003/AutoJs6-Plugin-Offline-Docs/releases) |
-| **[punk-app](https://github.com/felipegatoloko10/punk-app)** | PUNK Companion - Automação Total、Visão Remota e Telemetria para Android （通过Hermes Agent和Shizuku ） | See project | [GitHub 源码](https://github.com/felipegatoloko10/punk-app) • [下载发布](https://github.com/felipegatoloko10/punk-app/releases) |
-| **[komi-store](https://github.com/komi-store/komi-store)** | 🩵 一个免费的开源应用程序商店，供开发人员在 GitHub、Codeberg 和 Forgejo 上发布 - 一键浏览、发现和安装应用程序。以前是 GitHub 商店。 | Apache-2.0 | [GitHub 源码](https://github.com/komi-store/komi-store) • [下载发布](https://github.com/komi-store/komi-store/releases) |
-| **[TurtleLauncher](https://github.com/Endiq-jar/TurtleLauncher)** | 基于木板路的Minecraft发射器 | GPL-3.0 | [GitHub 源码](https://github.com/Endiq-jar/TurtleLauncher) • [下载发布](https://github.com/Endiq-jar/TurtleLauncher/releases) |
-| **[deepseek-harness-android](https://github.com/guzhou079-arch/deepseek-harness-android)** | 把 DeepSeek Harness 备份成能直接安装的安卓 APK：不用 Termux、不用 root、不用配环境，21 款技能随包；它还可以手机上自己编译、备份、签名、发布。DeepSeek Harness 的 Android APK — 无需 Termux、无需 root、无需 PC；它在手机上自行构建、签名和发布。 | MIT | [GitHub 源码](https://github.com/guzhou079-arch/deepseek-harness-android) • [下载发布](https://github.com/guzhou079-arch/deepseek-harness-android/releases) |
-| **[krfr](https://github.com/kinsonstudio/krfr)** | 与 Shizuku 兼容的 Android 工具。 | Apache-2.0 | [GitHub 源码](https://github.com/kinsonstudio/krfr) • [下载发布](https://github.com/kinsonstudio/krfr/releases) |
-| **[Shizako](https://github.com/cr1437/Shizako)** | 猫耳看板娘的系统权限助手：不 Root 也能用特权 API，兼容 Shizuku-API 生态（官方 SDK 应用零改动直连）\| A catgirl-mascot privileged-API assistant for Android. Shizuku-API compatible — apps built on the official SDK connect unchanged. Apache-2.0 | Apache-2.0 | [GitHub](https://github.com/cr1437/Shizako) • [Releases](https://github.com/cr1437/Shizako/releases) |
-| **[AppLock](https://github.com/aload0/AppLock)** | 强大的隐私工具，可锁定应用程序免受入侵者的侵害 | MIT | [GitHub 源码](https://github.com/aload0/AppLock) • [下载发布](https://github.com/aload0/AppLock/releases) |
-| **[kreza6173-pixel](https://github.com/privshell/kreza6173-pixel)** | 与 Shizuku 兼容的 Android 工具。 | See project | [GitHub 源码](https://github.com/privshell/kreza6173-pixel) • [下载发布](https://github.com/privshell/kreza6173-pixel/releases) |
-| **[adb-awake](https://github.com/Nishikinonakai/adb-awake)** | Android 无线 ADB 屏幕唤醒应用程序，带有快速设置图块和 macOS 帮助程序 | See project | [GitHub 源码](https://github.com/Nishikinonakai/adb-awake) |
-| **[adb-toggle](https://github.com/ganondorofu/adb-toggle)** | 从“快速设置”磁贴、小部件或应用程序（无需 root）切换 USB 调试、无线调试和开发人员选项 | See project | [GitHub 源码](https://github.com/ganondorofu/adb-toggle) |
-| **[Android-Dex](https://github.com/Shrey113/Android-Dex)** | Universal Samsung DeX alternative for all Android devices. Run Android apps on Windows, Linux & macOS with resizable windows, advanced FPS gaming controls, and high-performance wireless ADB mirroring. | See project | [GitHub 源码](https://github.com/Shrey113/Android-Dex) |
-| **[android-tv-speed-compiler](https://github.com/k45sle/android-tv-speed-compiler)** | 自托管 Android TV 应用程序编译自动化，具有无线 ADB、空闲感知队列和友好的仪表板。 | See project | [GitHub 源码](https://github.com/k45sle/android-tv-speed-compiler) |
-| **[anytool](https://github.com/838288383838383/anytool)** | 由 Shizuku/Dhizuku 提供支持的 Android 多功能工具 — debloat、调整、调试、Linux 沙箱终端等 | See project | [GitHub 源码](https://github.com/838288383838383/anytool) |
-| **[awesome-android-app-repositories](https://github.com/bensonsquiggly4244/awesome-android-app-repositories)** | 探索来自 Telegram 的精选开源 Android 应用程序、工具和存储库，并为开发人员和高级用户持续更新。 | See project | [GitHub 源码](https://github.com/bensonsquiggly4244/awesome-android-app-repositories) |
-| **[Canta](https://github.com/Sidhsksjsjsh/Canta)** | 无需 root 即可卸载任何 Android 应用程序（借助 Shizuku 的功能）。根据您的意愿对您的设备进行消胀，无需 PC。 | See project | [GitHub 源码](https://github.com/Sidhsksjsjsh/Canta) |
-| **[Canta-debloater](https://github.com/johakovi/Canta-debloater)** | 准备使用选定的列表来消除 Samsung OneUI 8.5 的膨胀。也适用于其他 Android 系统。 | See project | [GitHub 源码](https://github.com/johakovi/Canta-debloater) |
-| **[droidpanel](https://github.com/jubairmoaj/droidpanel)** | 适用于Android应用程序开发人员的轻量级、零依赖性Web仪表板：屏幕镜像、屏幕截图到剪贴板、logcat、无线ADB、应用程序管理器、Flutter/Gradle构建和运行。 | See project | [GitHub 源码](https://github.com/jubairmoaj/droidpanel) |
-| **[droynis](https://github.com/capitan0n/droynis)** | 离线Android安全审计工具。跨多个权限级别（base、ADB、Shizuku、root）的 54 项只读检查、0-100 分数和保存的报告。注重隐私，无需互联网许可，零遥测，完全本地化。 | See project | [GitHub 源码](https://github.com/capitan0n/droynis) |
-| **[dsh-mobile-android](https://github.com/eyru/dsh-mobile-android)** | DeepSeek线束的Android 客户端 —— v2.0 重大更新：从「必须插数据线」升级为「任意网络直连」。 Tailscale 私有隧道 + 本地反向代理（重写主机/原点） ，手机在 5G/公司WiFi下打开应用即可用， DSH 侧零改动。保留 USB + adb 反向隧道作为备选。 | See project | [GitHub 源码](https://github.com/eyru/dsh-mobile-android) |
-| **[flutter-wireless-adb](https://github.com/mallapurbharat/flutter-wireless-adb)** | 通过无线调试 (Android 11+) 将 VS Code 连接到 Android 手机，无需 USB 即可运行/调试 Flutter 应用程序。 QR 或配对码流程，无需 Android Studio。 | See project | [GitHub 源码](https://github.com/mallapurbharat/flutter-wireless-adb) |
-| **[GKD-XA](https://github.com/84593320z/GKD-XA)** | GKD-X融合版：界面全面整车MIUIX的GKD-X与GKD-Plus的AI规则生成App开屏与弹窗广告（Android / Kotlin Compose） | See project | [GitHub 源码](https://github.com/84593320z/GKD-XA) |
-| **[jettwado6-sketch.github.io](https://github.com/jettwado6-sketch/jettwado6-sketch.github.io)** | 使用这个自动更新的精选目录来发现、验证和跟踪由 Shizuku 提供支持的 Android 应用程序。 | See project | [GitHub 源码](https://github.com/jettwado6-sketch/jettwado6-sketch.github.io) |
-| **[originos-toolkit](https://github.com/cameleonnbss/originos-toolkit)** | 适用于 Vivo/iQOO OriginOS 的无根调整工具包：每个应用程序刷新率、39 项可逆调整、去膨胀和精心策划的无根索引。 Android 应用程序 + CLI。 | See project | [GitHub 源码](https://github.com/cameleonnbss/originos-toolkit) |
-| **[phone-mic](https://github.com/sharjeelmazhar/phone-mic)** | 使用 Android 手机作为任何 Linux PC (PipeWire) 的无线麦克风。手机应用程序一次性配对，无需电缆或 USB 调试，重启后自行重新连接。 GNOME 快速设置图块。 | See project | [GitHub 源码](https://github.com/sharjeelmazhar/phone-mic) |
-| **[plugin-shizuku-auth](https://github.com/android-tool-suite/plugin-shizuku-auth)** | Android工具套件Shizuku授权和可信提供商插件 | See project | [GitHub 源码](https://github.com/android-tool-suite/plugin-shizuku-auth) |
-| **[scrollsnap](https://github.com/li-junlei/scrollsnap)** | 由Shizuku提供支持的Android滚动屏幕截图应用程序，具有自动滚动、OpenCV拼接和浮动控制功能。 | See project | [GitHub 源码](https://github.com/li-junlei/scrollsnap) |
-| **[ShizuBox](https://github.com/jackderganove-sudo/ShizuBox)** | All-in-One-Toolbox für Android über Shizuku （ ohne Root ） ： Schulmodus、定制、应用程序管理器、通用安装程序、游戏模式、Logcat | See project | [GitHub 源码](https://github.com/jackderganove-sudo/ShizuBox) |
-| **[shizuku-android17-patch-notes](https://github.com/pengyuw96/shizuku-android17-patch-notes)** | Android 17 Shizuku 补丁：当 ADB_EN​​ABLED 读取为假 0 时恢复应用内无线调试启动 | See project | [GitHub 源码](https://github.com/pengyuw96/shizuku-android17-patch-notes) |
-| **[ShizuStore](https://github.com/timschneeb/ShizuStore)** | Shizuku应用程序的应用程序商店。根据我的awesome-shizuku列表，直接从上游源安装APK | See project | [GitHub 源码](https://github.com/timschneeb/ShizuStore) |
-| **[sways-deep-builder](https://github.com/Sway4all/sways-deep-builder)** | 多应用Android工具包— Shizuku驱动，无需root | See project | [GitHub 源码](https://github.com/Sway4all/sways-deep-builder) |
-| **[system-app-remover-sui](https://github.com/hiradomidvar-beep/system-app-remover-sui)** | 由 Shizuku 和 Root 提供支持的通用 Android 系统应用程序禁用程序 — 在禁用关键系统应用程序之前，通过风险级别警告安全地消除任何设备的膨胀。 | See project | [GitHub 源码](https://github.com/hiradomidvar-beep/system-app-remover-sui) |
-| **[VoAny](https://github.com/pccr10001/VoAny)** | 适用于任何支持Shizuku的Android手机的独立VoWiFi应用程序。 | See project | [GitHub 源码](https://github.com/pccr10001/VoAny) |
-| **[wifiadb](https://github.com/Jocala/wifiadb)** | 重启后自动重新启用 Android 无线调试。 AccessibilityService 在启动时点击“快速设置”磁贴，因为底层标志只能由“设置”应用程序写入。旁载实用程序。 | See project | [GitHub 源码](https://github.com/Jocala/wifiadb) |
-| **[wireless-adb-reconnect](https://github.com/da-itda/wireless-adb-reconnect)** | 在macOS和Windows上自动重新连接无线调试（通过Wi-Fi的ADB ） —菜单栏/托盘应用程序，具有QR配对和连接诊断功能。 무선 디버깅 자동 재연결 | See project | [GitHub 源码](https://github.com/da-itda/wireless-adb-reconnect) |
-| **[XCastPhone](https://github.com/swastik-chavan/XCastPhone)** | **使用 ADB 和无线调试从终端进行无线 Android 屏幕投射 - 无需配套应用程序。** | See project | [GitHub 源码](https://github.com/swastik-chavan/XCastPhone) |
+| **[adb-studio](https://github.com/Zaphkiel-Ivanovna/adb-studio)** | 一个漂亮的原生 macOS 应用程序，用于通过 ADB 管理 Android 设备。无线调试、屏幕截图、端口转发等。 | See project | [GitHub 源码](https://github.com/Zaphkiel-Ivanovna/adb-studio) |
+| **[adbdock](https://github.com/tripathiamritansh/adbdock)** | macOS 菜单栏应用程序可通过 adb 保持 Android 无线调试设备连接 | See project | [GitHub 源码](https://github.com/tripathiamritansh/adbdock) |
+| **[adbSwitch](https://github.com/gaoyilun/adbSwitch)** | 通过 Shizuku / root 真实改写系统调试状态的快捷切换工具，支持 USB 调试、无线调试与开发者选项的切换，可从桌面快捷方式或通知磁贴一键操作；关闭调试后会常驻一条通知，点一下即可恢复，支持「实时动态」状态栏胶囊。真正通过 Shizuku/root 修改系统调试状态切换的快捷工具，支持 USB 调试、无线调试、开发者选项切换。 | See project | [GitHub 源码](https://github.com/gaoyilun/adbSwitch) |
+| **[Android-Universal-Debloat](https://github.com/myruldev/Android-Universal-Debloat)** | 🤖 工具 Debloat 通用 untuk 24+ merek HP（三星、Oppo、Vivo、Realme、dll）TANPA ROOT。 Fitur：模式模拟、自动备份和数据库应用程序。 | See project | [GitHub 源码](https://github.com/myruldev/Android-Universal-Debloat) |
+| **[AppOpsNext](https://github.com/1zumiii/AppOpsNext)** | 由Shizuku提供支持的现代Android 15 + AppOps管理器。 | See project | [GitHub 源码](https://github.com/1zumiii/AppOpsNext) |
+| **[audio-focus-mixer](https://github.com/milkei/audio-focus-mixer)** | 一款由 Shizuku 支持的轻量级 Android 应用程序，用于每个应用程序的音频焦点控制。 | See project | [GitHub 源码](https://github.com/milkei/audio-focus-mixer) |
+| **[autonet](https://github.com/yison09/autonet)** | 由 Shizuku 规则驱动的 Android WiFi/移动数据自动切换工具 | See project | [GitHub 源码](https://github.com/yison09/autonet) |
+| **[awesome-shizuku](https://github.com/timschneeb/awesome-shizuku)** | 利用 Shizuku 的精彩 Android 应用精选列表 | See project | [GitHub 源码](https://github.com/timschneeb/awesome-shizuku) |
+| **[bubble-notice-android](https://github.com/GraceThings/bubble-notice-android)** | 一款适用于安卓手机的轻量级气泡通知工具，无需“Root/Shizuku”。 | See project | [GitHub 源码](https://github.com/GraceThings/bubble-notice-android) |
+| **[Bulwark](https://github.com/SaiStyles/Bulwark)** | 从库存的Android手机中剥离臃肿软件、跟踪器和权限-没有根目录，没有解锁的引导加载程序。Shizuku驱动，无网络权限。 | See project | [GitHub 源码](https://github.com/SaiStyles/Bulwark) |
+| **[cana](https://github.com/jordanwoodson/cana)** | 多做一点。因为你可以。通过 Shizuku 无需 root 即可在个人、工作和其他配置文件中消除 Android 的膨胀。 | See project | [GitHub 源码](https://github.com/jordanwoodson/cana) |
+| **[debloat](https://github.com/turkdevprodoctions/debloat)** | Android 系统应用程序管理器由 Shizuku 提供支持。开源、无广告、 | See project | [GitHub 源码](https://github.com/turkdevprodoctions/debloat) |
+| **[Debloat-HyperOS-App](https://github.com/AnasAbdullh/Debloat-HyperOS-App)** | Open-source Android app to safely debloat Xiaomi & HyperOS devices using Shizuku. No root required. | See project | [GitHub 源码](https://github.com/AnasAbdullh/Debloat-HyperOS-App) |
+| **[EssentialKeyTools](https://github.com/KoukeNeko/EssentialKeyTools)** | Remap the Nothing Phone Essential Key to your own actions — no root required. | See project | [GitHub 源码](https://github.com/KoukeNeko/EssentialKeyTools) |
+| **[Fern](https://github.com/wized2/Fern)** | 离线材料 您可以通过 Shizuku/root 监控 Android 系统 — CPU、RAM、电池、热量、每个应用程序的统计信息。没有广告，没有跟踪。 | See project | [GitHub 源码](https://github.com/wized2/Fern) |
+| **[galaxy-nr-tools](https://github.com/hyh9335/galaxy-nr-tools)** | 非官方 Galaxy S23+ US NR ServiceMode 工具包：离线 OCR、Shizuku、六个受保护的工作流程、英文/中文 UI、开源 Android 应用程序 | See project | [GitHub 源码](https://github.com/hyh9335/galaxy-nr-tools) |
+| **[GBOS-PixelTablet](https://github.com/jesuscastilla/GBOS-PixelTablet)** | GoogleBookOS（Aluminium OS / Android 17）桌面 UI、Magic Pointer、Continue 和应用程序移植到 Google Pixel 平板电脑（ADB 和 Shizuku） | See project | [GitHub 源码](https://github.com/jesuscastilla/GBOS-PixelTablet) |
+| **[Gimi](https://github.com/pony-huang/Gimi)** | Android AI助手，支持多模型对话、工具调用和个性化扩展。适用于Android的AI助手，具有多模型聊天、工具调用和可定制扩展功能。 | See project | [GitHub 源码](https://github.com/pony-huang/Gimi) |
+| **[haval-app-tool-multimidia](https://github.com/bobaoapae/haval-app-tool-multimidia)** | Ferramenta Android experimental para estender e aprimorar o sistema multimídia do Haval H6 GT (GWM) via engenharia reversa e Shizuku | See project | [GitHub 源码](https://github.com/bobaoapae/haval-app-tool-multimidia) |
+| **[hidethatpeoples](https://github.com/neflalabs/hidethatpeoples)** | Android app to clear Direct Share contact shortcuts and prevent app crashes via Local Wireless ADB or Root | See project | [GitHub 源码](https://github.com/neflalabs/hidethatpeoples) |
+| **[KeepADB](https://github.com/m00sfett/KeepADB)** | KeepADB — keep Android Wireless Debugging active via app, widget, and Quick Settings tile | See project | [GitHub 源码](https://github.com/m00sfett/KeepADB) |
+| **[MoonCast](https://github.com/meta-tabchen/MoonCast)** | 一款用于电话发送和电视接收的 Android 应用程序：AirPlay、DLNA、GameStream、视频帧、主题和可信 LAN APK 传输。实验预览。 | See project | [GitHub 源码](https://github.com/meta-tabchen/MoonCast) |
+| **[MoonClicker](https://github.com/kuomartin/MoonClicker)** | MoonClicker 是一个由 Lua 脚本驱动的 Android 自动化工具。通过 Shizuku，它创建虚拟显示器，其中目标应用程序在后台运行而不接管屏幕，注入触摸和按键事件，并通过设备上模板匹配和 OCR 识别屏幕。脚本是通过 VS Code 编写和调试的。 | See project | [GitHub 源码](https://github.com/kuomartin/MoonClicker) |
+| **[pairspan](https://github.com/ferhatozcelik/pairspan)** | 计算机和 Android 手机之间的开源无线 ADB 桥接器。 macOS 和 Windows 托盘应用程序、Android 客户端和 Web 服务 | See project | [GitHub 源码](https://github.com/ferhatozcelik/pairspan) |
+| **[pktradingview3-ops.github.io](https://github.com/pktradingview3-ops/pktradingview3-ops.github.io)** | ROBINHOOD55 工具组合 — 开源 Android、Linux 和 Web 工具的实时 GitHub Pages 目录。无线 ADB、Wi-Fi 文件传输、离线优先应用程序。命令调色板、深色/浅色主题、实时 GitHub API。 | See project | [GitHub 源码](https://github.com/pktradingview3-ops/pktradingview3-ops.github.io) |
+| **[rikkahub-agent-pure](https://github.com/wuyhong715/rikkahub-agent-pure)** | RikkaHub Agent · Pure — 一款能够长期运行的 Android AI 代理。 rikkahub 设备上代理的独立强化过程：使用分类帐和预算、按需工具、专家子代理、冷内存、链式工作流程。 Kotlin/Compose、Shizuku/Termux/MCP。 QQ群1030362371。 | See project | [GitHub 源码](https://github.com/wuyhong715/rikkahub-agent-pure) |
+| **[sentinel52](https://github.com/knowlily/sentinel52)** | 自维护包名名单命中即静默卸载 —— Root/Dhizuku/Stellar 三个特权后端 | See project | [GitHub 源码](https://github.com/knowlily/sentinel52) |
+| **[Uraam](https://github.com/Ruraam/Uraam)** | Universal Ruvomain ADB App Manager [URAAM]: An all-in-one shell toolkit for Android debloating. Uninstall/disable your apps, backup your debloat apps JSON file & revert/restore, install apk. Works with "Termux `WirelessADB, Shizuku, Root', Linux ` Debian, Arch, Fedora, macOS & WSL '. Compatible with Canta/UAD JSON lists. | See project | [GitHub 源码](https://github.com/Ruraam/Uraam) |
+| **[Verdroid](https://github.com/chr243/Verdroid)** | 适用于 Android 的设备上 AI 代理，针对免费 OpenRouter/Kilo 模型进行了调整，具有自动模型/密钥回退和速率限制恢复功能。工具：通过 HTTP 进行网络搜索/获取、Termux 中的 bash/Python（可选无头 Chromium + Selenium）、Shizuku/rish shell、辅助功能、电子书翻译、Documents/Verdroid、Git、加密市场数据。没有后端。 | See project | [GitHub 源码](https://github.com/chr243/Verdroid) |
+| **[verified-android-apps](https://github.com/2113apps/verified-android-apps)** | 开源 Android 应用程序，其 APK 经过签名检查并扫描跟踪器。从 2113 应用程序自动更新。 | See project | [GitHub 源码](https://github.com/2113apps/verified-android-apps) |
+| **[wADB](https://github.com/c5inco/wADB)** | 一款小型 macOS 菜单栏应用程序，可让配对的 Android 手机保持可用于无线调试的状态。 | See project | [GitHub 源码](https://github.com/c5inco/wADB) |
+| **[wifi-adb](https://github.com/XRSec/wifi-adb)** | 独立的 WiFi ADB Android 应用程序 (minSdk 19)，支持无线调试、WiFi 状态监控、双语 UI 和辅助功能自动授权。非商业开源。 | See project | [GitHub 源码](https://github.com/XRSec/wifi-adb) |
 
 </details>
 
@@ -270,16 +248,16 @@ Shizuku allows normal Android apps to access powerful system APIs through **ADB 
 
 | App | Developer | Version | Released | APK | Upstream |
 |:---|:---|:---|:---|:---|:---|
+| ⚡ **neverhide-empire** | sulimanalhassan123as 代码 | `v2.12.1` | 2026-10-16 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/neverhide-empire-v2.12.1) | [Upstream](https://github.com/sulimanalhassan123as-code/neverhide-empire/releases) |
+| ⚡ **haiou** | NJS98-UI | `apk-38836306520` | 2026-10-16 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/haiou-apk-38836306520) | [Upstream](https://github.com/NJS98-UI/haiou/releases) |
+| ⚡ **SamsungRootKit** | 山古2003-2 | `v1.0.0` | 2026-10-16 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/samsungrootkit-v1.0.0) | [Upstream](https://github.com/shangu2003-2/SamsungRootKit/releases) |
+| ⚡ **Hermes-CoAgent-Android** | 掠夺者04 | `v76` | 2026-10-16 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/hermes-coagent-android-v76) | [Upstream](https://github.com/Predator04/Hermes-CoAgent-Android/releases) |
+| ⚡ **S25ULTRA-MangaAMTL** | 基罗吉 | `v1.0.0` | 2026-10-16 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/s25ultra-mangaamtl-v1.0.0) | [Upstream](https://github.com/Kirogii/S25ULTRA-MangaAMTL/releases) |
+| ⚡ **gkme-controller-mouse** | 罗伯特·皮尔斯 | `controller-mouse-english-debug-2026-10-16` | 2026-10-16 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/gkme-controller-mouse-controller-mouse-english-debug-2026-10-16) | [Upstream](https://github.com/RobertPiers/gkme-controller-mouse/releases) |
+| ⚡ **thai-clock-fix** | 只是l3as | `v1.0.0` | 2026-10-15 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/thai-clock-fix-v1.0.0) | [Upstream](https://github.com/justl3as/thai-clock-fix/releases) |
 | ⚡ **krfr** | kinsonstudio | `v1.0.7` | 2026-10-15 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/krfr-v1.0.7) | [Upstream](https://github.com/kinsonstudio/krfr/releases) |
 | ⚡ **T2EToolbox** | eqbirvin | `v0.5.0` | 2026-10-15 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/t2etoolbox-v0.5.0) | [Upstream](https://github.com/eqbirvin/T2EToolbox/releases) |
 | ⚡ **punk-app** | felipegatoloko10 | `v2.2` | 2026-10-15 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/punk-app-v2.2) | [Upstream](https://github.com/felipegatoloko10/punk-app/releases) |
-| ⚡ **one-tap-network-reset** | R-Dilipkumar | `v0.1.0` | 2026-10-15 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/one-tap-network-reset-v0.1.0) | [Upstream](https://github.com/R-Dilipkumar/one-tap-network-reset/releases) |
-| ⚡ **kreza6173-pixel** | privshell | `v1.0.1` | 2026-10-15 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/kreza6173-pixel-v1.0.1) | [Upstream](https://github.com/privshell/kreza6173-pixel/releases) |
-| ⚡ **KRS-DOCKER-ANDROID** | kawincodes | `v1.2.0` | 2026-10-15 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/krs-docker-android-v1.2.0) | [Upstream](https://github.com/kawincodes/KRS-DOCKER-ANDROID/releases) |
-| ⚡ **calisthenics-app** | kyirejson | `v1.7.16` | 2026-10-15 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/calisthenics-app-v1.7.16) | [Upstream](https://github.com/kyirejson/calisthenics-app/releases) |
-| ⚡ **VoLTEEnabler** | HeshamNoaman | `v1.0.0` | 2026-10-14 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/volteenabler-v1.0.0) | [Upstream](https://github.com/HeshamNoaman/VoLTEEnabler/releases) |
-| ⚡ **DNSSwitch** | georgechou0517 | `v26.10.2` | 2026-10-14 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/dnsswitch-v26.10.2) | [Upstream](https://github.com/georgechou0517/DNSSwitch/releases) |
-| ⚡ **background-check** | jordanwoodson | `1.1.1-bgcheck.16` | 2026-10-14 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/background-check-1.1.1-bgcheck.16) | [Upstream](https://github.com/jordanwoodson/background-check/releases) |
 
 </details>
 <!-- RECENT-UPDATES-END -->
@@ -1084,7 +1062,7 @@ Curated list of the best free and open-source (FOSS) Android alternatives to pop
 
 ---
 
-## 🔗 Resources
+## 🔗 相关资源
 
 ### Official
 
@@ -1115,7 +1093,7 @@ Curated list of the best free and open-source (FOSS) Android alternatives to pop
 
 ---
 
-## 🌐 Android Power-User Ecosystem
+## 🌐 安卓极客与高级用户生态圈
 
 Explore our curated network of Android power-user tools, no-root alternatives, web companions, and open-source application repositories:
 
@@ -1126,7 +1104,7 @@ Explore our curated network of Android power-user tools, no-root alternatives, w
 
 ---
 
-## 📬 Connect with Maintainer
+## 📬 联系维护者与社交主页
 
 Have questions, suggestions, or want to collaborate? Connect directly:
 
@@ -1136,7 +1114,7 @@ Have questions, suggestions, or want to collaborate? Connect directly:
 
 ---
 
-## 💬 Community Chat & Discussions
+## 💬 社区聊天与互动讨论
 
 Looking to connect with other Android power users, ask setup questions, troubleshoot issues, or share your Android setups? Join our active community:
 
@@ -1153,7 +1131,7 @@ Looking to connect with other Android power users, ask setup questions, troubles
 
 ---
 
-## 🤝 Join the Community
+## 🤝 参与社区贡献
 
 Want to help grow this project into a large community resource? You can:
 
@@ -1186,7 +1164,7 @@ Want to help grow this project into a large community resource? You can:
 
 ---
 
-## 👥 Contributors & Community Wall
+## 👥 贡献者与社区荣誉墙
 
 <div align="center">
 
@@ -1200,7 +1178,7 @@ Want to help grow this project into a large community resource? You can:
 
 ---
 
-## 🔄 Automatic APK Updates
+## 🔄 APK 自动同步与镜像
 
 This repository automatically synchronizes APK releases from upstream GitHub repositories every 6 hours using GitHub Actions. When a new stable release is published by the original developer, the APK is:
 
@@ -1214,7 +1192,7 @@ APK files are **never modified** — the SHA-256 of the mirrored APK always matc
 
 ---
 
-## ⚠️ Disclaimer
+## ⚠️ 免责声明
 
 This repository is an automated mirror/index of APK releases from their respective upstream projects. All applications belong to their original developers. APK files are distributed **without modification** whenever possible.
 
@@ -1280,7 +1258,7 @@ This list is licensed under [CC BY-SA 3.0](https://creativecommons.org/licenses/
 
 <div align="center">
 
-### 💖 Show Your Support
+### 💖 支持与鼓励
 
 If you find this list helpful, please consider:
 - ⭐ Starring this repository

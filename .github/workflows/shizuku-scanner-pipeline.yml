@@ -31,7 +31,7 @@ jobs:
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install requests
+          pip install -r requirements.txt
 
       - name: Run Multi-Source Scanner & APK Release Pipeline
         env:
@@ -43,11 +43,11 @@ jobs:
 
       - name: Format Markdown Tables
         run: |
-          python scripts/format_tables.py
+          python scripts/format_tables.py --write || true
 
       - name: Synchronize Full Multilingual Documentation (ZH / RU)
         run: |
-          python scripts/i18n_sync.py --lang all
+          python scripts/i18n_sync.py --lang all || true
 
       - name: Commit Discovered Apps, Translations & Metadata
         run: |
@@ -58,5 +58,7 @@ jobs:
             echo "No new Shizuku apps or translation changes detected."
           else
             git commit -m "feat(ecosystem): auto-discover Shizuku apps, mirror APKs & sync i18n [skip ci]"
-            git push origin main
+            for i in {1..5}; do
+              git pull --rebase origin main && git push origin main && break || sleep 3
+            done
           fi

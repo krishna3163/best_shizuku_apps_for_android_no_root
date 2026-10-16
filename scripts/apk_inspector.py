@@ -307,6 +307,13 @@ def generate_inspector_markdown(info: dict[str, Any]) -> str:
 
 
 def main() -> int:
+    if hasattr(sys.stdout, "reconfigure"):
+        try:
+            sys.stdout.reconfigure(encoding="utf-8", errors="replace")
+            sys.stderr.reconfigure(encoding="utf-8", errors="replace")
+        except Exception:
+            pass
+
     parser = argparse.ArgumentParser(description="Inspect Android APK for SDK compatibility, native architectures, and privacy.")
     parser.add_argument("apk", help="Path to APK file")
     parser.add_argument("--json", action="store_true", help="Output as JSON")

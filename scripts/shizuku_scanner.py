@@ -384,6 +384,13 @@ def run_scanner_pipeline(
 
 
 def main() -> int:
+    if hasattr(sys.stdout, "reconfigure"):
+        try:
+            sys.stdout.reconfigure(encoding="utf-8", errors="replace")
+            sys.stderr.reconfigure(encoding="utf-8", errors="replace")
+        except Exception:
+            pass
+
     parser = argparse.ArgumentParser(description="Multi-source Shizuku app scanner & release pipeline.")
     parser.add_argument("--auto-add", action="store_true", help="Add discovered apps to config/apps.json and README.md")
     parser.add_argument("--sync-releases", action="store_true", help="Full pipeline: scan, register, and mirror APKs to GitHub Releases")

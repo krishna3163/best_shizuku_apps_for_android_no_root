@@ -108,6 +108,13 @@ def generate_vt_summary(sha256: str, stats: Optional[dict[str, Any]] = None) -> 
 
 
 def main() -> int:
+    if hasattr(sys.stdout, "reconfigure"):
+        try:
+            sys.stdout.reconfigure(encoding="utf-8", errors="replace")
+            sys.stderr.reconfigure(encoding="utf-8", errors="replace")
+        except Exception:
+            pass
+
     parser = argparse.ArgumentParser(description="Check an APK or SHA-256 hash on VirusTotal.")
     group = parser.add_mutually_exclusive_group(required=True)
     group.add_argument("--hash", help="SHA-256 hash to check")

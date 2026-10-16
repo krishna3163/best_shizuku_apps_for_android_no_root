@@ -109,7 +109,7 @@ def add_suggestion_to_catalog(data: dict[str, str], token: Optional[str] = None)
                 config["apps"].append({
                     "slug": app_slug,
                     "name": name,
-                    "source_repo": repo_info["slug"],
+                    "repository": repo_info["slug"],
                     "asset_patterns": [r"(?i).*\.apk$"],
                     "release_strategy": "latest-stable",
                 })
@@ -120,7 +120,8 @@ def add_suggestion_to_catalog(data: dict[str, str], token: Optional[str] = None)
 
     # Insert into README.md
     readme_content = README_PATH.read_text(encoding="utf-8")
-    table_row = f"| **[{name}]({link})** | {desc.replace('|', '\\|')} | `{license_val}` | [GitHub]({link}) |"
+    clean_desc = desc.replace("|", "\\|")
+    table_row = f"| **[{name}]({link})** | {clean_desc} | `{license_val}` | [GitHub]({link}) |"
 
     # Avoid duplicate
     if f"[{name}]" in readme_content:
@@ -151,6 +152,8 @@ def main() -> int:
     body = args.issue_body or ""
     if args.issue_body_file:
         body = Path(args.issue_body_file).read_text(encoding="utf-8")
+    elif not body:
+        body = os.environ.get("ISSUE_BODY", "")
 
     if not body:
         print("Empty issue body.", file=sys.stderr)

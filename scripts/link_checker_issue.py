@@ -166,6 +166,13 @@ def create_or_update_issue(broken_links: list[dict[str, Any]], repo_slug: str, t
 
 
 def main() -> int:
+    if hasattr(sys.stdout, "reconfigure"):
+        try:
+            sys.stdout.reconfigure(encoding="utf-8", errors="replace")
+            sys.stderr.reconfigure(encoding="utf-8", errors="replace")
+        except Exception:
+            pass
+
     parser = argparse.ArgumentParser(description="Check broken links and optionally create GitHub issue.")
     parser.add_argument("--create-issue", action="store_true", help="Create GitHub issue if broken links found")
     parser.add_argument("--repo", default=os.environ.get("GITHUB_REPOSITORY", "krishna3163/best_shizuku_apps_for_android_no_root"))

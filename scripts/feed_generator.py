@@ -25,7 +25,7 @@ def build_obtainium_export(apps_data: list[dict[str, Any]]) -> dict[str, Any]:
     for app in apps_data:
         slug = app.get("slug", "")
         name = app.get("name", slug)
-        repo = app.get("source_repo", "")
+        repo = app.get("repository") or app.get("source_repo", "")
         if not repo:
             continue
         obtainium_apps.append({
@@ -61,7 +61,7 @@ def build_atom_feed(apps_data: list[dict[str, Any]], releases: Optional[list[dic
         title = html.escape(item.get("name") or item.get("title") or "Shizuku App Release")
         slug = item.get("slug", "app")
         version = item.get("version", "latest")
-        repo = item.get("source_repo", "krishna3163/best_shizuku_apps_for_android_no_root")
+        repo = item.get("repository") or item.get("source_repo", "krishna3163/best_shizuku_apps_for_android_no_root")
         item_url = item.get("html_url") or f"https://github.com/{repo}/releases"
         published = item.get("published_at") or now_iso
         description = html.escape(item.get("description") or f"Mirrored update for {title}")
@@ -121,6 +121,13 @@ def generate_feeds(output_dir: Path) -> tuple[Path, Path]:
 
 
 def main() -> int:
+    if hasattr(sys.stdout, "reconfigure"):
+        try:
+            sys.stdout.reconfigure(encoding="utf-8", errors="replace")
+            sys.stderr.reconfigure(encoding="utf-8", errors="replace")
+        except Exception:
+            pass
+
     parser = argparse.ArgumentParser(description="Generate Obtainium export and Atom XML feeds.")
     parser.add_argument("--output-dir", default=str(SITE_DIR), help="Output directory (default: site/)")
     args = parser.parse_args()
