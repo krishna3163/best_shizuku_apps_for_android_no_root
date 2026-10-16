@@ -202,6 +202,16 @@ Shizuku allows normal Android apps to access powerful system APIs through **ADB 
 
 | 应用名称 | 功能介绍与 Shizuku 用例 | 开源许可 | 相关链接 |
 |:---|:---|:---|:---|
+| **[haiou](https://github.com/NJS98-UI/haiou)** | 与 Shizuku 兼容的 Android 工具。 | MIT | [GitHub 源码](https://github.com/NJS98-UI/haiou) • [下载发布](https://github.com/NJS98-UI/haiou/releases) |
+| **[Hermes-CoAgent-Android](https://github.com/Predator04/Hermes-CoAgent-Android)** | 原生Android远程控制应用程序— Hermes CoAgent的手机伴侣。通过HTTP驱动Android设备（点击/滑动/键入/导航/启动+ UI树视觉）。 | MIT | [GitHub 源码](https://github.com/Predator04/Hermes-CoAgent-Android) • [下载发布](https://github.com/Predator04/Hermes-CoAgent-Android/releases) |
+| **[airplane-scheduler-app](https://github.com/probecat/airplane-scheduler-app)** | 可按计划开启和关闭飞行模式的应用 | GPL-3.0 | [GitHub 源码](https://github.com/probecat/airplane-scheduler-app) • [下载发布](https://github.com/probecat/airplane-scheduler-app/releases) |
+| **[SamsungRootKit](https://github.com/shangu2003-2/SamsungRootKit)** | 适用于三星Galaxy的离线Android根工具包。首先是DF链（ DirtyFrag ） ，自动回退到SRK链（ CVE-2026-43499 ） ，然后是DFReroot持久性。KernelSU和KernelSU-Next。仅用于安全研究。 | See project | [GitHub 源码](https://github.com/shangu2003-2/SamsungRootKit) • [下载发布](https://github.com/shangu2003-2/SamsungRootKit/releases) |
+| **[lava_connect](https://github.com/lava-crafter/lava_connect)** | 与 Shizuku 兼容的 Android 工具。 | GPL-3.0 | [GitHub 源码](https://github.com/lava-crafter/lava_connect) • [下载发布](https://github.com/lava-crafter/lava_connect/releases) |
+| **[neverhide-empire](https://github.com/sulimanalhassan123as-code/neverhide-empire)** | Neverhide Empire — 4合1 Android电源套件（屏幕截图、3D启动器、实时壁纸、APK更新程序） + Adrenaline Lock Guardian | See project | [GitHub 源码](https://github.com/sulimanalhassan123as-code/neverhide-empire) • [下载发布](https://github.com/sulimanalhassan123as-code/neverhide-empire/releases) |
+| **[thai-clock-fix](https://github.com/justl3as/thai-clock-fix)** | 通过Shizuku配置泰国SystemUI时钟区域的Android实用程序 | See project | [GitHub 源码](https://github.com/justl3as/thai-clock-fix) • [下载发布](https://github.com/justl3as/thai-clock-fix/releases) |
+| **[JEXFYZ-App](https://github.com/TenzoNkz/JEXFYZ-App)** | 与 Shizuku 兼容的 Android 工具。 | See project | [GitHub 源码](https://github.com/TenzoNkz/JEXFYZ-App) • [下载发布](https://github.com/TenzoNkz/JEXFYZ-App/releases) |
+| **[S25ULTRA-MangaAMTL](https://github.com/Kirogii/S25ULTRA-MangaAMTL)** | 适用于三星Galaxy S25 Ultra的漫画和实时屏幕翻译，支持Google Lens、三星Interpreter、Shizuku和高通NPU | See project | [GitHub 源码](https://github.com/Kirogii/S25ULTRA-MangaAMTL) • [下载发布](https://github.com/Kirogii/S25ULTRA-MangaAMTL/releases) |
+| **[gkme-controller-mouse](https://github.com/RobertPiers/gkme-controller-mouse)** | GKME本地控制器、鼠标、陀螺仪和Shizuku输入模式 | See project | [GitHub 源码](https://github.com/RobertPiers/gkme-controller-mouse) • [下载发布](https://github.com/RobertPiers/gkme-controller-mouse/releases) |
 | **[T2EToolbox](https://github.com/eqbirvin/T2EToolbox)** | Unihertz Titan 2 Elite的实用程序工具箱（显示修复、统一下拉、音量模式切换器和手电筒指示灯） | See project | [GitHub 源码](https://github.com/eqbirvin/T2EToolbox) • [下载发布](https://github.com/eqbirvin/T2EToolbox/releases) |
 | **[phonepilot](https://github.com/ehoeve786/phonepilot)** | 与 Shizuku 兼容的 Android 工具。 | Apache-2.0 | [GitHub 源码](https://github.com/ehoeve786/phonepilot) • [下载发布](https://github.com/ehoeve786/phonepilot/releases) |
 | **[Service-Keeper](https://github.com/sklndev/Service-Keeper)** | Android 应用程序可监控并自动重新启动被系统杀死的后台服务、辅助服务和通知侦听器，使用 Shizuku 进行特权访问。 | GPL-3.0 | [GitHub 源码](https://github.com/sklndev/Service-Keeper) • [下载发布](https://github.com/sklndev/Service-Keeper/releases) |
@@ -260,16 +270,16 @@ Shizuku allows normal Android apps to access powerful system APIs through **ADB 
 
 | App | Developer | Version | Released | APK | Upstream |
 |:---|:---|:---|:---|:---|:---|
+| ⚡ **krfr** | kinsonstudio | `v1.0.7` | 2026-10-15 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/krfr-v1.0.7) | [Upstream](https://github.com/kinsonstudio/krfr/releases) |
+| ⚡ **T2EToolbox** | eqbirvin | `v0.5.0` | 2026-10-15 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/t2etoolbox-v0.5.0) | [Upstream](https://github.com/eqbirvin/T2EToolbox/releases) |
+| ⚡ **punk-app** | felipegatoloko10 | `v2.2` | 2026-10-15 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/punk-app-v2.2) | [Upstream](https://github.com/felipegatoloko10/punk-app/releases) |
+| ⚡ **one-tap-network-reset** | R-Dilipkumar | `v0.1.0` | 2026-10-15 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/one-tap-network-reset-v0.1.0) | [Upstream](https://github.com/R-Dilipkumar/one-tap-network-reset/releases) |
+| ⚡ **kreza6173-pixel** | privshell | `v1.0.1` | 2026-10-15 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/kreza6173-pixel-v1.0.1) | [Upstream](https://github.com/privshell/kreza6173-pixel/releases) |
+| ⚡ **KRS-DOCKER-ANDROID** | kawincodes | `v1.2.0` | 2026-10-15 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/krs-docker-android-v1.2.0) | [Upstream](https://github.com/kawincodes/KRS-DOCKER-ANDROID/releases) |
+| ⚡ **calisthenics-app** | kyirejson | `v1.7.16` | 2026-10-15 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/calisthenics-app-v1.7.16) | [Upstream](https://github.com/kyirejson/calisthenics-app/releases) |
+| ⚡ **VoLTEEnabler** | HeshamNoaman | `v1.0.0` | 2026-10-14 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/volteenabler-v1.0.0) | [Upstream](https://github.com/HeshamNoaman/VoLTEEnabler/releases) |
 | ⚡ **DNSSwitch** | georgechou0517 | `v26.10.2` | 2026-10-14 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/dnsswitch-v26.10.2) | [Upstream](https://github.com/georgechou0517/DNSSwitch/releases) |
 | ⚡ **background-check** | jordanwoodson | `1.1.1-bgcheck.16` | 2026-10-14 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/background-check-1.1.1-bgcheck.16) | [Upstream](https://github.com/jordanwoodson/background-check/releases) |
-| ⚡ **GoogleTVAirPlay** | mkatadev | `v1.3.5` | 2026-10-14 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/googletvairplay-v1.3.5) | [Upstream](https://github.com/mkatadev/GoogleTVAirPlay/releases) |
-| ⚡ **ETAW-Cleaner** | ETQWFD | `v1.5.1` | 2026-10-14 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/etaw-cleaner-v1.5.1) | [Upstream](https://github.com/ETQWFD/ETAW-Cleaner/releases) |
-| ⚡ **BlaqClaw** | geniuscr8 | `universal-latest` | 2026-10-14 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/blaqclaw-universal-latest) | [Upstream](https://github.com/geniuscr8/BlaqClaw/releases) |
-| ⚡ **HoshimiLocalify-en** | 托卡纳达 | `v1.4.1` | 2026-10-13 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/hoshimilocalify-en-v1.4.1) | [Upstream](https://github.com/tokanada/HoshimiLocalify-en/releases) |
-| ⚡ **cccodroid** | greyoak111 | `v0.1.6` | 2026-10-13 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/cccodroid-v0.1.6) | [Upstream](https://github.com/greyoak111/cccodroid/releases) |
-| ⚡ **debloat** | turkdevprodoctions | `1.0.2` | 2026-10-13 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/debloat-1.0.2) | [Upstream](https://github.com/turkdevprodoctions/debloat/releases) |
-| ⚡ **DFRoot** | 暗黑破坏神0w | `v4.3` | 2026-10-13 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/dfroot-v4.3) | [Upstream](https://github.com/diabl0w/DFRoot/releases) |
-| ⚡ **portrait-guard** | Tiger-git2022 | `v1.0.9` | 2026-10-13 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/portrait-guard-v1.0.9) | [Upstream](https://github.com/tiger-git2022/portrait-guard/releases) |
 
 </details>
 <!-- RECENT-UPDATES-END -->
