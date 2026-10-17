@@ -12644,5 +12644,184 @@
     ],
     "mirror_release_tag": "jvcprogame-native-apk-latest",
     "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/jvcprogame-native-apk-latest"
+  },
+  "hok-ace-patch": {
+    "source_repository": "halixm-dev/hok-ace-patch",
+    "source_release_id": 415523000,
+    "source_tag": "android-v1.6.1.3",
+    "source_published_at": "2026-10-17T01:52:11Z",
+    "synced_at": "2026-10-17T02:36:12.386489+00:00",
+    "assets": [
+      {
+        "source_asset_id": 649224054,
+        "filename": "hok-ace-patch.apk",
+        "original_filename": "hok-ace-patch.apk",
+        "sha256": "956ec3a29e259e6f4495793f74032ade6d77a8a34f45af601e6161dfbb38724e",
+        "file_size": 58014611,
+        "architecture": "arm64-v8a"
+      }
+    ],
+    "mirror_release_tag": "hok-ace-patch-android-v1.6.1.3",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/hok-ace-patch-android-v1.6.1.3"
+  },
+  "skyadb": {
+    "source_repository": "sky22333/skyadb",
+    "source_release_id": 415231209,
+    "source_tag": "v1.1.6",
+    "source_published_at": "2026-10-16T17:56:39Z",
+    "synced_at": "2026-10-17T02:36:16.437085+00:00",
+    "assets": [
+      {
+        "source_asset_id": 648132241,
+        "filename": "app-release.apk",
+        "original_filename": "app-release.apk",
+        "sha256": "8f3225b48e15c335b6ce5639a65e667df159bf9e83e252c16c87e25b1837cf68",
+        "file_size": 4119239,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "skyadb-v1.1.6",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/skyadb-v1.1.6"
+  },
+  "cinder-lite": {
+    "source_repository": "hahnfeld/cinder-lite",
+    "source_release_id": 414386032,
+    "source_tag": "v2.1.0-lite",
+    "source_published_at": "2026-10-15T23:57:56Z",
+    "synced_at": "2026-10-17T02:36:20.026361+00:00",
+    "assets": [
+      {
+        "source_asset_id": 645556563,
+        "filename": "cinder-lite-2.1.0.apk",
+        "original_filename": "cinder-lite-2.1.0.apk",
+        "sha256": "d10a88e4b33539cfa6b03681ead9c989bde479e97202a86a1fc0ed77235bf268",
+        "file_size": 4754973,
+        "architecture": "arm64-v8a"
+      }
+    ],
+    "mirror_release_tag": "cinder-lite-v2.1.0-lite",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/cinder-lite-v2.1.0-lite"
+  },
+  "android-optimizer": {
+    "source_repository": "geek4945-creator/android-optimizer",
+    "source_release_id": 415426361,
+    "source_tag": "v1.5.0",
+    "source_published_at": "2026-10-16T22:19:51Z",
+    "synced_at": "2026-10-17T02:36:25.233272+00:00",
+    "assets": [
+      {
+        "source_asset_id": 648792294,
+        "filename": "AndroidOptimizer-rooted-release.apk",
+        "original_filename": "AndroidOptimizer-rooted-release.apk",
+        "sha256": "1bcd668508ffa302aff2dc2ae213f9cfd8c3d3aaad8ff53bd25b0d7d5194058c",
+        "file_size": 1867440,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      },
+      {
+        "source_asset_id": 648792299,
+        "filename": "AndroidOptimizer-standard-release.apk",
+        "original_filename": "AndroidOptimizer-standard-release.apk",
+        "sha256": "8869b7c4e191c85de6aa820f95a3781c50b548305e77c2441357ccf1330a6c83",
+        "file_size": 1867397,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "android-optimizer-v1.5.0",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/android-optimizer-v1.5.0"
+  },
+  "jav": {
+    "source_repository": "k4wai1/jav",
+    "source_release_id": 415474192,
+    "source_tag": "v1.2.2",
+    "source_published_at": "2026-10-17T00:01:12Z",
+    "synced_at": "2026-10-17T02:36:29.858870+00:00",
+    "assets": [
+      {
+        "source_asset_id": 648999825,
+        "filename": "jav-companion.apk",
+        "original_filename": "jav-companion.apk",
+        "sha256": "6117972f6deddb160c0aabf44a918963320815f4a01c8fadea3b07d113b25093",
+        "file_size": 16675434,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "jav-v1.2.2",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/jav-v1.2.2"
+  },
+  "network-scanner": {
+    "source_repository": "usamaiqb/network-scanner",
+    "source_release_id": 415108814,
+    "source_tag": "v1.1.11",
+    "source_published_at": "2026-10-16T15:27:01Z",
+    "synced_at": "2026-10-17T02:36:33.377885+00:00",
+    "assets": [
+      {
+        "source_asset_id": 647743098,
+        "filename": "network-scanner-v1.1.11.apk",
+        "original_filename": "network-scanner-v1.1.11.apk",
+        "sha256": "af0c83ab7a6595a1abb59b513aaa99bbee5d8045aab4fd51d0a3fb3a30f35bb3",
+        "file_size": 3490671,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "network-scanner-v1.1.11",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/network-scanner-v1.1.11"
+  },
+  "nexres": {
+    "source_repository": "iNexunx/NexRes",
+    "source_release_id": 415529651,
+    "source_tag": "v1.0.0",
+    "source_published_at": "2026-10-17T02:08:41Z",
+    "synced_at": "2026-10-17T02:36:37.994233+00:00",
+    "assets": [
+      {
+        "source_asset_id": 649256176,
+        "filename": "app-release.apk",
+        "original_filename": "app-release.apk",
+        "sha256": "1db949e1a021cfac443e037d717fa7d29a594adc1db19cdc1c8872feb4f9ca81",
+        "file_size": 1549520,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "nexres-v1.0.0",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/nexres-v1.0.0"
+  },
+  "kaizen-tool": {
+    "source_repository": "Toanpri/kaizen-tool",
+    "source_release_id": 415529969,
+    "source_tag": "v1.1-m1",
+    "source_published_at": "2026-10-17T02:09:32Z",
+    "synced_at": "2026-10-17T02:36:42.072076+00:00",
+    "assets": [
+      {
+        "source_asset_id": 649258316,
+        "filename": "KaizenTool-v1.1-m1.apk",
+        "original_filename": "KaizenTool-v1.1-m1.apk",
+        "sha256": "8c9313d772947df5bb0403da57350334e9a40f62a81d80fce2333b718758acf1",
+        "file_size": 3836278,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "kaizen-tool-v1.1-m1",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/kaizen-tool-v1.1-m1"
+  },
+  "shizubox": {
+    "source_repository": "jackderganove-sudo/ShizuBox",
+    "source_release_id": 415174474,
+    "source_tag": "v0.7.1",
+    "source_published_at": "2026-10-16T16:44:46Z",
+    "synced_at": "2026-10-17T02:36:49.560093+00:00",
+    "assets": [
+      {
+        "source_asset_id": 647945721,
+        "filename": "ShizuBox-0.7.1.apk",
+        "original_filename": "ShizuBox-0.7.1.apk",
+        "sha256": "73b06aed7f0667e0793647f2c3b762d80e14bff62733bbbc8634af954996340b",
+        "file_size": 62696139,
+        "architecture": "arm64-v8a"
+      }
+    ],
+    "mirror_release_tag": "shizubox-v0.7.1",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/shizubox-v0.7.1"
   }
 }
