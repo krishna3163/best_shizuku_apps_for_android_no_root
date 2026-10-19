@@ -9247,6 +9247,246 @@
         ".*unsigned.*",
         ".*test.*"
       ]
+    },
+    {
+      "name": "origin-tweaks",
+      "slug": "origin-tweaks",
+      "repository": "Teemo4621/origin-tweaks",
+      "enabled": true,
+      "shizuku": true,
+      "release_strategy": "latest-stable",
+      "asset_patterns": [
+        ".*\\.apk$"
+      ],
+      "exclude_patterns": [
+        ".*debug.*",
+        ".*unsigned.*",
+        ".*test.*"
+      ]
+    },
+    {
+      "name": "droidective-android",
+      "slug": "droidective-android",
+      "repository": "Droidective/droidective-android",
+      "enabled": true,
+      "shizuku": true,
+      "release_strategy": "latest-stable",
+      "asset_patterns": [
+        ".*\\.apk$"
+      ],
+      "exclude_patterns": [
+        ".*debug.*",
+        ".*unsigned.*",
+        ".*test.*"
+      ]
+    },
+    {
+      "name": "ai.js-pro",
+      "slug": "ai-js-pro",
+      "repository": "Jdkshen/ai.js-pro",
+      "enabled": true,
+      "shizuku": true,
+      "release_strategy": "latest-stable",
+      "asset_patterns": [
+        ".*\\.apk$"
+      ],
+      "exclude_patterns": [
+        ".*debug.*",
+        ".*unsigned.*",
+        ".*test.*"
+      ]
+    },
+    {
+      "name": "Dashwheel",
+      "slug": "dashwheel",
+      "repository": "deviloufr-ai/Dashwheel",
+      "enabled": true,
+      "shizuku": true,
+      "release_strategy": "latest-stable",
+      "asset_patterns": [
+        ".*\\.apk$"
+      ],
+      "exclude_patterns": [
+        ".*debug.*",
+        ".*unsigned.*",
+        ".*test.*"
+      ]
+    },
+    {
+      "name": "DSHAPP",
+      "slug": "dshapp",
+      "repository": "pht88888888/DSHAPP",
+      "enabled": true,
+      "shizuku": true,
+      "release_strategy": "latest-stable",
+      "asset_patterns": [
+        ".*\\.apk$"
+      ],
+      "exclude_patterns": [
+        ".*debug.*",
+        ".*unsigned.*",
+        ".*test.*"
+      ]
+    },
+    {
+      "name": "ORQEN",
+      "slug": "orqen",
+      "repository": "MohammedTeir/ORQEN",
+      "enabled": true,
+      "shizuku": true,
+      "release_strategy": "latest-stable",
+      "asset_patterns": [
+        ".*\\.apk$"
+      ],
+      "exclude_patterns": [
+        ".*debug.*",
+        ".*unsigned.*",
+        ".*test.*"
+      ]
+    },
+    {
+      "name": "Galaxy-box",
+      "slug": "galaxy-box",
+      "repository": "shadow11190/Galaxy-box",
+      "enabled": true,
+      "shizuku": true,
+      "release_strategy": "latest-stable",
+      "asset_patterns": [
+        ".*\\.apk$"
+      ],
+      "exclude_patterns": [
+        ".*debug.*",
+        ".*unsigned.*",
+        ".*test.*"
+      ]
+    },
+    {
+      "name": "lounge",
+      "slug": "lounge",
+      "repository": "Gingerbreadfork/lounge",
+      "enabled": true,
+      "shizuku": true,
+      "release_strategy": "latest-stable",
+      "asset_patterns": [
+        ".*\\.apk$"
+      ],
+      "exclude_patterns": [
+        ".*debug.*",
+        ".*unsigned.*",
+        ".*test.*"
+      ]
+    },
+    {
+      "name": "HyTune",
+      "slug": "hytune",
+      "repository": "mahin273/HyTune",
+      "enabled": true,
+      "shizuku": true,
+      "release_strategy": "latest-stable",
+      "asset_patterns": [
+        ".*\\.apk$"
+      ],
+      "exclude_patterns": [
+        ".*debug.*",
+        ".*unsigned.*",
+        ".*test.*"
+      ]
+    },
+    {
+      "name": "RbxFPS",
+      "slug": "rbxfps",
+      "repository": "HomuHomu833/RbxFPS",
+      "enabled": true,
+      "shizuku": true,
+      "release_strategy": "latest-stable",
+      "asset_patterns": [
+        ".*\\.apk$"
+      ],
+      "exclude_patterns": [
+        ".*debug.*",
+        ".*unsigned.*",
+        ".*test.*"
+      ]
+    },
+    {
+      "name": "slow-1e8",
+      "slug": "slow-1e8",
+      "repository": "sqyCoder/slow-1e8",
+      "enabled": true,
+      "shizuku": true,
+      "release_strategy": "latest-stable",
+      "asset_patterns": [
+        ".*\\.apk$"
+      ],
+      "exclude_patterns": [
+        ".*debug.*",
+        ".*unsigned.*",
+        ".*test.*"
+      ]
+    },
+    {
+      "name": "wristchat",
+      "slug": "wristchat",
+      "repository": "XHR666/wristchat",
+      "enabled": true,
+      "shizuku": true,
+      "release_strategy": "latest-stable",
+      "asset_patterns": [
+        ".*\\.apk$"
+      ],
+      "exclude_patterns": [
+        ".*debug.*",
+        ".*unsigned.*",
+        ".*test.*"
+      ]
+    },
+    {
+      "name": "Prunoid",
+      "slug": "prunoid",
+      "repository": "deserthouse/Prunoid",
+      "enabled": true,
+      "shizuku": true,
+      "release_strategy": "latest-stable",
+      "asset_patterns": [
+        ".*\\.apk$"
+      ],
+      "exclude_patterns": [
+        ".*debug.*",
+        ".*unsigned.*",
+        ".*test.*"
+      ]
+    },
+    {
+      "name": "InstallWatchdog",
+      "slug": "installwatchdog",
+      "repository": "rutgerbockholts/InstallWatchdog",
+      "enabled": true,
+      "shizuku": true,
+      "release_strategy": "latest-stable",
+      "asset_patterns": [
+        ".*\\.apk$"
+      ],
+      "exclude_patterns": [
+        ".*debug.*",
+        ".*unsigned.*",
+        ".*test.*"
+      ]
+    },
+    {
+      "name": "galaxy-shutter-control",
+      "slug": "galaxy-shutter-control",
+      "repository": "WhiteCAN/galaxy-shutter-control",
+      "enabled": true,
+      "shizuku": true,
+      "release_strategy": "latest-stable",
+      "asset_patterns": [
+        ".*\\.apk$"
+      ],
+      "exclude_patterns": [
+        ".*debug.*",
+        ".*unsigned.*",
+        ".*test.*"
+      ]
     }
   ],
   "defaults": {
