@@ -4261,62 +4261,62 @@
   },
   "haven": {
     "source_repository": "GlassHaven/Haven",
-    "source_release_id": 417727927,
-    "source_tag": "v5.89.47",
-    "source_published_at": "2026-10-19T20:40:43Z",
-    "synced_at": "2026-10-19T22:05:44.250226+00:00",
+    "source_release_id": 420045936,
+    "source_tag": "v5.89.48",
+    "source_published_at": "2026-10-21T20:54:22Z",
+    "synced_at": "2026-10-21T21:04:51.594718+00:00",
     "assets": [
       {
-        "source_asset_id": 657382327,
-        "filename": "haven-5.89.47-arm64-release.apk",
-        "original_filename": "haven-5.89.47-arm64-release.apk",
-        "sha256": "c7da3fc34e82cda1ced17fa12774dd4af87758c2e03861222a976874e039c742",
-        "file_size": 239406417,
+        "source_asset_id": 663763496,
+        "filename": "haven-5.89.48-arm64-release.apk",
+        "original_filename": "haven-5.89.48-arm64-release.apk",
+        "sha256": "96184c8a342781252ec2f3479baf9eb0e1f926779fb5496dd7639f98a076d78e",
+        "file_size": 239454057,
         "architecture": "arm64-v8a"
       },
       {
-        "source_asset_id": 657382325,
-        "filename": "haven-5.89.47-arm64-terminal-release.apk",
-        "original_filename": "haven-5.89.47-arm64-terminal-release.apk",
-        "sha256": "db8a7bf76e413b9e718de55557a445a305a2bd50f36359bd8b3151e1f9683801",
-        "file_size": 69601380,
+        "source_asset_id": 663763485,
+        "filename": "haven-5.89.48-arm64-terminal-release.apk",
+        "original_filename": "haven-5.89.48-arm64-terminal-release.apk",
+        "sha256": "c08f33b8bcc450f50685f2f907f4fe375e34bd8aa6cae74a25aa5ff4560f397f",
+        "file_size": 69647820,
         "architecture": "arm64-v8a"
       },
       {
-        "source_asset_id": 657382326,
-        "filename": "haven-5.89.47-armv7-release.apk",
-        "original_filename": "haven-5.89.47-armv7-release.apk",
-        "sha256": "b139014c17f6f982b32443638798f143942895dc97f59dc59dd8a06bd89dc5d7",
-        "file_size": 190629321,
+        "source_asset_id": 663763491,
+        "filename": "haven-5.89.48-armv7-release.apk",
+        "original_filename": "haven-5.89.48-armv7-release.apk",
+        "sha256": "6a6c8adec323fcd86cb3b7484ef939da79159ba6720bd4eb1ba1b0e1c53d2f4c",
+        "file_size": 190673605,
         "architecture": "armeabi-v7a"
       },
       {
-        "source_asset_id": 657382323,
-        "filename": "haven-5.89.47-armv7-terminal-release.apk",
-        "original_filename": "haven-5.89.47-armv7-terminal-release.apk",
-        "sha256": "f1903273fcf0ffd579a24b067715669e6564d8567dd8fb2fed9c1a0e59bb9efe",
-        "file_size": 66008275,
+        "source_asset_id": 663763492,
+        "filename": "haven-5.89.48-armv7-terminal-release.apk",
+        "original_filename": "haven-5.89.48-armv7-terminal-release.apk",
+        "sha256": "f47e81ca7e44f3c06e88685076fab33986446112f260054f012411125329ba7a",
+        "file_size": 66055247,
         "architecture": "armeabi-v7a"
       },
       {
-        "source_asset_id": 657382332,
-        "filename": "haven-5.89.47-x64-release.apk",
-        "original_filename": "haven-5.89.47-x64-release.apk",
-        "sha256": "433639a1fef0139e6d37f803b5ee48f92dd7121fb566fce3c52b22d941bd4024",
-        "file_size": 201328546,
+        "source_asset_id": 663763486,
+        "filename": "haven-5.89.48-x64-release.apk",
+        "original_filename": "haven-5.89.48-x64-release.apk",
+        "sha256": "c9c5d8400b057d2323fb066cc6e33edc7668374185444392c08523c84757c234",
+        "file_size": 201376110,
         "architecture": "x86_64"
       },
       {
-        "source_asset_id": 657382322,
-        "filename": "haven-5.89.47-x64-terminal-release.apk",
-        "original_filename": "haven-5.89.47-x64-terminal-release.apk",
-        "sha256": "321198229c7eb63f9461ee45bedcf7a8877fd1d54f8022378dd6c0d80a3fb80c",
-        "file_size": 73211496,
+        "source_asset_id": 663763482,
+        "filename": "haven-5.89.48-x64-terminal-release.apk",
+        "original_filename": "haven-5.89.48-x64-terminal-release.apk",
+        "sha256": "4563f89da9da7cf58951075581fc15a2a6d3b963937ac9d9c13a615e896f4037",
+        "file_size": 73257116,
         "architecture": "x86_64"
       }
     ],
-    "mirror_release_tag": "haven-v5.89.47",
-    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/haven-v5.89.47"
+    "mirror_release_tag": "haven-v5.89.48",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/haven-v5.89.48"
   },
   "logsleuth": {
     "source_repository": "shiaho777/LogSleuth",
@@ -6741,30 +6741,30 @@
   },
   "talon": {
     "source_repository": "thefalconry/talon",
-    "source_release_id": 414954467,
-    "source_tag": "v5.39.2",
-    "source_published_at": "2026-10-16T12:45:32Z",
-    "synced_at": "2026-10-16T20:21:33.585319+00:00",
+    "source_release_id": 419862112,
+    "source_tag": "v5.39.4",
+    "source_published_at": "2026-10-21T17:39:54Z",
+    "synced_at": "2026-10-21T21:06:06.355972+00:00",
     "assets": [
       {
-        "source_asset_id": 647341181,
-        "filename": "talon-companion-android-5.39.2.apk",
-        "original_filename": "talon-companion-android-5.39.2.apk",
-        "sha256": "bdeaa637580de43b4c5fc188f389a323d327011c4d2715ab5f4d916444b2bb0f",
-        "file_size": 107448637,
+        "source_asset_id": 663328067,
+        "filename": "talon-companion-android-5.39.4.apk",
+        "original_filename": "talon-companion-android-5.39.4.apk",
+        "sha256": "1d515933d5278d76cb920a0efd8cb55849fd72678d667c00c1e84dc619eafbf2",
+        "file_size": 107866272,
         "architecture": "arm64-v8a, armeabi-v7a, x86_64"
       },
       {
-        "source_asset_id": 647341177,
+        "source_asset_id": 663328066,
         "filename": "talon-companion-android.apk",
         "original_filename": "talon-companion-android.apk",
-        "sha256": "bdeaa637580de43b4c5fc188f389a323d327011c4d2715ab5f4d916444b2bb0f",
-        "file_size": 107448637,
+        "sha256": "1d515933d5278d76cb920a0efd8cb55849fd72678d667c00c1e84dc619eafbf2",
+        "file_size": 107866272,
         "architecture": "arm64-v8a, armeabi-v7a, x86_64"
       }
     ],
-    "mirror_release_tag": "talon-v5.39.2",
-    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/talon-v5.39.2"
+    "mirror_release_tag": "talon-v5.39.4",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/talon-v5.39.4"
   },
   "duo-open": {
     "source_repository": "marcoazeem/duo-open",
@@ -6822,22 +6822,22 @@
   },
   "adofai-key-viewer-mobile": {
     "source_repository": "QuyetGD-15/ADOFAI-Key-Viewer-Mobile",
-    "source_release_id": 396648989,
-    "source_tag": "1.2.0",
-    "source_published_at": "2026-09-25T13:52:05Z",
-    "synced_at": "2026-10-02T03:39:04.758949+00:00",
+    "source_release_id": 419986333,
+    "source_tag": "1.2.1",
+    "source_published_at": "2026-10-21T19:47:23Z",
+    "synced_at": "2026-10-21T21:06:11.393622+00:00",
     "assets": [
       {
-        "source_asset_id": 588461803,
-        "filename": "Key_Viewer_Overlay_v1.2.0.apk",
-        "original_filename": "Key_Viewer_Overlay_v1.2.0.apk",
-        "sha256": "45f7befe1cdc35d12b210588fd53850db11b5a79e307b55772065d99bfa45179",
-        "file_size": 2280042,
+        "source_asset_id": 663605714,
+        "filename": "Key_Viewer_Overlay_v1.2.1.apk",
+        "original_filename": "Key_Viewer_Overlay_v1.2.1.apk",
+        "sha256": "0736ca6b7e416ff8623b217d3fb946a9bf520af69346d32405e926b82b535e46",
+        "file_size": 2295382,
         "architecture": "unknown"
       }
     ],
-    "mirror_release_tag": "adofai-key-viewer-mobile-1.2.0",
-    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/adofai-key-viewer-mobile-1.2.0"
+    "mirror_release_tag": "adofai-key-viewer-mobile-1.2.1",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/adofai-key-viewer-mobile-1.2.1"
   },
   "fern": {
     "source_repository": "wized2/Fern",
@@ -6982,38 +6982,38 @@
   },
   "adb-application-manager": {
     "source_repository": "Bingblop/ADB-Application-Manager",
-    "source_release_id": 416640001,
-    "source_tag": "v7.15.0",
-    "source_published_at": "2026-10-18T19:00:45Z",
-    "synced_at": "2026-10-18T19:55:36.823432+00:00",
+    "source_release_id": 419905467,
+    "source_tag": "v7.16.0",
+    "source_published_at": "2026-10-21T18:24:33Z",
+    "synced_at": "2026-10-21T21:06:26.574931+00:00",
     "assets": [
       {
-        "source_asset_id": 654236806,
-        "filename": "ADB_Application_Manager_Pro-v7.15.0-arm64-v8a.apk",
-        "original_filename": "ADB_Application_Manager_Pro-v7.15.0-arm64-v8a.apk",
-        "sha256": "34161a9967ee61b57d4da77a097aec2115f2af7796a202a51f517f605e8bfb8c",
-        "file_size": 20638655,
+        "source_asset_id": 663407800,
+        "filename": "ADB_Application_Manager_Pro-v7.16.0-arm64-v8a.apk",
+        "original_filename": "ADB_Application_Manager_Pro-v7.16.0-arm64-v8a.apk",
+        "sha256": "ce38cf1a627bc4179baa8c33fcb7b2fcb90e96776269c677849fe7af1184e932",
+        "file_size": 20904956,
         "architecture": "arm64-v8a"
       },
       {
-        "source_asset_id": 654236802,
-        "filename": "ADB_Application_Manager_Pro-v7.15.0-armeabi-v7a.apk",
-        "original_filename": "ADB_Application_Manager_Pro-v7.15.0-armeabi-v7a.apk",
-        "sha256": "d007a4ad65590231ee762cfdf125ce29ee5ec2d727a17a39dad41911fa77401b",
-        "file_size": 21240841,
+        "source_asset_id": 663407795,
+        "filename": "ADB_Application_Manager_Pro-v7.16.0-armeabi-v7a.apk",
+        "original_filename": "ADB_Application_Manager_Pro-v7.16.0-armeabi-v7a.apk",
+        "sha256": "da3e711c44929d9b88cb84967fa74f9f00e465065c457587e95f9dc96a374f03",
+        "file_size": 21507142,
         "architecture": "armeabi-v7a"
       },
       {
-        "source_asset_id": 654236805,
-        "filename": "ADB_Application_Manager_Pro-v7.15.0-universal.apk",
-        "original_filename": "ADB_Application_Manager_Pro-v7.15.0-universal.apk",
-        "sha256": "2606c5092a747f77c982c7a6aaf4e8275b6299476265e807976439178747fd7f",
-        "file_size": 25738453,
+        "source_asset_id": 663407799,
+        "filename": "ADB_Application_Manager_Pro-v7.16.0-universal.apk",
+        "original_filename": "ADB_Application_Manager_Pro-v7.16.0-universal.apk",
+        "sha256": "8672557fcd9c4d10bfcf9ce8679d5a5dd9dbf5751a37f3b74bd75486fe009301",
+        "file_size": 26000658,
         "architecture": "arm64-v8a, armeabi-v7a"
       }
     ],
-    "mirror_release_tag": "adb-application-manager-v7.15.0",
-    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/adb-application-manager-v7.15.0"
+    "mirror_release_tag": "adb-application-manager-v7.16.0",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/adb-application-manager-v7.16.0"
   },
   "thor-pathfinder": {
     "source_repository": "KaitonGxx/thor-pathfinder",
@@ -7253,22 +7253,22 @@
   },
   "shiroikuma-jiyusagyoban": {
     "source_repository": "ShiroiKuma0/shiroikuma-jiyusagyoban",
-    "source_release_id": 416622881,
-    "source_tag": "0.2.94+2026-09-30.11-19.ga3b4fda4+066",
-    "source_published_at": "2026-10-18T18:26:02Z",
-    "synced_at": "2026-10-21T16:23:12.814670+00:00",
+    "source_release_id": 420010602,
+    "source_tag": "0.2.94+2026-09-30.11-19.ga3b4fda4+075",
+    "source_published_at": "2026-10-21T20:13:29Z",
+    "synced_at": "2026-10-21T21:06:36.708930+00:00",
     "assets": [
       {
-        "source_asset_id": 654164393,
-        "filename": "shiroikuma-jiyusagyoban_0.2.94-2026-09-30.11-19.ga3b4fda4-066_arm64-v8a.apk",
-        "original_filename": "shiroikuma-jiyusagyoban_0.2.94+2026-09-30.11-19.ga3b4fda4+066_arm64-v8a.apk",
-        "sha256": "9480aa728c65b1c38dd406f8a365229a4d011e7e1bbdf77470e8e2606b9c3779",
-        "file_size": 17182396,
+        "source_asset_id": 663666281,
+        "filename": "shiroikuma-jiyusagyoban_0.2.94-2026-09-30.11-19.ga3b4fda4-075_arm64-v8a.apk",
+        "original_filename": "shiroikuma-jiyusagyoban_0.2.94+2026-09-30.11-19.ga3b4fda4+075_arm64-v8a.apk",
+        "sha256": "ea220b5534b1252c5d9669febfb9d1a907921667432840e18d4f61e3571afdf6",
+        "file_size": 17195904,
         "architecture": "arm64-v8a"
       }
     ],
-    "mirror_release_tag": "shiroikuma-jiyusagyoban-0.2.94-2026-09-30.11-19.ga3b4fda4-066",
-    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/shiroikuma-jiyusagyoban-0.2.94-2026-09-30.11-19.ga3b4fda4-066"
+    "mirror_release_tag": "shiroikuma-jiyusagyoban-0.2.94-2026-09-30.11-19.ga3b4fda4-075",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/shiroikuma-jiyusagyoban-0.2.94-2026-09-30.11-19.ga3b4fda4-075"
   },
   "pulse-battery": {
     "source_repository": "kreza6173-pixel/pulse-battery",
@@ -7424,22 +7424,22 @@
   },
   "lyrics-companion": {
     "source_repository": "zuo-qirun/Lyrics-Companion",
-    "source_release_id": 416213668,
-    "source_tag": "apk-1792294498-62103bf",
-    "source_published_at": "2026-10-18T03:36:41Z",
-    "synced_at": "2026-10-18T10:11:50.046793+00:00",
+    "source_release_id": 419822148,
+    "source_tag": "apk-1792601861-7902e14",
+    "source_published_at": "2026-10-21T16:59:51Z",
+    "synced_at": "2026-10-21T21:06:45.793752+00:00",
     "assets": [
       {
-        "source_asset_id": 652369457,
-        "filename": "lyrics-companion-62103bf.apk",
-        "original_filename": "lyrics-companion-62103bf.apk",
-        "sha256": "46a9d1b2a86c87c182969d9bd53768e2c00c6beab788f07f91382d3a8276e990",
-        "file_size": 5237186,
+        "source_asset_id": 663199364,
+        "filename": "lyrics-companion-7902e14.apk",
+        "original_filename": "lyrics-companion-7902e14.apk",
+        "sha256": "f325fd9fd1ec65f287a5eab3c7b9bdccebe77a4538828b9b73f017c5135b2ee1",
+        "file_size": 9458528,
         "architecture": "unknown"
       }
     ],
-    "mirror_release_tag": "lyrics-companion-apk-1792294498-62103bf",
-    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/lyrics-companion-apk-1792294498-62103bf"
+    "mirror_release_tag": "lyrics-companion-apk-1792601861-7902e14",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/lyrics-companion-apk-1792601861-7902e14"
   },
   "turbospaceoptimizer-zip": {
     "source_repository": "Boungen-Bml/TurboSpaceOptimizer.zip",
@@ -8721,54 +8721,54 @@
   },
   "termux-ultra": {
     "source_repository": "TiG-Kira/Termux-Ultra",
-    "source_release_id": 418870744,
-    "source_tag": "3.10.0.R11",
-    "source_published_at": "2026-10-20T20:58:40Z",
-    "synced_at": "2026-10-21T02:37:58.407510+00:00",
+    "source_release_id": 420018596,
+    "source_tag": "3.11.1.R12",
+    "source_published_at": "2026-10-21T20:22:11Z",
+    "synced_at": "2026-10-21T21:07:31.250502+00:00",
     "assets": [
       {
-        "source_asset_id": 660496923,
+        "source_asset_id": 663720357,
         "filename": "app-arm64-v8a-release.apk",
         "original_filename": "app-arm64-v8a-release.apk",
-        "sha256": "b64bfa640d25f04cb4d294a49f3c4120e21d7c6d8d3298a7e8d15ea1765864b8",
-        "file_size": 16712545,
+        "sha256": "53403621dc27b5820912b5da10c4a7c51129974989be11621d0a492d2541a97b",
+        "file_size": 21389152,
         "architecture": "arm64-v8a"
       },
       {
-        "source_asset_id": 660497008,
+        "source_asset_id": 663720418,
         "filename": "app-armeabi-v7a-release.apk",
         "original_filename": "app-armeabi-v7a-release.apk",
-        "sha256": "8f2a14a764dabdd3b9bdfc553c457706702bd01d29b91778cc23cf9c11ddb6ba",
-        "file_size": 16079093,
+        "sha256": "efe19500b9fa6554e83c675701006e5c78ddb89540c4d120f29875829ad87d43",
+        "file_size": 19674360,
         "architecture": "armeabi-v7a"
       },
       {
-        "source_asset_id": 660497066,
+        "source_asset_id": 663720472,
         "filename": "app-release.apk",
         "original_filename": "app-release.apk",
-        "sha256": "2ce5678c02051b2a30999b50a26a8c9301e9848c9d04740748c4b0aba05ab2a4",
-        "file_size": 22772878,
+        "sha256": "0a12bd46e293df2a1c122cc58f48e299e1db3e24d4e9a908ceedb52e5855031c",
+        "file_size": 36985382,
         "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
       },
       {
-        "source_asset_id": 660497132,
+        "source_asset_id": 663720583,
         "filename": "app-x86-release.apk",
         "original_filename": "app-x86-release.apk",
-        "sha256": "f2b5516a746b19386bfb18d7ab139a43deeefad6332241b97decad44fb5036bc",
-        "file_size": 16954309,
+        "sha256": "65dbb2c7e489cee9343cd0774c335889f1f8a13fe8e51c0818a4d930a708814f",
+        "file_size": 21516216,
         "architecture": "x86"
       },
       {
-        "source_asset_id": 660497251,
+        "source_asset_id": 663720654,
         "filename": "app-x86_64-release.apk",
         "original_filename": "app-x86_64-release.apk",
-        "sha256": "cacf34732cf8aeb38d2eae72af5252f6691ef81ec3d62df71ab01afbf74cf898",
-        "file_size": 17086701,
+        "sha256": "11582df35bd24c5efda41d8318ed10b66598105332fb15e3eb09711955ca83b5",
+        "file_size": 21730534,
         "architecture": "x86_64"
       }
     ],
-    "mirror_release_tag": "termux-ultra-3.10.0.R11",
-    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/termux-ultra-3.10.0.R11"
+    "mirror_release_tag": "termux-ultra-3.11.1.R12",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/termux-ultra-3.11.1.R12"
   },
   "lynk": {
     "source_repository": "pixxel-dev/Lynk",
@@ -9295,38 +9295,38 @@
   },
   "dollhouse": {
     "source_repository": "Farewell-coder/Dollhouse",
-    "source_release_id": 416273994,
-    "source_tag": "v0.0.9",
-    "source_published_at": "2026-10-18T06:25:45Z",
-    "synced_at": "2026-10-18T10:12:58.622762+00:00",
+    "source_release_id": 419937803,
+    "source_tag": "v0.1.0",
+    "source_published_at": "2026-10-21T18:59:25Z",
+    "synced_at": "2026-10-21T21:07:54.440906+00:00",
     "assets": [
       {
-        "source_asset_id": 652681086,
-        "filename": "Dollhouse-v0.0.9-arm64-v8a.apk",
-        "original_filename": "Dollhouse-v0.0.9-arm64-v8a.apk",
-        "sha256": "24f74d27ed16b2c5aa147b01d06eb48f5d16deacb79572d59947b2d5b633406b",
-        "file_size": 22429648,
+        "source_asset_id": 663493924,
+        "filename": "Dollhouse-v0.1.0-arm64-v8a.apk",
+        "original_filename": "Dollhouse-v0.1.0-arm64-v8a.apk",
+        "sha256": "05e6650ab864adb52a617b2e6accb8a804e304ec2197105dc0e17925050209f8",
+        "file_size": 22717365,
         "architecture": "arm64-v8a"
       },
       {
-        "source_asset_id": 652681076,
-        "filename": "Dollhouse-v0.0.9-armeabi-v7a.apk",
-        "original_filename": "Dollhouse-v0.0.9-armeabi-v7a.apk",
-        "sha256": "1ff136537b2bb7e6cff4055306add29ff74440714fd5e087313e8cb2c7435419",
-        "file_size": 21536724,
+        "source_asset_id": 663493906,
+        "filename": "Dollhouse-v0.1.0-armeabi-v7a.apk",
+        "original_filename": "Dollhouse-v0.1.0-armeabi-v7a.apk",
+        "sha256": "82ae63d8bd258752d07a2b615b0e91717bee6de72237d29d01b43156fd71c740",
+        "file_size": 21824508,
         "architecture": "armeabi-v7a"
       },
       {
-        "source_asset_id": 652681083,
-        "filename": "Dollhouse-v0.0.9-universal.apk",
-        "original_filename": "Dollhouse-v0.0.9-universal.apk",
-        "sha256": "cfebee29b28515407508a5d7ac05f11ae9dd7f8fb5786770b31ce4f5f8cf38ea",
-        "file_size": 35025371,
+        "source_asset_id": 663493927,
+        "filename": "Dollhouse-v0.1.0-universal.apk",
+        "original_filename": "Dollhouse-v0.1.0-universal.apk",
+        "sha256": "76c493a69f7953a953dc118457bf28153965dc1bdda1a025c2757ea3fbbefe77",
+        "file_size": 35314012,
         "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
       }
     ],
-    "mirror_release_tag": "dollhouse-v0.0.9",
-    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/dollhouse-v0.0.9"
+    "mirror_release_tag": "dollhouse-v0.1.0",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/dollhouse-v0.1.0"
   },
   "flip-ctl": {
     "source_repository": "RakinRkz/flip-ctl",
@@ -9869,22 +9869,22 @@
   },
   "bridge": {
     "source_repository": "Bonevane/Bridge",
-    "source_release_id": 407823363,
-    "source_tag": "v0.3.1",
-    "source_published_at": "2026-10-09T10:53:46Z",
-    "synced_at": "2026-10-16T20:24:32.662718+00:00",
+    "source_release_id": 420030183,
+    "source_tag": "v0.3.3",
+    "source_published_at": "2026-10-21T20:36:49Z",
+    "synced_at": "2026-10-21T21:08:10.312194+00:00",
     "assets": [
       {
-        "source_asset_id": 624694298,
-        "filename": "Bridge-0.3.1.apk",
-        "original_filename": "Bridge-0.3.1.apk",
-        "sha256": "d750d4c8b0d3b26ad1d839378d3fe5c8ae5268c347cf3ef06023ad6024f65c79",
-        "file_size": 45263404,
+        "source_asset_id": 663719191,
+        "filename": "Bridge-0.3.3.apk",
+        "original_filename": "Bridge-0.3.3.apk",
+        "sha256": "06e46b7ee1be6ea23cba850b81d043a31b99266b31d4d1c25a5534683e6d6c16",
+        "file_size": 48240941,
         "architecture": "arm64-v8a"
       }
     ],
-    "mirror_release_tag": "bridge-v0.3.1",
-    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/bridge-v0.3.1"
+    "mirror_release_tag": "bridge-v0.3.3",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/bridge-v0.3.3"
   },
   "a-injector": {
     "source_repository": "PetaBYT3/A-Injector",
@@ -10002,49 +10002,49 @@
   },
   "jemrec": {
     "source_repository": "jemcik/JemRec",
-    "source_release_id": 419464287,
-    "source_tag": "0.15",
-    "source_published_at": "2026-10-21T11:15:02Z",
-    "synced_at": "2026-10-21T16:24:11.527797+00:00",
+    "source_release_id": 419853652,
+    "source_tag": "0.16",
+    "source_published_at": "2026-10-21T17:30:44Z",
+    "synced_at": "2026-10-21T21:08:17.924154+00:00",
     "assets": [
       {
-        "source_asset_id": 662245959,
-        "filename": "jemrec-0.15.apk",
-        "original_filename": "jemrec-0.15.apk",
-        "sha256": "1993e3d7520f5e0535e84cdd9ebd5caed305f2bfcd710ca754308a724b837c12",
-        "file_size": 8670919,
+        "source_asset_id": 663279362,
+        "filename": "jemrec-0.16.apk",
+        "original_filename": "jemrec-0.16.apk",
+        "sha256": "d7b3187743800fe1a4a458760f95d249bda1de60f10852e306c1c02f79a4b3fb",
+        "file_size": 8703687,
         "architecture": "arm64-v8a, armeabi-v7a"
       }
     ],
-    "mirror_release_tag": "jemrec-0.15",
-    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/jemrec-0.15"
+    "mirror_release_tag": "jemrec-0.16",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/jemrec-0.16"
   },
   "shizuposed": {
     "source_repository": "Sharif-bot-cmd/ShizuPosed",
-    "source_release_id": 419775392,
-    "source_tag": "1.1.9",
-    "source_published_at": "2026-10-21T16:12:40Z",
-    "synced_at": "2026-10-21T16:24:18.856255+00:00",
+    "source_release_id": 419858052,
+    "source_tag": "1.2.0",
+    "source_published_at": "2026-10-21T17:35:42Z",
+    "synced_at": "2026-10-21T21:08:24.604557+00:00",
     "assets": [
       {
-        "source_asset_id": 663064583,
+        "source_asset_id": 663289919,
         "filename": "app-standard-release.apk",
         "original_filename": "app-standard-release.apk",
-        "sha256": "33440e519cc0a6542e0d504577cd25f35495bc78162cf0dc8f7170fa9e79c2d3",
-        "file_size": 10680248,
+        "sha256": "4388b5750f0aa0dd3e7c86b6d74add2d90f41cff731af18d3fb93724b2d63016",
+        "file_size": 10681616,
         "architecture": "arm64-v8a"
       },
       {
-        "source_asset_id": 663064886,
+        "source_asset_id": 663290073,
         "filename": "app-stealth-release.apk",
         "original_filename": "app-stealth-release.apk",
-        "sha256": "92d25ef4dd10b08fb5ede78f8eed3cfa6489b67a804fdc2a355c7e4872eef8f0",
-        "file_size": 10680276,
+        "sha256": "bb6e406971062d5b800b24a5af07c46bd270bb724b2db80aefb3a43146ff58bf",
+        "file_size": 10681624,
         "architecture": "arm64-v8a"
       }
     ],
-    "mirror_release_tag": "shizuposed-1.1.9",
-    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/shizuposed-1.1.9"
+    "mirror_release_tag": "shizuposed-1.2.0",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/shizuposed-1.2.0"
   },
   "orpheus": {
     "source_repository": "right-ward/orpheus",
@@ -10394,22 +10394,22 @@
   },
   "activity-plus-android": {
     "source_repository": "robbyczgw-cla/activity-plus-android",
-    "source_release_id": 416758127,
-    "source_tag": "v0.5.0",
-    "source_published_at": "2026-10-18T22:53:12Z",
-    "synced_at": "2026-10-19T02:31:34.036265+00:00",
+    "source_release_id": 419867581,
+    "source_tag": "v0.6.0",
+    "source_published_at": "2026-10-21T17:45:25Z",
+    "synced_at": "2026-10-21T21:08:34.924353+00:00",
     "assets": [
       {
-        "source_asset_id": 654674633,
-        "filename": "activityplus-android-0.5.0.apk",
-        "original_filename": "activityplus-android-0.5.0.apk",
-        "sha256": "c98f2a014b8abfdc04d84e8165a337065a7fe3993d2f055bf1c5df73b8c80358",
-        "file_size": 3808734,
+        "source_asset_id": 663313246,
+        "filename": "activityplus-android-0.6.0.apk",
+        "original_filename": "activityplus-android-0.6.0.apk",
+        "sha256": "b4109cfb2b22afc6ec02beb10f1bf4e5a038d63206a7ca37ad11f828efb32c21",
+        "file_size": 4121626,
         "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
       }
     ],
-    "mirror_release_tag": "activity-plus-android-v0.5.0",
-    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/activity-plus-android-v0.5.0"
+    "mirror_release_tag": "activity-plus-android-v0.6.0",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/activity-plus-android-v0.6.0"
   },
   "openliquidlauncher": {
     "source_repository": "LinuxKernel44/OpenLiquidLauncher",
@@ -10546,22 +10546,22 @@
   },
   "suixing": {
     "source_repository": "zeng6125-rgb/suixing",
-    "source_release_id": 419778667,
-    "source_tag": "v0.8.306",
-    "source_published_at": "2026-10-21T16:15:46Z",
-    "synced_at": "2026-10-21T16:24:34.240663+00:00",
+    "source_release_id": 419850613,
+    "source_tag": "v0.8.311",
+    "source_published_at": "2026-10-21T17:27:31Z",
+    "synced_at": "2026-10-21T21:08:42.030086+00:00",
     "assets": [
       {
-        "source_asset_id": 663074246,
-        "filename": "suixing-0.8.306.apk",
-        "original_filename": "suixing-0.8.306.apk",
-        "sha256": "e3811362aeb84eb46ec69d6c4f2143205386812dd588e27f9126857abc082016",
-        "file_size": 15699909,
+        "source_asset_id": 663272028,
+        "filename": "suixing-0.8.311.apk",
+        "original_filename": "suixing-0.8.311.apk",
+        "sha256": "c17fe0694dc59c76ee45b95938aed422f69af810c67871111855b60d1104a01c",
+        "file_size": 15737641,
         "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
       }
     ],
-    "mirror_release_tag": "suixing-v0.8.306",
-    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/suixing-v0.8.306"
+    "mirror_release_tag": "suixing-v0.8.311",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/suixing-v0.8.311"
   },
   "device-check": {
     "source_repository": "TeaPieyyds/device-check",
@@ -11147,22 +11147,22 @@
   },
   "wpaforge": {
     "source_repository": "wlmosv-png/wpaforge",
-    "source_release_id": 410719103,
-    "source_tag": "v1.9.0",
-    "source_published_at": "2026-10-12T14:57:08Z",
-    "synced_at": "2026-10-12T20:46:58.725869+00:00",
+    "source_release_id": 419926513,
+    "source_tag": "v1.9.9",
+    "source_published_at": "2026-10-21T18:46:46Z",
+    "synced_at": "2026-10-21T21:08:58.618542+00:00",
     "assets": [
       {
-        "source_asset_id": 634093953,
-        "filename": "WPAForge-1.9.0.apk",
-        "original_filename": "WPAForge-1.9.0.apk",
-        "sha256": "827d24f5a79f6a0aea7d19a18dde2e11f5468567d4bd2b1d4da5d86fc0a5ddea",
-        "file_size": 2644792,
+        "source_asset_id": 663464223,
+        "filename": "WPAForge-1.9.9.apk",
+        "original_filename": "WPAForge-1.9.9.apk",
+        "sha256": "0899b3e371bb913b588286eeb82773581de3e86094c4f0d503deed820e3bb444",
+        "file_size": 2706232,
         "architecture": "unknown"
       }
     ],
-    "mirror_release_tag": "wpaforge-v1.9.0",
-    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/wpaforge-v1.9.0"
+    "mirror_release_tag": "wpaforge-v1.9.9",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/wpaforge-v1.9.9"
   },
   "blockheads-android-patches": {
     "source_repository": "JarlPenguin/blockheads-android-patches",
@@ -11612,22 +11612,22 @@
   },
   "pulse": {
     "source_repository": "xUmutKx/Pulse",
-    "source_release_id": 416305333,
-    "source_tag": "v0.10.111",
-    "source_published_at": "2026-10-18T07:35:01Z",
-    "synced_at": "2026-10-18T10:14:00.816488+00:00",
+    "source_release_id": 420045993,
+    "source_tag": "v0.10.166",
+    "source_published_at": "2026-10-21T20:54:06Z",
+    "synced_at": "2026-10-21T21:09:12.324265+00:00",
     "assets": [
       {
-        "source_asset_id": 652818635,
-        "filename": "Pulse-v0.10.111.apk",
-        "original_filename": "Pulse-v0.10.111.apk",
-        "sha256": "f9b19b656c46a5a4d39a2a6022a4069e2a9d8679e8dfb8db39a8120045569c05",
-        "file_size": 26630434,
+        "source_asset_id": 663763401,
+        "filename": "Pulse-0.10.166.apk",
+        "original_filename": "Pulse-0.10.166.apk",
+        "sha256": "25acc3ebab49083df62a27d15bcf8aa146404f77a4eebf14e92cfa3ceaddd36c",
+        "file_size": 40982170,
         "architecture": "arm64-v8a"
       }
     ],
-    "mirror_release_tag": "pulse-v0.10.111",
-    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/pulse-v0.10.111"
+    "mirror_release_tag": "pulse-v0.10.166",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/pulse-v0.10.166"
   },
   "eva": {
     "source_repository": "colonelpanic8/eva",
@@ -11750,49 +11750,49 @@
   },
   "hoshimilocalify-en": {
     "source_repository": "tokanada/HoshimiLocalify-en",
-    "source_release_id": 419272802,
-    "source_tag": "v1.4.2-data.20261021_002810",
-    "source_published_at": "2026-10-21T07:33:29Z",
-    "synced_at": "2026-10-21T10:55:22.770222+00:00",
+    "source_release_id": 420000817,
+    "source_tag": "v1.4.2-data.20261021_003611",
+    "source_published_at": "2026-10-21T20:02:35Z",
+    "synced_at": "2026-10-21T21:09:30.715105+00:00",
     "assets": [
       {
-        "source_asset_id": 661718876,
-        "filename": "HoshimiLocalify-en-full-v1.4.2-data.20261021_002810.apk",
-        "original_filename": "HoshimiLocalify-en-full-v1.4.2-data.20261021_002810.apk",
-        "sha256": "eaa9e52bd1a7200e8ec1a0f56f25df117d6324f2b867e7cde860587304edca1a",
-        "file_size": 72702527,
+        "source_asset_id": 663641848,
+        "filename": "HoshimiLocalify-en-full-v1.4.2-data.20261021_003611.apk",
+        "original_filename": "HoshimiLocalify-en-full-v1.4.2-data.20261021_003611.apk",
+        "sha256": "13f04b68a9f41fa957a0e90f138a48ce17660c90e58070ba908d526addbb7d6f",
+        "file_size": 72702551,
         "architecture": "arm64-v8a"
       },
       {
-        "source_asset_id": 661718877,
-        "filename": "HoshimiLocalify-en-lite-v1.4.2-data.20261021_002810.apk",
-        "original_filename": "HoshimiLocalify-en-lite-v1.4.2-data.20261021_002810.apk",
-        "sha256": "fd04194b0ebe78ce9af5eb0266a4070b94124e6dfd43bbea86a0f34b31963df5",
-        "file_size": 72653375,
+        "source_asset_id": 663641850,
+        "filename": "HoshimiLocalify-en-lite-v1.4.2-data.20261021_003611.apk",
+        "original_filename": "HoshimiLocalify-en-lite-v1.4.2-data.20261021_003611.apk",
+        "sha256": "8d88dc88ee2fe1d66772919e88edf2e07eec5a1f376863346201ced73d60e04d",
+        "file_size": 72653399,
         "architecture": "arm64-v8a"
       }
     ],
-    "mirror_release_tag": "hoshimilocalify-en-v1.4.2-data.20261021_002810",
-    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/hoshimilocalify-en-v1.4.2-data.20261021_002810"
+    "mirror_release_tag": "hoshimilocalify-en-v1.4.2-data.20261021_003611",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/hoshimilocalify-en-v1.4.2-data.20261021_003611"
   },
   "cccodroid": {
     "source_repository": "greyoak111/cccodroid",
-    "source_release_id": 419366006,
-    "source_tag": "v0.3.8",
-    "source_published_at": "2026-10-21T09:22:12Z",
-    "synced_at": "2026-10-21T10:55:26.204854+00:00",
+    "source_release_id": 419797076,
+    "source_tag": "v0.3.9",
+    "source_published_at": "2026-10-21T16:34:23Z",
+    "synced_at": "2026-10-21T21:09:34.628350+00:00",
     "assets": [
       {
-        "source_asset_id": 661977434,
+        "source_asset_id": 663131216,
         "filename": "cccodroid.apk",
         "original_filename": "cccodroid.apk",
-        "sha256": "fc3e33b0fa040bdcb6b96cc07c1b8283e78316c0c62792ed63db766384c59749",
-        "file_size": 4288466,
+        "sha256": "b8309011fc731a6a2ae244bd4b133f6848032c1daedc0f7bfd199b6e505c73aa",
+        "file_size": 4321708,
         "architecture": "unknown"
       }
     ],
-    "mirror_release_tag": "cccodroid-v0.3.8",
-    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/cccodroid-v0.3.8"
+    "mirror_release_tag": "cccodroid-v0.3.9",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/cccodroid-v0.3.9"
   },
   "moltengram": {
     "source_repository": "MoltenSt4r/MoltenGram",
@@ -12228,22 +12228,22 @@
   },
   "punk-app": {
     "source_repository": "felipegatoloko10/punk-app",
-    "source_release_id": 419618262,
-    "source_tag": "v3.5.2",
-    "source_published_at": "2026-10-21T13:50:56Z",
-    "synced_at": "2026-10-21T16:25:20.576808+00:00",
+    "source_release_id": 420009923,
+    "source_tag": "v3.7.0",
+    "source_published_at": "2026-10-21T20:12:45Z",
+    "synced_at": "2026-10-21T21:09:46.096342+00:00",
     "assets": [
       {
-        "source_asset_id": 662665848,
-        "filename": "Punk-3.5.2.apk",
-        "original_filename": "Punk-3.5.2.apk",
-        "sha256": "59de1d1ec5d55bc8249fc411b8c967b2a003a932d36461b4ed9a1124c055cf68",
-        "file_size": 29329236,
+        "source_asset_id": 663664579,
+        "filename": "Punk-3.7.0.apk",
+        "original_filename": "Punk-3.7.0.apk",
+        "sha256": "731755712ac10d22ddaf1a7d5cdef07d962d55df8f4830b063efe58dc6a176f6",
+        "file_size": 29361642,
         "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
       }
     ],
-    "mirror_release_tag": "punk-app-v3.5.2",
-    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/punk-app-v3.5.2"
+    "mirror_release_tag": "punk-app-v3.7.0",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/punk-app-v3.7.0"
   },
   "autojs6-plugin-offline-docs": {
     "source_repository": "SuperMonster003/AutoJs6-Plugin-Offline-Docs",
@@ -12635,22 +12635,22 @@
   },
   "root-my-galaxy-ultra": {
     "source_repository": "xorpix/Root-My-Galaxy-Ultra",
-    "source_release_id": 417950747,
-    "source_tag": "1.2.18",
-    "source_published_at": "2026-10-20T02:50:58Z",
-    "synced_at": "2026-10-20T10:42:03.688912+00:00",
+    "source_release_id": 420016736,
+    "source_tag": "1.2.19",
+    "source_published_at": "2026-10-21T20:20:14Z",
+    "synced_at": "2026-10-21T21:05:14.909679+00:00",
     "assets": [
       {
-        "source_asset_id": 658084178,
-        "filename": "RootMyGalaxyUltra-1.2.18.apk",
-        "original_filename": "RootMyGalaxyUltra-1.2.18.apk",
-        "sha256": "7d2ca0fdee3a2908eed48f557c9d1903c71172767ab5a5fe36310b7140a0b287",
-        "file_size": 79503135,
+        "source_asset_id": 663682611,
+        "filename": "RootMyGalaxyUltra-1.2.19.apk",
+        "original_filename": "RootMyGalaxyUltra-1.2.19.apk",
+        "sha256": "0fa464b3c378e9c2385987daa46af1ededc59177c3cfc8cfdf02baf0a366f654",
+        "file_size": 79503519,
         "architecture": "arm64-v8a"
       }
     ],
-    "mirror_release_tag": "root-my-galaxy-ultra-1.2.18",
-    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/root-my-galaxy-ultra-1.2.18"
+    "mirror_release_tag": "root-my-galaxy-ultra-1.2.19",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/root-my-galaxy-ultra-1.2.19"
   },
   "terminalappplus": {
     "source_repository": "KawaiiHachimi/TerminalAppPlus",
@@ -12673,30 +12673,30 @@
   },
   "bloo": {
     "source_repository": "ServerReset/Bloo",
-    "source_release_id": 419755509,
-    "source_tag": "build-3316",
-    "source_published_at": "2026-10-21T15:54:01Z",
-    "synced_at": "2026-10-21T16:22:51.924343+00:00",
+    "source_release_id": 419998478,
+    "source_tag": "build-3322",
+    "source_published_at": "2026-10-21T20:00:52Z",
+    "synced_at": "2026-10-21T21:05:39.262352+00:00",
     "assets": [
       {
-        "source_asset_id": 663009524,
+        "source_asset_id": 663636694,
         "filename": "Bloo-watch.apk",
         "original_filename": "Bloo-watch.apk",
-        "sha256": "ca7e4e841bf85c489d8a59a85440c4dabc2ba2ee4952ca1b0fc01f0372646cb7",
+        "sha256": "04a9a94af5d839a612dcfc764c8f6d1ad1b0151af498170561dbb57675eaba31",
         "file_size": 6374790,
         "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
       },
       {
-        "source_asset_id": 663009519,
+        "source_asset_id": 663636693,
         "filename": "Bloo.apk",
         "original_filename": "Bloo.apk",
-        "sha256": "0881866799e6b3a42056349c04ad94644be2fda6da4f0a73ca039cff5644addb",
+        "sha256": "819cbab9cb5472df863104600b420763d2019740edc24cb20b5326258ace3ff9",
         "file_size": 15724624,
         "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
       }
     ],
-    "mirror_release_tag": "bloo-build-3316",
-    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/bloo-build-3316"
+    "mirror_release_tag": "bloo-build-3322",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/bloo-build-3322"
   },
   "continuum-explorer-memories": {
     "source_repository": "johakovi/Continuum-Explorer-Memories",
@@ -13749,22 +13749,22 @@
   },
   "lounge": {
     "source_repository": "Gingerbreadfork/lounge",
-    "source_release_id": 418402597,
-    "source_tag": "v0.2.0",
-    "source_published_at": "2026-10-20T12:58:41Z",
-    "synced_at": "2026-10-20T16:09:33.941668+00:00",
+    "source_release_id": 419996919,
+    "source_tag": "v0.3.0",
+    "source_published_at": "2026-10-21T19:58:34Z",
+    "synced_at": "2026-10-21T21:10:15.978968+00:00",
     "assets": [
       {
-        "source_asset_id": 659342478,
-        "filename": "Lounge-0.2.0.apk",
-        "original_filename": "Lounge-0.2.0.apk",
-        "sha256": "411986245588ae834d44e08f28928091a62f83e6699859b69ad6d7c2064e59cb",
-        "file_size": 20490776,
+        "source_asset_id": 663632821,
+        "filename": "Lounge-0.3.0.apk",
+        "original_filename": "Lounge-0.3.0.apk",
+        "sha256": "6a995e7f745cb15c002a388df0bd73fa0bd2070d023d8a2ab50109a8fbc3faa6",
+        "file_size": 20885854,
         "architecture": "arm64-v8a, armeabi-v7a"
       }
     ],
-    "mirror_release_tag": "lounge-v0.2.0",
-    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/lounge-v0.2.0"
+    "mirror_release_tag": "lounge-v0.3.0",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/lounge-v0.3.0"
   },
   "slow-1e8": {
     "source_repository": "sqyCoder/slow-1e8",
@@ -13925,22 +13925,22 @@
   },
   "ludex": {
     "source_repository": "Gabriel-Liz2003/Ludex",
-    "source_release_id": 417944047,
-    "source_tag": "android-v0.9.40",
-    "source_published_at": "2026-10-20T02:37:39Z",
-    "synced_at": "2026-10-20T03:01:50.881835+00:00",
+    "source_release_id": 420023589,
+    "source_tag": "android-v0.9.42",
+    "source_published_at": "2026-10-21T20:27:46Z",
+    "synced_at": "2026-10-21T21:10:24.877028+00:00",
     "assets": [
       {
-        "source_asset_id": 658062305,
-        "filename": "Ludex-Android-0.9.40.apk",
-        "original_filename": "Ludex-Android-0.9.40.apk",
-        "sha256": "5e9e72ba4fddc43d3bc41348614b30ee16e3ddb4f1c9f7469e80d68bdffee093",
-        "file_size": 4873220,
+        "source_asset_id": 663701046,
+        "filename": "Ludex-Android-0.9.42.apk",
+        "original_filename": "Ludex-Android-0.9.42.apk",
+        "sha256": "7b9ef2181387624aa3374684ec8f7d95baceae013b06bd44d297343865f2ca0a",
+        "file_size": 4878292,
         "architecture": "unknown"
       }
     ],
-    "mirror_release_tag": "ludex-android-v0.9.40",
-    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/ludex-android-v0.9.40"
+    "mirror_release_tag": "ludex-android-v0.9.42",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/ludex-android-v0.9.42"
   },
   "sukut": {
     "source_repository": "altarafiya/Sukut",
@@ -14212,22 +14212,22 @@
   },
   "baicodex": {
     "source_repository": "mubai0122/baicodex",
-    "source_release_id": 419217961,
-    "source_tag": "v1.1.1",
-    "source_published_at": "2026-10-21T06:14:51Z",
-    "synced_at": "2026-10-21T10:56:58.039060+00:00",
+    "source_release_id": 419966073,
+    "source_tag": "v1.2.0",
+    "source_published_at": "2026-10-21T19:24:46Z",
+    "synced_at": "2026-10-21T21:10:35.354432+00:00",
     "assets": [
       {
-        "source_asset_id": 661550097,
-        "filename": "BaiAgent-1.1.1.apk",
-        "original_filename": "BaiAgent-1.1.1.apk",
-        "sha256": "9f9f7c9be987bc67203b806d599f7685b5b03d9ff1baaab03a46babbbd703bba",
-        "file_size": 33287745,
+        "source_asset_id": 663555255,
+        "filename": "BaiAgent-1.2.0.apk",
+        "original_filename": "BaiAgent-1.2.0.apk",
+        "sha256": "62ad95c6b185e65fe73b05309901434913b7fb4b72cf606ef13f73834b733acb",
+        "file_size": 33386049,
         "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
       }
     ],
-    "mirror_release_tag": "baicodex-v1.1.1",
-    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/baicodex-v1.1.1"
+    "mirror_release_tag": "baicodex-v1.2.0",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/baicodex-v1.2.0"
   },
   "muse": {
     "source_repository": "Zer0Qing/Muse",
@@ -14285,22 +14285,22 @@
   },
   "roans-hyperos-cn-fixer": {
     "source_repository": "roanh47/Roans-HyperOS-CN-Fixer",
-    "source_release_id": 419665709,
-    "source_tag": "v0.8.4",
-    "source_published_at": "2026-10-21T14:34:56Z",
-    "synced_at": "2026-10-21T16:26:51.116605+00:00",
+    "source_release_id": 420057900,
+    "source_tag": "v0.8.6",
+    "source_published_at": "2026-10-21T21:08:12Z",
+    "synced_at": "2026-10-21T21:10:43.455471+00:00",
     "assets": [
       {
-        "source_asset_id": 662790846,
-        "filename": "Roans-HyperOS-CN-Fixer-0.8.4.apk",
-        "original_filename": "Roans-HyperOS-CN-Fixer-0.8.4.apk",
-        "sha256": "83e3193cdeb84c9c38fe419962d6638b8d88ffd0a395b2bf801c19c0761faec8",
+        "source_asset_id": 663793499,
+        "filename": "Roans-HyperOS-CN-Fixer-0.8.6.apk",
+        "original_filename": "Roans-HyperOS-CN-Fixer-0.8.6.apk",
+        "sha256": "ccf64ffd1be45dcd3a0e674a6451a9d1a5836369d6ce95430bb2ce1d0206bf2c",
         "file_size": 58665364,
         "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
       }
     ],
-    "mirror_release_tag": "roans-hyperos-cn-fixer-v0.8.4",
-    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/roans-hyperos-cn-fixer-v0.8.4"
+    "mirror_release_tag": "roans-hyperos-cn-fixer-v0.8.6",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/roans-hyperos-cn-fixer-v0.8.6"
   },
   "android-libtool-new": {
     "source_repository": "willygailo/Android-LibTool-New",
@@ -14418,21 +14418,21 @@
   },
   "snapkeymap": {
     "source_repository": "heykay-47/SnapKeyMap",
-    "source_release_id": 419101213,
-    "source_tag": "v1.0.13",
-    "source_published_at": "2026-10-21T03:08:44Z",
-    "synced_at": "2026-10-21T10:57:06.145004+00:00",
+    "source_release_id": 419971386,
+    "source_tag": "v1.0.15",
+    "source_published_at": "2026-10-21T19:30:41Z",
+    "synced_at": "2026-10-21T21:10:50.049556+00:00",
     "assets": [
       {
-        "source_asset_id": 661198377,
-        "filename": "SnapKeyMap-1.0.13.apk",
-        "original_filename": "SnapKeyMap-1.0.13.apk",
-        "sha256": "fd11d16f730f6ca958521ad2cd5afa7c865fe59c5862572695da4392fda1c7e1",
-        "file_size": 2494224,
+        "source_asset_id": 663569515,
+        "filename": "SnapKeyMap-1.0.15.apk",
+        "original_filename": "SnapKeyMap-1.0.15.apk",
+        "sha256": "bf38ffd8c126c951ee39ddf368e905f8ce88a8483a606970bb72cbe4de1649a4",
+        "file_size": 2702148,
         "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
       }
     ],
-    "mirror_release_tag": "snapkeymap-v1.0.13",
-    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/snapkeymap-v1.0.13"
+    "mirror_release_tag": "snapkeymap-v1.0.15",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/snapkeymap-v1.0.15"
   }
 }
