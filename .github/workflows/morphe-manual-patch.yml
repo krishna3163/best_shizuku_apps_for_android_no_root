@@ -138,14 +138,8 @@ jobs:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           TAG_NAME="morphe-${{ inputs.app_name }}-v${{ inputs.version || 'latest' }}"
-          RELEASE_TITLE="${{ inputs.app_name }} (Morphe Patched) ${{ inputs.version || 'Latest' }}"
-          BODY="## Morphe Automated Patch Release
-- **App:** \`${{ inputs.app_name }}\`
-- **Source:** \`${{ inputs.source }}\`
-- **Architecture:** \`${{ inputs.architecture }}\`
-- **Signed:** V2+V3 signed with public keystore
-- **MicroG / GmsCore:** Supported
-"
+          BODY=$(printf "## Morphe Automated Patch Release\n- **App:** \`%s\`\n- **Source:** \`%s\`\n- **Architecture:** \`%s\`\n- **Signed:** V2+V3 signed with public keystore\n- **MicroG / GmsCore:** Supported\n" "${{ inputs.app_name }}" "${{ inputs.source }}" "${{ inputs.architecture }}")
+
           PRERELEASE_FLAG=""
           if [ "${{ inputs.prerelease }}" = "true" ]; then
             PRERELEASE_FLAG="--prerelease"

@@ -22,12 +22,28 @@ ROW = re.compile(r"^\| ([^|]+) \| ([^|]+) \| ([^|]+) \| (.+) \|\s*$")
 
 def read() -> tuple[str, list[dict[str, str]]]:
     content = README.read_text(encoding="utf-8")
+    clean_content = re.sub(
+        r"<!-- DEDICATED-README-NAV-START -->.*?<!-- DEDICATED-README-NAV-END -->",
+        "",
+        content,
+        flags=re.DOTALL,
+    )
     entries = []
-    for line in content.splitlines():
+    for line in clean_content.splitlines():
         match = ROW.match(line)
-        if match and match.group(1) not in {"App", "---", ":---", "Library"} and match.group(2) != "Description":
-            entries.append(dict(name=match.group(1).strip(), description=match.group(2).strip(), license=match.group(3).strip(), links=match.group(4).strip()))
+        if match:
+            col1 = match.group(1).strip()
+            col2 = match.group(2).strip()
+            col3 = match.group(3).strip()
+            col4 = match.group(4).strip()
+            if col1 in {"App", "---", ":---", "Library", "Category / Channel"} or col2 in {"Description", "Dedicated README", "Dedicated Page"} or "README_" in col2:
+                continue
+            if col1.startswith("Category") or col4.endswith("apps") or col4.endswith("builds") or col4.endswith("modules") or col4.endswith("packages"):
+                continue
+            entries.append(dict(name=col1, description=col2, license=col3, links=col4))
     return content, entries
+
+
 
 
 def heading_anchors(content: str) -> set[str]:
