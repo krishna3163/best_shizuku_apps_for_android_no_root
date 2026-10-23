@@ -333,7 +333,7 @@
   },
   "shizako": {
     "status": "no-update",
-    "last_checked": "2026-10-23T16:08:56.844143+00:00",
+    "last_checked": "2026-10-23T16:17:53.184528+00:00",
     "latest_version": "zako3.16hp",
     "last_synced": "2026-10-17T02:13:16.376059+00:00"
   },
@@ -2647,8 +2647,8 @@
     "last_synced": "2026-10-23T16:13:29.935952+00:00"
   },
   "duobeam": {
-    "status": "synced",
-    "last_checked": "2026-10-23T16:13:35.711513+00:00",
+    "status": "no-update",
+    "last_checked": "2026-10-23T16:17:53.854700+00:00",
     "latest_version": "v0.8.9",
     "last_synced": "2026-10-23T16:13:35.711513+00:00"
   },
@@ -3750,5 +3750,51 @@
     "last_checked": "2026-10-23T16:15:52.151621+00:00",
     "latest_version": "v2.18.0",
     "last_synced": "2026-10-23T10:51:29.767306+00:00"
+  },
+  "datacliar": {
+    "status": "synced",
+    "last_checked": "2026-10-23T16:17:42.866415+00:00",
+    "latest_version": "v1.3.0",
+    "last_synced": "2026-10-23T16:17:42.866415+00:00"
+  },
+  "coolstream": {
+    "status": "synced",
+    "last_checked": "2026-10-23T16:17:47.646256+00:00",
+    "latest_version": "v1.1.2",
+    "last_synced": "2026-10-23T16:17:47.646256+00:00"
+  },
+  "wdialer": {
+    "status": "synced",
+    "last_checked": "2026-10-23T16:17:52.521227+00:00",
+    "latest_version": "v13.0.0",
+    "last_synced": "2026-10-23T16:17:52.521227+00:00"
+  },
+  "cts": {
+    "status": "synced",
+    "last_checked": "2026-10-23T16:17:58.000239+00:00",
+    "latest_version": "v1.4.1",
+    "last_synced": "2026-10-23T16:17:58.000239+00:00"
+  },
+  "voice-sip-agent-selfhost": {
+    "status": "no-apk",
+    "last_checked": "2026-10-23T16:17:58.367680+00:00",
+    "latest_version": "v0.2.0-selfhost4"
+  },
+  "gestureevo": {
+    "status": "synced",
+    "last_checked": "2026-10-23T16:18:04.090931+00:00",
+    "latest_version": "v2.2-1017001",
+    "last_synced": "2026-10-23T16:18:04.090931+00:00"
+  },
+  "cantoshub": {
+    "status": "synced",
+    "last_checked": "2026-10-23T16:18:09.875859+00:00",
+    "latest_version": "v1.3.2",
+    "last_synced": "2026-10-23T16:18:09.875859+00:00"
+  },
+  "xingshu-hub": {
+    "status": "no-apk",
+    "last_checked": "2026-10-23T16:18:10.403880+00:00",
+    "latest_version": "v0.1.0-test.20261022.2"
   }
 }
