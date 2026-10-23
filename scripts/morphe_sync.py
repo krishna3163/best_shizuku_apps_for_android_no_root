@@ -1426,6 +1426,19 @@ def sync_morphe_apps(
                     needs_build = True
                 elif prev_entry.get("version") != version or prev_entry.get("release_tag") != release_tag:
                     needs_build = True
+                elif not dry_run and mirror_repo:
+                    try:
+                        remote_rel = api.get_repo_release_by_tag(mirror_repo, release_tag)
+                        if not remote_rel:
+                            needs_build = True
+                        else:
+                            remote_assets = remote_rel.get("assets", [])
+                            has_apk = any(a.get("name", "").endswith(".apk") for a in remote_assets)
+                            if not has_apk:
+                                needs_build = True
+                    except Exception as e:
+                        logger.debug("Remote check for %s: %s", release_tag, e)
+                        needs_build = True
 
             logger.info("Processing Morphe App: %s (%s) v%s [Needs Build: %s]", app.name, app.slug, version, needs_build)
 
@@ -1448,7 +1461,9 @@ def sync_morphe_apps(
             bundle_mpp = patcher.fetch_patch_bundle(app.bundle_repo, tmp_dir)
             output_apk_name = f"{app.slug}-{version}.apk"
             output_apk_path = os.path.join(tmp_dir, output_apk_name)
-            success, msg = patcher.patch_apk(base_apk, bundle_mpp, output_apk_path, app.patches)
+            success, msg = patcher.patch_apk(
+                base_apk, bundle_mpp, output_apk_path, app.patches, bundle_repo=app.bundle_repo
+            )
 
             if not success:
                 logger.error("Patching failed for %s: %s", app.slug, msg)
@@ -1485,8 +1500,22 @@ def sync_morphe_apps(
                         upload_url = rel.get("upload_url", "")
 
                     if upload_url:
-                        api.upload_release_asset(upload_url, output_apk_path)
-                        api.upload_release_asset(upload_url, checksum_path)
+                        existing_assets = existing_rel.get("assets", []) if existing_rel else []
+                        asset_map = {a.get("name"): a.get("id") for a in existing_assets if a.get("name")}
+                        for upload_path, c_type in [
+                            (output_apk_path, "application/vnd.android.package-archive"),
+                            (checksum_path, "text/plain"),
+                        ]:
+                            fname = os.path.basename(upload_path)
+                            if fname in asset_map and hasattr(api, "delete_release_asset"):
+                                try:
+                                    api.delete_release_asset(mirror_repo, asset_map[fname])
+                                except Exception as del_err:
+                                    logger.warning("Could not delete existing asset %s: %s", fname, del_err)
+                            try:
+                                api.upload_release_asset(upload_url, upload_path, content_type=c_type)
+                            except Exception as up_err:
+                                logger.warning("Asset upload warning for %s: %s", fname, up_err)
                 except Exception as e:
                     logger.error("Error creating/uploading release %s: %s", release_tag, e)
 

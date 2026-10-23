@@ -243,6 +243,11 @@ class GitHubAPI:
         resp.raise_for_status()
         return resp.json()
 
+    def delete_release_asset(self, repo: str, asset_id: int) -> bool:
+        """DELETE /repos/{owner}/{repo}/releases/assets/{asset_id}"""
+        resp = self._request("DELETE", f"/repos/{repo}/releases/assets/{asset_id}")
+        return resp.status_code in (204, 200)
+
     def get_repo_info(self, repo: str) -> Optional[dict[str, Any]]:
         """GET /repos/{owner}/{repo} — basic repository metadata."""
         resp = self.get(f"/repos/{repo}")
@@ -250,3 +255,4 @@ class GitHubAPI:
             return None
         resp.raise_for_status()
         return resp.json()
+

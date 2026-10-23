@@ -298,16 +298,23 @@ class MorphePatcher:
         bundle_mpp_path: str,
         output_apk_path: str,
         enabled_patches: Optional[list[str]] = None,
+        bundle_repo: Optional[str] = None,
     ) -> tuple[bool, str]:
         if not os.path.exists(base_apk_path):
             return False, f"Base APK missing: {base_apk_path}"
 
         if self.cli_jar_path and os.path.exists(self.cli_jar_path):
+            bundle_arg = bundle_mpp_path
+            if bundle_repo and (not os.path.exists(bundle_mpp_path) or os.path.getsize(bundle_mpp_path) < 1000):
+                bundle_arg = f"https://github.com/{bundle_repo}"
+
             cmd = [
                 "java", "-jar", self.cli_jar_path,
                 "patch",
-                "--patches", bundle_mpp_path,
-                "--out", output_apk_path,
+                f"--patches={bundle_arg}",
+                "-f",
+                "--continue-on-error",
+                f"-o={output_apk_path}",
                 base_apk_path,
             ]
             if enabled_patches:
@@ -317,7 +324,7 @@ class MorphePatcher:
             logger.info("Executing Morphe CLI patch: %s", " ".join(cmd))
             try:
                 proc = subprocess.run(cmd, capture_output=True, text=True, timeout=300)
-                if proc.returncode == 0 and os.path.exists(output_apk_path):
+                if proc.returncode == 0 and os.path.exists(output_apk_path) and os.path.getsize(output_apk_path) > 0:
                     return True, "Successfully patched with Morphe CLI"
                 logger.warning("Morphe CLI exited with code %d: %s", proc.returncode, proc.stderr)
             except Exception as exc:

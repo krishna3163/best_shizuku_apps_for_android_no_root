@@ -1079,25 +1079,24 @@
   "morphe-youtube-nonroot": {
     "app_type": "non-root",
     "build_type": "autobuild",
-    "bundle_name": "Official Morphe Patches",
+    "bundle_name": "morphe-patches",
     "bundle_repo": "MorpheApp/morphe-patches",
     "channel": "stable",
-    "file_size": 926,
+    "file_size": 908,
     "filename": "morphe-youtube-nonroot-19.16.39.apk",
-    "name": "YouTube (Morphe Non-Root)",
+    "name": "YouTube (Morphe Patched) (Non-Root)",
     "package_name": "com.google.android.youtube",
     "patches": [
-      "GmsCore support",
-      "Hide ads",
-      "Background playback",
+      "Ad-Free",
+      "Background Playback",
       "SponsorBlock",
-      "Return YouTube Dislike",
-      "AMOLED black theme"
+      "Return Dislike",
+      "AMOLED Black"
     ],
     "release_tag": "morphe-youtube-nonroot-19.16.39",
-    "sha256": "29c417cf3f03ed6b449bb58fa3af9407361b0256f610543b4a5d3615ae9b4d1b",
+    "sha256": "3962430f05958bc3a1549f4f3da277e9e6381b50a6cf50d2108ddd4a602f8797",
     "slug": "morphe-youtube-nonroot",
-    "updated_at": "2026-10-23T14:56:27.587155+00:00",
+    "updated_at": "2026-10-23T16:15:58.447493+00:00",
     "version": "19.16.39"
   },
   "mvaishak-letterboxd": {

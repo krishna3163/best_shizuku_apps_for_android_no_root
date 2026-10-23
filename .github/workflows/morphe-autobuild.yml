@@ -1,8 +1,15 @@
 name: Morphe Patched Apps Auto-Build & Sync (Non-Root)
 
 on:
+  push:
+    branches:
+      - main
+    paths:
+      - "config/morphe_apps.json"
+      - ".github/workflows/morphe-autobuild.yml"
+      - "scripts/**"
   schedule:
-    - cron: "0 */8 * * *"
+    - cron: "0 */6 * * *"
   workflow_dispatch:
     inputs:
       app:
@@ -74,6 +81,16 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
+      - name: Download Morphe Desktop CLI
+        run: |
+          mkdir -p data
+          CLI_URL=$(curl -sL https://api.github.com/repos/MorpheApp/morphe-desktop/releases/latest | grep "browser_download_url.*-all.jar" | head -n 1 | cut -d '"' -f 4)
+          if [ -n "$CLI_URL" ]; then
+            echo "Downloading Morphe Desktop CLI from $CLI_URL..."
+            curl -sSL --connect-timeout 30 --max-time 300 -o data/morphe-desktop.jar "$CLI_URL"
+            java -jar data/morphe-desktop.jar --help > /dev/null 2>&1 && echo "Morphe Desktop CLI verified successfully" || echo "Morphe CLI verification fallback"
+          fi
+
       - name: Run Morphe Auto-Builder
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -101,7 +118,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/ README.md
+          git add data/ README*.md docs/ MORPHE.md
           if ! git diff --cached --quiet; then
             git commit -m "chore: auto-build & sync morphe non-root releases [skip ci]"
             for i in {1..5}; do
