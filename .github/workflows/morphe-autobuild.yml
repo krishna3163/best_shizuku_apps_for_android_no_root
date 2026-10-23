@@ -6,6 +6,11 @@ on:
       - main
     paths:
       - "config/morphe_apps.json"
+      - "patch-config.json"
+      - "arch-config.json"
+      - "sources/**"
+      - "apps/**"
+      - "src/**"
       - ".github/workflows/morphe-autobuild.yml"
       - "scripts/**"
   schedule:
@@ -60,6 +65,12 @@ jobs:
   build-and-sync:
     name: Build & Synchronize Morphe Releases
     runs-on: ubuntu-latest
+    services:
+      flaresolverr:
+        image: ghcr.io/flaresolverr/flaresolverr:latest
+        ports:
+          - 8192:8191
+        options: --shm-size=1gb
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -71,6 +82,10 @@ jobs:
         with:
           distribution: "temurin"
           java-version: "21"
+
+      - name: Setup Android Build Tools (apksigner & zipalign)
+        run: |
+          sudo apt-get update && sudo apt-get install -y apksigner zipalign
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -94,6 +109,8 @@ jobs:
       - name: Run Morphe Auto-Builder
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          FLARESOLVERR_URL: http://localhost:8192/v1
         run: |
           ARGS=""
           if [ -n "${{ inputs.app }}" ]; then
@@ -118,7 +135,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/ README*.md docs/ MORPHE.md
+          git add data/ README*.md docs/ MORPHE.md patch-config.json
           if ! git diff --cached --quiet; then
             git commit -m "chore: auto-build & sync morphe non-root releases [skip ci]"
             for i in {1..5}; do

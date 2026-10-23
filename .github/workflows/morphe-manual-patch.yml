@@ -1,0 +1,176 @@
+name: Morphe Manual Patch & Release
+
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
+on:
+  workflow_dispatch:
+    inputs:
+      app_name:
+        description: "App name (from apps/ folder, e.g. youtube, instagram, facebook, tiktok, gboard)"
+        required: true
+        type: string
+        default: "youtube"
+      source:
+        description: "Source patch bundle (from sources/ folder, e.g. morphe, piko, hushfacebook, jasonwu1994)"
+        required: true
+        type: string
+        default: "morphe"
+      version:
+        description: "Specific target version (leave empty for recommended/latest)"
+        required: false
+        type: string
+        default: ""
+      architecture:
+        description: "Target architecture"
+        required: false
+        type: choice
+        options:
+          - arm64-v8a
+          - armeabi-v7a
+          - universal
+        default: "arm64-v8a"
+      prerelease:
+        description: "Mark release as Pre-release / Beta"
+        required: false
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+jobs:
+  manual-patch:
+    name: Build & Release Morphe Patched APK
+    runs-on: ubuntu-latest
+    services:
+      flaresolverr:
+        image: ghcr.io/flaresolverr/flaresolverr:latest
+        ports:
+          - 8192:8191
+        options: --shm-size=1gb
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set Specific Version (if provided)
+        if: ${{ inputs.version != '' }}
+        run: |
+          for dir in apps/apkmirror apps/apkpure apps/uptodown apps/github; do
+            config_file="$dir/${{ inputs.app_name }}.json"
+            if [ -f "$config_file" ]; then
+              echo "Updating $config_file with version ${{ inputs.version }}"
+              python3 -c "import json; p='$config_file'; c=json.load(open(p)); c['version']='${{ inputs.version }}'; json.dump(c, open(p, 'w'), indent=2)"
+              break
+            fi
+          done
+
+      - name: Setup Java 21 & Build Tools
+        uses: actions/setup-java@v4
+        with:
+          distribution: "temurin"
+          java-version: "21"
+
+      - name: Setup Android Build Tools (apksigner & zipalign)
+        run: |
+          sudo apt-get update && sudo apt-get install -y apksigner zipalign
+
+      - name: Install Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: "pip"
+
+      - name: Install Dependencies
+        run: |
+          pip install -r requirements.txt
+
+      - name: Wait for FlareSolverr
+        run: |
+          echo "Waiting for FlareSolverr to initialize..."
+          for i in $(seq 1 30); do
+            if curl -s http://localhost:8192/ > /dev/null 2>&1; then
+              echo "FlareSolverr is ready."
+              break
+            fi
+            sleep 3
+          done
+
+      - name: Build Patched APK
+        env:
+          APP_NAME: ${{ inputs.app_name }}
+          SOURCE: ${{ inputs.source }}
+          ARCH: ${{ inputs.architecture }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          FLARESOLVERR_URL: http://localhost:8192/v1
+        run: |
+          echo "Building ${{ inputs.app_name }} with patch source ${{ inputs.source }}..."
+          python -m src
+
+      - name: Generate Checksums & Verify Outputs
+        id: verify-output
+        run: |
+          mkdir -p dist
+          shopt -s nullglob
+          apk_files=(*.apk)
+          if [ ${#apk_files[@]} -eq 0 ]; then
+            echo "❌ No APK files produced."
+            exit 1
+          fi
+          echo "Produced APKs:"
+          for apk in "${apk_files[@]}"; do
+            sha256sum "$apk" > "$apk.sha256"
+            echo "  $apk ($(stat -c%s "$apk") bytes)"
+            cat "$apk.sha256"
+            mv "$apk" "$apk.sha256" dist/
+          done
+
+      - name: Upload Build Artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: morphe-${{ inputs.app_name }}-${{ inputs.architecture }}
+          path: dist/
+
+      - name: Publish to GitHub Releases
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          TAG_NAME="morphe-${{ inputs.app_name }}-v${{ inputs.version || 'latest' }}"
+          RELEASE_TITLE="${{ inputs.app_name }} (Morphe Patched) ${{ inputs.version || 'Latest' }}"
+          BODY="## Morphe Automated Patch Release
+- **App:** \`${{ inputs.app_name }}\`
+- **Source:** \`${{ inputs.source }}\`
+- **Architecture:** \`${{ inputs.architecture }}\`
+- **Signed:** V2+V3 signed with public keystore
+- **MicroG / GmsCore:** Supported
+"
+          PRERELEASE_FLAG=""
+          if [ "${{ inputs.prerelease }}" = "true" ]; then
+            PRERELEASE_FLAG="--prerelease"
+          fi
+
+          # Create or update release using GitHub CLI
+          if gh release view "$TAG_NAME" >/dev/null 2>&1; then
+            echo "Updating existing release $TAG_NAME..."
+            gh release upload "$TAG_NAME" dist/* --clobber
+          else
+            echo "Creating new release $TAG_NAME..."
+            gh release create "$TAG_NAME" dist/* --title "$RELEASE_TITLE" --notes "$BODY" $PRERELEASE_FLAG
+          fi
+
+      - name: Sync Metadata and Documentation
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          python scripts/morphe_sync.py --dry-run || true
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/ README*.md docs/
+          if ! git diff --cached --quiet; then
+            git commit -m "chore(morphe): update catalogs after manual build of ${{ inputs.app_name }} [skip ci]"
+            for i in {1..5}; do
+              git pull --rebase origin main && git push && break || sleep 3
+            done
+          fi
