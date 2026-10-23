@@ -468,16 +468,16 @@ A dedicated zero-dependency terminal companion to search 500+ apps, inspect meta
 
 | App | Developer | Version | Released | APK | Upstream |
 |:---|:---|:---|:---|:---|:---|
+| ⚡ **CTS** | ankitchanki | `v1.4.1` | 2026-10-23 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/cts-v1.4.1) | [Upstream](https://github.com/ankitchanki/CTS/releases) |
 | ⚡ **wolfi-terminal** | leloush-x | `v1.3.1` | 2026-10-23 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/wolfi-terminal-v1.3.1) | [Upstream](https://github.com/leloush-x/wolfi-terminal/releases) |
+| ⚡ **CantosHub** | getw0rk3d | `v1.3.2` | 2026-10-23 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/cantoshub-v1.3.2) | [Upstream](https://github.com/getw0rk3d/CantosHub/releases) |
 | ⚡ **Pulse** | xUmutKx | `v0.10.306` | 2026-10-23 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/pulse-v0.10.306) | [Upstream](https://github.com/xUmutKx/Pulse/releases) |
 | ⚡ **SandFly** | aaron-gh | `v0.1.7` | 2026-10-23 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/sandfly-v0.1.7) | [Upstream](https://github.com/aaron-gh/SandFly/releases) |
 | ⚡ **Morphe Manager** | MorpheApp | `v2.1.0` | 2026-10-23 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/morphe-manager-v2.1.0) | [Upstream](https://github.com/MorpheApp/morphe-manager/releases) |
 | ⚡ **OpenLiquidLauncher** | LinuxKernel44 | `v1.23.5` | 2026-10-23 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/openliquidlauncher-v1.23.5) | [Upstream](https://github.com/LinuxKernel44/OpenLiquidLauncher/releases) |
 | ⚡ **RePair** | bassembaraya | `v1.0.49` | 2026-10-23 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/repair-v1.0.49) | [Upstream](https://github.com/bassembaraya/RePair/releases) |
+| ⚡ **DATACLIAR** | parvez-devs | `v1.3.0` | 2026-10-23 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/datacliar-v1.3.0) | [Upstream](https://github.com/parvez-devs/DATACLIAR/releases) |
 | ⚡ **imgtxd-studio** | pkok1099 | `v3.3.0` | 2026-10-23 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/imgtxd-studio-v3.3.0) | [Upstream](https://github.com/pkok1099/imgtxd-studio/releases) |
-| ⚡ **duobeam** | Gengaroshi | `v0.8.9` | 2026-10-23 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/duobeam-v0.8.9) | [Upstream](https://github.com/Gengaroshi/duobeam/releases) |
-| ⚡ **DevicePerfMonitor** | sitong-zhang | `v1.0.8` | 2026-10-23 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/deviceperfmonitor-v1.0.8) | [Upstream](https://github.com/sitong-zhang/DevicePerfMonitor/releases) |
-| ⚡ **Android-Guru-Agent** | AceGuru-mjh | `v1.4.9.42` | 2026-10-23 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/android-guru-agent-v1.4.9.42) | [Upstream](https://github.com/AceGuru-mjh/Android-Guru-Agent/releases) |
 
 </details>
 <!-- RECENT-UPDATES-END -->
