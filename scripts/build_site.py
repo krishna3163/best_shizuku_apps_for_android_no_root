@@ -83,6 +83,36 @@ def parse_catalog() -> list[dict]:
                 "featured": is_featured
             })
 
+    # Include Morphe releases
+    morphe_path = ROOT / "data" / "morphe-releases.json"
+    if morphe_path.exists():
+        try:
+            with open(morphe_path, "r", encoding="utf-8") as f:
+                morphe_db = json.load(f)
+            for slug, item in morphe_db.items():
+                name = item.get("name", slug)
+                tag = item.get("release_tag", "")
+                download_url = f"https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/{tag}"
+                bundle_url = f"https://github.com/{item.get('bundle_repo', '')}"
+                build_type = item.get("build_type", "autobuild")
+                channel = item.get("channel", "stable")
+                patches = ", ".join(item.get("patches", [])[:3])
+                desc = f"[{build_type.upper()}] [{channel.upper()}] Patched with {item.get('bundle_name', 'Morphe')}. Key Patches: {patches}. SHA-256: {item.get('sha256', '')[:10]}..."
+                entries.append({
+                    "name": f"⚡ {name}",
+                    "url": download_url,
+                    "description": desc,
+                    "license": "Morphe Patched APK",
+                    "links": [
+                        {"label": "⬇️ Download APK", "url": download_url},
+                        {"label": "Bundle Source", "url": bundle_url},
+                    ],
+                    "category": "⚡ Morphe Patched Apps",
+                    "featured": True,
+                })
+        except Exception as exc:
+            print(f"Error loading Morphe releases: {exc}")
+
     return entries
 
 
