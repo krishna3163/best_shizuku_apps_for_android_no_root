@@ -709,6 +709,25 @@ def build_html():
     except Exception as exc:
         print(f"Notice: feed/fdroid generation: {exc}")
 
+    try:
+        from morphe_sync import update_all_morphe_pages
+        morphe_releases_path = ROOT / "data" / "morphe-releases.json"
+        morphe_status_path = ROOT / "data" / "morphe-status.json"
+        morphe_config_path = ROOT / "config" / "morphe_apps.json"
+        if morphe_releases_path.exists() and morphe_config_path.exists():
+            with open(morphe_releases_path, "r", encoding="utf-8") as f:
+                r_db = json.load(f)
+            s_db = {}
+            if morphe_status_path.exists():
+                with open(morphe_status_path, "r", encoding="utf-8") as f:
+                    s_db = json.load(f)
+            with open(morphe_config_path, "r", encoding="utf-8") as f:
+                c_apps = json.load(f).get("apps", [])
+            update_all_morphe_pages(r_db, s_db, c_apps)
+            print("Generated site/morphe.html and docs/MORPHE.md")
+    except Exception as exc:
+        print(f"Notice: morphe page generation: {exc}")
+
 
 if __name__ == "__main__":
     build_html()
