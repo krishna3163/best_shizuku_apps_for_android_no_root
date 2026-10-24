@@ -15103,5 +15103,62 @@
     ],
     "mirror_release_tag": "agentpaw-v0.3.1",
     "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/agentpaw-v0.3.1"
+  },
+  "hush": {
+    "source_repository": "coldMEW/Hush",
+    "source_release_id": 422334748,
+    "source_tag": "v1.0.0",
+    "source_published_at": "2026-10-23T21:42:42Z",
+    "synced_at": "2026-10-24T02:54:47.582935+00:00",
+    "assets": [
+      {
+        "source_asset_id": 670493029,
+        "filename": "Hush-1.0.0.apk",
+        "original_filename": "Hush-1.0.0.apk",
+        "sha256": "83eb75f26a0ad186667bac8825215c11aaa1bacaa2a2d68d7dfb9b6b4e00c0d4",
+        "file_size": 168668,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "hush-v1.0.0",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/hush-v1.0.0"
+  },
+  "drecorder": {
+    "source_repository": "dhhxfggg2023/Drecorder",
+    "source_release_id": 422460636,
+    "source_tag": "v0.3.12",
+    "source_published_at": "2026-10-24T02:11:15Z",
+    "synced_at": "2026-10-24T02:54:54.779339+00:00",
+    "assets": [
+      {
+        "source_asset_id": 671016068,
+        "filename": "drecorder-0.3.12.apk",
+        "original_filename": "drecorder-0.3.12.apk",
+        "sha256": "c8fa61ff6a05b44f0428ddb50e6d46618f9d4a39154cad62150fb595792e94a3",
+        "file_size": 53088060,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "drecorder-v0.3.12",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/drecorder-v0.3.12"
+  },
+  "scrcpy-terminal": {
+    "source_repository": "pwnedbygary/scrcpy-terminal",
+    "source_release_id": 399754660,
+    "source_tag": "v2.2.0",
+    "source_published_at": "2026-09-30T05:55:55Z",
+    "synced_at": "2026-10-24T02:54:58.367924+00:00",
+    "assets": [
+      {
+        "source_asset_id": 600159270,
+        "filename": "scterm-android-2.2.0.apk",
+        "original_filename": "scterm-android-2.2.0.apk",
+        "sha256": "c6b6b23d9258108e72ace20d9d64c7956d13c685951d29919a133aec1fa8a8e2",
+        "file_size": 444042,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "scrcpy-terminal-v2.2.0",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/scrcpy-terminal-v2.2.0"
   }
 }
