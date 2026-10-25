@@ -15425,5 +15425,184 @@
     ],
     "mirror_release_tag": "game-booster-android-v20.6.0-PRO",
     "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/game-booster-android-v20.6.0-PRO"
+  },
+  "tsuyu": {
+    "source_repository": "Sygix/Tsuyu",
+    "source_release_id": 423022862,
+    "source_tag": "v0.3.0",
+    "source_published_at": "2026-10-24T22:41:16Z",
+    "synced_at": "2026-10-25T02:47:50.796548+00:00",
+    "assets": [
+      {
+        "source_asset_id": 673494192,
+        "filename": "tsuyu.apk",
+        "original_filename": "tsuyu.apk",
+        "sha256": "cdf7d3332aab5a32eb7dfd768dded47395b980b94b623c149ef0241d3fae9d6a",
+        "file_size": 2991965,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "tsuyu-v0.3.0",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/tsuyu-v0.3.0"
+  },
+  "volume-power": {
+    "source_repository": "Uxzaam/Volume-Power",
+    "source_release_id": 423093178,
+    "source_tag": "VolumePowerPlus-v4",
+    "source_published_at": "2026-10-25T01:55:48Z",
+    "synced_at": "2026-10-25T02:47:55.220299+00:00",
+    "assets": [
+      {
+        "source_asset_id": 673839450,
+        "filename": "VolumePowerPlus-apk.V4.1.apk",
+        "original_filename": "VolumePowerPlus-apk.V4.1.apk",
+        "sha256": "8774383cf990aee46509dbd7a8be455a74b5064a0e053c429c9a947ab5e4c1d6",
+        "file_size": 11723722,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "volume-power-VolumePowerPlus-v4",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/volume-power-VolumePowerPlus-v4"
+  },
+  "lunamacro": {
+    "source_repository": "2581414411-blip/LunaMacro",
+    "source_release_id": 423105361,
+    "source_tag": "v0.7.0",
+    "source_published_at": "2026-10-25T02:30:32Z",
+    "synced_at": "2026-10-25T02:48:02.342640+00:00",
+    "assets": [
+      {
+        "source_asset_id": 673889835,
+        "filename": "LunaMacro-0.7.0.apk",
+        "original_filename": "LunaMacro-0.7.0.apk",
+        "sha256": "e382407e0af4e65d010fa4d6220af468e9a93e4d753353adc4a0ba8777c5f59e",
+        "file_size": 46392211,
+        "architecture": "arm64-v8a"
+      }
+    ],
+    "mirror_release_tag": "lunamacro-v0.7.0",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/lunamacro-v0.7.0"
+  },
+  "notice": {
+    "source_repository": "Halo0sama/Notice",
+    "source_release_id": 423043712,
+    "source_tag": "v0.2.0",
+    "source_published_at": "2026-10-24T23:36:31Z",
+    "synced_at": "2026-10-25T02:48:09.621237+00:00",
+    "assets": [
+      {
+        "source_asset_id": 673585648,
+        "filename": "Notice-0.2.0.apk",
+        "original_filename": "Notice-0.2.0.apk",
+        "sha256": "ac7fbbd6f38205716e7b46350f3fc4b8ef798feac5e735deb21e16d3c6ec97ac",
+        "file_size": 66687755,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "notice-v0.2.0",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/notice-v0.2.0"
+  },
+  "muimex11": {
+    "source_repository": "Inkflow-Gab/Muimex11",
+    "source_release_id": 423097809,
+    "source_tag": "v4.1",
+    "source_published_at": "2026-10-25T02:09:09Z",
+    "synced_at": "2026-10-25T02:48:17.989935+00:00",
+    "assets": [
+      {
+        "source_asset_id": 673855824,
+        "filename": "Muimex11-4.1.apk",
+        "original_filename": "Muimex11-4.1.apk",
+        "sha256": "bdaab780f3d08706486d864de23dd6a00926fd7d274779bcefbc46aea22dab6c",
+        "file_size": 69886331,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "muimex11-v4.1",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/muimex11-v4.1"
+  },
+  "rear-card-bridge": {
+    "source_repository": "finall1008/rear-card-bridge",
+    "source_release_id": 423105830,
+    "source_tag": "v1.3.1",
+    "source_published_at": "2026-10-25T02:31:52Z",
+    "synced_at": "2026-10-25T02:48:22.963965+00:00",
+    "assets": [
+      {
+        "source_asset_id": 673892050,
+        "filename": "rear-card-bridge-v1.3.1.apk",
+        "original_filename": "rear-card-bridge-v1.3.1.apk",
+        "sha256": "2c6bc42f825c8a9bc802201a8406a9693869c6b09529011e403e08779c78e10f",
+        "file_size": 27342101,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "rear-card-bridge-v1.3.1",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/rear-card-bridge-v1.3.1"
+  },
+  "ai-coding-ide": {
+    "source_repository": "saboracaiteria/AI-Coding-IDE",
+    "source_release_id": 423071053,
+    "source_tag": "v2.3.6-delux",
+    "source_published_at": "2026-10-25T00:51:39Z",
+    "synced_at": "2026-10-25T02:48:38.507271+00:00",
+    "assets": [
+      {
+        "source_asset_id": 673725278,
+        "filename": "AI-Coding-IDE-v2.3.6-delux-arm64.apk",
+        "original_filename": "AI-Coding-IDE-v2.3.6-delux-arm64.apk",
+        "sha256": "0dcc32b5a419294e38d8fe1b93683f4ea6d79adc5a64e520bcc95db87af28af6",
+        "file_size": 184203823,
+        "architecture": "arm64-v8a"
+      }
+    ],
+    "mirror_release_tag": "ai-coding-ide-v2.3.6-delux",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/ai-coding-ide-v2.3.6-delux"
+  },
+  "flip-duo": {
+    "source_repository": "yunusemrekayis/flip-duo",
+    "source_release_id": 423069514,
+    "source_tag": "v1.3.0-flip.2-b2",
+    "source_published_at": "2026-10-25T00:47:13Z",
+    "synced_at": "2026-10-25T02:48:47.638513+00:00",
+    "assets": [
+      {
+        "source_asset_id": 673717618,
+        "filename": "FlipDuo-1.3.0-flip.2-lite.apk",
+        "original_filename": "FlipDuo-1.3.0-flip.2-lite.apk",
+        "sha256": "963a0e504a038a0ccdae0fa78680e37109fd6b777c63a23ff2fbe8767116d03a",
+        "file_size": 19458701,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      },
+      {
+        "source_asset_id": 673717617,
+        "filename": "FlipDuo-1.3.0-flip.2.apk",
+        "original_filename": "FlipDuo-1.3.0-flip.2.apk",
+        "sha256": "7d954eff6a8dfe82306d7b76d9333159389fb9b7e1252ed8d0fb6c775b3f6563",
+        "file_size": 19624421,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "flip-duo-v1.3.0-flip.2-b2",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/flip-duo-v1.3.0-flip.2-b2"
+  },
+  "patch-font-where-winds-meet": {
+    "source_repository": "thtuan612/Patch-Font-Where-Winds-Meet",
+    "source_release_id": 423102896,
+    "source_tag": "latest",
+    "source_published_at": "2026-10-25T02:23:44Z",
+    "synced_at": "2026-10-25T02:48:50.878105+00:00",
+    "assets": [
+      {
+        "source_asset_id": 673877912,
+        "filename": "app-released-1.3.1_dev.apk",
+        "original_filename": "app-released-1.3.1_dev.apk",
+        "sha256": "e23ff14ef911eff41b192bca331742d3a85a0153ff9536664b98f65ee5a87fb8",
+        "file_size": 1380356,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "patch-font-where-winds-meet-latest",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/patch-font-where-winds-meet-latest"
   }
 }
