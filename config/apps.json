@@ -11727,6 +11727,118 @@
         ".*unsigned.*",
         ".*test.*"
       ]
+    },
+    {
+      "name": "REDMAGIC_Mini_Window",
+      "slug": "redmagic-mini-window",
+      "repository": "jpruful/REDMAGIC_Mini_Window",
+      "enabled": true,
+      "shizuku": true,
+      "release_strategy": "latest-stable",
+      "asset_patterns": [
+        ".*\\.apk$"
+      ],
+      "exclude_patterns": [
+        ".*debug.*",
+        ".*unsigned.*",
+        ".*test.*"
+      ]
+    },
+    {
+      "name": "classic-dockmode",
+      "slug": "classic-dockmode",
+      "repository": "gevky/classic-dockmode",
+      "enabled": true,
+      "shizuku": true,
+      "release_strategy": "latest-stable",
+      "asset_patterns": [
+        ".*\\.apk$"
+      ],
+      "exclude_patterns": [
+        ".*debug.*",
+        ".*unsigned.*",
+        ".*test.*"
+      ]
+    },
+    {
+      "name": "PyEditor",
+      "slug": "pyeditor",
+      "repository": "CYX-PyEditor/PyEditor",
+      "enabled": true,
+      "shizuku": true,
+      "release_strategy": "latest-stable",
+      "asset_patterns": [
+        ".*\\.apk$"
+      ],
+      "exclude_patterns": [
+        ".*debug.*",
+        ".*unsigned.*",
+        ".*test.*"
+      ]
+    },
+    {
+      "name": "spotifyplus-tv-patch",
+      "slug": "spotifyplus-tv-patch",
+      "repository": "AlphadogRSA/spotifyplus-tv-patch",
+      "enabled": true,
+      "shizuku": true,
+      "release_strategy": "latest-stable",
+      "asset_patterns": [
+        ".*\\.apk$"
+      ],
+      "exclude_patterns": [
+        ".*debug.*",
+        ".*unsigned.*",
+        ".*test.*"
+      ]
+    },
+    {
+      "name": "HarnessForAndroid",
+      "slug": "harnessforandroid",
+      "repository": "ALL-PAY-C/HarnessForAndroid",
+      "enabled": true,
+      "shizuku": true,
+      "release_strategy": "latest-stable",
+      "asset_patterns": [
+        ".*\\.apk$"
+      ],
+      "exclude_patterns": [
+        ".*debug.*",
+        ".*unsigned.*",
+        ".*test.*"
+      ]
+    },
+    {
+      "name": "valleysave-app",
+      "slug": "valleysave-app",
+      "repository": "hirieo/valleysave-app",
+      "enabled": true,
+      "shizuku": true,
+      "release_strategy": "latest-stable",
+      "asset_patterns": [
+        ".*\\.apk$"
+      ],
+      "exclude_patterns": [
+        ".*debug.*",
+        ".*unsigned.*",
+        ".*test.*"
+      ]
+    },
+    {
+      "name": "shield-overscan-profiles",
+      "slug": "shield-overscan-profiles",
+      "repository": "fireworksordie/shield-overscan-profiles",
+      "enabled": true,
+      "shizuku": true,
+      "release_strategy": "latest-stable",
+      "asset_patterns": [
+        ".*\\.apk$"
+      ],
+      "exclude_patterns": [
+        ".*debug.*",
+        ".*unsigned.*",
+        ".*test.*"
+      ]
     }
   ],
   "defaults": {
