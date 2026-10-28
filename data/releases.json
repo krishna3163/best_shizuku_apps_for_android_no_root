@@ -16590,5 +16590,132 @@
     ],
     "mirror_release_tag": "shield-overscan-profiles-build-9",
     "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/shield-overscan-profiles-build-9"
+  },
+  "dual-audio": {
+    "source_repository": "xTudoS/dual-audio",
+    "source_release_id": 417102063,
+    "source_tag": "v1.0.1",
+    "source_published_at": "2026-10-19T09:16:05Z",
+    "synced_at": "2026-10-28T03:35:39.641132+00:00",
+    "assets": [
+      {
+        "source_asset_id": 655793130,
+        "filename": "DualAudio-v1.0.1.apk",
+        "original_filename": "DualAudio-v1.0.1.apk",
+        "sha256": "d7cc25ffd40bf1332642495889df3916a09a332795e0a045908bebd50ef8d6fd",
+        "file_size": 4491174,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "dual-audio-v1.0.1",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/dual-audio-v1.0.1"
+  },
+  "ai-phone-doctor-app": {
+    "source_repository": "baroisaac18-hub/AI-phone_doctor-app-",
+    "source_release_id": 426229150,
+    "source_tag": "Android",
+    "source_published_at": "2026-10-28T03:27:20Z",
+    "synced_at": "2026-10-28T03:35:44.351637+00:00",
+    "assets": [
+      {
+        "source_asset_id": 683682875,
+        "filename": "Ai.phone.doctor.apk",
+        "original_filename": "Ai.phone.doctor.apk",
+        "sha256": "3edc76d3ac7ba000d4b61f56a883ccf6b01f3a8c0d804ebcdcc5142577e17041",
+        "file_size": 14806848,
+        "architecture": "arm64-v8a"
+      }
+    ],
+    "mirror_release_tag": "ai-phone-doctor-app-Android",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/ai-phone-doctor-app-Android"
+  },
+  "rootlessjamesdsp-skdsp": {
+    "source_repository": "bunbun-midi/RootlessJamesDSP-SKDSP",
+    "source_release_id": 426079330,
+    "source_tag": "v1",
+    "source_published_at": "2026-10-27T23:05:12Z",
+    "synced_at": "2026-10-28T03:36:10.062334+00:00",
+    "assets": [
+      {
+        "source_asset_id": 683144997,
+        "filename": "JamesDSP-v1.0.1-3-rootless-full-arm64-v8a-release.apk",
+        "original_filename": "JamesDSP-v1.0.1-3-rootless-full-arm64-v8a-release.apk",
+        "sha256": "f94424832a6b7a9c843d94e4b87fc9320b4fda3dbc2ccccafe1208c779b586e4",
+        "file_size": 40206001,
+        "architecture": "arm64-v8a"
+      },
+      {
+        "source_asset_id": 683144126,
+        "filename": "JamesDSP-v1.0.1-3-rootless-full-armeabi-v7a-release.apk",
+        "original_filename": "JamesDSP-v1.0.1-3-rootless-full-armeabi-v7a-release.apk",
+        "sha256": "d96be6b60ab6a1cec87502218cac2902c43cd355f2fd18aebfaa7904ac12d088",
+        "file_size": 38966521,
+        "architecture": "armeabi-v7a"
+      },
+      {
+        "source_asset_id": 683142822,
+        "filename": "JamesDSP-v1.0.1-3-rootless-full-universal-release.apk",
+        "original_filename": "JamesDSP-v1.0.1-3-rootless-full-universal-release.apk",
+        "sha256": "344bbbac6b513a27433810bb709d670cd96189cd26d62f4bd6824b3dd8773d91",
+        "file_size": 53406885,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      },
+      {
+        "source_asset_id": 683141917,
+        "filename": "JamesDSP-v1.0.1-3-rootless-full-x86-release.apk",
+        "original_filename": "JamesDSP-v1.0.1-3-rootless-full-x86-release.apk",
+        "sha256": "c35e8dcc5c0659fb8481be9c554bd6cb47ef4486722d20b67dbec534edd02df6",
+        "file_size": 40618097,
+        "architecture": "x86"
+      },
+      {
+        "source_asset_id": 683140520,
+        "filename": "JamesDSP-v1.0.1-3-rootless-full-x86_64-release.apk",
+        "original_filename": "JamesDSP-v1.0.1-3-rootless-full-x86_64-release.apk",
+        "sha256": "f38d61f546ddd8b3ed6d6a89a2b626303201476dbaae506df4af8b0b26b7fe65",
+        "file_size": 40609033,
+        "architecture": "x86_64"
+      }
+    ],
+    "mirror_release_tag": "rootlessjamesdsp-skdsp-v1",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/rootlessjamesdsp-skdsp-v1"
+  },
+  "deepseek-ai": {
+    "source_repository": "hf805864818/deepseek-ai",
+    "source_release_id": 423182879,
+    "source_tag": "v1.0.236",
+    "source_published_at": "2026-10-25T06:13:54Z",
+    "synced_at": "2026-10-28T03:36:16.729832+00:00",
+    "assets": [
+      {
+        "source_asset_id": 674263041,
+        "filename": "Ai-v1.0.236.apk",
+        "original_filename": "Ai-v1.0.236.apk",
+        "sha256": "fa00ebeceb280f68c4af86e6a61afead27ce700054a6f2dd85655d073b79b6d3",
+        "file_size": 36555381,
+        "architecture": "arm64-v8a"
+      }
+    ],
+    "mirror_release_tag": "deepseek-ai-v1.0.236",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/deepseek-ai-v1.0.236"
+  },
+  "oppocustomsidebuttonfunctions": {
+    "source_repository": "SlimeNull/OppoCustomSideButtonFunctions",
+    "source_release_id": 426220934,
+    "source_tag": "v1.0.11",
+    "source_published_at": "2026-10-28T03:09:43Z",
+    "synced_at": "2026-10-28T03:36:21.794202+00:00",
+    "assets": [
+      {
+        "source_asset_id": 683654057,
+        "filename": "app-release.apk",
+        "original_filename": "app-release.apk",
+        "sha256": "b5bf8db48f806c2cb5806ce7d2441687b28000cc57c20b5f4ab67dce1ee15622",
+        "file_size": 11303008,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "oppocustomsidebuttonfunctions-v1.0.11",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/oppocustomsidebuttonfunctions-v1.0.11"
   }
 }
