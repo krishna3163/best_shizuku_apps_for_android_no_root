@@ -17031,22 +17031,22 @@
   },
   "deepseekharness-android": {
     "source_repository": "jackwener/DeepseekHarness-Android",
-    "source_release_id": 428766098,
-    "source_tag": "v0.2.4",
-    "source_published_at": "2026-10-30T07:48:14Z",
-    "synced_at": "2026-10-30T12:03:37.096199+00:00",
+    "source_release_id": 429314153,
+    "source_tag": "v0.2.6",
+    "source_published_at": "2026-10-30T17:32:58Z",
+    "synced_at": "2026-10-30T17:38:12.278441+00:00",
     "assets": [
       {
-        "source_asset_id": 691358600,
-        "filename": "DSH-Android-v0.2.4-arm64.apk",
-        "original_filename": "DSH-Android-v0.2.4-arm64.apk",
-        "sha256": "43bcf88d0eb408f4fb1e4073a7524faa112c68c6266af142ec195ae6c11f67ba",
-        "file_size": 94470125,
+        "source_asset_id": 692881808,
+        "filename": "DSH-Android-v0.2.6-arm64.apk",
+        "original_filename": "DSH-Android-v0.2.6-arm64.apk",
+        "sha256": "07fc4f9b6da65b44e748278a7f3e49cbeabe07c27a08c67c24f0c4d309d50f77",
+        "file_size": 94835463,
         "architecture": "arm64-v8a"
       }
     ],
-    "mirror_release_tag": "deepseekharness-android-v0.2.4",
-    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/deepseekharness-android-v0.2.4"
+    "mirror_release_tag": "deepseekharness-android-v0.2.6",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/deepseekharness-android-v0.2.6"
   },
   "jarvis-android-version": {
     "source_repository": "Rishu123-png/Jarvis---Android-Version-",
@@ -17557,5 +17557,108 @@
     ],
     "mirror_release_tag": "cloudy-u-android-cloud-comms-matrix-20261029.200045",
     "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/cloudy-u-android-cloud-comms-matrix-20261029.200045"
+  },
+  "netmodeswitch": {
+    "source_repository": "lenox108/NetModeSwitch",
+    "source_release_id": 427115650,
+    "source_tag": "v3.4",
+    "source_published_at": "2026-10-28T19:45:33Z",
+    "synced_at": "2026-10-30T17:37:54.918806+00:00",
+    "assets": [
+      {
+        "source_asset_id": 686137119,
+        "filename": "NetModeSwitch-3.4-a10.apk",
+        "original_filename": "NetModeSwitch-3.4-a10.apk",
+        "sha256": "3bd5d628fb14afc451c828dc647d99ae5717ff4e77331d1525f1e3a7c7886e5e",
+        "file_size": 3249381,
+        "architecture": "arm64-v8a"
+      },
+      {
+        "source_asset_id": 686137118,
+        "filename": "NetModeSwitch-3.4.apk",
+        "original_filename": "NetModeSwitch-3.4.apk",
+        "sha256": "272cf3f86d328c3c21fc97b1d43b53b957fb803b3da25b3f7352a89145e36a83",
+        "file_size": 3143059,
+        "architecture": "arm64-v8a"
+      }
+    ],
+    "mirror_release_tag": "netmodeswitch-v3.4",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/netmodeswitch-v3.4"
+  },
+  "game-booster-2-0": {
+    "source_repository": "gailowilly649-linux/GAME-BOOSTER-2.0",
+    "source_release_id": 429177746,
+    "source_tag": "v20.6.1-PRO",
+    "source_published_at": "2026-10-30T15:16:39Z",
+    "synced_at": "2026-10-30T17:38:03.145840+00:00",
+    "assets": [
+      {
+        "source_asset_id": 692492614,
+        "filename": "Game_Space.apk",
+        "original_filename": "Game_Space.apk",
+        "sha256": "4ef566e943602e0a8c1a898573b65f4c77c90399fb89f0f44f93057cddbb3905",
+        "file_size": 53532658,
+        "architecture": "arm64-v8a, armeabi-v7a, x86_64"
+      }
+    ],
+    "mirror_release_tag": "game-booster-2-0-v20.6.1-PRO",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/game-booster-2-0-v20.6.1-PRO"
+  },
+  "split-voice": {
+    "source_repository": "meatcar/split-voice",
+    "source_release_id": 385215314,
+    "source_tag": "v0.1.0",
+    "source_published_at": "2026-09-09T03:57:56Z",
+    "synced_at": "2026-10-30T17:38:06.658562+00:00",
+    "assets": [
+      {
+        "source_asset_id": 551932739,
+        "filename": "split-voice-v0.1.0.apk",
+        "original_filename": "split-voice-v0.1.0.apk",
+        "sha256": "9bc6e23bf69a7a0900cc45fd1a16216e7ed90faf26fcf6202382ea473080a384",
+        "file_size": 132080,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "split-voice-v0.1.0",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/split-voice-v0.1.0"
+  },
+  "bdsu-adb-dsu": {
+    "source_repository": "ayzlol/bdsu-adb-dsu",
+    "source_release_id": 428911440,
+    "source_tag": "v1.3.2",
+    "source_published_at": "2026-10-30T10:42:06Z",
+    "synced_at": "2026-10-30T17:38:16.093407+00:00",
+    "assets": [
+      {
+        "source_asset_id": 691778199,
+        "filename": "app-release.apk",
+        "original_filename": "app-release.apk",
+        "sha256": "ba8e0c06338bd7b6541edf6b1c29efd07441dc320f88541f30256ad599feb77e",
+        "file_size": 1898989,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "bdsu-adb-dsu-v1.3.2",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/bdsu-adb-dsu-v1.3.2"
+  },
+  "rabbit-sleep-guard": {
+    "source_repository": "rabbitujiang/rabbit-sleep-guard",
+    "source_release_id": 378527469,
+    "source_tag": "v0.3.0",
+    "source_published_at": "2026-08-28T14:07:14Z",
+    "synced_at": "2026-10-30T17:38:19.869971+00:00",
+    "assets": [
+      {
+        "source_asset_id": 533888840,
+        "filename": "rabbit-sleep-guard-v0.3.0.apk",
+        "original_filename": "rabbit-sleep-guard-v0.3.0.apk",
+        "sha256": "6b53ebdc89c111153866a8ddb4ade90b32be6d41b15fa3ddd8947966e6364675",
+        "file_size": 31508,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "rabbit-sleep-guard-v0.3.0",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/rabbit-sleep-guard-v0.3.0"
   }
 }
