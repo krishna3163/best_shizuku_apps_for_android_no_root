@@ -19599,5 +19599,213 @@
     ],
     "mirror_release_tag": "device-manager-v1.2.0",
     "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/device-manager-v1.2.0"
+  },
+  "batterymonitor": {
+    "source_repository": "Shikochin/BatteryMonitor",
+    "source_release_id": 434085851,
+    "source_tag": "1.0",
+    "source_published_at": "2026-11-04T15:11:52Z",
+    "synced_at": "2026-11-04T19:15:03.158586+00:00",
+    "assets": [
+      {
+        "source_asset_id": 710060353,
+        "filename": "BatteryMonitor-1.0-build16-arm64-v8a.apk",
+        "original_filename": "BatteryMonitor-1.0-build16-arm64-v8a.apk",
+        "sha256": "8004721ea37160ba0bb2ff7b413e432d2c5c8ddfc01c9d0f242b5dfdcee503da",
+        "file_size": 2276134,
+        "architecture": "arm64-v8a"
+      }
+    ],
+    "mirror_release_tag": "batterymonitor-1.0",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/batterymonitor-1.0"
+  },
+  "rime-updater": {
+    "source_repository": "viui798/rime-updater",
+    "source_release_id": 434271612,
+    "source_tag": "v1.0.0",
+    "source_published_at": "2026-11-04T18:07:45Z",
+    "synced_at": "2026-11-04T19:15:21.263561+00:00",
+    "assets": [
+      {
+        "source_asset_id": 710425403,
+        "filename": "app-arm64-v8a-release.apk",
+        "original_filename": "app-arm64-v8a-release.apk",
+        "sha256": "12d5ffb68c82e0781a506b9ba56851dafe532c4e228e918c19761ec4db7787fe",
+        "file_size": 18877572,
+        "architecture": "arm64-v8a"
+      },
+      {
+        "source_asset_id": 710425399,
+        "filename": "app-armeabi-v7a-release.apk",
+        "original_filename": "app-armeabi-v7a-release.apk",
+        "sha256": "eb842396ecf3e5f1f54d1071db1017938d59b9dfbdedb16ea5ed38e8b4f6a876",
+        "file_size": 16722908,
+        "architecture": "armeabi-v7a"
+      },
+      {
+        "source_asset_id": 710425401,
+        "filename": "app-release.apk",
+        "original_filename": "app-release.apk",
+        "sha256": "ed04fd5d93153d2132a04501681f9a4498e3e5a28baa5114654680d08ec2ef55",
+        "file_size": 55037866,
+        "architecture": "arm64-v8a, armeabi-v7a, x86_64"
+      },
+      {
+        "source_asset_id": 710425398,
+        "filename": "app-x86_64-release.apk",
+        "original_filename": "app-x86_64-release.apk",
+        "sha256": "944ae3615e50fb5dfb7ea8d15bdfeb9f49f8f98349775c13a5d8c433290847dd",
+        "file_size": 20385422,
+        "architecture": "x86_64"
+      }
+    ],
+    "mirror_release_tag": "rime-updater-v1.0.0",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/rime-updater-v1.0.0"
+  },
+  "callreplay": {
+    "source_repository": "Uriel1010/CallReplay",
+    "source_release_id": 434024258,
+    "source_tag": "v2.1.0",
+    "source_published_at": "2026-11-04T14:21:50Z",
+    "synced_at": "2026-11-04T19:15:25.585219+00:00",
+    "assets": [
+      {
+        "source_asset_id": 709775645,
+        "filename": "CallReplay-2.1.0-release.apk",
+        "original_filename": "CallReplay-2.1.0-release.apk",
+        "sha256": "b8d45213b4962715252e4e3c1e738374f25e5451860ba48c8bae6d27488ba71a",
+        "file_size": 4850541,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "callreplay-v2.1.0",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/callreplay-v2.1.0"
+  },
+  "petal": {
+    "source_repository": "shreyagarwal72/petal",
+    "source_release_id": 431796439,
+    "source_tag": "v4.6.0",
+    "source_published_at": "2026-11-02T18:03:49Z",
+    "synced_at": "2026-11-04T19:16:56.909206+00:00",
+    "assets": [
+      {
+        "source_asset_id": 710604282,
+        "filename": "petal-browser-arm64-v8a-release.apk",
+        "original_filename": "petal-browser-arm64-v8a-release.apk",
+        "sha256": "4d327ccae6f9bc1cd6b11a6f36e29ad7bec12c7b39747157c53e169db14c49c6",
+        "file_size": 188507144,
+        "architecture": "arm64-v8a"
+      },
+      {
+        "source_asset_id": 710604542,
+        "filename": "petal-browser-armeabi-v7a-release.apk",
+        "original_filename": "petal-browser-armeabi-v7a-release.apk",
+        "sha256": "2aebe1dd15affd81ac735e7c31c43c77cf26082cdd7be7c86d00ace2109bae6e",
+        "file_size": 178146082,
+        "architecture": "armeabi-v7a"
+      },
+      {
+        "source_asset_id": 710605932,
+        "filename": "petal-browser-universal-release.apk",
+        "original_filename": "petal-browser-universal-release.apk",
+        "sha256": "c1676d5d4dee0d5b6c7cc8d78076da6bd74c1348c3d750f2bc96e6c4b47a9ddf",
+        "file_size": 521923224,
+        "architecture": "arm64-v8a, armeabi, armeabi-v7a, mips, mips64, x86, x86_64"
+      },
+      {
+        "source_asset_id": 710606611,
+        "filename": "petal-browser-x86-release.apk",
+        "original_filename": "petal-browser-x86-release.apk",
+        "sha256": "e66184f68800cd7ef1515ed9e0166c30d400b163d75c30fc7d0a6d32c9022e3f",
+        "file_size": 105154803,
+        "architecture": "x86"
+      },
+      {
+        "source_asset_id": 710606857,
+        "filename": "petal-browser-x86_64-release.apk",
+        "original_filename": "petal-browser-x86_64-release.apk",
+        "sha256": "f1ef39dccb81a2691a7e949970ec84e199b4c1d3e0585be923ea39a94068ef78",
+        "file_size": 196889108,
+        "architecture": "x86_64"
+      }
+    ],
+    "mirror_release_tag": "petal-v4.6.0",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/petal-v4.6.0"
+  },
+  "lyra-code": {
+    "source_repository": "lyracode-app/Lyra-Code",
+    "source_release_id": 428891282,
+    "source_tag": "v4.2.1",
+    "source_published_at": "2026-10-30T10:25:21Z",
+    "synced_at": "2026-11-04T19:17:01.956855+00:00",
+    "assets": [
+      {
+        "source_asset_id": 691722862,
+        "filename": "lyracode-4.2.1.apk",
+        "original_filename": "lyracode-4.2.1.apk",
+        "sha256": "7cfa357a69d525469ea969461a321020aabe55504e1ff3ef9b3cf3959a3c32bb",
+        "file_size": 12919755,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "lyra-code-v4.2.1",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/lyra-code-v4.2.1"
+  },
+  "cve-2026-98260": {
+    "source_repository": "woshigenm/CVE-2026-98260",
+    "source_release_id": 434310297,
+    "source_tag": "v1.4.4-app",
+    "source_published_at": "2026-11-04T18:44:45Z",
+    "synced_at": "2026-11-04T19:17:05.771641+00:00",
+    "assets": [
+      {
+        "source_asset_id": 710531490,
+        "filename": "CVE98260Root.apk",
+        "original_filename": "CVE98260Root.apk",
+        "sha256": "00d1a30ce7865a8bc892f140e31550196aeece9fc1f354926f1e2026d07df980",
+        "file_size": 103412,
+        "architecture": "arm64-v8a"
+      }
+    ],
+    "mirror_release_tag": "cve-2026-98260-v1.4.4-app",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/cve-2026-98260-v1.4.4-app"
+  },
+  "quicksettings": {
+    "source_repository": "fauyds/QuickSettings",
+    "source_release_id": 430961744,
+    "source_tag": "1.1.1",
+    "source_published_at": "2026-11-02T00:44:38Z",
+    "synced_at": "2026-11-04T19:17:11.867828+00:00",
+    "assets": [
+      {
+        "source_asset_id": 699989451,
+        "filename": "app-release.apk",
+        "original_filename": "app-release.apk",
+        "sha256": "1a35882dc7583e0e98351b968d55f542fea7bc7c9874ffeb94a531f793d87ef6",
+        "file_size": 17781290,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "quicksettings-1.1.1",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/quicksettings-1.1.1"
+  },
+  "blueaudiosink": {
+    "source_repository": "liubaiqing/BlueAudioSink",
+    "source_release_id": 434234919,
+    "source_tag": "v0.2.16",
+    "source_published_at": "2026-11-04T17:29:56Z",
+    "synced_at": "2026-11-04T19:17:17.666235+00:00",
+    "assets": [
+      {
+        "source_asset_id": 710319845,
+        "filename": "BlueAudioSink-Sender-0.2.16.apk",
+        "original_filename": "BlueAudioSink-Sender-0.2.16.apk",
+        "sha256": "cf6dfc837a9fc35c2fea387d1c44a86f37c23c1d07cddae08beac3fcd28ea8f3",
+        "file_size": 18004647,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "blueaudiosink-v0.2.16",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/blueaudiosink-v0.2.16"
   }
 }

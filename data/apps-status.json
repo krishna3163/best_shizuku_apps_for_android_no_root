@@ -333,7 +333,7 @@
   },
   "shizako": {
     "status": "no-update",
-    "last_checked": "2026-11-04T13:30:05.107215+00:00",
+    "last_checked": "2026-11-04T19:17:06.951354+00:00",
     "latest_version": "zako3.17",
     "last_synced": "2026-10-31T11:27:18.081089+00:00"
   },
@@ -5165,5 +5165,63 @@
     "last_checked": "2026-11-04T13:39:42.730571+00:00",
     "latest_version": "v0.30.34",
     "last_synced": "2026-11-04T04:28:22.258010+00:00"
+  },
+  "batterymonitor": {
+    "status": "synced",
+    "last_checked": "2026-11-04T19:15:03.158612+00:00",
+    "latest_version": "1.0",
+    "last_synced": "2026-11-04T19:15:03.158612+00:00"
+  },
+  "process-m": {
+    "status": "no-apk",
+    "last_checked": "2026-11-04T19:15:03.504239+00:00",
+    "latest_version": "v0.1.1-spike1"
+  },
+  "rime-updater": {
+    "status": "synced",
+    "last_checked": "2026-11-04T19:15:21.263582+00:00",
+    "latest_version": "v1.0.0",
+    "last_synced": "2026-11-04T19:15:21.263582+00:00"
+  },
+  "callreplay": {
+    "status": "synced",
+    "last_checked": "2026-11-04T19:15:25.585241+00:00",
+    "latest_version": "v2.1.0",
+    "last_synced": "2026-11-04T19:15:25.585241+00:00"
+  },
+  "petal": {
+    "status": "synced",
+    "last_checked": "2026-11-04T19:16:56.909226+00:00",
+    "latest_version": "v4.6.0",
+    "last_synced": "2026-11-04T19:16:56.909226+00:00"
+  },
+  "lyra-code": {
+    "status": "synced",
+    "last_checked": "2026-11-04T19:17:01.956872+00:00",
+    "latest_version": "v4.2.1",
+    "last_synced": "2026-11-04T19:17:01.956872+00:00"
+  },
+  "cve-2026-98260": {
+    "status": "synced",
+    "last_checked": "2026-11-04T19:17:05.771682+00:00",
+    "latest_version": "v1.4.4-app",
+    "last_synced": "2026-11-04T19:17:05.771682+00:00"
+  },
+  "caelza": {
+    "status": "no-apk",
+    "last_checked": "2026-11-04T19:17:06.278577+00:00",
+    "latest_version": "v0.1.0"
+  },
+  "quicksettings": {
+    "status": "synced",
+    "last_checked": "2026-11-04T19:17:11.867849+00:00",
+    "latest_version": "1.1.1",
+    "last_synced": "2026-11-04T19:17:11.867849+00:00"
+  },
+  "blueaudiosink": {
+    "status": "synced",
+    "last_checked": "2026-11-04T19:17:17.666256+00:00",
+    "latest_version": "v0.2.16",
+    "last_synced": "2026-11-04T19:17:17.666256+00:00"
   }
 }
