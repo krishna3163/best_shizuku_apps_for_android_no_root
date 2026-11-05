@@ -20013,5 +20013,97 @@
     ],
     "mirror_release_tag": "cheertok-recovery-v0.6.0",
     "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/cheertok-recovery-v0.6.0"
+  },
+  "tailbond": {
+    "source_repository": "kaovilai/tailbond",
+    "source_release_id": 435418753,
+    "source_tag": "v0.1.13",
+    "source_published_at": "2026-11-05T16:02:08Z",
+    "synced_at": "2026-11-05T19:22:10.989269+00:00",
+    "assets": [
+      {
+        "source_asset_id": 713961179,
+        "filename": "tailbond-android.apk",
+        "original_filename": "tailbond-android.apk",
+        "sha256": "26ae558297a7597c86615c53042861264e50b98b48a02aa10560ef117187fef1",
+        "file_size": 20161277,
+        "architecture": "arm64-v8a"
+      }
+    ],
+    "mirror_release_tag": "tailbond-v0.1.13",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/tailbond-v0.1.13"
+  },
+  "lallamada": {
+    "source_repository": "leo15794/lallamada",
+    "source_release_id": 435380171,
+    "source_tag": "latest",
+    "source_published_at": "2026-11-05T15:28:23Z",
+    "synced_at": "2026-11-05T19:22:14.706341+00:00",
+    "assets": [
+      {
+        "source_asset_id": 714500997,
+        "filename": "lallamada.apk",
+        "original_filename": "lallamada.apk",
+        "sha256": "4e31a5801e8d6596fc9caee8948c12e149e5f0d32a533751984207aa8bfbf588",
+        "file_size": 2207905,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "lallamada-latest",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/lallamada-latest"
+  },
+  "screen-wakelock-detector": {
+    "source_repository": "edwardlthompson/screen-wakelock-detector",
+    "source_release_id": 375106342,
+    "source_tag": "v1.2.19",
+    "source_published_at": "2026-08-23T03:39:18Z",
+    "synced_at": "2026-11-05T19:22:18.970751+00:00",
+    "assets": [
+      {
+        "source_asset_id": 525785285,
+        "filename": "Screen-Wakelock-Detector-1.2.19.apk",
+        "original_filename": "Screen-Wakelock-Detector-1.2.19.apk",
+        "sha256": "18601e385982b3d86045c726242b6d1c5f6013a0fae9c3c39ee1920ad4411b81",
+        "file_size": 4722584,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "screen-wakelock-detector-v1.2.19",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/screen-wakelock-detector-v1.2.19"
+  },
+  "breadboard-launcher": {
+    "source_repository": "mariusschaffrath/breadboard-launcher",
+    "source_release_id": 435627055,
+    "source_tag": "v1.0.0-breadboard",
+    "source_published_at": "2026-11-05T19:20:45Z",
+    "synced_at": "2026-11-05T19:22:36.487083+00:00",
+    "assets": [
+      {
+        "source_asset_id": 714525390,
+        "filename": "BreadBoard-arm64-v8a.apk",
+        "original_filename": "BreadBoard-arm64-v8a.apk",
+        "sha256": "546ba8ba7299b9e3e638dee6a7fad4daa9d7a4e4a3c9521acf7843ffc9a1a3ff",
+        "file_size": 65257027,
+        "architecture": "arm64-v8a"
+      },
+      {
+        "source_asset_id": 714525391,
+        "filename": "BreadBoard-armeabi-v7a.apk",
+        "original_filename": "BreadBoard-armeabi-v7a.apk",
+        "sha256": "a5dabbaba36f70684ba2a74a8a53efdc701d9eb39c3b80cc39b15026396a989f",
+        "file_size": 62475316,
+        "architecture": "armeabi-v7a"
+      },
+      {
+        "source_asset_id": 714525392,
+        "filename": "BreadBoard-universal.apk",
+        "original_filename": "BreadBoard-universal.apk",
+        "sha256": "84d4480f5894dca34ec9d4ded45d51b7c55d38e943f21d9294d5a498b5a4a6a9",
+        "file_size": 123847496,
+        "architecture": "arm64-v8a, armeabi-v7a, x86_64"
+      }
+    ],
+    "mirror_release_tag": "breadboard-launcher-v1.0.0-breadboard",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/breadboard-launcher-v1.0.0-breadboard"
   }
 }
