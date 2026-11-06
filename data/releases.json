@@ -20295,5 +20295,154 @@
     ],
     "mirror_release_tag": "legend-tuner-v1.4.0",
     "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/legend-tuner-v1.4.0"
+  },
+  "hotspotxray": {
+    "source_repository": "shayanmahster/HotspotXray",
+    "source_release_id": 434397459,
+    "source_tag": "v1.0.0",
+    "source_published_at": "2026-11-04T20:09:59Z",
+    "synced_at": "2026-11-06T18:46:59.894729+00:00",
+    "assets": [
+      {
+        "source_asset_id": 710769982,
+        "filename": "HotspotXray-arm64.apk",
+        "original_filename": "HotspotXray-arm64.apk",
+        "sha256": "ba94c5459d73d2e3368987c287e639cd3ed3e13181eff90412a724b989a610a3",
+        "file_size": 70651342,
+        "architecture": "arm64-v8a"
+      },
+      {
+        "source_asset_id": 710769976,
+        "filename": "HotspotXray-universal.apk",
+        "original_filename": "HotspotXray-universal.apk",
+        "sha256": "8045ece5aef77932824790cfa5a6eac39e6468bb987af0442d76af4d5f1240b1",
+        "file_size": 132505620,
+        "architecture": "arm64-v8a, armeabi-v7a, x86_64"
+      }
+    ],
+    "mirror_release_tag": "hotspotxray-v1.0.0",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/hotspotxray-v1.0.0"
+  },
+  "pocket-xr": {
+    "source_repository": "pocket-xr/pocket-xr",
+    "source_release_id": 436708849,
+    "source_tag": "v1.1.15",
+    "source_published_at": "2026-11-06T16:05:06Z",
+    "synced_at": "2026-11-06T18:47:05.812795+00:00",
+    "assets": [
+      {
+        "source_asset_id": 717705524,
+        "filename": "pocketxr-1.1.15.apk",
+        "original_filename": "pocketxr-1.1.15.apk",
+        "sha256": "4fae844de59c821545a440bfc0a181fc2d7c0bd4ea1eeebffb487d762e9a79da",
+        "file_size": 57642411,
+        "architecture": "arm64-v8a"
+      }
+    ],
+    "mirror_release_tag": "pocket-xr-v1.1.15",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/pocket-xr-v1.1.15"
+  },
+  "vela": {
+    "source_repository": "parth5012/Vela",
+    "source_release_id": 430536831,
+    "source_tag": "3.6",
+    "source_published_at": "2026-11-01T11:28:06Z",
+    "synced_at": "2026-11-06T18:47:22.683621+00:00",
+    "assets": [
+      {
+        "source_asset_id": 698140448,
+        "filename": "app-arm64-v8a-release.apk",
+        "original_filename": "app-arm64-v8a-release.apk",
+        "sha256": "728692fbd0d8d56b80622b6bc2cadbfb077db1271edc209bc9e415b7ab1cfcf5",
+        "file_size": 119204569,
+        "architecture": "arm64-v8a"
+      },
+      {
+        "source_asset_id": 698140442,
+        "filename": "app-x86_64-release.apk",
+        "original_filename": "app-x86_64-release.apk",
+        "sha256": "da64537c1505896170edba0458cc9d8da916ca32207ad68abf9266fb64c7f5bb",
+        "file_size": 67315454,
+        "architecture": "x86_64"
+      }
+    ],
+    "mirror_release_tag": "vela-3.6",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/vela-3.6"
+  },
+  "orbitwalker": {
+    "source_repository": "Kno2gether-Labs-LTD/orbitwalker",
+    "source_release_id": 436799218,
+    "source_tag": "v0.13.0",
+    "source_published_at": "2026-11-06T17:35:07Z",
+    "synced_at": "2026-11-06T18:47:28.587648+00:00",
+    "assets": [
+      {
+        "source_asset_id": 717968542,
+        "filename": "OrbitWalker.apk",
+        "original_filename": "OrbitWalker.apk",
+        "sha256": "4e323eb9ee4b56b20be47125e841f52fd2d3eedb92b0d9a53bb2c30395efa141",
+        "file_size": 40461591,
+        "architecture": "arm64-v8a"
+      }
+    ],
+    "mirror_release_tag": "orbitwalker-v0.13.0",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/orbitwalker-v0.13.0"
+  },
+  "veyro-debloat-engine": {
+    "source_repository": "skvsmdarman/veyro-debloat-engine",
+    "source_release_id": 436705222,
+    "source_tag": "v1.1.1",
+    "source_published_at": "2026-11-06T16:01:20Z",
+    "synced_at": "2026-11-06T18:47:32.576541+00:00",
+    "assets": [
+      {
+        "source_asset_id": 717698486,
+        "filename": "veyro-debloat-engine.apk",
+        "original_filename": "veyro-debloat-engine.apk",
+        "sha256": "d1959369a001e840175e84c65f3513319f53f4b5dc1730440fffdc1c7ca524dc",
+        "file_size": 1399052,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "veyro-debloat-engine-v1.1.1",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/veyro-debloat-engine-v1.1.1"
+  },
+  "controllerstarrail": {
+    "source_repository": "1caru3zz3/ControllerStarRail",
+    "source_release_id": 436702240,
+    "source_tag": "v0.2.3",
+    "source_published_at": "2026-11-06T15:58:26Z",
+    "synced_at": "2026-11-06T18:47:36.919546+00:00",
+    "assets": [
+      {
+        "source_asset_id": 717686218,
+        "filename": "ControllerStarRail-v0.2.3.apk",
+        "original_filename": "ControllerStarRail-v0.2.3.apk",
+        "sha256": "541ea18c455c9d3a5f39976bf880876438a827d77f1bcc866cda56eea7615da1",
+        "file_size": 5563072,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "controllerstarrail-v0.2.3",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/controllerstarrail-v0.2.3"
+  },
+  "dual-your-galaxy": {
+    "source_repository": "samson910022/Dual-your-galaxy",
+    "source_release_id": 433314658,
+    "source_tag": "v0.0.1",
+    "source_published_at": "2026-11-03T23:05:03Z",
+    "synced_at": "2026-11-06T18:47:40.471494+00:00",
+    "assets": [
+      {
+        "source_asset_id": 707420445,
+        "filename": "Galaxy-Dual-app-Plus-0.0.1.apk",
+        "original_filename": "Galaxy-Dual-app-Plus-0.0.1.apk",
+        "sha256": "c1f730c8eb1e1b1309867fca6bf18a45e10a3858cf621b59b54db568fc950b98",
+        "file_size": 2082032,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "dual-your-galaxy-v0.0.1",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/dual-your-galaxy-v0.0.1"
   }
 }
