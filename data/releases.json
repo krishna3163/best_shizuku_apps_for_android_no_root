@@ -21757,5 +21757,127 @@
     ],
     "mirror_release_tag": "caelza-v0.2.0",
     "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/caelza-v0.2.0"
+  },
+  "pocketvr-native": {
+    "source_repository": "Gansandis/pocketvr-native",
+    "source_release_id": 439980259,
+    "source_tag": "build-227",
+    "source_published_at": "2026-11-10T05:26:24Z",
+    "synced_at": "2026-11-10T05:39:02.595571+00:00",
+    "assets": [
+      {
+        "source_asset_id": 730232141,
+        "filename": "PocketVR.apk",
+        "original_filename": "PocketVR.apk",
+        "sha256": "7ae06926e2f343a7fb790f3d1943e4a4c2376e58d504f752216e2286e8c104b8",
+        "file_size": 30296597,
+        "architecture": "arm64-v8a"
+      }
+    ],
+    "mirror_release_tag": "pocketvr-native-build-227",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/pocketvr-native-build-227"
+  },
+  "gltools-reborn": {
+    "source_repository": "Alex17273747576777/gltools-reborn",
+    "source_release_id": 439956876,
+    "source_tag": "v1.8.0",
+    "source_published_at": "2026-11-10T04:47:28Z",
+    "synced_at": "2026-11-10T05:39:09.220020+00:00",
+    "assets": [
+      {
+        "source_asset_id": 730140743,
+        "filename": "GLTools-Reborn-1.8.0-sin-comprimir.apk",
+        "original_filename": "GLTools-Reborn-1.8.0-sin-comprimir.apk",
+        "sha256": "e8f6277a8c55c243974d822676231f932bd5c4992001c2fa7d861e62272002fd",
+        "file_size": 16204055,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      },
+      {
+        "source_asset_id": 730140715,
+        "filename": "GLTools-Reborn-1.8.0.apk",
+        "original_filename": "GLTools-Reborn-1.8.0.apk",
+        "sha256": "efe4bc33a7d2959702c1789a0b388282d016b54b1ff2f1e8a898dfd769d3cedb",
+        "file_size": 3193527,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "gltools-reborn-v1.8.0",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/gltools-reborn-v1.8.0"
+  },
+  "battery-saver-app": {
+    "source_repository": "abdullah-al-faahim/battery-saver-app",
+    "source_release_id": 439977113,
+    "source_tag": "v1.1",
+    "source_published_at": "2026-11-10T05:21:03Z",
+    "synced_at": "2026-11-10T05:39:12.126054+00:00",
+    "assets": [
+      {
+        "source_asset_id": 730220409,
+        "filename": "BatterySaver.apk",
+        "original_filename": "BatterySaver.apk",
+        "sha256": "71413729a6dab9a489cf71ad6009e735bc38fcb91e69823f3e698d60a7483a7a",
+        "file_size": 56078,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "battery-saver-app-v1.1",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/battery-saver-app-v1.1"
+  },
+  "badger": {
+    "source_repository": "red-humane/Badger",
+    "source_release_id": 438233988,
+    "source_tag": "v1.0",
+    "source_published_at": "2026-11-08T12:32:25Z",
+    "synced_at": "2026-11-10T05:39:25.994132+00:00",
+    "assets": [
+      {
+        "source_asset_id": 728519776,
+        "filename": "Badger-1.0.apk",
+        "original_filename": "Badger-1.0.apk",
+        "sha256": "cf739acab68a65edc1a807bdd2e5521a2e606eab62dbcea34b5be29dbcd5cfab",
+        "file_size": 151145884,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "badger-v1.0",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/badger-v1.0"
+  },
+  "kokonaharness-android": {
+    "source_repository": "AkizukiKokona/KokonaHarness-Android",
+    "source_release_id": 439973638,
+    "source_tag": "v1.0.39",
+    "source_published_at": "2026-11-10T05:17:40Z",
+    "synced_at": "2026-11-10T05:39:36.435629+00:00",
+    "assets": [
+      {
+        "source_asset_id": 730211411,
+        "filename": "KokonaHarness.apk",
+        "original_filename": "KokonaHarness.apk",
+        "sha256": "3e5a62ad5b3a39f1a08dc328a9db1c2093f9e3208172b36a9531c6abd9069bd2",
+        "file_size": 102848541,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "kokonaharness-android-v1.0.39",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/kokonaharness-android-v1.0.39"
+  },
+  "pocketscreen": {
+    "source_repository": "AlreadyNoob/pocketscreen",
+    "source_release_id": 439765457,
+    "source_tag": "v0.17.29",
+    "source_published_at": "2026-11-09T23:29:18Z",
+    "synced_at": "2026-11-10T05:39:39.743610+00:00",
+    "assets": [
+      {
+        "source_asset_id": 729372766,
+        "filename": "PocketScreen-0.17.29.apk",
+        "original_filename": "PocketScreen-0.17.29.apk",
+        "sha256": "b2b83d67668cf06bfb7b8ac897f8d063894b2d1b89e43c55f110411bd5fdc1f8",
+        "file_size": 962789,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "pocketscreen-v0.17.29",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/pocketscreen-v0.17.29"
   }
 }
