@@ -22407,5 +22407,211 @@
     ],
     "mirror_release_tag": "extractkit-v9.29",
     "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/extractkit-v9.29"
+  },
+  "jack-ai": {
+    "source_repository": "Augdgasjkh354-lang/jack-ai",
+    "source_release_id": 442523796,
+    "source_tag": "v1.1.233",
+    "source_published_at": "2026-11-12T05:14:57Z",
+    "synced_at": "2026-11-12T05:24:13.739104+00:00",
+    "assets": [
+      {
+        "source_asset_id": 738172942,
+        "filename": "Kavi-v1.1.233.apk",
+        "original_filename": "Kavi-v1.1.233.apk",
+        "sha256": "7996e866e122c263ed41b0d4187203fade4b8221aeff9f1157240afa3d0ddc85",
+        "file_size": 106473547,
+        "architecture": "arm64-v8a"
+      }
+    ],
+    "mirror_release_tag": "jack-ai-v1.1.233",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/jack-ai-v1.1.233"
+  },
+  "aiverse": {
+    "source_repository": "yhdmgf/AiVerse",
+    "source_release_id": 439920508,
+    "source_tag": "v1.0.2",
+    "source_published_at": "2026-11-10T03:43:47Z",
+    "synced_at": "2026-11-12T05:24:24.915873+00:00",
+    "assets": [
+      {
+        "source_asset_id": 729989808,
+        "filename": "AiVerse-arm64-v1.0.2.apk",
+        "original_filename": "AiVerse-arm64-v1.0.2.apk",
+        "sha256": "b687c0820278c217cf4246580433a683cb882b5ea8802a6c8f7496663813a869",
+        "file_size": 17991929,
+        "architecture": "arm64-v8a"
+      },
+      {
+        "source_asset_id": 729989819,
+        "filename": "AiVerse-universal-v1.0.2.apk",
+        "original_filename": "AiVerse-universal-v1.0.2.apk",
+        "sha256": "19685f6712f6a5a7b2abcee8dc91025c367d5d1415ad013dc6b12f4092550fef",
+        "file_size": 22207622,
+        "architecture": "arm64-v8a, x86_64"
+      },
+      {
+        "source_asset_id": 729989810,
+        "filename": "AiVerse-x86_64-v1.0.2.apk",
+        "original_filename": "AiVerse-x86_64-v1.0.2.apk",
+        "sha256": "4e026b01334e09be8ac9c26cc57678c1541e9070ffef7ce407acde1426a4dd1d",
+        "file_size": 17723757,
+        "architecture": "x86_64"
+      }
+    ],
+    "mirror_release_tag": "aiverse-v1.0.2",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/aiverse-v1.0.2"
+  },
+  "android-phone-bridge": {
+    "source_repository": "hsd221/android-phone-bridge",
+    "source_release_id": 433593300,
+    "source_tag": "v0.3.0",
+    "source_published_at": "2026-11-04T07:22:38Z",
+    "synced_at": "2026-11-12T05:24:29.082037+00:00",
+    "assets": [
+      {
+        "source_asset_id": 708533603,
+        "filename": "phone-bridge-0.3.0.apk",
+        "original_filename": "phone-bridge-0.3.0.apk",
+        "sha256": "33633d84ce0961f0d766f83dcbf02dfd0cf96ff1bdeb12a7b01fe4fa07f8e318",
+        "file_size": 6749636,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "android-phone-bridge-v0.3.0",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/android-phone-bridge-v0.3.0"
+  },
+  "mcpadbandroidlogger": {
+    "source_repository": "N2K02/McpAdbAndroidLogger",
+    "source_release_id": 442501640,
+    "source_tag": "v3.3",
+    "source_published_at": "2026-11-12T04:36:41Z",
+    "synced_at": "2026-11-12T05:24:34.914463+00:00",
+    "assets": [
+      {
+        "source_asset_id": 738078328,
+        "filename": "McpAdbAndroidLogger-3.3.apk",
+        "original_filename": "McpAdbAndroidLogger-3.3.apk",
+        "sha256": "06bb5357ca1153c3305eb23f1d4d82790a46c39d3357349a1232c762393fe9e2",
+        "file_size": 29644793,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "mcpadbandroidlogger-v3.3",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/mcpadbandroidlogger-v3.3"
+  },
+  "localadb": {
+    "source_repository": "N2K02/LocalAdb",
+    "source_release_id": 442502304,
+    "source_tag": "v2.9",
+    "source_published_at": "2026-11-12T04:37:38Z",
+    "synced_at": "2026-11-12T05:24:39.479170+00:00",
+    "assets": [
+      {
+        "source_asset_id": 738081010,
+        "filename": "LocalAdb-2.9.apk",
+        "original_filename": "LocalAdb-2.9.apk",
+        "sha256": "2a29449f2802266c530ed416f62d43cfdeb171a51916ad0777b6c75dcee08c2b",
+        "file_size": 17544798,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "localadb-v2.9",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/localadb-v2.9"
+  },
+  "adb-control-android": {
+    "source_repository": "aelrased/adb-control-android",
+    "source_release_id": 439940629,
+    "source_tag": "v0.1.0",
+    "source_published_at": "2026-11-10T04:18:30Z",
+    "synced_at": "2026-11-12T05:24:43.922039+00:00",
+    "assets": [
+      {
+        "source_asset_id": 737812023,
+        "filename": "ADBControlAndroid-0.1.0.apk",
+        "original_filename": "ADBControlAndroid-0.1.0.apk",
+        "sha256": "ecd5f90a8409403ab93c9e1d41ac8faae8a0871622b299c3d1c4fa3f464c5ec7",
+        "file_size": 12474741,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "adb-control-android-v0.1.0",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/adb-control-android-v0.1.0"
+  },
+  "shark": {
+    "source_repository": "Yunnijian/Shark",
+    "source_release_id": 440334523,
+    "source_tag": "v2.1",
+    "source_published_at": "2026-11-10T12:29:00Z",
+    "synced_at": "2026-11-12T05:24:48.303209+00:00",
+    "assets": [
+      {
+        "source_asset_id": 731471871,
+        "filename": "Shark-v2.1.apk",
+        "original_filename": "Shark-v2.1.apk",
+        "sha256": "4df2911529397a6c797fad54cd5e9581d3b57631b55c213d4a2166b775514eda",
+        "file_size": 17198992,
+        "architecture": "arm64-v8a"
+      }
+    ],
+    "mirror_release_tag": "shark-v2.1",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/shark-v2.1"
+  },
+  "pixlink": {
+    "source_repository": "FatalQuackers/pixlink",
+    "source_release_id": 442462073,
+    "source_tag": "v1.0.2",
+    "source_published_at": "2026-11-12T03:29:21Z",
+    "synced_at": "2026-11-12T05:24:55.360283+00:00",
+    "assets": [
+      {
+        "source_asset_id": 737916956,
+        "filename": "Pixlink-android.apk",
+        "original_filename": "Pixlink-android.apk",
+        "sha256": "9d370430f1b4e34174ba9af8893abf598403dd5fe94c473e5809d904b4354e15",
+        "file_size": 68388516,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "pixlink-v1.0.2",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/pixlink-v1.0.2"
+  },
+  "duomix-fader": {
+    "source_repository": "stevennodock/duomix-fader",
+    "source_release_id": 396834672,
+    "source_tag": "v0.9.1",
+    "source_published_at": "2026-09-25T18:25:03Z",
+    "synced_at": "2026-11-12T05:24:58.800824+00:00",
+    "assets": [
+      {
+        "source_asset_id": 588969175,
+        "filename": "duomix-fader-0.9.1.apk",
+        "original_filename": "duomix-fader-0.9.1.apk",
+        "sha256": "8a8ec7c1d086396bd13b6c82fa8ae0af80ec6e01605a05eabcea58a76e27a3b3",
+        "file_size": 2359903,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "duomix-fader-v0.9.1",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/duomix-fader-v0.9.1"
+  },
+  "oppo-jailbreak": {
+    "source_repository": "tw0m8/oppo-jailbreak",
+    "source_release_id": 442336448,
+    "source_tag": "v4.9",
+    "source_published_at": "2026-11-12T00:18:00Z",
+    "synced_at": "2026-11-12T05:25:02.754712+00:00",
+    "assets": [
+      {
+        "source_asset_id": 737405466,
+        "filename": "RootNow-v4.9.apk",
+        "original_filename": "RootNow-v4.9.apk",
+        "sha256": "bd1817002b618db823c05710911d3cf5467a066dc0687e98f0ad7a28e963d6de",
+        "file_size": 5707911,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "oppo-jailbreak-v4.9",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/oppo-jailbreak-v4.9"
   }
 }
