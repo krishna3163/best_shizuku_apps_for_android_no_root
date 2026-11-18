@@ -19359,6 +19359,134 @@
         ".*unsigned.*",
         ".*test.*"
       ]
+    },
+    {
+      "name": "server",
+      "slug": "server",
+      "repository": "kazewwk/server",
+      "enabled": true,
+      "shizuku": true,
+      "release_strategy": "latest-stable",
+      "asset_patterns": [
+        ".*\\.apk$"
+      ],
+      "exclude_patterns": [
+        ".*debug.*",
+        ".*unsigned.*",
+        ".*test.*"
+      ]
+    },
+    {
+      "name": "Redensity",
+      "slug": "redensity",
+      "repository": "swmckailani/Redensity",
+      "enabled": true,
+      "shizuku": true,
+      "release_strategy": "latest-stable",
+      "asset_patterns": [
+        ".*\\.apk$"
+      ],
+      "exclude_patterns": [
+        ".*debug.*",
+        ".*unsigned.*",
+        ".*test.*"
+      ]
+    },
+    {
+      "name": "March7thAssistant",
+      "slug": "march7thassistant",
+      "repository": "moesnow/March7thAssistant",
+      "enabled": true,
+      "shizuku": true,
+      "release_strategy": "latest-stable",
+      "asset_patterns": [
+        ".*\\.apk$"
+      ],
+      "exclude_patterns": [
+        ".*debug.*",
+        ".*unsigned.*",
+        ".*test.*"
+      ]
+    },
+    {
+      "name": "chicken-rear",
+      "slug": "chicken-rear",
+      "repository": "TheRealChickon/chicken-rear",
+      "enabled": true,
+      "shizuku": true,
+      "release_strategy": "latest-stable",
+      "asset_patterns": [
+        ".*\\.apk$"
+      ],
+      "exclude_patterns": [
+        ".*debug.*",
+        ".*unsigned.*",
+        ".*test.*"
+      ]
+    },
+    {
+      "name": "greenify-rea",
+      "slug": "greenify-rea",
+      "repository": "Unnidentified/greenify-rea",
+      "enabled": true,
+      "shizuku": true,
+      "release_strategy": "latest-stable",
+      "asset_patterns": [
+        ".*\\.apk$"
+      ],
+      "exclude_patterns": [
+        ".*debug.*",
+        ".*unsigned.*",
+        ".*test.*"
+      ]
+    },
+    {
+      "name": "codecobo",
+      "slug": "codecobo",
+      "repository": "myuverr/codecobo",
+      "enabled": true,
+      "shizuku": true,
+      "release_strategy": "latest-stable",
+      "asset_patterns": [
+        ".*\\.apk$"
+      ],
+      "exclude_patterns": [
+        ".*debug.*",
+        ".*unsigned.*",
+        ".*test.*"
+      ]
+    },
+    {
+      "name": "net-optimizer-by_doxaiz",
+      "slug": "net-optimizer-by-doxaiz",
+      "repository": "Doxaiz/net-optimizer-by_doxaiz",
+      "enabled": true,
+      "shizuku": true,
+      "release_strategy": "latest-stable",
+      "asset_patterns": [
+        ".*\\.apk$"
+      ],
+      "exclude_patterns": [
+        ".*debug.*",
+        ".*unsigned.*",
+        ".*test.*"
+      ]
+    },
+    {
+      "name": "antigravity-arm64-android",
+      "slug": "antigravity-arm64-android",
+      "repository": "Comzvy/antigravity-arm64-android",
+      "enabled": true,
+      "shizuku": true,
+      "release_strategy": "latest-stable",
+      "asset_patterns": [
+        ".*\\.apk$"
+      ],
+      "exclude_patterns": [
+        ".*debug.*",
+        ".*unsigned.*",
+        ".*test.*"
+      ]
     }
   ],
   "defaults": {
