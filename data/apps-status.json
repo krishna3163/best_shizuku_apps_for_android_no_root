@@ -332,10 +332,10 @@
     "last_synced": "2026-11-15T13:11:27.104410+00:00"
   },
   "shizako": {
-    "status": "no-update",
-    "last_checked": "2026-11-20T14:38:22.454011+00:00",
-    "latest_version": "zako3.19",
-    "last_synced": "2026-11-14T12:44:26.117537+00:00"
+    "status": "synced",
+    "last_checked": "2026-11-20T19:32:52.359824+00:00",
+    "latest_version": "zako3.19hp",
+    "last_synced": "2026-11-20T19:32:52.359824+00:00"
   },
   "aether": {
     "status": "no-update",
@@ -6839,7 +6839,7 @@
   },
   "intertune": {
     "status": "no-update",
-    "last_checked": "2026-11-20T14:51:22.775826+00:00",
+    "last_checked": "2026-11-20T19:33:06.118160+00:00",
     "latest_version": "v0.12.11",
     "last_synced": "2026-11-17T20:21:53.783663+00:00"
   },
@@ -7227,5 +7227,73 @@
     "last_checked": "2026-11-20T14:52:45.102166+00:00",
     "latest_version": "v0.7.6",
     "last_synced": "2026-11-20T05:21:27.519850+00:00"
+  },
+  "operator-on-android": {
+    "status": "synced",
+    "last_checked": "2026-11-20T19:31:38.652022+00:00",
+    "latest_version": "v2.6",
+    "last_synced": "2026-11-20T19:31:38.652022+00:00"
+  },
+  "codex-go": {
+    "status": "no-apk",
+    "last_checked": "2026-11-20T19:31:39.111007+00:00"
+  },
+  "taskbarandroid": {
+    "status": "synced",
+    "last_checked": "2026-11-20T19:31:42.749582+00:00",
+    "latest_version": "v.1.5.14",
+    "last_synced": "2026-11-20T19:31:42.749582+00:00"
+  },
+  "sofaly": {
+    "status": "synced",
+    "last_checked": "2026-11-20T19:31:54.423011+00:00",
+    "latest_version": "v465338",
+    "last_synced": "2026-11-20T19:31:54.423011+00:00"
+  },
+  "switch-fetch-download-manager-fixed": {
+    "status": "synced",
+    "last_checked": "2026-11-20T19:32:00.401822+00:00",
+    "latest_version": "v9.1.13",
+    "last_synced": "2026-11-20T19:32:00.401822+00:00"
+  },
+  "aare-mate": {
+    "status": "synced",
+    "last_checked": "2026-11-20T19:32:10.351339+00:00",
+    "latest_version": "v2.1.1",
+    "last_synced": "2026-11-20T19:32:10.351339+00:00"
+  },
+  "io-github-wumisc-antiburn": {
+    "status": "synced",
+    "last_checked": "2026-11-20T19:32:16.064254+00:00",
+    "latest_version": "75-3.0.15",
+    "last_synced": "2026-11-20T19:32:16.064254+00:00"
+  },
+  "claude-code-mobile": {
+    "status": "synced",
+    "last_checked": "2026-11-20T19:32:35.110607+00:00",
+    "latest_version": "v1.0.2",
+    "last_synced": "2026-11-20T19:32:35.110607+00:00"
+  },
+  "wheelpilot": {
+    "status": "synced",
+    "last_checked": "2026-11-20T19:32:39.439852+00:00",
+    "latest_version": "v3.24.23",
+    "last_synced": "2026-11-20T19:32:39.439852+00:00"
+  },
+  "komorebi": {
+    "status": "synced",
+    "last_checked": "2026-11-20T19:32:47.421707+00:00",
+    "latest_version": "v0.12.3",
+    "last_synced": "2026-11-20T19:32:47.421707+00:00"
+  },
+  "ola-s1air-s1pro-youtube": {
+    "status": "no-apk",
+    "last_checked": "2026-11-20T19:32:52.759599+00:00"
+  },
+  "panelfm-android": {
+    "status": "synced",
+    "last_checked": "2026-11-20T19:33:05.501646+00:00",
+    "latest_version": "v2.5.2",
+    "last_synced": "2026-11-20T19:33:05.501646+00:00"
   }
 }

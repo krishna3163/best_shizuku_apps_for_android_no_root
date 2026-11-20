@@ -20111,6 +20111,198 @@
         ".*unsigned.*",
         ".*test.*"
       ]
+    },
+    {
+      "name": "Operator-on-Android",
+      "slug": "operator-on-android",
+      "repository": "xjyzs/Operator-on-Android",
+      "enabled": true,
+      "shizuku": true,
+      "release_strategy": "latest-stable",
+      "asset_patterns": [
+        ".*\\.apk$"
+      ],
+      "exclude_patterns": [
+        ".*debug.*",
+        ".*unsigned.*",
+        ".*test.*"
+      ]
+    },
+    {
+      "name": "Codex-Go",
+      "slug": "codex-go",
+      "repository": "HyacineFengJin/Codex-Go",
+      "enabled": true,
+      "shizuku": true,
+      "release_strategy": "latest-stable",
+      "asset_patterns": [
+        ".*\\.apk$"
+      ],
+      "exclude_patterns": [
+        ".*debug.*",
+        ".*unsigned.*",
+        ".*test.*"
+      ]
+    },
+    {
+      "name": "taskbarandroid",
+      "slug": "taskbarandroid",
+      "repository": "alkisstam/taskbarandroid",
+      "enabled": true,
+      "shizuku": true,
+      "release_strategy": "latest-stable",
+      "asset_patterns": [
+        ".*\\.apk$"
+      ],
+      "exclude_patterns": [
+        ".*debug.*",
+        ".*unsigned.*",
+        ".*test.*"
+      ]
+    },
+    {
+      "name": "sofaly",
+      "slug": "sofaly",
+      "repository": "ChrnX0/sofaly",
+      "enabled": true,
+      "shizuku": true,
+      "release_strategy": "latest-stable",
+      "asset_patterns": [
+        ".*\\.apk$"
+      ],
+      "exclude_patterns": [
+        ".*debug.*",
+        ".*unsigned.*",
+        ".*test.*"
+      ]
+    },
+    {
+      "name": "Switch-fetch-download-manager-fixed",
+      "slug": "switch-fetch-download-manager-fixed",
+      "repository": "niggetron/Switch-fetch-download-manager-fixed",
+      "enabled": true,
+      "shizuku": true,
+      "release_strategy": "latest-stable",
+      "asset_patterns": [
+        ".*\\.apk$"
+      ],
+      "exclude_patterns": [
+        ".*debug.*",
+        ".*unsigned.*",
+        ".*test.*"
+      ]
+    },
+    {
+      "name": "AARE-Mate",
+      "slug": "aare-mate",
+      "repository": "TheInGoF/AARE-Mate",
+      "enabled": true,
+      "shizuku": true,
+      "release_strategy": "latest-stable",
+      "asset_patterns": [
+        ".*\\.apk$"
+      ],
+      "exclude_patterns": [
+        ".*debug.*",
+        ".*unsigned.*",
+        ".*test.*"
+      ]
+    },
+    {
+      "name": "io.github.wumisc.antiburn",
+      "slug": "io-github-wumisc-antiburn",
+      "repository": "Xposed-Modules-Repo/io.github.wumisc.antiburn",
+      "enabled": true,
+      "shizuku": true,
+      "release_strategy": "latest-stable",
+      "asset_patterns": [
+        ".*\\.apk$"
+      ],
+      "exclude_patterns": [
+        ".*debug.*",
+        ".*unsigned.*",
+        ".*test.*"
+      ]
+    },
+    {
+      "name": "Claude-Code-Mobile",
+      "slug": "claude-code-mobile",
+      "repository": "Cielry/Claude-Code-Mobile",
+      "enabled": true,
+      "shizuku": true,
+      "release_strategy": "latest-stable",
+      "asset_patterns": [
+        ".*\\.apk$"
+      ],
+      "exclude_patterns": [
+        ".*debug.*",
+        ".*unsigned.*",
+        ".*test.*"
+      ]
+    },
+    {
+      "name": "WheelPilot",
+      "slug": "wheelpilot",
+      "repository": "yubanyuban112/WheelPilot",
+      "enabled": true,
+      "shizuku": true,
+      "release_strategy": "latest-stable",
+      "asset_patterns": [
+        ".*\\.apk$"
+      ],
+      "exclude_patterns": [
+        ".*debug.*",
+        ".*unsigned.*",
+        ".*test.*"
+      ]
+    },
+    {
+      "name": "komorebi",
+      "slug": "komorebi",
+      "repository": "aislingheart/komorebi",
+      "enabled": true,
+      "shizuku": true,
+      "release_strategy": "latest-stable",
+      "asset_patterns": [
+        ".*\\.apk$"
+      ],
+      "exclude_patterns": [
+        ".*debug.*",
+        ".*unsigned.*",
+        ".*test.*"
+      ]
+    },
+    {
+      "name": "OLA-S1Air-S1Pro-YouTube",
+      "slug": "ola-s1air-s1pro-youtube",
+      "repository": "MOHDSAUD888/OLA-S1Air-S1Pro-YouTube",
+      "enabled": true,
+      "shizuku": true,
+      "release_strategy": "latest-stable",
+      "asset_patterns": [
+        ".*\\.apk$"
+      ],
+      "exclude_patterns": [
+        ".*debug.*",
+        ".*unsigned.*",
+        ".*test.*"
+      ]
+    },
+    {
+      "name": "panelfm-android",
+      "slug": "panelfm-android",
+      "repository": "U707T/panelfm-android",
+      "enabled": true,
+      "shizuku": true,
+      "release_strategy": "latest-stable",
+      "asset_patterns": [
+        ".*\\.apk$"
+      ],
+      "exclude_patterns": [
+        ".*debug.*",
+        ".*unsigned.*",
+        ".*test.*"
+      ]
     }
   ],
   "defaults": {
