@@ -28122,5 +28122,246 @@
     ],
     "mirror_release_tag": "wifi-disabler-v1.1.0",
     "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/wifi-disabler-v1.1.0"
+  },
+  "cve-2026-98260-my-a55": {
+    "source_repository": "minhmc2007/CVE-2026-98260-My-A55",
+    "source_release_id": 457005402,
+    "source_tag": "1.0",
+    "source_published_at": "2026-11-24T16:05:34Z",
+    "synced_at": "2026-11-25T06:33:54.426195+00:00",
+    "assets": [
+      {
+        "source_asset_id": 787867066,
+        "filename": "CVE98260Root.apk",
+        "original_filename": "CVE98260Root.apk",
+        "sha256": "7917d88e11c3943a065c426a078e987fdebaecb9fadec1bb38907909700ce839",
+        "file_size": 152917,
+        "architecture": "arm64-v8a"
+      }
+    ],
+    "mirror_release_tag": "cve-2026-98260-my-a55-1.0",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/cve-2026-98260-my-a55-1.0"
+  },
+  "codex-agent-android": {
+    "source_repository": "imperialshoprj-pixel/Codex-Agent-Android",
+    "source_release_id": 456232270,
+    "source_tag": "v1.0.0",
+    "source_published_at": "2026-11-24T02:24:42Z",
+    "synced_at": "2026-11-25T06:33:58.554352+00:00",
+    "assets": [
+      {
+        "source_asset_id": 790100448,
+        "filename": "codex-agent-v1.0.0.apk",
+        "original_filename": "codex-agent-v1.0.0.apk",
+        "sha256": "94748ea3e3b37b79772d0cd852e88330aafe9ea4cd6085b1e52929153b218a3c",
+        "file_size": 22043614,
+        "architecture": "arm64-v8a"
+      }
+    ],
+    "mirror_release_tag": "codex-agent-android-v1.0.0",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/codex-agent-android-v1.0.0"
+  },
+  "sr-voiceover-roulette": {
+    "source_repository": "assdazz/SR-Voiceover-Roulette--",
+    "source_release_id": 457724324,
+    "source_tag": "v-0.1.26-ShizukuMic",
+    "source_published_at": "2026-11-25T06:19:42Z",
+    "synced_at": "2026-11-25T06:34:02.566353+00:00",
+    "assets": [
+      {
+        "source_asset_id": 790338485,
+        "filename": "SRVR2-Android-A-0.1.26-ShizukuMic-release.apk",
+        "original_filename": "SRVR2-Android-A-0.1.26-ShizukuMic-release.apk",
+        "sha256": "a5198aed31295bf3ed779717ce142078e2781a73392b69dc49252beb0aae3064",
+        "file_size": 12786778,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "sr-voiceover-roulette-v-0.1.26-ShizukuMic",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/sr-voiceover-roulette-v-0.1.26-ShizukuMic"
+  },
+  "halo-ring": {
+    "source_repository": "MRziyi/Halo-Ring",
+    "source_release_id": 457702551,
+    "source_tag": "v1.1.7",
+    "source_published_at": "2026-11-25T05:47:01Z",
+    "synced_at": "2026-11-25T06:34:06.235123+00:00",
+    "assets": [
+      {
+        "source_asset_id": 790248708,
+        "filename": "halo-ring-rokid.apk",
+        "original_filename": "halo-ring-rokid.apk",
+        "sha256": "06a979c93297339f661104ec0f81264f1cf256b6f2eded864c90823fc0ba7ae5",
+        "file_size": 4203065,
+        "architecture": "arm64-v8a"
+      }
+    ],
+    "mirror_release_tag": "halo-ring-v1.1.7",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/halo-ring-v1.1.7"
+  },
+  "wxcacheviewer": {
+    "source_repository": "zsyo/WXCacheViewer",
+    "source_release_id": 456594139,
+    "source_tag": "v0.3.1",
+    "source_published_at": "2026-11-24T10:18:25Z",
+    "synced_at": "2026-11-25T06:34:14.827035+00:00",
+    "assets": [
+      {
+        "source_asset_id": 786685345,
+        "filename": "WXCacheViewer-0.3.1-arm64-v8a.apk",
+        "original_filename": "WXCacheViewer-0.3.1-arm64-v8a.apk",
+        "sha256": "392a25143450d1b1a85f8bc21b6e442348f284a3d07bf1894da7ebd2d1c68107",
+        "file_size": 3222959,
+        "architecture": "arm64-v8a"
+      },
+      {
+        "source_asset_id": 786685343,
+        "filename": "WXCacheViewer-0.3.1-armeabi-v7a.apk",
+        "original_filename": "WXCacheViewer-0.3.1-armeabi-v7a.apk",
+        "sha256": "359d35d76f13d115b1710bbe68734d3a977ac615a1fa383d6d82a491648552f9",
+        "file_size": 3127611,
+        "architecture": "armeabi-v7a"
+      },
+      {
+        "source_asset_id": 786685350,
+        "filename": "WXCacheViewer-0.3.1-x86.apk",
+        "original_filename": "WXCacheViewer-0.3.1-x86.apk",
+        "sha256": "3ba749eb2a56804a3d5b8abc618294bb04fc3343000aabe00ccdb8e688b60d15",
+        "file_size": 3270439,
+        "architecture": "x86"
+      },
+      {
+        "source_asset_id": 786685342,
+        "filename": "WXCacheViewer-0.3.1-x86_64.apk",
+        "original_filename": "WXCacheViewer-0.3.1-x86_64.apk",
+        "sha256": "22abfa249797e925957c12397b5971109d9badae1ba9055a3a597d92ca16964d",
+        "file_size": 3274225,
+        "architecture": "x86_64"
+      }
+    ],
+    "mirror_release_tag": "wxcacheviewer-v0.3.1",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/wxcacheviewer-v0.3.1"
+  },
+  "freeplaytoolbox": {
+    "source_repository": "xgocgo/FreePlayToolBox",
+    "source_release_id": 457710980,
+    "source_tag": "v0.13.0",
+    "source_published_at": "2026-11-25T05:59:39Z",
+    "synced_at": "2026-11-25T06:34:18.082680+00:00",
+    "assets": [
+      {
+        "source_asset_id": 790285849,
+        "filename": "FreePlayToolBox-v0.13.0.apk",
+        "original_filename": "FreePlayToolBox-v0.13.0.apk",
+        "sha256": "28b67b3d59140cb4b279a2baf608b850a71c2b7cbda63ce0e3c840d3bacd072b",
+        "file_size": 1587765,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "freeplaytoolbox-v0.13.0",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/freeplaytoolbox-v0.13.0"
+  },
+  "mfinstaller": {
+    "source_repository": "jowafieuzu/MFInstaller",
+    "source_release_id": 457727307,
+    "source_tag": "v0.8",
+    "source_published_at": "2026-11-25T06:27:12Z",
+    "synced_at": "2026-11-25T06:34:21.566569+00:00",
+    "assets": [
+      {
+        "source_asset_id": 790350516,
+        "filename": "MFInstaller.apk",
+        "original_filename": "MFInstaller.apk",
+        "sha256": "34e70660d032026e2d3955090316969c1cce9fade44c4c405c3f5a08f24b71ea",
+        "file_size": 6386649,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "mfinstaller-v0.8",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/mfinstaller-v0.8"
+  },
+  "rear-screen-status": {
+    "source_repository": "fengyinxqy/rear-screen-status",
+    "source_release_id": 457582471,
+    "source_tag": "v4.10",
+    "source_published_at": "2026-11-25T02:37:08Z",
+    "synced_at": "2026-11-25T06:34:24.604937+00:00",
+    "assets": [
+      {
+        "source_asset_id": 789760300,
+        "filename": "rear-screen-status-v4.10.apk",
+        "original_filename": "rear-screen-status-v4.10.apk",
+        "sha256": "22f1fc063fe5720e0e625dae5ce1a175bfd4f60975f42a7a215e40b7413debee",
+        "file_size": 94938,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "rear-screen-status-v4.10",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/rear-screen-status-v4.10"
+  },
+  "handler": {
+    "source_repository": "ALIEN-KB/Handler",
+    "source_release_id": 457732871,
+    "source_tag": "v1.0.1",
+    "source_published_at": "2026-11-25T06:31:22Z",
+    "synced_at": "2026-11-25T06:34:28.855295+00:00",
+    "assets": [
+      {
+        "source_asset_id": 790370884,
+        "filename": "Handler-v1.0.1.apk",
+        "original_filename": "Handler-v1.0.1.apk",
+        "sha256": "b21bec25455f687090179bd122b8cb50cc1d9c674fb4eda2b7019b1a814ee9e2",
+        "file_size": 1335850,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      },
+      {
+        "source_asset_id": 790370882,
+        "filename": "Handler.apk",
+        "original_filename": "Handler.apk",
+        "sha256": "b21bec25455f687090179bd122b8cb50cc1d9c674fb4eda2b7019b1a814ee9e2",
+        "file_size": 1335850,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "handler-v1.0.1",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/handler-v1.0.1"
+  },
+  "open-carl": {
+    "source_repository": "ones-is-lord/open-cArl",
+    "source_release_id": 457688903,
+    "source_tag": "v0.3.0",
+    "source_published_at": "2026-11-25T05:26:16Z",
+    "synced_at": "2026-11-25T06:34:32.763971+00:00",
+    "assets": [
+      {
+        "source_asset_id": 790194633,
+        "filename": "open-carl-0.3.0.apk",
+        "original_filename": "open-carl-0.3.0.apk",
+        "sha256": "d3394f783580ff81012cc4cb19ceeda7577a17c396753b98660935a776e57588",
+        "file_size": 15365789,
+        "architecture": "arm64-v8a, armeabi-v7a, x86_64"
+      }
+    ],
+    "mirror_release_tag": "open-carl-v0.3.0",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/open-carl-v0.3.0"
+  },
+  "nova": {
+    "source_repository": "aibro-ctrl/Nova",
+    "source_release_id": 456503053,
+    "source_tag": "v3.1.0",
+    "source_published_at": "2026-11-24T08:51:58Z",
+    "synced_at": "2026-11-25T06:34:38.813897+00:00",
+    "assets": [
+      {
+        "source_asset_id": 786397850,
+        "filename": "nova-3.1.0-release.apk",
+        "original_filename": "nova-3.1.0-release.apk",
+        "sha256": "8931e7dd4f15ca0ff3f2e9862a72645927836f4dfcbf224eb238500fb5f2ee97",
+        "file_size": 86664240,
+        "architecture": "arm64-v8a, armeabi-v7a"
+      }
+    ],
+    "mirror_release_tag": "nova-v3.1.0",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/nova-v3.1.0"
   }
 }
