@@ -29674,5 +29674,230 @@
     ],
     "mirror_release_tag": "xmodeenabler-v1.6.11",
     "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/xmodeenabler-v1.6.11"
+  },
+  "chargemeter-pro": {
+    "source_repository": "123xxss/ChargeMeter-Pro",
+    "source_release_id": 460774881,
+    "source_tag": "v2.10.2",
+    "source_published_at": "2026-11-27T15:27:16Z",
+    "synced_at": "2026-11-27T20:34:59.379892+00:00",
+    "assets": [
+      {
+        "source_asset_id": 801004251,
+        "filename": "WattLens-Pro-v2.10.2.apk",
+        "original_filename": "WattLens-Pro-v2.10.2.apk",
+        "sha256": "d08a1520bc418f1d2e4ba0dcbcbccd5720c2b0ff9528c87857767fa51e8b990f",
+        "file_size": 671084,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "chargemeter-pro-v2.10.2",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/chargemeter-pro-v2.10.2"
+  },
+  "shamash": {
+    "source_repository": "BackSlasher/shamash",
+    "source_release_id": 460934599,
+    "source_tag": "v0.1.23",
+    "source_published_at": "2026-11-27T18:17:49Z",
+    "synced_at": "2026-11-27T20:35:02.584674+00:00",
+    "assets": [
+      {
+        "source_asset_id": 801556491,
+        "filename": "shamash-0.1.23.apk",
+        "original_filename": "shamash-0.1.23.apk",
+        "sha256": "592aebfc6af52615f9c068a5f293f5bbed03e5a22db206d7b6b1c98ef3cf2c8a",
+        "file_size": 1857063,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "shamash-v0.1.23",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/shamash-v0.1.23"
+  },
+  "blinkers": {
+    "source_repository": "ScottishTapWater/Blinkers",
+    "source_release_id": 459765248,
+    "source_tag": "v0.1.1",
+    "source_published_at": "2026-11-26T18:17:57Z",
+    "synced_at": "2026-11-27T20:35:05.748950+00:00",
+    "assets": [
+      {
+        "source_asset_id": 797150782,
+        "filename": "Blinkers-0.1.1.apk",
+        "original_filename": "Blinkers-0.1.1.apk",
+        "sha256": "d77ca6da9148cb2838ee9a0480748dfc9e5f70372c8b0d6d83ab5c83b4a73641",
+        "file_size": 206027,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "blinkers-v0.1.1",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/blinkers-v0.1.1"
+  },
+  "nearclip": {
+    "source_repository": "ivLis-Studio/nearclip",
+    "source_release_id": 426917167,
+    "source_tag": "v1.2.0",
+    "source_published_at": "2026-10-28T16:43:02Z",
+    "synced_at": "2026-11-27T20:35:10.785364+00:00",
+    "assets": [
+      {
+        "source_asset_id": 685617032,
+        "filename": "Nearclip-Android.apk",
+        "original_filename": "Nearclip-Android.apk",
+        "sha256": "175e4f6a17c285f0851328e2b9cc88689cb65d497659db39208e0a3f5a730785",
+        "file_size": 26582737,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "nearclip-v1.2.0",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/nearclip-v1.2.0"
+  },
+  "pico-dev": {
+    "source_repository": "HassanDevo/Pico-Dev",
+    "source_release_id": 460680991,
+    "source_tag": "v1.0.0",
+    "source_published_at": "2026-11-27T14:09:34Z",
+    "synced_at": "2026-11-27T20:35:26.850572+00:00",
+    "assets": [
+      {
+        "source_asset_id": 801915700,
+        "filename": "PicoDev-v1.0.0-chroot.apk",
+        "original_filename": "PicoDev-v1.0.0-chroot.apk",
+        "sha256": "c0e38defb8cefaaf0b831c42328624818fafeb7572ce3e6e543f5dcc8279b29c",
+        "file_size": 57564416,
+        "architecture": "arm64-v8a, armeabi-v7a"
+      },
+      {
+        "source_asset_id": 801915699,
+        "filename": "PicoDev-v1.0.0-x86_64.apk",
+        "original_filename": "PicoDev-v1.0.0-x86_64.apk",
+        "sha256": "abdd4e36016624ef80abc551bfeb80e0c2a9b6297a49b028c4a3623912ed5925",
+        "file_size": 57654208,
+        "architecture": "x86_64"
+      },
+      {
+        "source_asset_id": 801915698,
+        "filename": "PicoDev-v1.0.0.apk",
+        "original_filename": "PicoDev-v1.0.0.apk",
+        "sha256": "422a968f26dc07ef377907cba6f333767fe44a93d0efecfeb19c57fefbe99039",
+        "file_size": 57564416,
+        "architecture": "arm64-v8a, armeabi-v7a"
+      }
+    ],
+    "mirror_release_tag": "pico-dev-v1.0.0",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/pico-dev-v1.0.0"
+  },
+  "cleantv-ai": {
+    "source_repository": "Dufimep/cleantv-ai",
+    "source_release_id": 460754263,
+    "source_tag": "v1.0.0",
+    "source_published_at": "2026-11-27T15:09:14Z",
+    "synced_at": "2026-11-27T20:35:30.538510+00:00",
+    "assets": [
+      {
+        "source_asset_id": 800944100,
+        "filename": "CleanTV-AI-1.0.0.apk",
+        "original_filename": "CleanTV-AI-1.0.0.apk",
+        "sha256": "709be024cd238ee7c676f1b5c6fe4019ef70c93f8e4f8991ee21f0c3e1e472d8",
+        "file_size": 2523526,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "cleantv-ai-v1.0.0",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/cleantv-ai-v1.0.0"
+  },
+  "carmonitor": {
+    "source_repository": "alex1075/carmonitor",
+    "source_release_id": 461022841,
+    "source_tag": "v0.10.1",
+    "source_published_at": "2026-11-27T20:10:07Z",
+    "synced_at": "2026-11-27T20:35:35.027891+00:00",
+    "assets": [
+      {
+        "source_asset_id": 801899356,
+        "filename": "app-release.apk",
+        "original_filename": "app-release.apk",
+        "sha256": "f6927dda8585e36c37907f68d60126820b424aacf63012075a9cdf3e418adbde",
+        "file_size": 26206465,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "carmonitor-v0.10.1",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/carmonitor-v0.10.1"
+  },
+  "turbooverlay": {
+    "source_repository": "Priyanshu75799/TurboOverlay",
+    "source_release_id": 460968550,
+    "source_tag": "v1.4",
+    "source_published_at": "2026-11-27T19:01:49Z",
+    "synced_at": "2026-11-27T20:35:38.440545+00:00",
+    "assets": [
+      {
+        "source_asset_id": 801680727,
+        "filename": "TurboOverlay_v1.4.apk",
+        "original_filename": "TurboOverlay_v1.4.apk",
+        "sha256": "73f6a98fb9ddcd84f062631d340518fc97c44869987456cd696705a561634dde",
+        "file_size": 1657836,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "turbooverlay-v1.4",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/turbooverlay-v1.4"
+  },
+  "ruza-lang": {
+    "source_repository": "notnedar/ruza-lang",
+    "source_release_id": 461018211,
+    "source_tag": "v0.9.1",
+    "source_published_at": "2026-11-27T20:03:58Z",
+    "synced_at": "2026-11-27T20:35:42.598148+00:00",
+    "assets": [
+      {
+        "source_asset_id": 801876745,
+        "filename": "RuzaLangPatcher.apk",
+        "original_filename": "RuzaLangPatcher.apk",
+        "sha256": "b68e22d1881a54959efe919ceff4afdfe2894a4fc7cd00dbb1c3b64e642c791b",
+        "file_size": 9332254,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "ruza-lang-v0.9.1",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/ruza-lang-v0.9.1"
+  },
+  "openexploit": {
+    "source_repository": "thisisunusername/OpenExploit",
+    "source_release_id": 460964035,
+    "source_tag": "v20261128",
+    "source_published_at": "2026-11-27T18:54:41Z",
+    "synced_at": "2026-11-27T20:35:48.506586+00:00",
+    "assets": [
+      {
+        "source_asset_id": 801663343,
+        "filename": "OpenExploit-v20261128.apk",
+        "original_filename": "OpenExploit-v20261128.apk",
+        "sha256": "0bb88768ccdb27a88396de8c77aab68a7da3a91ffc2a1396ffa5edc661bbc7fb",
+        "file_size": 65163689,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "openexploit-v20261128",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/openexploit-v20261128"
+  },
+  "openup": {
+    "source_repository": "thewateruser/OpenUp",
+    "source_release_id": 461005340,
+    "source_tag": "v1.0.0",
+    "source_published_at": "2026-11-27T19:47:03Z",
+    "synced_at": "2026-11-27T20:35:51.677492+00:00",
+    "assets": [
+      {
+        "source_asset_id": 801829211,
+        "filename": "OpenUp-v1.0.0.apk",
+        "original_filename": "OpenUp-v1.0.0.apk",
+        "sha256": "a2e7a40e7913381d4c53288f5b0547f3399eb271ee2f324c2f825d5d68d472da",
+        "file_size": 4261041,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "openup-v1.0.0",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/openup-v1.0.0"
   }
 }
